@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "3029"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5993"
+  },
+  "m_Name": "",
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "14410"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "12930"
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": "12533"
+  },
+  "_capacityText": {
+    "m_FileID": 0,
+    "m_PathID": "12969"
+  },
+  "_scoreText": {
+    "m_FileID": 0,
+    "m_PathID": "12628"
+  },
+  "_teamBadge": {
+    "m_FileID": 0,
+    "m_PathID": "10711"
+  },
+  "_rankBgs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "3514"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2548"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1955"
+    }
+  ],
+  "_badgeConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109490"
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "13495"
+  }
+}

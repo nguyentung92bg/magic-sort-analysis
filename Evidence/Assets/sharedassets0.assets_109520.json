@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3855"
+  },
+  "m_Name": "PopupAnimationConfig",
+  "IntroScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.949999988079071,
+        "inSlope": 0.4815612733364105,
+        "outSlope": 0.4815612733364105,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15651026368141174
+      },
+      {
+        "time": 0.45197927951812744,
+        "value": 1.034999966621399,
+        "inSlope": 0.005090962164103985,
+        "outSlope": 0.005090962164103985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.19347341358661652
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.008260903880000114,
+        "outSlope": -0.008260903880000114,
+        "weightedMode": 0,
+        "inWeight": 0.05564415454864502,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "IntroDuration": 0.15000000596046448,
+  "IntroScaleTo": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "IntroScaleFrom": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

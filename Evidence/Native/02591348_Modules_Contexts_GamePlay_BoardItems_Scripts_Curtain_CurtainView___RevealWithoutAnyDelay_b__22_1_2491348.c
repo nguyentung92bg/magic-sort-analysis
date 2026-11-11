@@ -1,0 +1,51 @@
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItems.Scripts.Curtain.CurtainView$$<RevealWithoutAnyDelay>b__22_1
+void Modules_Contexts_GamePlay_BoardItems_Scripts_Curtain_CurtainView___RevealWithoutAnyDelay_b__22_1 (Modules_Contexts_GamePlay_BoardItems_Scripts_Curtain_CurtainView_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.GamePlay.BoardItems.Scripts.Curtain.CurtainView$$<RevealWithoutAnyDelay>b__22_1
+   void 
+   Modules_Contexts_GamePlay_BoardItems_Scripts_Curtain_CurtainView___RevealWithoutAnyDelay_b__22_1
+   (Modules_Contexts_GamePlay_BoardItems_Scripts_Curtain_CurtainView_o* __this, const MethodInfo*
+   method); */
+
+void Modules_Contexts_GamePlay_BoardItems_Scripts_Curtain_CurtainView___RevealWithoutAnyDelay_b__22_1_2491348
+               (long param_1)
+
+{
+  undefined *puVar1;
+  undefined *puVar2;
+  long lVar3;
+  
+  if ((bRam0000000005c2b2ac & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_058164b8);
+    FUN_012d0dc8(PTR_DAT_057b8520);
+    FUN_012d0dc8(PTR_DAT_057916a0);
+    bRam0000000005c2b2ac = 1;
+  }
+  puVar2 = PTR_DAT_058164b8;
+  puVar1 = PTR_DAT_057b8520;
+  lVar3 = *(long *)(param_1 + 0x68);
+  if ((lVar3 != 0) && (*(long *)(lVar3 + 0x28) != 0)) {
+    UnityEngine_Animation__Play_1f7a100(*(long *)(lVar3 + 0x28),*(undefined8 *)(lVar3 + 0x38),0);
+    if (*(int *)(*(long *)puVar1 + 0xe0) == 0) {
+      thunk_FUN_0130472c();
+    }
+    lVar3 = Modules_Infrastructure_Common_Scripts_SignalNS_SignalBus__Get_object__268f620
+                      (*(undefined8 *)puVar2);
+    if (lVar3 != 0) {
+      if (*(long *)(lVar3 + 0x10) != 0) {
+                    /* WARNING: Could not recover jumptable at 0x0343d20c. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+        (**(code **)(*(long *)(*(long *)(*(long *)(*(long *)PTR_DAT_057916a0 + 0x20) + 0xc0) + 0x20)
+                    + 8))(*(long *)(lVar3 + 0x10),0xc);
+        return;
+      }
+      return;
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "14781"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3293"
+  },
+  "m_Name": "",
+  "_separator": {
+    "m_FileID": 0,
+    "m_PathID": "64029"
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "76825"
+  },
+  "_lockAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "982"
+  },
+  "_lockInstantAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "983"
+  },
+  "_unlockAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "984"
+  },
+  "_unlockInstantAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "985"
+  },
+  "_moveParticles": {
+    "m_FileID": 0,
+    "m_PathID": "82751"
+  }
+}

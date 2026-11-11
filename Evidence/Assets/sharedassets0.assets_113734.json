@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "38578"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4698"
+  },
+  "m_Name": "",
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": "97979"
+  },
+  "_greenBar": {
+    "m_FileID": 0,
+    "m_PathID": "104598"
+  },
+  "_cap": {
+    "m_FileID": 0,
+    "m_PathID": "105128"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109384"
+  }
+}

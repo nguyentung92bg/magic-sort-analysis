@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4272"
+  },
+  "m_Name": "WatchAndWinAnimationConfig",
+  "<ProgressMoveDuration>k__BackingField": 0.3700000047683716,
+  "<ProgressMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.011611174792051315,
+        "outSlope": 0.011611174792051315,
+        "weightedMode": 0,
+        "inWeight": 0.07621538639068604,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressStartTime>k__BackingField": 0.0,
+  "<GreenTickStartTime>k__BackingField": 0.3700000047683716,
+  "<GreenTickScaleDuration>k__BackingField": 0.30000001192092896,
+  "<GreenTickScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.337375164031982,
+        "outSlope": 5.337375164031982,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.053588151931762695
+      },
+      {
+        "time": 0.33179566264152527,
+        "value": 1.1388459205627441,
+        "inSlope": 1.4471428394317627,
+        "outSlope": 1.4471428394317627,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8126713633537292,
+        "value": 0.880093514919281,
+        "inSlope": 0.0510002076625824,
+        "outSlope": 0.0510002076625824,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.010825395584106445,
+        "outSlope": 0.010825395584106445,
+        "weightedMode": 0,
+        "inWeight": 0.48350176215171814,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<GreenTickStartScale>k__BackingField": 1.25,
+  "<MainStepPositions>k__BackingField": [
+    0.0,
+    1.3799999952316284,
+    3.200000047683716,
+    5.25
+  ],
+  "<StageViewIncreaseProgressTime>k__BackingField": 0.25,
+  "<StageCompletedAnimationTime>k__BackingField": 0.5,
+  "<StageStartAnimationTime>k__BackingField": 0.699999988079071,
+  "<ProgressIndicatorMoveDuration>k__BackingField": 0.3499999940395355,
+  "<ProgressIndicatorMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressTextUpdateTime>k__BackingField": 0.17499999701976776
+}

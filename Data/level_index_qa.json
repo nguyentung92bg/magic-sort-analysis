@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Default groups 4 tutorial stages under level1",
+    "Level24 displays 5 seeds + 3 DLB with conditions",
+    "Simulator retry0/1/2/4/5",
+    "Exclude last DLB seed",
+    "Force overrides r",
+    "Subtract SnitchRetryCount",
+    "Level49 random gap before cap6",
+    "Runtime level300 maps template220",
+    "LevelIndex filter and pagination",
+    "Mobile no horizontal overflow",
+    "No browser script errors"
+  ]
+}

@@ -1,0 +1,18 @@
+/* IL2CPP: Modules.Contexts.Home.WeeklyTournament.Scripts.SetWeeklyResponse$$set_StatusCode
+void Modules_Contexts_Home_WeeklyTournament_Scripts_SetWeeklyResponse__set_StatusCode (Modules_Contexts_Home_WeeklyTournament_Scripts_SetWeeklyResponse_o* __this, bool value, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.Home.WeeklyTournament.Scripts.SetWeeklyResponse$$set_StatusCode
+   void Modules_Contexts_Home_WeeklyTournament_Scripts_SetWeeklyResponse__set_StatusCode
+   (Modules_Contexts_Home_WeeklyTournament_Scripts_SetWeeklyResponse_o* __this, bool value, const
+   MethodInfo* method); */
+
+void Modules_Contexts_Home_WeeklyTournament_Scripts_SetWeeklyResponse__set_StatusCode_32d6dec
+               (long param_1,byte param_2)
+
+{
+  *(byte *)(param_1 + 0x10) = param_2 & 1;
+  return;
+}
+

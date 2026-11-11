@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26944"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3244"
+  },
+  "m_Name": "",
+  "_animationView": {
+    "m_FileID": 0,
+    "m_PathID": "111886"
+  },
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": "119042"
+  },
+  "_taptToContinueText": {
+    "m_FileID": 0,
+    "m_PathID": "112772"
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "110753"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109465"
+  },
+  "_textAnimationStartDelay": 1.0
+}

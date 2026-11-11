@@ -1,0 +1,640 @@
+{
+  "IsEnable": false,
+  "FirstLevelToShow": 100,
+  "EventType": 3,
+  "FallbackStepsForUniqueInApps": [
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1300
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv3",
+        "ProductType": 0,
+        "DollarEquivalent": 2.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 2000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv6",
+        "ProductType": 0,
+        "DollarEquivalent": 5.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 3000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv8",
+        "ProductType": 0,
+        "DollarEquivalent": 7.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 4500
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv12",
+        "ProductType": 0,
+        "DollarEquivalent": 11.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 10000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv25",
+        "ProductType": 0,
+        "DollarEquivalent": 24.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 15000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv45",
+        "ProductType": 0,
+        "DollarEquivalent": 44.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 50000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv90",
+        "ProductType": 0,
+        "DollarEquivalent": 89.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1500
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv4",
+        "ProductType": 0,
+        "DollarEquivalent": 3.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 2400
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv7",
+        "ProductType": 0,
+        "DollarEquivalent": 6.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 65000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv120",
+        "ProductType": 0,
+        "DollarEquivalent": 119.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 100000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv200",
+        "ProductType": 0,
+        "DollarEquivalent": 199.99
+      }
+    }
+  ],
+  "FallbackSteps": [
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "01:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1300
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv3",
+        "ProductType": 0,
+        "DollarEquivalent": 2.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 1,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 1
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "01:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 200
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 5,
+          "Amount": 2
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 2000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv6",
+        "ProductType": 0,
+        "DollarEquivalent": 5.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 2,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 2
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 2
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "01:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 2
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "02:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 200
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 3000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv8",
+        "ProductType": 0,
+        "DollarEquivalent": 7.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 3,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 2
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 2
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "01:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 3
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 200
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "03:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 4500
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv12",
+        "ProductType": 0,
+        "DollarEquivalent": 11.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 4,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 4
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 4
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "02:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 4
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "04:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 10000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv25",
+        "ProductType": 0,
+        "DollarEquivalent": 24.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "08:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 500
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 5,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 10
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 10
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "04:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 10
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1000
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 15000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv45",
+        "ProductType": 0,
+        "DollarEquivalent": 44.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 6,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 16
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 16
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "12:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1500
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "12:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 2500
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 16
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 50000
+        }
+      ],
+      "IAPModel": {
+        "ProductId": "sort.endlessnv90",
+        "ProductType": 0,
+        "DollarEquivalent": 89.99
+      }
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 13,
+          "ChestType": 7,
+          "Amount": 1,
+          "Rewards": [
+            {
+              "CurrencyType": 4,
+              "Amount": 30
+            },
+            {
+              "CurrencyType": 5,
+              "Amount": 30
+            },
+            {
+              "CurrencyType": 2,
+              "TimeSpan": "12:00:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 2500
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 2,
+          "TimeSpan": "1.12:00:00"
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 4000
+        }
+      ]
+    },
+    {
+      "RewardModels": [
+        {
+          "CurrencyType": 6,
+          "Amount": 30
+        }
+      ]
+    }
+  ]
+}

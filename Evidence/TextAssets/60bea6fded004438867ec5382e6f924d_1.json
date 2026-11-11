@@ -1,0 +1,541 @@
+{
+  "EventOpenLevel": 110,
+  "IsEventEnabled": false,
+  "TournamentType": 1,
+  "GaeRewardSteps": [
+    {
+      "NeededDuckCount": 1,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:01:00"
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:01:00"
+      }
+    },
+    {
+      "NeededDuckCount": 15,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 150
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 20,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:10:00"
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 15,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "NeededDuckCount": 25,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 60,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 750
+      }
+    }
+  ],
+  "GaeRewardStepsWithCollection": [
+    {
+      "NeededDuckCount": 1,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:01:00"
+      }
+    },
+    {
+      "NeededDuckCount": 8,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      }
+    },
+    {
+      "NeededDuckCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:01:00"
+      }
+    },
+    {
+      "NeededDuckCount": 8,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 15,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 150
+      }
+    },
+    {
+      "NeededDuckCount": 4,
+      "RewardModel": {
+        "CurrencyType": 16,
+        "TimeSpan": "00:05:00"
+      }
+    },
+    {
+      "NeededDuckCount": 20,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 15,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "NeededDuckCount": 10,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      }
+    },
+    {
+      "NeededDuckCount": 25,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededDuckCount": 8,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededDuckCount": 30,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededDuckCount": 20,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededDuckCount": 60,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 750
+      }
+    }
+  ],
+  "LeaderboardRewards": [
+    {
+      "CurrencyType": 13,
+      "ChestType": 13,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 12,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 500
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 11,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 250
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    }
+  ],
+  "LeaderboardRewardsWithCollection": [
+    {
+      "CurrencyType": 13,
+      "ChestType": 13,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 5
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 12,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 3
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 500
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 11,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 2
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 250
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "ChestType": 9,
+      "Rewards": [
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 50
+        }
+      ]
+    }
+  ]
+}

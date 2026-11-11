@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "8746"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2924"
+  },
+  "m_Name": "",
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "123308"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "111228"
+  },
+  "_finalRewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "35384"
+  },
+  "_claimedRewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "36286"
+  },
+  "_defaultRewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "19951"
+  },
+  "_tickContainer": {
+    "m_FileID": 0,
+    "m_PathID": "16657"
+  },
+  "_lockContainer": {
+    "m_FileID": 0,
+    "m_PathID": "40601"
+  },
+  "_shineVfxContainer": {
+    "m_FileID": 0,
+    "m_PathID": "39184"
+  },
+  "_bottomStick": {
+    "m_FileID": 0,
+    "m_PathID": "21529"
+  },
+  "_topStick": {
+    "m_FileID": 0,
+    "m_PathID": "23485"
+  },
+  "_rankBgDefault": {
+    "m_FileID": 0,
+    "m_PathID": "15944"
+  },
+  "_rankBgLocked": {
+    "m_FileID": 0,
+    "m_PathID": "7418"
+  },
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "37055"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "112197"
+  }
+}

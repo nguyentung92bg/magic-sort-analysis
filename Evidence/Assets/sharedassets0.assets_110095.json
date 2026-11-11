@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26874"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2349"
+  },
+  "m_Name": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": "119401"
+  },
+  "_descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": "119660"
+  },
+  "_revealButton": {
+    "m_FileID": 0,
+    "m_PathID": "18596"
+  },
+  "_megaShuffleButton": {
+    "m_FileID": 0,
+    "m_PathID": "22234"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "IsTournamentEnable": false,
+  "IsBannerEnable": false,
+  "FirstLevelToShow": 25,
+  "TournamentDurationInHours": 24,
+  "ShouldOpenPopUpAutomaticallyOnRankUp": true,
+  "ShowPopUpIntervalOnRankUp": 1,
+  "Rewards": {
+    "FirstRankCoinRewardAmount": 2000,
+    "SecondRankCoinRewardAmount": 1000,
+    "ThirdRankCoinRewardAmount": 500,
+    "OtherRanksCoinRewardAmount": 100,
+    "OtherRanksLimit": 10
+  },
+  "Multipliers": {
+    "Multiplier1": 1,
+    "Multiplier2": 5,
+    "Multiplier3": 10,
+    "Multiplier4": 25,
+    "Multiplier5": 100
+  }
+}

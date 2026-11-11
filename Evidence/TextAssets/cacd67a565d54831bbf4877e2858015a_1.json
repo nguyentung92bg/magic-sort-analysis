@@ -1,0 +1,72 @@
+{
+  "IsEnabled": false,
+  "EventType": 10,
+  "InitialChipCount": 5,
+  "FirstLevelToShow": 130,
+  "IsNotificationEnabled": false,
+  "StageProbabilities": [
+    {
+      "StageId": 0,
+      "WithCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      },
+      "WithoutCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      }
+    },
+    {
+      "StageId": 1,
+      "WithCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      },
+      "WithoutCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      }
+    },
+    {
+      "StageId": 2,
+      "WithCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      },
+      "WithoutCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      }
+    },
+    {
+      "StageId": 3,
+      "WithCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      },
+      "WithoutCollection": {
+        "Premium": 0.25,
+        "Basic": 0.25,
+        "Poor": 0.5
+      }
+    },
+    {
+      "StageId": 4,
+      "WithCollection": {
+        "Epic": 0.5,
+        "Elite": 0.5
+      },
+      "WithoutCollection": {
+        "Epic": 0.5,
+        "Elite": 0.5
+      }
+    }
+  ]
+}

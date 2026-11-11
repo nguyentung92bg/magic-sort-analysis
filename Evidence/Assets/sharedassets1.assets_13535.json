@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2315"
+  },
+  "m_Name": "SpriteShapeCustomControllerConfig",
+  "_distanceToBottleIfBottomWater": [
+    {
+      "SelfHeight": 1,
+      "Distance": 0.800000011920929
+    },
+    {
+      "SelfHeight": 2,
+      "Distance": 0.8600000143051147
+    },
+    {
+      "SelfHeight": 3,
+      "Distance": 1.0
+    },
+    {
+      "SelfHeight": 4,
+      "Distance": 1.100000023841858
+    },
+    {
+      "SelfHeight": 5,
+      "Distance": 1.2000000476837158
+    },
+    {
+      "SelfHeight": 6,
+      "Distance": 1.2999999523162842
+    }
+  ],
+  "_distanceToBottleIfBottomWaterFor2Unit": [
+    {
+      "SelfHeight": 1,
+      "Distance": 0.800000011920929
+    },
+    {
+      "SelfHeight": 2,
+      "Distance": 1.2000000476837158
+    },
+    {
+      "SelfHeight": 3,
+      "Distance": 1.0
+    },
+    {
+      "SelfHeight": 4,
+      "Distance": 1.100000023841858
+    },
+    {
+      "SelfHeight": 5,
+      "Distance": 1.2000000476837158
+    },
+    {
+      "SelfHeight": 6,
+      "Distance": 1.2999999523162842
+    }
+  ],
+  "_distanceToBottleIfBottomWaterFor1Unit": [
+    {
+      "SelfHeight": 1,
+      "Distance": 1.2999999523162842
+    },
+    {
+      "SelfHeight": 2,
+      "Distance": 1.2000000476837158
+    },
+    {
+      "SelfHeight": 3,
+      "Distance": 1.0
+    },
+    {
+      "SelfHeight": 4,
+      "Distance": 1.100000023841858
+    },
+    {
+      "SelfHeight": 5,
+      "Distance": 1.2000000476837158
+    },
+    {
+      "SelfHeight": 6,
+      "Distance": 1.2999999523162842
+    }
+  ]
+}

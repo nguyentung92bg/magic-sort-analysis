@@ -1,0 +1,310 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3042"
+  },
+  "m_Name": "MagicStreakTournamentLobbyButtonAnimationConfig",
+  "<MaxBackBarLength>k__BackingField": 3.5,
+  "<MaxFrontBarLength>k__BackingField": 3.299999952316284,
+  "<BackBarOpeningDuration>k__BackingField": 0.4000000059604645,
+  "<BackBarOpeningCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.047438383102417,
+        "outSlope": 2.047438383102417,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05971852317452431
+      },
+      {
+        "time": 0.7176275849342346,
+        "value": 1.042683482170105,
+        "inSlope": -0.011999804526567459,
+        "outSlope": -0.011999804526567459,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23774230480194092
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.005182201042771339,
+        "outSlope": -0.005182201042771339,
+        "weightedMode": 0,
+        "inWeight": 0.3724837005138397,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FrontBarFillDuration>k__BackingField": 0.4000000059604645,
+  "<FrontBarFillCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.7397407293319702,
+        "outSlope": 1.7397407293319702,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03351955488324165
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.4688667058944702,
+        "outSlope": 0.4688667058944702,
+        "weightedMode": 0,
+        "inWeight": 0.043761610984802246,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FillCompleteCurrencyScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.42335599660873413,
+        "outSlope": -0.42335599660873413,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0613088496029377
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.166720151901245,
+        "outSlope": 3.166720151901245,
+        "weightedMode": 0,
+        "inWeight": 0.017077326774597168,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FillCompleteCurrencyScaleDuration>k__BackingField": 0.30000001192092896,
+  "<ScaleInCurrencyDuration>k__BackingField": 0.41999998688697815,
+  "<ScaleInCurrencyCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.8014656901359558,
+        "value": 1.0598303079605103,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScaleOutCurrencyDuration>k__BackingField": 0.6499999761581421,
+  "<ScaleOutCurrencyCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.565811276435852,
+        "outSlope": -0.565811276435852,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.051423534750938416
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.3294613361358643,
+        "outSlope": 3.3294613361358643,
+        "weightedMode": 0,
+        "inWeight": 0.017676889896392822,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<NewCurrencyViewEndScale>k__BackingField": {
+    "x": 0.3499999940395355,
+    "y": 0.3499999940395355,
+    "z": 1.0
+  },
+  "<CurrencyViewSortOrder>k__BackingField": 20,
+  "<BackBarCloseCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FrontBarCloseCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BackBarCloseDuration>k__BackingField": 0.3499999940395355,
+  "<FrontBarCloseDuration>k__BackingField": 0.3499999940395355,
+  "<CurrencyViewMoveInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.047438383102417,
+        "outSlope": 2.047438383102417,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05971852317452431
+      },
+      {
+        "time": 0.6782614588737488,
+        "value": 1.0304417610168457,
+        "inSlope": -0.011999804526567459,
+        "outSlope": -0.011999804526567459,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23774230480194092
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.005182201042771339,
+        "outSlope": -0.005182201042771339,
+        "weightedMode": 0,
+        "inWeight": 0.3724837005138397,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CurrencyViewMoveOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CurrencyViewMoveOutDuration>k__BackingField": 0.3499999940395355,
+  "<CurrencyViewMoveInDuration>k__BackingField": 0.4000000059604645,
+  "<HalfPercentageForLastCurrency>k__BackingField": 0.6000000238418579,
+  "<LastRewardWaitDurationBeforeClose>k__BackingField": 0.4000000059604645,
+  "<ParticleDelay>k__BackingField": 0.20000000298023224,
+  "<FrontBarFillLeftOverDuration>k__BackingField": 0.25,
+  "<FrontBarFillLeftOverCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

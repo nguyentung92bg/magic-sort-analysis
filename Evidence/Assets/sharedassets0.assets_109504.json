@@ -1,0 +1,311 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4680"
+  },
+  "m_Name": "ToolbarConfig",
+  "<XDistanceBetweenContents>k__BackingField": 1.5,
+  "<YDistanceBetweenContents>k__BackingField": 1.2000000476837158,
+  "<ContentEndScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<JetpackContentEndScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<DoubleRowJetpackTextPosition>k__BackingField": {
+    "x": 0.0,
+    "y": -1.2000000476837158,
+    "z": 0.0
+  },
+  "<SingleRowJetpackTextPositionOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.10000000149011612,
+    "z": 0.0
+  },
+  "<PlusSignScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<XSizeFor1Content>k__BackingField": 1.75,
+  "<XSizeFor2Content>k__BackingField": 3.0999999046325684,
+  "<XSizeFor3Content>k__BackingField": 4.5,
+  "<XSizeFor4Content>k__BackingField": 6.150000095367432,
+  "<YSizeFor1Row>k__BackingField": 1.600000023841858,
+  "<YSizeFor2Row>k__BackingField": 2.6500000953674316,
+  "<PostToolBarElementsOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.10000000149011612,
+    "z": 0.0
+  },
+  "<ToolbarConstantSize>k__BackingField": {
+    "x": 6.0,
+    "y": 2.0
+  },
+  "<ToolbarConstantSizeDoubleRow>k__BackingField": {
+    "x": 6.0,
+    "y": 3.200000047683716
+  },
+  "<OutOfScreenOffsetFactor>k__BackingField": 0.20000000298023224,
+  "<ToolbarWithTextScaleEase>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.047438383102417,
+        "outSlope": 2.047438383102417,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05971852317452431
+      },
+      {
+        "time": 0.7200998663902283,
+        "value": 1.0771048069000244,
+        "inSlope": -0.011999804526567459,
+        "outSlope": -0.011999804526567459,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23774230480194092
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.005182201042771339,
+        "outSlope": -0.005182201042771339,
+        "weightedMode": 0,
+        "inWeight": 0.3724837005138397,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ToolbarWithTextScaleDuration>k__BackingField": 0.125,
+  "<StartScale>k__BackingField": 0.4000000059604645,
+  "<ToolbarTextModels>k__BackingField": [
+    {
+      "<ToolbarContext>k__BackingField": 0,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 5.5,
+        "y": 1.7000000476837158
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 3.700000047683716,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 2.0
+      },
+      "<Padding>k__BackingField": {
+        "x": 0.30000001192092896,
+        "y": 0.20000000298023224
+      }
+    },
+    {
+      "<ToolbarContext>k__BackingField": 2,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 5.5,
+        "y": 0.5
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 3.0,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 0.6499999761581421
+      },
+      "<Padding>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "<ToolbarContext>k__BackingField": 5,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 5.5,
+        "y": 1.25
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 3.700000047683716,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "<Padding>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "<ToolbarContext>k__BackingField": 7,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 5.5,
+        "y": 1.25
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 3.700000047683716,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "<Padding>k__BackingField": {
+        "x": -0.75,
+        "y": 0.3499999940395355
+      }
+    },
+    {
+      "<ToolbarContext>k__BackingField": 10,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 7.75,
+        "y": 2.0
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 6.0,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "<Padding>k__BackingField": {
+        "x": -0.75,
+        "y": 0.3499999940395355
+      }
+    },
+    {
+      "<ToolbarContext>k__BackingField": 11,
+      "<TextMinMaxSize>k__BackingField": {
+        "x": 4.0,
+        "y": 2.0
+      },
+      "<TextColor>k__BackingField": {
+        "r": 0.28301888704299927,
+        "g": 0.11080455780029297,
+        "b": 0.11080455780029297,
+        "a": 1.0
+      },
+      "<TextFontSize>k__BackingField": 3.0,
+      "<TextOffsetFromCenter>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "<Padding>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.6499999761581421
+      }
+    }
+  ],
+  "<ConstantArrowHeightDownwards>k__BackingField": 0.25,
+  "<ConstantArrowHeightUpwards>k__BackingField": 0.19499999284744263,
+  "<HorizontalBodyGapFromArrow>k__BackingField": 0.029999999329447746,
+  "<ToolbarAssetTypes>k__BackingField": [
+    {
+      "ToolbarAssetColor": 0,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "5609"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1932"
+      }
+    },
+    {
+      "ToolbarAssetColor": 1,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "5533"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1898"
+      }
+    },
+    {
+      "ToolbarAssetColor": 2,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "4612"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4301"
+      }
+    },
+    {
+      "ToolbarAssetColor": 3,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "2955"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1733"
+      }
+    },
+    {
+      "ToolbarAssetColor": 4,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "3362"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1759"
+      }
+    },
+    {
+      "ToolbarAssetColor": 5,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "4316"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4668"
+      }
+    },
+    {
+      "ToolbarAssetColor": 6,
+      "ToolbarBodySprite": {
+        "m_FileID": 0,
+        "m_PathID": "2018"
+      },
+      "ToolbarArrowSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2015"
+      }
+    }
+  ]
+}

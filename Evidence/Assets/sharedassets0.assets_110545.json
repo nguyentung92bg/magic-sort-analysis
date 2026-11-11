@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26902"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3732"
+  },
+  "m_Name": "",
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109465"
+  },
+  "_transforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "108614"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "58293"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "55181"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "70438"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "52138"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "41036"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "45275"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "70520"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "66128"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "50042"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "56608"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "106335"
+    }
+  ],
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "119319"
+  },
+  "_normalLevelKeyCountText": {
+    "m_FileID": 0,
+    "m_PathID": "113520"
+  },
+  "_hardLevelKeyCountText": {
+    "m_FileID": 0,
+    "m_PathID": "118720"
+  },
+  "_superHardLevelKeyCountText": {
+    "m_FileID": 0,
+    "m_PathID": "113413"
+  },
+  "_profileImageView": {
+    "m_FileID": 0,
+    "m_PathID": "114225"
+  }
+}

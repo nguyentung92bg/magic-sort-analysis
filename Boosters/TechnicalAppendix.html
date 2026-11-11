@@ -1,0 +1,145 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="../"><title>Magic Sort — Phụ lục — Booster</title><link rel="stylesheet" href="report.css"><link rel="stylesheet" href="magicsort.css"></head><body><a class="skip" href="#main">Đến nội dung</a><aside><a class="brand" href="LevelDesign.html"><span class="brand-icon">M</span><span>Magic Sort<small>GAME DESIGN WIKI</small></span></a><div class="nav-caption">BỘ BÁO CÁO</div><nav aria-label="Các phần báo cáo"><a href="LevelDesign.html">Game Design</a><a href="Levels/Levels.html">Chi tiết level</a><a href="Items/Items.html">Vật thể & cơ chế</a><a href="Boosters/Boosters.html">Booster</a><a href="IAP/IAP.html">IAP & cửa hàng</a><a href="Events/Events.html">Events & tiến trình</a><a href="Leaderboard/Leaderboard.html">Leaderboard</a><a href="Daily/Daily.html">Hằng ngày</a><a href="Daily/DailyChallenge.html">Daily Challenge</a><a href="Daily/DailyReward.html">Daily Reward</a><a href="Analytics/Analytics.html">Analytics</a><a href="Evidence/Evidence.html">Nguồn & độ tin cậy</a></nav><div class="aside-footer">APK 0.0.3420 · ARM 64-bit<br>Cập nhật 11.11.2026<br>Đọc hoàn toàn ngoại tuyến</div></aside><main id="main"><div class="eyebrow">MAGIC SORT / TÀI LIỆU THIẾT KẾ</div><h1>Phụ lục — Booster</h1><p class="lead">Giá mặc định, điều kiện sử dụng và các nhánh hỗ trợ trong màn.</p><div class="infobox"><strong>Phạm vi:</strong> Phân tích tĩnh APK đóng gói và IL2CPP. Các giá trị dưới đây là cấu hình có trong APK; máy chủ, A/B test và trạng thái tài khoản có thể ghi đè.</div><section><h2>Booster trong mã và kinh tế fallback</h2><div class="scroll"><table><thead><tr><th scope="col">Booster / currency enum</th><th scope="col">Giá coin</th><th scope="col">Mở khóa trong GameEconomyModel</th><th scope="col">Hành vi / nguồn</th></tr></thead><tbody><tr><td>Undo / 4</td><td>300</td><td>15</td><td>Quay lại lựa chọn trước; mã kiểm tra board đã dừng, có lịch sử và không có selection đang chạy.<p class="evidence"><a href="Evidence/Native/01f92660_Modules_Contexts_GamePlay_Boosters_Scripts_BoosterManager__CanUseUndo_1e92660.c">BoosterManager.CanUseUndo</a></p></td></tr><tr><td>Shuffle / 5</td><td>300</td><td>15</td><td>Có lựa chọn chai và nhánh Shuffle riêng; kiểm tra CanShuffle trên chai.<p class="evidence"><a href="Evidence/Native/01f92c00_Modules_Contexts_GamePlay_Boosters_Scripts_BoosterManager__CanUseShuffleBooster_1e92c00.c">BoosterManager.CanUseShuffleBooster</a></p></td></tr><tr><td>Extra Bottle / 6</td><td>900</td><td>15</td><td>Thêm dung tích/không gian qua nhánh ExtraBottle; trạng thái board vẫn là điều kiện.<p class="evidence"><a href="Evidence/Native/01f92740_Modules_Contexts_GamePlay_Boosters_Scripts_BoosterManager__CanUseExtraBottleBooster_1e92740.c">BoosterManager.CanUseExtraBottleBooster</a></p></td></tr><tr><td>Mega Shuffle / 18</td><td>900</td><td>Không có trường riêng</td><td>MegaShuffleManager xử lý trên board; không đồng nhất với Shuffle một chai.<p class="evidence"><a href="Evidence/Native/01f927b4_Modules_Contexts_GamePlay_Boosters_Scripts_BoosterManager__CanUseMegaShuffle_1e927b4.c">BoosterManager.CanUseMegaShuffle</a></p></td></tr><tr><td>Reveal / 19</td><td>900</td><td>Không có trường riêng</td><td>Nhánh Reveal và CanReveal; tách khỏi thao tác thay đổi thứ tự nước.<p class="evidence"><a href="Evidence/Native/01f92c14_Modules_Contexts_GamePlay_Boosters_Scripts_BoosterManager__CanUseRevealBooster_1e92c14.c">BoosterManager.CanUseRevealBooster</a></p></td></tr></tbody></table></div><p class="evidence"><a href="Evidence/Classes/1432.cs">BoosterManager</a> · <a href="Evidence/Classes/1443.cs">MegaShuffleManager</a> · <a href="Evidence/Classes/1424.cs">BoosterStats</a> · <a href="Evidence/Classes/5133.cs">CurrencyType</a></p></section><section><h2>Điều kiện dùng và nhịp giải cứu</h2><p><b>Quan sát native:</b> CanUseUndo yêu cầu board dừng, hủy selection đang chọn, kiểm tra HasSelectionHistory và IsSelectionRunning. Giá và số lượng trong inventory là lớp kiểm tra kinh tế riêng; chữ ký hàm CanUse không chứng minh người chơi luôn đủ tiền.</p><p><b>Nhận định thiết kế:</b> Undo giảm rủi ro thử nghiệm; Extra Bottle giảm áp lực dung tích; Reveal giảm bất định thông tin. Để so sánh hiệu quả, cần đo cùng level/seed và trạng thái blocker trước khi dùng.</p></section><section><h2>Các cấu hình liên quan</h2><h3>GameEconomyModel</h3><p class="evidence"><a href="Evidence/TextAssets/f2443c3696dd947aa8301c540051b129_1.json">JSON nguồn</a> · f2443c3696dd947aa8301c540051b129 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>refillPrice</td><td>900</td></tr><tr><td>PlayOnPrice</td><td>900</td></tr><tr><td>SecondPlayOnPrice</td><td>1900</td></tr><tr><td>ThirdSecondPlayOnPrice</td><td>2300</td></tr><tr><td>refillDurationAsMinutes</td><td>30</td></tr><tr><td>maxLifeAmount</td><td>5</td></tr><tr><td>initialCoin</td><td>1000</td></tr><tr><td>initialUndoAmount</td><td>3</td></tr><tr><td>initialShuffleAmount</td><td>3</td></tr><tr><td>initialExtraBottleAmount</td><td>3</td></tr><tr><td>initialFourthBoosterAmount</td><td>3</td></tr><tr><td>undoUnlockAtLevel</td><td>15</td></tr><tr><td>shuffleUnlockAtLevel</td><td>15</td></tr><tr><td>extraBottleUnlockAtLevel</td><td>15</td></tr><tr><td>UndoPrice</td><td>300</td></tr><tr><td>ShufflePrice</td><td>300</td></tr><tr><td>ExtraBottlePrice</td><td>900</td></tr><tr><td>MegaShufflePrice</td><td>900</td></tr><tr><td>RevealPrice</td><td>900</td></tr><tr><td>RegularLevelWinCoinReward</td><td>20</td></tr><tr><td>HardLevelWinCoinReward</td><td>60</td></tr><tr><td>SuperHardLevelWinCoinReward</td><td>100</td></tr><tr><td>IsFirstPlayOnFree</td><td>false</td></tr><tr><td>Hierarchy</td><td>10000</td></tr><tr><td>PlayOnConfigModels</td><td><details><summary>3 phần tử</summary><pre>[
+  {
+    &quot;PlayOnType&quot;: 0,
+    &quot;Price&quot;: 900
+  },
+  {
+    &quot;PlayOnType&quot;: 0,
+    &quot;Price&quot;: 1900
+  },
+  {
+    &quot;PlayOnType&quot;: 0,
+    &quot;Price&quot;: 2300
+  }
+]</pre></details></td></tr></tbody></table></div><h3>PlayOnMultipleBottlesConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/0d1a9cd1c0b34df7980d6afeb9ad144e_1.json">JSON nguồn</a> · 0d1a9cd1c0b34df7980d6afeb9ad144e / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>35</td></tr><tr><td>AddedBottleCount</td><td>2</td></tr><tr><td>LevelAttemptCount</td><td>3</td></tr></tbody></table></div><h3>PlayOnRewardedConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/802ce3a13d264fcb81576c7bedf4feb5_1.json">JSON nguồn</a> · 802ce3a13d264fcb81576c7bedf4feb5 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>StagedPlayOnLimit</td><td>5</td></tr></tbody></table></div><h3>SuperChargerConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/dec98289013e4ff4bd33cab9bb58b674_1.json">JSON nguồn</a> · dec98289013e4ff4bd33cab9bb58b674 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>Type</td><td>2</td></tr><tr><td>FirstLevelToShow</td><td>5</td></tr><tr><td>TargetLevelProgress</td><td>0</td></tr><tr><td>ChargeWithMove</td><td>false</td></tr><tr><td>CanIncreaseHealth</td><td>false</td></tr><tr><td>ShouldHaveInitialCharge</td><td>false</td></tr><tr><td>ChargeMatchCount</td><td><details><summary>1 phần tử</summary><pre>[
+  1
+]</pre></details></td></tr><tr><td>BestSortMaxEffectedBottleCap</td><td>4</td></tr><tr><td>BestSortBottleCapByCandidateCount</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;7&quot;: 4
+}</pre></details></td></tr></tbody></table></div><h3>SnitchConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/2678d73bd91046b0b672d38adaa410ff_1.json">JSON nguồn</a> · 2678d73bd91046b0b672d38adaa410ff / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>290</td></tr><tr><td>TargetLevelProgress</td><td>10</td></tr><tr><td>IsFallbackPremiumHitActive</td><td>true</td></tr><tr><td>IsWaterColorChangeActive</td><td>true</td></tr></tbody></table></div><h3>PreGameConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/742710d364b74a7d989cc1677ceff421_1.json">JSON nguồn</a> · 742710d364b74a7d989cc1677ceff421 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>100</td></tr><tr><td>MultiplierConfig</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;IsEnabled&quot;: false,
+  &quot;IsTagEnabled&quot;: true,
+  &quot;FirstLevelToShow&quot;: 100,
+  &quot;RegularMultiplierConfig&quot;: {
+    &quot;IsEnabled&quot;: false,
+    &quot;Multipliers&quot;: [
+      1,
+      2,
+      3
+    ],
+    &quot;DefaultMultiplier&quot;: 1,
+    &quot;MultiplierPlayOnPrices&quot;: {
+      &quot;1&quot;: [
+        900,
+        1900,
+        2300
+      ],
+      &quot;2&quot;: [
+        1900,
+        2300,
+        2900
+      ],
+      &quot;3&quot;: [
+        2300,
+        2900,
+        3900
+      ]
+    },
+    &quot;MultiplierExtraBottlePrice&quot;: {
+      &quot;1&quot;: 900,
+      &quot;2&quot;: 1350,
+      &quot;3&quot;: 1800
+    },
+    &quot;MultiplierShufflePrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    },
+    &quot;MultiplierUndoPrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    }
+  },
+  &quot;HardMultiplierConfig&quot;: {
+    &quot;IsEnabled&quot;: false,
+    &quot;Multipliers&quot;: [
+      1,
+      2,
+      3
+    ],
+    &quot;DefaultMultiplier&quot;: 3,
+    &quot;MultiplierPlayOnPrices&quot;: {
+      &quot;1&quot;: [
+        900,
+        1900,
+        2300
+      ],
+      &quot;2&quot;: [
+        1350,
+        2350,
+        2800
+      ],
+      &quot;3&quot;: [
+        1800,
+        2800,
+        3250
+      ]
+    },
+    &quot;MultiplierExtraBottlePrice&quot;: {
+      &quot;1&quot;: 900,
+      &quot;2&quot;: 1350,
+      &quot;3&quot;: 1800
+    },
+    &quot;MultiplierShufflePrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    },
+    &quot;MultiplierUndoPrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    }
+  },
+  &quot;SuperHardMultiplierConfig&quot;: {
+    &quot;IsEnabled&quot;: false,
+    &quot;Multipliers&quot;: [
+      1,
+      2,
+      3
+    ],
+    &quot;DefaultMultiplier&quot;: 3,
+    &quot;MultiplierPlayOnPrices&quot;: {
+      &quot;1&quot;: [
+        900,
+        1900,
+        2300
+      ],
+      &quot;2&quot;: [
+        1350,
+        2350,
+        2800
+      ],
+      &quot;3&quot;: [
+        1800,
+        2800,
+        3250
+      ]
+    },
+    &quot;MultiplierExtraBottlePrice&quot;: {
+      &quot;1&quot;: 900,
+      &quot;2&quot;: 1350,
+      &quot;3&quot;: 1800
+    },
+    &quot;MultiplierShufflePrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    },
+    &quot;MultiplierUndoPrice&quot;: {
+      &quot;1&quot;: 300,
+      &quot;2&quot;: 600,
+      &quot;3&quot;: 900
+    }
+  }
+}</pre></details></td></tr></tbody></table></div></section><footer>Magic Sort · Báo cáo 11/11/2026 · Dữ liệu cấu hình, quan sát mã và nhận định thiết kế được ghi riêng.</footer></main></body></html>

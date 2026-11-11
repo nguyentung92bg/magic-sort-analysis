@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "checks": [
+    "11 mechanics have original APK sprites",
+    "17 images loaded successfully",
+    "24 ColorId rows, 20 asset swatches, 4 special codes without guessed HEX",
+    "All 20 HEX values match palette.json",
+    "Mobile no viewport overflow",
+    "Level preview has CI legend and full-table link",
+    "Reveal updates legend without duplication",
+    "No browser script errors"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "20231"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1693"
+  },
+  "m_Name": "",
+  "_backGround": {
+    "m_FileID": 0,
+    "m_PathID": "97933"
+  },
+  "_bottomText": {
+    "m_FileID": 0,
+    "m_PathID": "114773"
+  },
+  "_coinAmountText": {
+    "m_FileID": 0,
+    "m_PathID": "113845"
+  },
+  "_layoutTransformParents": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "53099"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53078"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53084"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53095"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53082"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53090"
+    }
+  ],
+  "_bulkRewardCurrencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109296"
+  },
+  "_defaultCurrencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109300"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109295"
+  },
+  "_textSequenceAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "113680"
+  },
+  "_duplicatedStarsMoveTransform": {
+    "m_FileID": 0,
+    "m_PathID": "57836"
+  },
+  "_collectionAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109349"
+  },
+  "_continueButton": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_continueButtonPrefab": {
+    "m_FileID": 0,
+    "m_PathID": "115229"
+  },
+  "_instantlyOpenCardPackParticles": {
+    "m_FileID": 0,
+    "m_PathID": "83218"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4522"
+  },
+  "m_Name": "BottleAnimationConfigFor4UnitVar0",
+  "_riseHeight": 1.850000023841858,
+  "_heightOffset": 0.0,
+  "_moveToTargetAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.30294525623321533,
+        "outSlope": 0.30294525623321533,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0833333358168602
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.8176722526550293,
+        "outSlope": 1.8176722526550293,
+        "weightedMode": 0,
+        "inWeight": 0.03549385070800781,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_moveToTargetSpeed": 70.0,
+  "_moveToTargetMinDuration": 0.20000000298023224,
+  "_moveToInitialPositionSpeed": 120.0,
+  "_moveToInitialPositionMinDuration": 0.30000001192092896,
+  "_animationCurveBetweenStep1AndStep2": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.49896812438964844,
+        "outSlope": -0.49896812438964844,
+        "weightedMode": 0,
+        "inWeight": 0.07870370149612427,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_moveToInitialPositionAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_rotateWhenToMoveInitialPositionAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_applyResultForTargetAt": 0.20000000298023224,
+  "_differentColorEllipseFadeInDuration": 0.30000001192092896,
+  "_waterLineDuration": 0.6000000238418579,
+  "_riseOffset": 0.3499999940395355,
+  "_riseBottleDuration": 0.5,
+  "_extraRiseBottleDurationByWaterDropHeight": 0.15000000596046448,
+  "_riseAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -3.4385807514190674,
+        "outSlope": -3.4385807514190674,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.026234567165374756
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": 6.956425189971924,
+        "outSlope": 6.956425189971924,
+        "weightedMode": 0,
+        "inWeight": 0.013888895511627197,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_bottleSelectionAnimationDuration": 0.09000000357627869,
+  "_bottleSelectionAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_bottleSelectionAnimationHeight": 1.0,
+  "_bottleSelectionAnimationHeightFor3Row": 0.699999988079071,
+  "_bottleDeselectionAnimationDuration": 0.09000000357627869,
+  "_bottleDeselectionAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_rotationsByHeights": [
+    {
+      "EmptyCell": 0,
+      "Rotation": 35.0
+    },
+    {
+      "EmptyCell": 1,
+      "Rotation": 65.0
+    },
+    {
+      "EmptyCell": 2,
+      "Rotation": 80.0
+    },
+    {
+      "EmptyCell": 3,
+      "Rotation": 85.0
+    },
+    {
+      "EmptyCell": 4,
+      "Rotation": 100.0
+    },
+    {
+      "EmptyCell": 5,
+      "Rotation": 105.0
+    }
+  ],
+  "_rotationsByHeightsFor2UnitBottle": [
+    {
+      "EmptyCell": 0,
+      "Rotation": 45.0
+    },
+    {
+      "EmptyCell": 1,
+      "Rotation": 60.0
+    },
+    {
+      "EmptyCell": 2,
+      "Rotation": 105.0
+    }
+  ],
+  "_rotationsByHeightsFor1UnitBottle": [
+    {
+      "EmptyCell": 0,
+      "Rotation": 60.0
+    },
+    {
+      "EmptyCell": 1,
+      "Rotation": 105.0
+    }
+  ],
+  "_bottleStopperOffset": {
+    "x": 0.009999999776482582,
+    "y": 4.71999979019165,
+    "z": 0.0
+  },
+  "_clayViewPositionOffset": 0.0,
+  "_plasterViewPositionOffset": 0.0,
+  "_curtainViewPositionOffset": 0.20000000298023224,
+  "_questionMarkPositionOffset": 0.0,
+  "_tagViewOffsetY": 4.650000095367432,
+  "_iceViewOffsetY": 0.4000000059604645,
+  "_generatorViewOffsetY": -0.14000000059604645,
+  "_woodboxViewOffsetY": 2.5,
+  "_woodboxKeyViewOffsetY": 0.5,
+  "_carpetViewOffsetY": 2.5,
+  "_distanceToBottomOfTheBottleIfBottomWaterForKey": [
+    {
+      "SelfHeight": 1,
+      "Distance": 0.699999988079071
+    },
+    {
+      "SelfHeight": 2,
+      "Distance": 0.8999999761581421
+    },
+    {
+      "SelfHeight": 3,
+      "Distance": 1.600000023841858
+    }
+  ],
+  "_dailyBottleDeselectStretchInDelay": 0.09000000357627869,
+  "_bottleStretchOutOnSelectTimes": [
+    0.10000000149011612,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.07999999821186066,
+    0.05999999865889549,
+    0.05999999865889549,
+    0.05000000074505806,
+    0.04500000178813934
+  ],
+  "_dailyBlobMinYPositionOffset": 1.0,
+  "_dailyDeselectRiseWaterTime": 0.15000000596046448,
+  "_dailyQuestionMarkPositions": []
+}

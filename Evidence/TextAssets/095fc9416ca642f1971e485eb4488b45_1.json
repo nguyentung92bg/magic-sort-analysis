@@ -1,0 +1,27 @@
+{
+  "IsEnable": true,
+  "IsNotificationEnabled": true,
+  "FirstLevelToShow": 30,
+  "DailyLevelRewardModel": {
+    "CurrencyType": 1,
+    "Amount": 10
+  },
+  "ProgressBarRewards": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 2,
+      "TimeSpan": "00:30:00"
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 2500
+    }
+  ]
+}

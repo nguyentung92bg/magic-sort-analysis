@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4608"
+  },
+  "m_Name": "WaterDailyRiseConfig",
+  "<DailyWaterRiseCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.279098033905029,
+        "outSlope": 4.279098033905029,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.029278544709086418
+      },
+      {
+        "time": 0.6366607546806335,
+        "value": 1.0465863943099976,
+        "inSlope": 0.007706137839704752,
+        "outSlope": 0.007706137839704752,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.20009878277778625
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DailyRiseMinMaxDuration>k__BackingField": {
+    "x": 0.2199999988079071,
+    "y": 0.33000001311302185
+  }
+}

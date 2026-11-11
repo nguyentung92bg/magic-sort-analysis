@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1003"
+  },
+  "m_Name": "RisingEclipseAnimationStart",
+  "_speed": 25.0,
+  "_transitionStartDuration": 0.10000000149011612,
+  "_transitionEndEndDuration": 0.10000000149011612,
+  "_transitionEndDurationDecreased": 0.0,
+  "_aboveWaveLength": 1.0,
+  "_aboveWaveHeightStart": 0.0,
+  "_aboveWaveHeightEnd": 0.019999999552965164,
+  "_aboveWaveDirectionX": 0.20000000298023224,
+  "_aboveWaveDirectionY": 0.5099999904632568,
+  "_belowWaveLength": 0.44999998807907104,
+  "_belowWaveHeightStart": 0.0,
+  "_belowWaveHeightEnd": 0.0,
+  "_belowWaveDirectionX": 0.0,
+  "_belowWaveDirectionY": 0.10000000149011612,
+  "_belowWaveCustomTime": -1.4800000190734863,
+  "_belowAditionalWaveHeight": -0.12999999523162842,
+  "_customFirstHalfDuration": 0.0,
+  "_customSecondHalfDuration": 0.0
+}

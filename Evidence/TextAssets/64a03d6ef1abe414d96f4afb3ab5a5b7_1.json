@@ -1,0 +1,46 @@
+{
+  "name": "sdk-defaults",
+  "batchSettings": {
+    "flushIntervalMs": 30000,
+    "maxBytes": 65536,
+    "maxItems": 128,
+    "earlyFlushIntervalMs": 2000,
+    "earlyFlushDurationMs": 10000,
+    "preInitBufferMaxEvents": 1000
+  },
+  "retrySettings": {
+    "minDelayMs": 5000,
+    "backoffBaseMs": 50,
+    "backoffMaxMs": 5000,
+    "backoffJitter": 0.3
+  },
+  "networkSettings": {
+    "httpTimeoutMs": 15000
+  },
+  "journalSettings": {
+    "maxBytesPerFile": 1048576,
+    "maxTotalBytes": 2097152,
+    "fsyncEachDrain": true
+  },
+  "sessionSettings": {
+    "timeoutS": 1800
+  },
+  "diagnosticsSettings": {
+    "enabled": true,
+    "logLevel": "SDK_LOG_LEVEL_DEBUG",
+    "maxReportsPerCode": 3,
+    "maxReportsPerProcess": 40,
+    "maxTextLength": 512,
+    "cloudLoggerTimeoutMs": 5000,
+    "cloudLoggerRetries": 1,
+    "journalHealthSampleRate": 0.01,
+    "startupPingEnabled": true
+  },
+  "clockSettings": {
+    "serverClockEnabled": true,
+    "maxOffsetMs": 86400000
+  },
+  "shutdownSettings": {
+    "flushTimeoutMs": 2000
+  }
+}

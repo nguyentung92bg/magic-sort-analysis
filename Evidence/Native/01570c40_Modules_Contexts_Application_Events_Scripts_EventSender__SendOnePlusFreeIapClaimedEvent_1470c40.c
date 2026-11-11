@@ -1,0 +1,117 @@
+/* IL2CPP: Modules.Contexts.Application.Events.Scripts.EventSender$$SendOnePlusFreeIapClaimedEvent
+void Modules_Contexts_Application_Events_Scripts_EventSender__SendOnePlusFreeIapClaimedEvent (Modules_Contexts_Application_Events_Scripts_EventSender_o* __this, int32_t source, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Removing unreachable block (ram,0x01547e70) */
+/* WARNING: Removing unreachable block (ram,0x01547e80) */
+/* WARNING: Removing unreachable block (ram,0x01547e88) */
+/* WARNING: Removing unreachable block (ram,0x01547eb0) */
+/* WARNING: Removing unreachable block (ram,0x01547e94) */
+/* WARNING: Removing unreachable block (ram,0x01547ea0) */
+/* WARNING: Removing unreachable block (ram,0x01547ebc) */
+/* IL2CPP: Modules.Contexts.Application.Events.Scripts.EventSender$$SendOnePlusFreeIapClaimedEvent
+   void Modules_Contexts_Application_Events_Scripts_EventSender__SendOnePlusFreeIapClaimedEvent
+   (Modules_Contexts_Application_Events_Scripts_EventSender_o* __this, int32_t source, const
+   MethodInfo* method); */
+
+void Modules_Contexts_Application_Events_Scripts_EventSender__SendOnePlusFreeIapClaimedEvent_1470c40
+               (long param_1,undefined4 param_2)
+
+{
+  undefined *puVar1;
+  undefined *puVar2;
+  undefined *puVar3;
+  undefined *puVar4;
+  ulong uVar5;
+  long lVar6;
+  long lVar7;
+  undefined8 uVar8;
+  undefined8 uVar9;
+  undefined8 uVar10;
+  undefined8 uStack_48;
+  
+  puVar1 = PTR_DAT_057c8a60;
+                    /* try { // try from 01570c44 to 01670c6b has its CatchHandler @ 01570c8c */
+                    /* try { // try from 01570c6c to 01670c77 has its CatchHandler @ 015706bc */
+  if ((bRam0000000005c237ea & 1) == 0) {
+                    /* try { // try from 01570c78 to 01670c7f has its CatchHandler @ 01570c8c */
+    FUN_012d0dc8(PTR_DAT_0575f9f0);
+                    /* catch() { ... } // from try @ 01570bf8 with catch @ 01570c80 */
+    FUN_012d0dc8(PTR_DAT_057c8a60);
+                    /* catch() { ... } // from try @ 01570c44 with catch @ 01570c8c
+                       catch() { ... } // from try @ 01570c78 with catch @ 01570c8c */
+                    /* try { // try from 01570c90 to 01670e2b has its CatchHandler @ 01570c90
+                       catch() { ... } // from try @ 01570c90 with catch @ 01570c90
+                       catch() { ... } // from try @ 01570fd0 with catch @ 01570c90
+                       catch() { ... } // from try @ 015710f0 with catch @ 01570c90
+                       catch() { ... } // from try @ 015711a8 with catch @ 01570c90
+                       catch() { ... } // from try @ 01571258 with catch @ 01570c90 */
+    FUN_012d0dc8(PTR_DAT_0578d4b0);
+    FUN_012d0dc8(PTR_DAT_057ab1a0);
+    FUN_012d0dc8(PTR_DAT_0575a580);
+    FUN_012d0dc8(PTR_DAT_05797538);
+    bRam0000000005c237ea = 1;
+  }
+  lVar6 = Modules_Contexts_Application_Events_Scripts_EventSender__GetOnePlusFreeOfferService_1470674
+                    ();
+  lVar7 = thunk_FUN_01320e48(*(undefined8 *)puVar1);
+  if ((lVar7 == 0) ||
+     (Modules_Contexts_Application_Events_Scripts_Event___ctor_1cc626c
+                (lVar7,*(undefined8 *)PTR_DAT_05797538,0), puVar4 = PTR_DAT_057ab1a0,
+     puVar3 = PTR_DAT_0578d4b0, puVar2 = PTR_DAT_0575f9f0, puVar1 = PTR_DAT_0575a580, lVar6 == 0)) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+  uVar8 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService__GetSegment_358d808
+                    (lVar6,0);
+  Modules_Contexts_Application_Events_Scripts_Event__AddData_1cc6310
+            (lVar7,*(undefined8 *)puVar3,uVar8,0);
+  uVar8 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_UI_OnePlusFreeOfferPopupImpressionSourceExtensions__ToAnalyticsValue_358fbd4
+                    (param_2,0);
+  Modules_Contexts_Application_Events_Scripts_Event__AddData_1cc6310
+            (lVar7,*(undefined8 *)puVar4,uVar8,0);
+  uVar8 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService__GetEventId_358d708
+                    (lVar6,0);
+  Modules_Contexts_Application_Events_Scripts_Event__AddData_1cc6310
+            (lVar7,*(undefined8 *)puVar1,uVar8,0);
+  uVar8 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService__GetSegment_358d808
+                    (lVar6,0);
+  uVar9 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_UI_OnePlusFreeOfferPopupImpressionSourceExtensions__ToAnalyticsValue_358fbd4
+                    (param_2,0);
+  uVar10 = Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService__GetEventId_358d708
+                     (lVar6,0);
+  uVar8 = GrandSDK_Models_MagicSort_Events_AnalyticsEvents__OnePlusFreeIapClaimed_2dbea9c
+                    (uVar8,uVar9,uVar10,0);
+  if (*(int *)(*(long *)puVar2 + 0xe0) == 0) {
+    thunk_FUN_0130472c(*(long *)puVar2);
+  }
+  GrandSDK_Analytics_Analytics__Track_2b38d30(uVar8,0);
+  if ((bRam0000000005c2373b & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_057f8670);
+    FUN_012d0dc8(PTR_DAT_0576fba0);
+    FUN_012d0dc8(PTR_DAT_057fde78);
+    FUN_012d0dc8(PTR_DAT_0577a090);
+    FUN_012d0dc8(PTR_DAT_0581bc50);
+    bRam0000000005c2373b = 1;
+  }
+  puVar2 = PTR_DAT_057f8670;
+  puVar1 = PTR_DAT_0576fba0;
+  uStack_48 = 0;
+  if (*(long *)(param_1 + 0x10) != 0) {
+    System_Collections_Generic_List_object___GetEnumerator_21fd5c8
+              (&uStack_48,*(long *)(param_1 + 0x10),*(undefined8 *)PTR_DAT_0581bc50);
+    uVar5 = System_Collections_Generic_List_Enumerator_object___MoveNext_3ea89a0
+                      (&uStack_48,*(undefined8 *)puVar1);
+    if ((uVar5 & 1) != 0) {
+                    /* WARNING: Subroutine does not return */
+      FUN_012d0ef0();
+    }
+    System_Collections_Generic_List_Enumerator_object___Dispose_3ea899c
+              (&uStack_48,*(undefined8 *)puVar2);
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "8150"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1433"
+  },
+  "m_Name": "",
+  "_rewardRoot": {
+    "m_FileID": 0,
+    "m_PathID": "51372"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109435"
+  },
+  "_spacing": 1.600000023841858,
+  "_rewardScale": 1.0,
+  "_setSortingOrder": 1,
+  "_sortingOrder": 4,
+  "_delay": 0.4000000059604645,
+  "_shineFrom": 0.8999999761581421,
+  "_shineTo": 2.0,
+  "_shineStagger": 0.15000000596046448,
+  "_collectionPackVisualsConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109350"
+  }
+}

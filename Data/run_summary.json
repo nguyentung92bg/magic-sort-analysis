@@ -1,0 +1,23 @@
+{
+  "source": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Magic Sort",
+  "version": "0.0.3420",
+  "package": "com.grandgames.magicsort",
+  "architecture": "arm64-v8a",
+  "unity": "2021.3.57f2",
+  "metadataInput": 31,
+  "dumperBinaryVersion": 29,
+  "assemblies": 128,
+  "types": 21812,
+  "assemblyCSharpTypes": 5698,
+  "nativeTotal": 247811,
+  "nativeExported": 247799,
+  "nativeFailed": 12,
+  "focusMethods": 17178,
+  "scriptCounts": {
+    "ScriptMethod": 247811,
+    "ScriptString": 29743,
+    "ScriptMetadata": 19904,
+    "ScriptMetadataMethod": 50584,
+    "Addresses": 269649
+  }
+}

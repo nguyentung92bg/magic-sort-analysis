@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26885"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1685"
+  },
+  "m_Name": "",
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109465"
+  },
+  "_transforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "108613"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "58291"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "55178"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "70435"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "52136"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "41034"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "45272"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "70516"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "66127"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "106331"
+    }
+  ],
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "119315"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6387"
+  },
+  "m_Name": "TeamQuestLeaderboardFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 0,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "26375"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "15265"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

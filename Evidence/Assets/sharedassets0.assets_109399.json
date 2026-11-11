@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5249"
+  },
+  "m_Name": "MagicStreakTournamentLeaderboardFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "35949"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

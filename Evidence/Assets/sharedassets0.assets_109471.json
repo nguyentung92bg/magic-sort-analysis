@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "615"
+  },
+  "m_Name": "StrikeShowPromotionAnimationConfig",
+  "<StepOverlap>k__BackingField": 0.10000000149011612,
+  "<BackgroundFadeEndValue>k__BackingField": 0.8799999952316284,
+  "<BackgroundFadeDuration>k__BackingField": 0.25,
+  "<InfoTextScaleDuration>k__BackingField": 0.25,
+  "<TierTextAnimationWait>k__BackingField": 0.6000000238418579,
+  "<LeagueScaleDuration>k__BackingField": 0.30000001192092896,
+  "<PromotionShrinkDuration>k__BackingField": 0.25,
+  "<PromotionPopDuration>k__BackingField": 0.3499999940395355,
+  "<PromotionParticleLead>k__BackingField": 0.0,
+  "<RewardsTextScaleDuration>k__BackingField": 0.25,
+  "<RewardStartScale>k__BackingField": 0.30000001192092896,
+  "<RewardStartAlpha>k__BackingField": 0.0,
+  "<RewardScaleDuration>k__BackingField": 0.25,
+  "<RewardScaleInterval>k__BackingField": 0.10000000149011612,
+  "<TapToClaimScaleDuration>k__BackingField": 0.25
+}

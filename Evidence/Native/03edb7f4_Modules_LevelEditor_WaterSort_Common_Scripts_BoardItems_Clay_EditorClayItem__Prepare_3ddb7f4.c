@@ -1,0 +1,64 @@
+/* IL2CPP: Modules.LevelEditor.WaterSort.Common.Scripts.BoardItems.Clay.EditorClayItem$$Prepare
+void Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayItem__Prepare (Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayItem_o* __this, UnityEngine_Vector3_o localPosition, Modules_Infrastructure_UI_Common_Scripts_Sorting_o sorting, Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Bottle_EditorBottleItem_o* belongingBottle, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.LevelEditor.WaterSort.Common.Scripts.BoardItems.Clay.EditorClayItem$$Prepare
+   void Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayItem__Prepare
+   (Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayItem_o* __this,
+   UnityEngine_Vector3_o localPosition, Modules_Infrastructure_UI_Common_Scripts_Sorting_o sorting,
+   Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Bottle_EditorBottleItem_o*
+   belongingBottle, const MethodInfo* method); */
+
+void Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayItem__Prepare_3ddb7f4
+               (undefined8 param_1,undefined8 param_2,undefined8 param_3,long param_4,
+               undefined8 param_5,undefined8 param_6,undefined8 param_7)
+
+{
+  undefined8 *puVar1;
+  long lVar2;
+  ulong uVar3;
+  int *piVar4;
+  long *plVar5;
+  
+                    /* try { // try from 03edb800 to 03fdb81f has its CatchHandler @ 03edb8c4 */
+  *(undefined8 *)(param_4 + 0x38) = param_7;
+  FUN_012d0d74((undefined8 *)(param_4 + 0x38),param_7);
+  if (*(long *)(param_4 + 0x30) == 0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+                    /* try { // try from 03edb844 to 03fdb84b has its CatchHandler @ 03edb8d8 */
+  Modules_LevelEditor_WaterSort_Common_Scripts_BoardItems_Clay_EditorClayView__Prepare_3ddde54
+            (*(long *)(param_4 + 0x30),param_5,param_6);
+                    /* try { // try from 03edb84c to 03fdb897 has its CatchHandler @ 03edb6a8 */
+  if ((bRam0000000005c33e43 & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_0575a2d8,0);
+    bRam0000000005c33e43 = 1;
+  }
+  if ((*(long *)(param_4 + 0x20) == 0) ||
+     (plVar5 = *(long **)(*(long *)(param_4 + 0x20) + 0x18), plVar5 == (long *)0x0)) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+  lVar2 = *plVar5;
+  uVar3 = (ulong)*(ushort *)(lVar2 + 0x12a);
+  if (uVar3 != 0) {
+    piVar4 = (int *)(*(long *)(lVar2 + 0xb0) + 8);
+    do {
+      if (*(long *)(piVar4 + -2) == *(long *)PTR_DAT_0575a2d8) {
+        puVar1 = (undefined8 *)(lVar2 + (long)(*piVar4 + 5) * 0x10 + 0x138);
+        goto LAB_038acb70;
+      }
+      uVar3 = uVar3 - 1;
+      piVar4 = piVar4 + 4;
+    } while (uVar3 != 0);
+  }
+  puVar1 = (undefined8 *)FUN_0131971c(plVar5,*(long *)PTR_DAT_0575a2d8,5);
+LAB_038acb70:
+                    /* WARNING: Could not recover jumptable at 0x038acb94. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+  (*(code *)*puVar1)(param_1,param_2,param_3,plVar5,puVar1[1]);
+  return;
+}
+

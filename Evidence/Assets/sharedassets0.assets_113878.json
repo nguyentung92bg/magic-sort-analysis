@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "34494"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5992"
+  },
+  "m_Name": "",
+  "_spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "100940"
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": "62220"
+  },
+  "_pivot": {
+    "m_FileID": 0,
+    "m_PathID": "71855"
+  },
+  "_elo": 1,
+  "_particleSystem": {
+    "m_FileID": 0,
+    "m_PathID": "80165"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "12655"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6941"
+  },
+  "m_Name": "",
+  "_trailSFX": {
+    "m_FileID": 0,
+    "m_PathID": "61668"
+  },
+  "_revealSFX": {
+    "m_FileID": 0,
+    "m_PathID": "83788"
+  }
+}

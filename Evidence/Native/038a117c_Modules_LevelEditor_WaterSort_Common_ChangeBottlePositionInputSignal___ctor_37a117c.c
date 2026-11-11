@@ -1,0 +1,16 @@
+/* IL2CPP: Modules.LevelEditor.WaterSort.Common.ChangeBottlePositionInputSignal$$.ctor
+void Modules_LevelEditor_WaterSort_Common_ChangeBottlePositionInputSignal___ctor (Modules_LevelEditor_WaterSort_Common_ChangeBottlePositionInputSignal_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.LevelEditor.WaterSort.Common.ChangeBottlePositionInputSignal$$.ctor
+   void Modules_LevelEditor_WaterSort_Common_ChangeBottlePositionInputSignal___ctor
+   (Modules_LevelEditor_WaterSort_Common_ChangeBottlePositionInputSignal_o* __this, const
+   MethodInfo* method); */
+
+void Modules_LevelEditor_WaterSort_Common_ChangeBottlePositionInputSignal___ctor_37a117c(void)
+
+{
+  return;
+}
+

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "16599"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6747"
+  },
+  "m_Name": "",
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "122003"
+  },
+  "_scrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "110712"
+  },
+  "_viewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "117075"
+  }
+}

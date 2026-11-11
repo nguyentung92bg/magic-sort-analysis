@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5920"
+  },
+  "m_Name": "HorizontalOfferInertialMovementConfig",
+  "_decreaseRatio": 0.9399999976158142,
+  "_stopThreshold": 0.009999999776482582,
+  "_rubberBack": 1.2000000476837158,
+  "_maxScrollSpeed": 3.200000047683716
+}

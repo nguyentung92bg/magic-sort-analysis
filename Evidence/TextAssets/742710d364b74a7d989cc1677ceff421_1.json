@@ -1,0 +1,132 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 100,
+  "MultiplierConfig": {
+    "IsEnabled": false,
+    "IsTagEnabled": true,
+    "FirstLevelToShow": 100,
+    "RegularMultiplierConfig": {
+      "IsEnabled": false,
+      "Multipliers": [
+        1,
+        2,
+        3
+      ],
+      "DefaultMultiplier": 1,
+      "MultiplierPlayOnPrices": {
+        "1": [
+          900,
+          1900,
+          2300
+        ],
+        "2": [
+          1900,
+          2300,
+          2900
+        ],
+        "3": [
+          2300,
+          2900,
+          3900
+        ]
+      },
+      "MultiplierExtraBottlePrice": {
+        "1": 900,
+        "2": 1350,
+        "3": 1800
+      },
+      "MultiplierShufflePrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      },
+      "MultiplierUndoPrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      }
+    },
+    "HardMultiplierConfig": {
+      "IsEnabled": false,
+      "Multipliers": [
+        1,
+        2,
+        3
+      ],
+      "DefaultMultiplier": 3,
+      "MultiplierPlayOnPrices": {
+        "1": [
+          900,
+          1900,
+          2300
+        ],
+        "2": [
+          1350,
+          2350,
+          2800
+        ],
+        "3": [
+          1800,
+          2800,
+          3250
+        ]
+      },
+      "MultiplierExtraBottlePrice": {
+        "1": 900,
+        "2": 1350,
+        "3": 1800
+      },
+      "MultiplierShufflePrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      },
+      "MultiplierUndoPrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      }
+    },
+    "SuperHardMultiplierConfig": {
+      "IsEnabled": false,
+      "Multipliers": [
+        1,
+        2,
+        3
+      ],
+      "DefaultMultiplier": 3,
+      "MultiplierPlayOnPrices": {
+        "1": [
+          900,
+          1900,
+          2300
+        ],
+        "2": [
+          1350,
+          2350,
+          2800
+        ],
+        "3": [
+          1800,
+          2800,
+          3250
+        ]
+      },
+      "MultiplierExtraBottlePrice": {
+        "1": 900,
+        "2": 1350,
+        "3": 1800
+      },
+      "MultiplierShufflePrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      },
+      "MultiplierUndoPrice": {
+        "1": 300,
+        "2": 600,
+        "3": 900
+      }
+    }
+  }
+}

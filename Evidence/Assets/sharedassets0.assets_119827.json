@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "39045"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "147"
+  },
+  "m_Name": "",
+  "_currencies": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "122778"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113603"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118325"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123243"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113542"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119394"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118486"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "122983"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119579"
+    }
+  ],
+  "_leftReference": {
+    "m_FileID": 0,
+    "m_PathID": "64309"
+  },
+  "_rightReference": {
+    "m_FileID": 0,
+    "m_PathID": "45533"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "345"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "845"
+  },
+  "m_Name": "",
+  "_activePlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "13360"
+  },
+  "_pastDayPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "14262"
+  },
+  "_activeButtonContainer": {
+    "m_FileID": 0,
+    "m_PathID": "3248"
+  },
+  "_cooldownButtonContainer": {
+    "m_FileID": 0,
+    "m_PathID": "1759"
+  },
+  "_unclaimedButtonContainer": {
+    "m_FileID": 0,
+    "m_PathID": "4299"
+  },
+  "_activeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "12609"
+  },
+  "_cooldownButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "12652"
+  },
+  "_unclaimedButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "12563"
+  },
+  "_rewardedButton": {
+    "m_FileID": 0,
+    "m_PathID": "14032"
+  },
+  "_fingerView": {
+    "m_FileID": 0,
+    "m_PathID": "14001"
+  }
+}

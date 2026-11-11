@@ -1,0 +1,763 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2379"
+  },
+  "m_Name": "BoatRushAnimationConfig",
+  "<UnseenAnimationsDelay>k__BackingField": 0.30000001192092896,
+  "<UserMoveDuration>k__BackingField": 1.399999976158142,
+  "<UserMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0015869140625,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03731440380215645
+      },
+      {
+        "time": 0.9991455078125,
+        "value": 1.0,
+        "inSlope": 0.11166216433048248,
+        "outSlope": 0.11166216433048248,
+        "weightedMode": 0,
+        "inWeight": 0.3010711073875427,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserWinMoveDuration>k__BackingField": 1.0,
+  "<UserWinMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.5316792130470276
+      },
+      {
+        "time": 1.0,
+        "value": 0.66509610414505,
+        "inSlope": 2.556903123855591,
+        "outSlope": 2.556903123855591,
+        "weightedMode": 3,
+        "inWeight": 0.16537484526634216,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserWinParticleTime>k__BackingField": 0.8999999761581421,
+  "<UserWinPositionOffset>k__BackingField": 15.0,
+  "<StageStarAppearDelay>k__BackingField": 0.5,
+  "<StageStarAppearedPositions>k__BackingField": [
+    0.5329999923706055,
+    0.27000001072883606,
+    0.2800000011920929,
+    0.27000001072883606,
+    0.27000001072883606
+  ],
+  "<StageStarDisabledPositionY>k__BackingField": 0.07500000298023224,
+  "<StageStarAppearDuration>k__BackingField": 0.6600000262260437,
+  "<StageStarAppearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.1602084636688232,
+        "outSlope": 3.1602084636688232,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.30217453837394714
+      },
+      {
+        "time": 0.6239262223243713,
+        "value": 0.9875388145446777,
+        "inSlope": 0.2887466847896576,
+        "outSlope": 0.2887466847896576,
+        "weightedMode": 3,
+        "inWeight": 0.4143247604370117,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.4139476716518402,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<IslandTickAppearDelay>k__BackingField": 0.5,
+  "<IslandTickAppearDuration>k__BackingField": 0.30000001192092896,
+  "<IslandTickAppearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AvatarJumpDelay>k__BackingField": 0.25999999046325684,
+  "<AvatarJumpConfigs>k__BackingField": [
+    {
+      "<TargetIslandIndex>k__BackingField": 0,
+      "<MiddleOffset>k__BackingField": {
+        "x": 0.0,
+        "y": 0.8999999761581421,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.4000000059604645,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.4000000059604645,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.4399999976158142,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 6.2621049880981445,
+            "outSlope": 6.2621049880981445,
+            "weightedMode": 3,
+            "inWeight": 0.0,
+            "outWeight": 0.06139053404331207
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 4.648759841918945,
+            "outSlope": 4.648759841918945,
+            "weightedMode": 3,
+            "inWeight": 0.0702662467956543,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    },
+    {
+      "<TargetIslandIndex>k__BackingField": 1,
+      "<MiddleOffset>k__BackingField": {
+        "x": -0.10999999940395355,
+        "y": 1.2000000476837158,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.20000000298023224,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.20000000298023224,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.20000000298023224,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.44999998807907104,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 9.005581855773926,
+            "outSlope": 9.005581855773926,
+            "weightedMode": 3,
+            "inWeight": 0.0,
+            "outWeight": 0.03079076297581196
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 2.2958502769470215,
+            "outSlope": 2.2958502769470215,
+            "weightedMode": 3,
+            "inWeight": 0.09861928224563599,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    },
+    {
+      "<TargetIslandIndex>k__BackingField": 2,
+      "<MiddleOffset>k__BackingField": {
+        "x": 0.0,
+        "y": 0.8999999761581421,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.20000000298023224,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.20000000298023224,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.5,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.20000000298023224,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.44999998807907104,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 3.290879487991333,
+            "outSlope": 3.290879487991333,
+            "weightedMode": 3,
+            "inWeight": 0.0,
+            "outWeight": 0.07692307978868484
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 2.2958502769470215,
+            "outSlope": 2.2958502769470215,
+            "weightedMode": 3,
+            "inWeight": 0.09861928224563599,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    },
+    {
+      "<TargetIslandIndex>k__BackingField": 3,
+      "<MiddleOffset>k__BackingField": {
+        "x": 0.4000000059604645,
+        "y": 1.2999999523162842,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.4000000059604645,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.4000000059604645,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.6000000238418579,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 2.0,
+            "outSlope": 2.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    },
+    {
+      "<TargetIslandIndex>k__BackingField": 4,
+      "<MiddleOffset>k__BackingField": {
+        "x": 0.0,
+        "y": 1.2000000476837158,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.5,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 3.290879487991333,
+            "outSlope": 3.290879487991333,
+            "weightedMode": 3,
+            "inWeight": 0.0,
+            "outWeight": 0.07692307978868484
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 2.2958502769470215,
+            "outSlope": 2.2958502769470215,
+            "weightedMode": 3,
+            "inWeight": 0.09861928224563599,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    },
+    {
+      "<TargetIslandIndex>k__BackingField": 5,
+      "<MiddleOffset>k__BackingField": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "<APoint>k__BackingField": {
+        "x": 0.0,
+        "y": 2.0,
+        "z": 0.0
+      },
+      "<BPoint>k__BackingField": {
+        "x": 0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<CPoint>k__BackingField": {
+        "x": -0.30000001192092896,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "<DPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 0.4000000059604645,
+        "z": 0.0
+      },
+      "<AvatarJumpDuration>k__BackingField": 0.44999998807907104,
+      "<AvatarJumpCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 4.7374653816223145,
+            "outSlope": 4.7374653816223145,
+            "weightedMode": 3,
+            "inWeight": 0.0,
+            "outWeight": 0.06903354078531265
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 4.982316017150879,
+            "outSlope": 4.982316017150879,
+            "weightedMode": 3,
+            "inWeight": 0.06311631202697754,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    }
+  ],
+  "<ShakeClipDelay>k__BackingField": 0.0,
+  "<ClaimButtonAppearDelay>k__BackingField": 1.0,
+  "<ClaimButtonAppearDuration>k__BackingField": 1.0,
+  "<ClaimButtonAppearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ClaimButtonDisappearDelay>k__BackingField": 0.5,
+  "<ClaimButtonDisappearDuration>k__BackingField": 1.0,
+  "<ClaimButtonDisappearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MedalFlyToProgressBarDuration>k__BackingField": 1.0,
+  "<MedalFlyToProgressBarCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.9162952899932861,
+        "outSlope": 1.9162952899932861,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.2638375461101532
+      },
+      {
+        "time": 0.29438692331314087,
+        "value": 0.2796233594417572,
+        "inSlope": 0.4818539321422577,
+        "outSlope": 0.4818539321422577,
+        "weightedMode": 3,
+        "inWeight": 0.4130960702896118,
+        "outWeight": 0.5094282031059265
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.378857374191284,
+        "outSlope": -0.0149529492482543,
+        "weightedMode": 3,
+        "inWeight": 0.08805130422115326,
+        "outWeight": 0.5386815667152405
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MedalScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 1.6517717838287354,
+        "outSlope": 1.6517717838287354,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.2800789177417755
+      },
+      {
+        "time": 0.5,
+        "value": 1.3183578252792358,
+        "inSlope": 0.004026494454592466,
+        "outSlope": 0.004026494454592466,
+        "weightedMode": 3,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.4003945589065552
+      },
+      {
+        "time": 1.0,
+        "value": 1.1061636209487915,
+        "inSlope": -0.8975286483764648,
+        "outSlope": -0.8975286483764648,
+        "weightedMode": 3,
+        "inWeight": 0.24654829502105713,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MedalMiddleOffset>k__BackingField": {
+    "x": 0.0,
+    "y": -7.5,
+    "z": 0.0
+  },
+  "<MedalAPoint>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<MedalBPoint>k__BackingField": {
+    "x": 1.7999999523162842,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<MedalCPoint>k__BackingField": {
+    "x": -3.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<MedalDPoint>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<DelayBeforeProgressBarAnimation>k__BackingField": 0.0,
+  "<ProgressBarFillCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.870068550109863,
+        "outSlope": 4.870068550109863,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05788632109761238
+      },
+      {
+        "time": 0.2821040153503418,
+        "value": 0.758221447467804,
+        "inSlope": 1.0220001935958862,
+        "outSlope": 1.0220001935958862,
+        "weightedMode": 0,
+        "inWeight": 0.3176916539669037,
+        "outWeight": 0.04091056063771248
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressBarMinMaxFillValue>k__BackingField": {
+    "x": 0.0,
+    "y": 3.8499999046325684
+  },
+  "<ProgressBarFullWidth>k__BackingField": 3.8499999046325684,
+  "<ProgressBarFillDuration>k__BackingField": 0.10000000149011612,
+  "<ProgressBarAppearDelay>k__BackingField": 0.05000000074505806,
+  "<ProgressBarAppearDuration>k__BackingField": 0.5,
+  "<ProgressBarAppearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressBarDisappearDuration>k__BackingField": 0.6000000238418579,
+  "<ProgressBarDisappearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressBarDisappearDelay>k__BackingField": 0.25,
+  "<CurrencyShrinkScale>k__BackingField": 0.09000000357627869,
+  "<CurrencyShrinkDuration>k__BackingField": 0.009999999776482582,
+  "<CurrencyShrinkCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CurrencyExpandScale>k__BackingField": 0.07999999821186066,
+  "<CurrencyExpandDuration>k__BackingField": 0.019999999552965164,
+  "<CurrencyExpandCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

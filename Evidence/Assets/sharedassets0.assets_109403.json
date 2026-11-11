@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7025"
+  },
+  "m_Name": "MagicStreakTournamentSpriteConfig",
+  "RowGoldenMedal": {
+    "m_FileID": 0,
+    "m_PathID": "4719"
+  },
+  "RowSilverMedal": {
+    "m_FileID": 0,
+    "m_PathID": "3429"
+  },
+  "RowBronzeMedal": {
+    "m_FileID": 0,
+    "m_PathID": "6019"
+  },
+  "shineMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "72"
+  },
+  "defaultSpriteMaterial": {
+    "m_FileID": 1,
+    "m_PathID": "2"
+  }
+}

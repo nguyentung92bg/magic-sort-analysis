@@ -1,0 +1,139 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6383"
+  },
+  "m_Name": "CollectionCardPackVisualsConfig",
+  "Visuals": [
+    {
+      "PackId": 1,
+      "PackIcon": {
+        "m_FileID": 0,
+        "m_PathID": "2222"
+      },
+      "PackBase": {
+        "m_FileID": 0,
+        "m_PathID": "2399"
+      },
+      "PackBaseBack": {
+        "m_FileID": 0,
+        "m_PathID": "2441"
+      },
+      "PackCap": {
+        "m_FileID": 0,
+        "m_PathID": "3017"
+      },
+      "PackShadow": {
+        "m_FileID": 0,
+        "m_PathID": "3336"
+      },
+      "CardCount": 2,
+      "IsNewCardPack": 0
+    },
+    {
+      "PackId": 2,
+      "PackIcon": {
+        "m_FileID": 0,
+        "m_PathID": "2201"
+      },
+      "PackBase": {
+        "m_FileID": 0,
+        "m_PathID": "3839"
+      },
+      "PackBaseBack": {
+        "m_FileID": 0,
+        "m_PathID": "4541"
+      },
+      "PackCap": {
+        "m_FileID": 0,
+        "m_PathID": "3925"
+      },
+      "PackShadow": {
+        "m_FileID": 0,
+        "m_PathID": "3156"
+      },
+      "CardCount": 3,
+      "IsNewCardPack": 0
+    },
+    {
+      "PackId": 3,
+      "PackIcon": {
+        "m_FileID": 0,
+        "m_PathID": "4979"
+      },
+      "PackBase": {
+        "m_FileID": 0,
+        "m_PathID": "5447"
+      },
+      "PackBaseBack": {
+        "m_FileID": 0,
+        "m_PathID": "3238"
+      },
+      "PackCap": {
+        "m_FileID": 0,
+        "m_PathID": "2538"
+      },
+      "PackShadow": {
+        "m_FileID": 0,
+        "m_PathID": "1920"
+      },
+      "CardCount": 4,
+      "IsNewCardPack": 0
+    },
+    {
+      "PackId": 4,
+      "PackIcon": {
+        "m_FileID": 0,
+        "m_PathID": "2997"
+      },
+      "PackBase": {
+        "m_FileID": 0,
+        "m_PathID": "3838"
+      },
+      "PackBaseBack": {
+        "m_FileID": 0,
+        "m_PathID": "4041"
+      },
+      "PackCap": {
+        "m_FileID": 0,
+        "m_PathID": "5354"
+      },
+      "PackShadow": {
+        "m_FileID": 0,
+        "m_PathID": "2124"
+      },
+      "CardCount": 5,
+      "IsNewCardPack": 0
+    },
+    {
+      "PackId": 5,
+      "PackIcon": {
+        "m_FileID": 0,
+        "m_PathID": "3849"
+      },
+      "PackBase": {
+        "m_FileID": 0,
+        "m_PathID": "2191"
+      },
+      "PackBaseBack": {
+        "m_FileID": 0,
+        "m_PathID": "4819"
+      },
+      "PackCap": {
+        "m_FileID": 0,
+        "m_PathID": "2107"
+      },
+      "PackShadow": {
+        "m_FileID": 0,
+        "m_PathID": "4523"
+      },
+      "CardCount": 6,
+      "IsNewCardPack": 1
+    }
+  ]
+}

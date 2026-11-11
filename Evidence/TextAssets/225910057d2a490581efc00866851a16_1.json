@@ -1,0 +1,328 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 50,
+  "EventType": 1,
+  "ShouldShowInLevelIcon": true,
+  "Steps": [
+    {
+      "Step": 0,
+      "IsCheckpoint": true
+    },
+    {
+      "Step": 2,
+      "IsCheckpoint": false,
+      "ChestViewType": 1,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 50
+          }
+        ]
+      }
+    },
+    {
+      "Step": 5,
+      "IsCheckpoint": true,
+      "ChestViewType": 2,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 1
+          }
+        ]
+      }
+    },
+    {
+      "Step": 8,
+      "IsCheckpoint": false,
+      "ChestViewType": 2,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 3
+          }
+        ]
+      }
+    },
+    {
+      "Step": 11,
+      "IsCheckpoint": true,
+      "ChestViewType": 3,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 200
+          }
+        ]
+      }
+    },
+    {
+      "Step": 17,
+      "IsCheckpoint": false,
+      "ChestViewType": 3,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 3
+          }
+        ]
+      }
+    },
+    {
+      "Step": 22,
+      "IsCheckpoint": true,
+      "ChestViewType": 4,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 300
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 300
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 3
+          }
+        ]
+      }
+    },
+    {
+      "Step": 28,
+      "IsCheckpoint": false,
+      "ChestViewType": 5,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:30:00"
+          }
+        ]
+      }
+    },
+    {
+      "Step": 33,
+      "IsCheckpoint": true,
+      "ChestViewType": 6,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 500
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "01:00:00"
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 500
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "01:00:00"
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 3
+          }
+        ]
+      }
+    },
+    {
+      "Step": 42,
+      "IsCheckpoint": false,
+      "ChestViewType": 6,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "01:00:00"
+          }
+        ]
+      }
+    },
+    {
+      "Step": 60,
+      "IsCheckpoint": true,
+      "ChestViewType": 7,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 1200
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "01:00:00"
+          }
+        ]
+      },
+      "RewardModelWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 1200
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "01:00:00"
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      }
+    }
+  ]
+}

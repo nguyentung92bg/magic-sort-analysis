@@ -1,0 +1,37 @@
+/* IL2CPP: Modules.Contexts.Home.MagicStreakTournament.Scripts.ProfileSpritePersistenceCatalog$$Contains
+bool Modules_Contexts_Home_MagicStreakTournament_Scripts_ProfileSpritePersistenceCatalog__Contains (Modules_Contexts_Home_MagicStreakTournament_Scripts_ProfileSpritePersistenceCatalog_o* __this, System_String_o* url, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.Home.MagicStreakTournament.Scripts.ProfileSpritePersistenceCatalog$$Contains
+   bool 
+   Modules_Contexts_Home_MagicStreakTournament_Scripts_ProfileSpritePersistenceCatalog__Contains
+   (Modules_Contexts_Home_MagicStreakTournament_Scripts_ProfileSpritePersistenceCatalog_o* __this,
+   System_String_o* url, const MethodInfo* method); */
+
+uint Modules_Contexts_Home_MagicStreakTournament_Scripts_ProfileSpritePersistenceCatalog__Contains_3e0a8e0
+               (long param_1,long *param_2)
+
+{
+  uint uVar1;
+  undefined4 uVar2;
+  long lVar3;
+  
+  if ((bRam0000000005c38044 & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_0576e390);
+    bRam0000000005c38044 = 1;
+  }
+  if (param_2 != (long *)0x0) {
+    lVar3 = *(long *)(param_1 + 0x10);
+    uVar2 = (**(code **)(*param_2 + 0x158))(param_2,*(undefined8 *)(*param_2 + 0x160));
+    if (lVar3 != 0) {
+      uVar1 = (**(code **)(*(long *)(*(long *)(*(long *)(*(long *)PTR_DAT_0576e390 + 0x20) + 0xc0) +
+                                    0xa8) + 8))(lVar3,uVar2);
+      return ~uVar1 >> 0x1f;
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2497"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4951"
+  },
+  "m_Name": "",
+  "_onCurrencyArrivedParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": "9252"
+  },
+  "_scaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.023707851767539978,
+        "outSlope": 0.023707851767539978,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15110085904598236
+      },
+      {
+        "time": 0.5358874201774597,
+        "value": 0.996553897857666,
+        "inSlope": -0.0013873205753043294,
+        "outSlope": -0.0013873205753043294,
+        "weightedMode": 0,
+        "inWeight": 0.13128185272216797,
+        "outWeight": 0.3358514606952667
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.5895549654960632,
+        "outSlope": -0.5895549654960632,
+        "weightedMode": 0,
+        "inWeight": 0.18582002818584442,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_scaleAmount": 0.9300000071525574,
+  "_punchScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.7688772678375244,
+        "value": 1.119045615196228,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_punchScaleAmount": {
+    "x": 0.07000000029802322,
+    "y": -0.07999999821186066,
+    "z": 1.0
+  },
+  "_punchScaleDuration": 0.18000000715255737,
+  "_scaleVibrato": 10,
+  "CurrencyImage": {
+    "m_FileID": 0,
+    "m_PathID": "1291"
+  },
+  "_currencyType": 7,
+  "_currencyDisplayerController": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  }
+}

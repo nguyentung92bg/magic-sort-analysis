@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "969"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "965"
+  },
+  "m_Name": "",
+  "_dailyDateButton": {
+    "m_FileID": 0,
+    "m_PathID": "13328"
+  },
+  "_dailySpriteBackground": {
+    "m_FileID": 0,
+    "m_PathID": "11640"
+  },
+  "_tickSprite": {
+    "m_FileID": 0,
+    "m_PathID": "11254"
+  },
+  "_dailyDateUpcomingText": {
+    "m_FileID": 0,
+    "m_PathID": "12933"
+  },
+  "_dailyDateDefaultText": {
+    "m_FileID": 0,
+    "m_PathID": "12680"
+  },
+  "_dailyDateActiveText": {
+    "m_FileID": 0,
+    "m_PathID": "12719"
+  }
+}

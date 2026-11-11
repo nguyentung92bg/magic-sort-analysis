@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "pages": 22,
+  "localLinks": 20142,
+  "levelRecords": 3956,
+  "orderRows": 299,
+  "dailyRows": 59,
+  "seedCoverageIncludes": [
+    "seeds",
+    "dlbSeeds",
+    "daily seeds"
+  ],
+  "missingSeeds": [],
+  "errors": []
+}

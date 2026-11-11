@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1701"
+  },
+  "m_Name": "JetpackRaceWithStageAreYouSureAnimationConfig",
+  "<AnimatorStartTime>k__BackingField": 0.0,
+  "<LoopStartInterval>k__BackingField": 4.0,
+  "<ContinuousParticleTime>k__BackingField": 0.0
+}

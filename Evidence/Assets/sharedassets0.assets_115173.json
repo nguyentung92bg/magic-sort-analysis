@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26506"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5731"
+  },
+  "m_Name": "",
+  "_target": {
+    "m_FileID": 0,
+    "m_PathID": "48703"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109397"
+  },
+  "_multiplierTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "110348"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121784"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113244"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118105"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111524"
+    }
+  ],
+  "_targetMultiplierText": {
+    "m_FileID": 0,
+    "m_PathID": "118592"
+  },
+  "_hatTransform": {
+    "m_FileID": 0,
+    "m_PathID": "67515"
+  },
+  "_separators": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "101987"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "102767"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "98436"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "105278"
+    }
+  ],
+  "_redProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": "98006"
+  },
+  "_leftAnchor": {
+    "m_FileID": 0,
+    "m_PathID": "49672"
+  }
+}

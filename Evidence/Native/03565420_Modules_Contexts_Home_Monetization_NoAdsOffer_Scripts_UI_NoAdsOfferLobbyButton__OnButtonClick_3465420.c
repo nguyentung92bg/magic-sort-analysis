@@ -1,0 +1,76 @@
+/* IL2CPP: Modules.Contexts.Home.Monetization.NoAdsOffer.Scripts.UI.NoAdsOfferLobbyButton$$OnButtonClick
+void Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_UI_NoAdsOfferLobbyButton__OnButtonClick (Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_UI_NoAdsOfferLobbyButton_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.Home.Monetization.NoAdsOffer.Scripts.UI.NoAdsOfferLobbyButton$$OnButtonClick
+   void 
+   Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_UI_NoAdsOfferLobbyButton__OnButtonClick
+   (Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_UI_NoAdsOfferLobbyButton_o* __this, const
+   MethodInfo* method); */
+
+void Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_UI_NoAdsOfferLobbyButton__OnButtonClick_3465420
+               (void)
+
+{
+  undefined *puVar1;
+  undefined *puVar2;
+  long lVar3;
+  ulong uVar4;
+  undefined8 uStack_88;
+  undefined8 uStack_80;
+  undefined8 uStack_78;
+  undefined8 uStack_70;
+  undefined8 uStack_68;
+  undefined8 uStack_60;
+  undefined8 uStack_50;
+  undefined8 uStack_48;
+  undefined8 uStack_40;
+  undefined8 uStack_38;
+  undefined8 uStack_30;
+  undefined8 uStack_28;
+  
+  puVar1 = PTR_DAT_057b57f8;
+  if ((bRam0000000005c32670 & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_057b57f8);
+    bRam0000000005c32670 = 1;
+  }
+  lVar3 = thunk_FUN_01320e48(*(undefined8 *)puVar1);
+  if (lVar3 != 0) {
+    System_Object___ctor_23dfe5c(lVar3,0);
+    puVar1 = PTR_DAT_0576e800;
+    if ((bRam0000000005c3267c & 1) == 0) {
+      FUN_012d0dc8(PTR_DAT_057ec1b8);
+      FUN_012d0dc8(PTR_DAT_0576e800);
+      bRam0000000005c3267c = 1;
+    }
+    puVar2 = PTR_DAT_057ec1b8;
+    uStack_38 = 0;
+    uStack_40 = 0;
+    uStack_28 = 0;
+    uStack_30 = 0;
+    uStack_48 = 0;
+    uStack_50 = 0;
+    if (*(int *)(*(long *)puVar1 + 0xe0) == 0) {
+      thunk_FUN_0130472c();
+    }
+    System_Runtime_CompilerServices_AsyncTaskMethodBuilder__Create_2445820(&uStack_88,0);
+    uVar4 = (ulong)&uStack_50 | 8;
+    uStack_60 = uStack_78;
+    uStack_68 = uStack_80;
+    uStack_70 = uStack_88;
+    uStack_40 = uStack_80;
+    uStack_48 = uStack_88;
+    uStack_38 = uStack_78;
+    FUN_012d0d74(uVar4,0);
+    uStack_50 = CONCAT44(uStack_50._4_4_,0xffffffff);
+    System_Runtime_CompilerServices_AsyncTaskMethodBuilder__Start_ShowNoAdsOfferPopupCommand__ExecuteAsync_d__0__1e709a8
+              (uVar4,&uStack_50,*(undefined8 *)puVar2);
+    System_Runtime_CompilerServices_AsyncTaskMethodBuilder__get_Task_24437f0(uVar4,0);
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

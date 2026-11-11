@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "10178"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6472"
+  },
+  "m_Name": "",
+  "_coinText": {
+    "m_FileID": 0,
+    "m_PathID": "114351"
+  },
+  "_limitlessLifeText": {
+    "m_FileID": 0,
+    "m_PathID": "112039"
+  },
+  "_undoText": {
+    "m_FileID": 0,
+    "m_PathID": "122887"
+  },
+  "_shuffleText": {
+    "m_FileID": 0,
+    "m_PathID": "114587"
+  },
+  "_extraBottleText": {
+    "m_FileID": 0,
+    "m_PathID": "120346"
+  },
+  "_timer": {
+    "m_FileID": 0,
+    "m_PathID": "114568"
+  },
+  "_playOnTag": {
+    "m_FileID": 0,
+    "m_PathID": "69660"
+  },
+  "_metaBackground": {
+    "m_FileID": 0,
+    "m_PathID": "51111"
+  },
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": "114228"
+  },
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "118110"
+  },
+  "_offText": {
+    "m_FileID": 0,
+    "m_PathID": "114890"
+  },
+  "_tickContainer": {
+    "m_FileID": 0,
+    "m_PathID": "67374"
+  },
+  "_buyButtonTransform": {
+    "m_FileID": 0,
+    "m_PathID": "54429"
+  },
+  "_tickHitParticle": {
+    "m_FileID": 0,
+    "m_PathID": "81013"
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "109436"
+  }
+}

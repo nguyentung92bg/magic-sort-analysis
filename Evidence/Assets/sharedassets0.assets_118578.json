@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "30907"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2936"
+  },
+  "m_Name": "",
+  "_specialOfferController": {
+    "m_FileID": 0,
+    "m_PathID": "118147"
+  }
+}

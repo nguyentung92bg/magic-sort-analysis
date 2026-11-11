@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5459"
+  },
+  "m_Name": "TreasureDrillCurrencyRevealAnimationConfig",
+  "<MoveUpDuration>k__BackingField": 2.5,
+  "<MoveUpCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.879833459854126,
+        "value": 0.9000154733657837,
+        "inSlope": 0.5075575709342957,
+        "outSlope": 0.5075575709342957,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.7683243155479431
+      },
+      {
+        "time": 1.35137939453125,
+        "value": 0.9933853149414062,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MoveUpTime>k__BackingField": 0.0,
+  "<MoveUpMultiplier>k__BackingField": 1.2999999523162842,
+  "<EndScale>k__BackingField": {
+    "x": 0.800000011920929,
+    "y": 0.800000011920929,
+    "z": 1.0
+  },
+  "<ScaleDuration>k__BackingField": 0.30000001192092896,
+  "<ScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.5757483243942261,
+        "value": 1.1512826681137085,
+        "inSlope": 0.0782233476638794,
+        "outSlope": 0.0782233476638794,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.1267191618680954
+      },
+      {
+        "time": 0.7713798880577087,
+        "value": 0.9091330766677856,
+        "inSlope": 0.009196416474878788,
+        "outSlope": 0.009196416474878788,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 1.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.07406168431043625,
+        "outSlope": 0.07406168431043625,
+        "weightedMode": 0,
+        "inWeight": 0.3262324333190918,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FadeDuration>k__BackingField": 1.600000023841858,
+  "<FadeTime>k__BackingField": 1.2999999523162842,
+  "<ParticleTime>k__BackingField": 0.3400000035762787,
+  "<ShouldIncreaseSortingOrder>k__BackingField": 1
+}

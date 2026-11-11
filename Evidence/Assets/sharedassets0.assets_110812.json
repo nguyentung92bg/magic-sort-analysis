@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "23669"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "138"
+  },
+  "m_Name": "",
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "54554"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109469"
+  },
+  "_setSortingOrder": 1,
+  "_sortingOrder": 10
+}

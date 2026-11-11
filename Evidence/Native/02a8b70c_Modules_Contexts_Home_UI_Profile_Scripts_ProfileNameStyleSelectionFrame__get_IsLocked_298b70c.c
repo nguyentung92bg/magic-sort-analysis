@@ -1,0 +1,18 @@
+/* IL2CPP: Modules.Contexts.Home.UI.Profile.Scripts.ProfileNameStyleSelectionFrame$$get_IsLocked
+bool Modules_Contexts_Home_UI_Profile_Scripts_ProfileNameStyleSelectionFrame__get_IsLocked (Modules_Contexts_Home_UI_Profile_Scripts_ProfileNameStyleSelectionFrame_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.Home.UI.Profile.Scripts.ProfileNameStyleSelectionFrame$$get_IsLocked
+   bool Modules_Contexts_Home_UI_Profile_Scripts_ProfileNameStyleSelectionFrame__get_IsLocked
+   (Modules_Contexts_Home_UI_Profile_Scripts_ProfileNameStyleSelectionFrame_o* __this, const
+   MethodInfo* method); */
+
+undefined1
+Modules_Contexts_Home_UI_Profile_Scripts_ProfileNameStyleSelectionFrame__get_IsLocked_298b70c
+          (long param_1)
+
+{
+  return *(undefined1 *)(param_1 + 0x48);
+}
+

@@ -1,0 +1,207 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4733"
+  },
+  "m_Name": "JourneyUnlockAnimationConfig",
+  "<ShowDelay>k__BackingField": 0.30000001192092896,
+  "<ShowBackgroundFadeDuration>k__BackingField": 0.30000001192092896,
+  "<ShowTitleTime>k__BackingField": 0.4000000059604645,
+  "<ShowCongratsParticlesTime>k__BackingField": 0.800000011920929,
+  "<ShowCardHitParticlesTime>k__BackingField": 0.800000011920929,
+  "<ShowCardTime>k__BackingField": 0.5,
+  "<ShowCardDuration>k__BackingField": 0.4000000059604645,
+  "<ShowCardCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.13760232925415,
+        "outSlope": 5.13760232925415,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05642613023519516
+      },
+      {
+        "time": 0.5039512515068054,
+        "value": 1.1214933395385742,
+        "inSlope": -0.008804802782833576,
+        "outSlope": -0.008804802782833576,
+        "weightedMode": 3,
+        "inWeight": 0.4628589153289795,
+        "outWeight": 0.9393875002861023
+      },
+      {
+        "time": 0.8436545729637146,
+        "value": 0.9594553112983704,
+        "inSlope": 0.046200599521398544,
+        "outSlope": 0.046200599521398544,
+        "weightedMode": 0,
+        "inWeight": 0.11409150809049606,
+        "outWeight": 0.25227323174476624
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.043846141546964645,
+        "outSlope": 0.043846141546964645,
+        "weightedMode": 0,
+        "inWeight": 0.5806455016136169,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ShowButtonScaleFrom>k__BackingField": 1.100000023841858,
+  "<ShowButtonTime>k__BackingField": 1.0,
+  "<ShowButtonDuration>k__BackingField": 0.25,
+  "<ShowButtonCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -12.087709426879883,
+        "outSlope": -12.087709426879883,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06256081163883209
+      },
+      {
+        "time": 0.2903967499732971,
+        "value": -1.3803247213363647,
+        "inSlope": -0.0776788592338562,
+        "outSlope": -0.0776788592338562,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8648356199264526,
+        "value": 1.5806808471679688,
+        "inSlope": 0.07977558672428131,
+        "outSlope": 0.07977558672428131,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -5.963796138763428,
+        "outSlope": -5.963796138763428,
+        "weightedMode": 0,
+        "inWeight": 0.19450746476650238,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UnlockSfxDelay>k__BackingField": 0.6100000143051147,
+  "<HideButtonScaleDuration>k__BackingField": 0.30000001192092896,
+  "<HideButtonCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.3278844356536865,
+        "outSlope": -0.3278844356536865,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15349863469600677
+      },
+      {
+        "time": 0.614291787147522,
+        "value": 0.001978956162929535,
+        "inSlope": 0.5100550055503845,
+        "outSlope": 0.5100550055503845,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.15631982684135437
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.7855300903320312,
+        "outSlope": 3.7855300903320312,
+        "weightedMode": 0,
+        "inWeight": 0.06822739541530609,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<HideCardScaleDuration>k__BackingField": 0.44999998807907104,
+  "<HideCardScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.3871338963508606,
+        "outSlope": -0.3871338963508606,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08696108311414719
+      },
+      {
+        "time": 0.40045011043548584,
+        "value": -0.0653054490685463,
+        "inSlope": 0.013898691162467003,
+        "outSlope": 0.013898691162467003,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.0822964757680893
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.2017416954040527,
+        "outSlope": 1.2017416954040527,
+        "weightedMode": 0,
+        "inWeight": 0.0619211383163929,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<HidePosterScaleTime>k__BackingField": 0.18000000715255737,
+  "<HidePosterScaleDuration>k__BackingField": 0.27000001072883606,
+  "<HidePosterScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.311056524515152,
+        "outSlope": 0.311056524515152,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.043443918228149414
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.04699961841106415,
+        "outSlope": 0.04699961841106415,
+        "weightedMode": 0,
+        "inWeight": 0.041074275970458984,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<SwitchEpisodeSfxTime>k__BackingField": 0.30000001192092896
+}

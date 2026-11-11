@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "25399"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6100"
+  },
+  "m_Name": "",
+  "_id": 1,
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "118869"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109401"
+  },
+  "_lastRewardBackground": {
+    "m_FileID": 0,
+    "m_PathID": "9993"
+  },
+  "_lastRewardClaimedTick": {
+    "m_FileID": 0,
+    "m_PathID": "20584"
+  },
+  "_defaultRewardBackground": {
+    "m_FileID": 0,
+    "m_PathID": "35464"
+  },
+  "_claimedBackground": {
+    "m_FileID": 0,
+    "m_PathID": "23500"
+  },
+  "_lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": "7630"
+  },
+  "_rankShine": {
+    "m_FileID": 0,
+    "m_PathID": "38416"
+  },
+  "_rankGreenBackground": {
+    "m_FileID": 0,
+    "m_PathID": "19484"
+  },
+  "_rankDefaultBackground": {
+    "m_FileID": 0,
+    "m_PathID": "13769"
+  },
+  "_bottomStick": {
+    "m_FileID": 0,
+    "m_PathID": "21856"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "112100"
+  },
+  "_currencyContainer": {
+    "m_FileID": 0,
+    "m_PathID": "42110"
+  }
+}

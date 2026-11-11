@@ -1,0 +1,146 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4878"
+  },
+  "m_Name": "DailyAnimationConfig",
+  "<ProgressBarMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressBarMoveDuration>k__BackingField": 0.75,
+  "<GreenTickStartScale>k__BackingField": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.0
+  },
+  "<GreenTickEndScale>k__BackingField": {
+    "x": 0.6000000238418579,
+    "y": 0.6000000238418579,
+    "z": 1.0
+  },
+  "<GreenTickScaleDuration>k__BackingField": 0.2800000011920929,
+  "<GreenTickScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.443298578262329,
+        "outSlope": 2.443298578262329,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03356385603547096
+      },
+      {
+        "time": 0.6689230799674988,
+        "value": 1.1977758407592773,
+        "inSlope": -0.8379537463188171,
+        "outSlope": -0.8379537463188171,
+        "weightedMode": 0,
+        "inWeight": 0.08051232248544693,
+        "outWeight": 0.18778283894062042
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ProgressStepParticleHitTime>k__BackingField": 0.20000000298023224,
+  "<DailyDateCompleteConsecutiveDelay>k__BackingField": 0.10000000149011612,
+  "<DailyDateGreenTickStartScale>k__BackingField": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 1.0
+  },
+  "<DailyDateGreenTickEndScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<DailyDateGreenTickScaleDuration>k__BackingField": 0.3499999940395355,
+  "<DailyDateGreenTickCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.3570377826690674,
+        "outSlope": 2.3570377826690674,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05883583426475525
+      },
+      {
+        "time": 0.7939813137054443,
+        "value": 1.0917118787765503,
+        "inSlope": 0.0015597132733091712,
+        "outSlope": 0.0015597132733091712,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21472331881523132
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DailyDateGreenTickHitTime>k__BackingField": 0.2199999988079071,
+  "<PunchScaleTarget>k__BackingField": {
+    "x": 0.15000000596046448,
+    "y": 0.15000000596046448,
+    "z": 1.0
+  },
+  "<PunchScaleDuration>k__BackingField": 0.25999999046325684,
+  "<Vibrato>k__BackingField": 5,
+  "<Elasticity>k__BackingField": 5.0,
+  "<DailyRewardScales>k__BackingField": [
+    0.0,
+    0.5,
+    0.5199999809265137,
+    0.5400000214576721,
+    0.5600000023841858
+  ]
+}

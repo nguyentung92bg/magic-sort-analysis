@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4378"
+  },
+  "m_Name": "LobbyIconCollectibleAnimationConfig",
+  "_initialScale": {
+    "x": 0.6000000238418579,
+    "y": 0.6000000238418579,
+    "z": 0.6000000238418579
+  },
+  "_spawnScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "_spawnScaleDuration": 0.20000000298023224,
+  "_spawnScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -3.514104127883911,
+        "outSlope": -3.514104127883911,
+        "weightedMode": 0,
+        "inWeight": 0.018226981163024902,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_fadeInDuration": 0.05000000074505806,
+  "_idleDuration": 0.20000000298023224,
+  "_jumpScale": {
+    "x": 0.8999999761581421,
+    "y": 1.100000023841858,
+    "z": 1.0
+  },
+  "_jumpScaleDuration": 0.07000000029802322,
+  "_jumpScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_moveDuration": 0.4000000059604645,
+  "_lobbyIconScaleUpDuration": 0.10000000149011612,
+  "_lobbyIconScaleAmount": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "_lobbyIconScaleDownDuration": 0.20000000298023224,
+  "_moveAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.5849394798278809,
+        "outSlope": 0.5849394798278809,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04805302247405052
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.6963247060775757,
+        "outSlope": 1.6963247060775757,
+        "weightedMode": 0,
+        "inWeight": 0.02485501766204834,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

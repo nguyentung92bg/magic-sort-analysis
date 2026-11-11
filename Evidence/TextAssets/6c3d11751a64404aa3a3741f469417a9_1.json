@@ -1,0 +1,23 @@
+{
+  "IsEnabled": false,
+  "UseBackendUrl": false,
+  "PlayStoreUrl": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort",
+  "AppStoreUrl": "https://apps.apple.com/us/app/magic-sort/id6499209744",
+  "Milestone": 5,
+  "ReferralRewards": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 6,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 1,
+      "TimeSpan": "00:30:00"
+    }
+  ],
+  "MaxRewardLimit": 3
+}

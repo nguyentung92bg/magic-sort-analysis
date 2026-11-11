@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "451"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5174"
+  },
+  "m_Name": "",
+  "_progressBarController": {
+    "m_FileID": 0,
+    "m_PathID": "13270"
+  },
+  "_calendarController": {
+    "m_FileID": 0,
+    "m_PathID": "13354"
+  },
+  "_lockedView": {
+    "m_FileID": 0,
+    "m_PathID": "3881"
+  },
+  "_unlockedView": {
+    "m_FileID": 0,
+    "m_PathID": "1212"
+  },
+  "_fingerView": {
+    "m_FileID": 0,
+    "m_PathID": "14001"
+  },
+  "_lockedText": {
+    "m_FileID": 0,
+    "m_PathID": "13004"
+  },
+  "_dailyViewExtender": {
+    "m_FileID": 0,
+    "m_PathID": "13946"
+  }
+}

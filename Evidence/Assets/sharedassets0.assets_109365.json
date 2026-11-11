@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3424"
+  },
+  "m_Name": "DuckFestivalCurrencyViewFactoryLeaderboard",
+  "_factoryPrefabs": [
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "21025"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 2,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12491"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 4,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "13053"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 5,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "27729"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 6,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "22108"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 13,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "25509"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 14,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12487"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 16,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12498"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 18,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "27734"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 19,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "27722"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 21,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12563"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

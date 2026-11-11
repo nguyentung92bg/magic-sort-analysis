@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "34492"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2225"
+  },
+  "m_Name": "",
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "118454"
+  },
+  "_userProfileView": {
+    "m_FileID": 0,
+    "m_PathID": "110323"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "111053"
+  },
+  "_scoreText": {
+    "m_FileID": 0,
+    "m_PathID": "117449"
+  },
+  "_myPlayerBackground": {
+    "m_FileID": 0,
+    "m_PathID": "7877"
+  },
+  "_otherPlayerBackground": {
+    "m_FileID": 0,
+    "m_PathID": "16088"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "109678"
+  },
+  "_rewardParent": {
+    "m_FileID": 0,
+    "m_PathID": "23227"
+  },
+  "_bronzeBall": {
+    "m_FileID": 0,
+    "m_PathID": "37928"
+  },
+  "_silverBall": {
+    "m_FileID": 0,
+    "m_PathID": "17217"
+  },
+  "_goldBall": {
+    "m_FileID": 0,
+    "m_PathID": "13101"
+  }
+}

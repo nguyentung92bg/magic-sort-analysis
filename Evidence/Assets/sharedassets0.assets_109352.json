@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3424"
+  },
+  "m_Name": "CollectionCompletedRewardCurrencyViewFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "15370"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 2,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12581"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 4,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12587"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 5,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12485"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 6,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12637"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 15,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12515"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

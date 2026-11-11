@@ -1,0 +1,154 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "6660"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "minigame_bundle",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "109785"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118040"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113073"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "117216"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123232"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "116451"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119588"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111737"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118655"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121974"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119483"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "109715"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118605"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118376"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121566"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123123"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "122668"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "109813"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121556"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111164"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112777"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114927"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120551"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118171"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111932"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119680"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121428"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120415"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111325"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110642"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123068"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111995"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115773"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114580"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": [],
+  "_externalReferenceGroups": []
+}

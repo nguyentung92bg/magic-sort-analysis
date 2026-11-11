@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26940"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2376"
+  },
+  "m_Name": "",
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109465"
+  },
+  "_transforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "108663"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "52859"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "105957"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "48286"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "69115"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "107041"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "53193"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "66609"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "107985"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "50612"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "52510"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "106499"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "43271"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "106345"
+    }
+  ],
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "119329"
+  },
+  "_leagueInfoParent": {
+    "m_FileID": 0,
+    "m_PathID": "8140"
+  },
+  "_leagueInfoText": {
+    "m_FileID": 0,
+    "m_PathID": "118459"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1116"
+  },
+  "m_Name": "TeamQuestPopupAnimationConfig",
+  "StepXPositions": [
+    {
+      "StartXPosition": -3.75,
+      "EndXPosition": -2.4000000953674316
+    },
+    {
+      "StartXPosition": -0.949999988079071,
+      "EndXPosition": 0.15000000596046448
+    },
+    {
+      "StartXPosition": 1.600000023841858,
+      "EndXPosition": 2.75
+    }
+  ],
+  "progressBarFillAnimationDuration": 0.75,
+  "chestClaimAnimationDelay": 0.10000000149011612,
+  "chestClaimFinalDelay": 1.2999999523162842,
+  "delayBetweenRewards": 0.18000000715255737,
+  "HeroImageXPositions": [
+    {
+      "x": 20.5,
+      "y": 6.239999771118164,
+      "z": 0.0
+    },
+    {
+      "x": 0.0,
+      "y": 6.239999771118164,
+      "z": 0.0
+    },
+    {
+      "x": -20.5,
+      "y": 6.239999771118164,
+      "z": 0.0
+    }
+  ],
+  "heroImageAnimationDuration": 0.6000000238418579,
+  "teamChatElementViewUpPosition": {
+    "x": 0.0,
+    "y": 6.599999904632568,
+    "z": 0.0
+  },
+  "teamChatElementViewDownPosition": {
+    "x": 0.0,
+    "y": 5.0,
+    "z": 0.0
+  },
+  "teamChatElementViewAnimationDuration": 0.5,
+  "teamChatElementBgStartTime": 0.10000000149011612,
+  "teamChatElementBgDuration": 0.5,
+  "teamChatElementHiddenYScale": 0.800000011920929,
+  "teamChatElementHiddenXScale": 0.3499999940395355,
+  "_moveHeroImageAnimationCurve": 12,
+  "NoContributionTextVerticalOffset": 2.0
+}

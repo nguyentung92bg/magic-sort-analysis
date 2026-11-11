@@ -1,0 +1,377 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2378"
+  },
+  "m_Name": "DuckHouseAnimationConfig",
+  "<DuckRevealDuration>k__BackingField": 0.6000000238418579,
+  "<CoverOpenAnimTime>k__BackingField": 0.05000000074505806,
+  "<CoverOpenClip>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "110"
+  },
+  "<CoverCloseAnimTime>k__BackingField": 0.4000000059604645,
+  "<CoverCloseClip>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109"
+  },
+  "<OpenCoverItemTime>k__BackingField": 0.4000000059604645,
+  "<CloseCoverItemTime>k__BackingField": 0.550000011920929,
+  "<CoverCloseInstantClip>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "108"
+  },
+  "<UpdateRemainingCountTime>k__BackingField": 0.4000000059604645,
+  "<UpdateRemainingCountTimeForComplete>k__BackingField": 0.0,
+  "<FillLightsAnimTime>k__BackingField": 0.3499999940395355,
+  "<FillLightClips>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "111"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "116"
+    }
+  ],
+  "<CoveredItemShakeTime>k__BackingField": 0.4000000059604645,
+  "<ShakeClips>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "117"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "122"
+    }
+  ],
+  "<CoverItemInitialScale>k__BackingField": {
+    "x": 0.550000011920929,
+    "y": 0.550000011920929,
+    "z": 0.550000011920929
+  },
+  "<CoverItemInitialPosition>k__BackingField": {
+    "x": 0.0,
+    "y": 0.009999999776482582,
+    "z": 0.0
+  },
+  "<PunchScaleTime>k__BackingField": 0.5,
+  "<PunchScaleVibrato>k__BackingField": 15,
+  "<PunchScaleElasticity>k__BackingField": 0.5,
+  "<PunchScaleValue>k__BackingField": {
+    "x": 0.019999999552965164,
+    "y": 0.019999999552965164,
+    "z": 0.019999999552965164
+  },
+  "<PunchScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottleStartScale>k__BackingField": {
+    "x": 0.699999988079071,
+    "y": 0.699999988079071,
+    "z": 0.699999988079071
+  },
+  "<BottleScaleDuration>k__BackingField": 0.5,
+  "<BottleScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.870068550109863,
+        "outSlope": 4.870068550109863,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05788632109761238
+      },
+      {
+        "time": 0.38637271523475647,
+        "value": 0.6983623504638672,
+        "inSlope": -0.0034442711621522903,
+        "outSlope": -0.0034442711621522903,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.09333452582359314
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottlePunchRotationTarget>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.8999999761581421
+  },
+  "<BottlePunchRotationDuration>k__BackingField": 1.0,
+  "<BottlePunchRotationVibrato>k__BackingField": 10,
+  "<BottleWaterShakeDelay>k__BackingField": 0.11999999731779099,
+  "<BottleYMoveTarget>k__BackingField": 3.0,
+  "<BottleMoveYCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.42032188177108765,
+        "outSlope": 0.42032188177108765,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06523840874433517
+      },
+      {
+        "time": 0.2697232961654663,
+        "value": 0.07294625043869019,
+        "inSlope": 0.006685265339910984,
+        "outSlope": 0.006685265339910984,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23525367677211761
+      },
+      {
+        "time": 0.49503135681152344,
+        "value": 0.0004182907287031412,
+        "inSlope": -0.5586339235305786,
+        "outSlope": 0.26921069622039795,
+        "weightedMode": 0,
+        "inWeight": 0.04639199748635292,
+        "outWeight": 0.0876411721110344
+      },
+      {
+        "time": 0.7425293326377869,
+        "value": 0.031134353950619698,
+        "inSlope": -0.007172961253672838,
+        "outSlope": -0.007172961253672838,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.2810027301311493,
+        "outSlope": -0.2810027301311493,
+        "weightedMode": 0,
+        "inWeight": 0.18485766649246216,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottleYMoveDuration>k__BackingField": 0.5,
+  "<RandomOffsetTimeBetweenBottles>k__BackingField": 0.04500000178813934,
+  "<DuckHouseConfigs>k__BackingField": [
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.2999999523162842,
+      "<AnimationLockRemoveTime>k__BackingField": 1.5,
+      "<RevealTime>k__BackingField": 1.2999999523162842,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.350000023841858,
+      "<DuckHouseBrokeTime>k__BackingField": 1.350000023841858,
+      "<DuckHouseHideTime>k__BackingField": 3.0,
+      "<PunchScaleDuration>k__BackingField": 1.0,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.699999988079071,
+        "y": 0.699999988079071,
+        "z": 0.699999988079071
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.6499999761581421,
+        "y": 0.6499999761581421,
+        "z": 0.6499999761581421
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.621000051498413,
+        "z": 0.0
+      }
+    },
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.4500000476837158,
+      "<AnimationLockRemoveTime>k__BackingField": 1.649999976158142,
+      "<RevealTime>k__BackingField": 1.4500000476837158,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.5,
+      "<DuckHouseBrokeTime>k__BackingField": 1.5,
+      "<DuckHouseHideTime>k__BackingField": 3.1500000953674316,
+      "<PunchScaleDuration>k__BackingField": 1.0,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.8500000238418579,
+        "y": 0.8500000238418579,
+        "z": 0.8500000238418579
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.800000011920929,
+        "z": 0.800000011920929
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.5190000534057617,
+        "z": 0.0
+      }
+    },
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.5,
+      "<AnimationLockRemoveTime>k__BackingField": 1.7000000476837158,
+      "<RevealTime>k__BackingField": 1.5,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.5499999523162842,
+      "<DuckHouseBrokeTime>k__BackingField": 1.5499999523162842,
+      "<DuckHouseHideTime>k__BackingField": 3.200000047683716,
+      "<PunchScaleDuration>k__BackingField": 1.0,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.8500000238418579,
+        "y": 0.8500000238418579,
+        "z": 0.8500000238418579
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.800000011920929,
+        "z": 0.800000011920929
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.5190000534057617,
+        "z": 0.0
+      }
+    },
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.75,
+      "<AnimationLockRemoveTime>k__BackingField": 1.9500000476837158,
+      "<RevealTime>k__BackingField": 1.75,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseBrokeTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseHideTime>k__BackingField": 3.450000047683716,
+      "<PunchScaleDuration>k__BackingField": 1.2999999523162842,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.8500000238418579,
+        "y": 0.8500000238418579,
+        "z": 0.8500000238418579
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.800000011920929,
+        "z": 0.800000011920929
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.5190000534057617,
+        "z": 0.0
+      }
+    },
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.75,
+      "<AnimationLockRemoveTime>k__BackingField": 1.9500000476837158,
+      "<RevealTime>k__BackingField": 1.75,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseBrokeTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseHideTime>k__BackingField": 3.450000047683716,
+      "<PunchScaleDuration>k__BackingField": 1.2999999523162842,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.8500000238418579,
+        "y": 0.8500000238418579,
+        "z": 0.8500000238418579
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.800000011920929,
+        "z": 0.800000011920929
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.5190000534057617,
+        "z": 0.0
+      }
+    },
+    {
+      "<BottleAnimationsStartTime>k__BackingField": 1.75,
+      "<AnimationLockRemoveTime>k__BackingField": 1.9500000476837158,
+      "<RevealTime>k__BackingField": 1.75,
+      "<DuckHouseLayersDisableTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseBrokeTime>k__BackingField": 1.7999999523162842,
+      "<DuckHouseHideTime>k__BackingField": 3.450000047683716,
+      "<PunchScaleDuration>k__BackingField": 1.2999999523162842,
+      "<CoverInitialScale>k__BackingField": {
+        "x": 0.8500000238418579,
+        "y": 0.8500000238418579,
+        "z": 0.8500000238418579
+      },
+      "<RemainingCountHolderInitialScale>k__BackingField": {
+        "x": 0.800000011920929,
+        "y": 0.800000011920929,
+        "z": 0.800000011920929
+      },
+      "<RemainingCountHolderInitialPos>k__BackingField": {
+        "x": -0.018300000578165054,
+        "y": -1.5190000534057617,
+        "z": 0.0
+      }
+    }
+  ]
+}

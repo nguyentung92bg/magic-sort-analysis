@@ -1,0 +1,202 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5689"
+  },
+  "m_Name": "JetpackRaceAnimationConfig",
+  "<ChestClaimHideDuration>k__BackingField": 0.5,
+  "<ChestClaimCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.36356085538864136,
+        "outSlope": -0.36356085538864136,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06263785064220428
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.5218279361724854,
+        "outSlope": 2.5218279361724854,
+        "weightedMode": 0,
+        "inWeight": 0.040005505084991455,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ChestBannerSpawnYOffset>k__BackingField": 1.5,
+  "<ChestBannerTargetPositionYOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 0.0
+  },
+  "<ChestBannerMoveDuration>k__BackingField": 0.5,
+  "<ChestBannerMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.8360175490379333,
+        "value": 1.0321649312973022,
+        "inSlope": -0.06525199115276337,
+        "outSlope": -0.06525199115276337,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2554173171520233
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.009271153248846531,
+        "outSlope": 0.009271153248846531,
+        "weightedMode": 0,
+        "inWeight": 0.24831686913967133,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserRankUpMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0015869140625,
+        "inSlope": -1.8361492156982422,
+        "outSlope": -1.8361492156982422,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03731440380215645
+      },
+      {
+        "time": 0.7364813685417175,
+        "value": 1.076824426651001,
+        "inSlope": 0.5600775480270386,
+        "outSlope": 0.5600775480270386,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.239491805434227
+      },
+      {
+        "time": 0.9991455078125,
+        "value": 1.0,
+        "inSlope": 0.11166216433048248,
+        "outSlope": 0.11166216433048248,
+        "weightedMode": 0,
+        "inWeight": 0.3010711073875427,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserWinMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserRankUpMoveDuration>k__BackingField": 1.399999976158142,
+  "<UserWinMoveDuration>k__BackingField": 1.0,
+  "<ClaimParticleOffset>k__BackingField": {
+    "x": 0.0,
+    "y": -1.25,
+    "z": 0.0
+  },
+  "<UserWinAbovePositionOffset>k__BackingField": 12.0,
+  "<BannerHideYOffset>k__BackingField": 2.5,
+  "<ResultViewBottomContainerYOffset>k__BackingField": 3.0,
+  "<UnseenAnimationsDelay>k__BackingField": 0.3499999940395355,
+  "<FirstShowEverDelayBeforeAutoToolbarMilisecond>k__BackingField": 350,
+  "<FirstShowEverDelayAfterAutoToolbarMilisecond>k__BackingField": 1200,
+  "<UserLoseFallDuration>k__BackingField": 1.100000023841858,
+  "<UserLoseFallCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.3310357630252838,
+        "outSlope": 0.3310357630252838,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.7588666677474976
+      },
+      {
+        "time": 0.7818136215209961,
+        "value": 1.0987647771835327,
+        "inSlope": -0.020283270627260208,
+        "outSlope": -0.020283270627260208,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.25589585304260254
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.054668836295604706,
+        "outSlope": -0.054668836295604706,
+        "weightedMode": 0,
+        "inWeight": 0.1150011420249939,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<EnableIdleParticleTime>k__BackingField": 0.699999988079071,
+  "<StageChests>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2196"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4671"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1986"
+    }
+  ],
+  "<JetpackWinSfxDelay>k__BackingField": 0.20000000298023224
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2108"
+  },
+  "m_Name": "TreasureDrillSpriteConfig",
+  "<LockedBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2325"
+  },
+  "<ClaimableBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "1762"
+  },
+  "<ClaimedBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2325"
+  },
+  "<LockedRewardBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2642"
+  },
+  "<ClaimableRewardBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3361"
+  },
+  "<ClaimedRewardBackgroundSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2043"
+  }
+}

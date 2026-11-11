@@ -1,0 +1,71 @@
+public enum CurrencyEarnReason // TypeDefIndex: 5131
+{
+	// Fields
+	public int value__; // 0x0
+	public const CurrencyEarnReason None = 0;
+	public const CurrencyEarnReason LevelWin = 1;
+	public const CurrencyEarnReason HardSuperHardLevel = 2;
+	public const CurrencyEarnReason Shop = 3;
+	public const CurrencyEarnReason StreakTournament = 4;
+	public const CurrencyEarnReason Refill = 5;
+	public const CurrencyEarnReason Debugger = 6;
+	public const CurrencyEarnReason WeeklyTournament = 7;
+	public const CurrencyEarnReason Rewarded2XCoin = 8;
+	public const CurrencyEarnReason RewardedOneLife = 9;
+	public const CurrencyEarnReason TowerWinStreak = 10;
+	public const CurrencyEarnReason MagicStreakTournament = 11;
+	public const CurrencyEarnReason JetpackRace = 12;
+	public const CurrencyEarnReason SkyJump = 13;
+	public const CurrencyEarnReason EndlessPortal = 14;
+	public const CurrencyEarnReason DailyLevelWin = 15;
+	public const CurrencyEarnReason DailyProgressBarStep = 16;
+	public const CurrencyEarnReason SpecialOffer = 17;
+	public const CurrencyEarnReason WelcomeBack = 18;
+	public const CurrencyEarnReason BroomStreak = 19;
+	public const CurrencyEarnReason PawTouchOffer = 20;
+	public const CurrencyEarnReason Compensation = 21;
+	public const CurrencyEarnReason Journey = 22;
+	public const CurrencyEarnReason MagicStreakGae = 23;
+	public const CurrencyEarnReason ChampionsLeague = 24;
+	public const CurrencyEarnReason JetpackJoinLimitless = 25;
+	public const CurrencyEarnReason MagicLab = 26;
+	public const CurrencyEarnReason NoAdsOffer = 27;
+	public const CurrencyEarnReason JetpackRaceWithStage = 28;
+	public const CurrencyEarnReason ChooseOneSpecialOffer = 29;
+	public const CurrencyEarnReason DailyReward = 30;
+	public const CurrencyEarnReason SkyJumpWithStage = 31;
+	public const CurrencyEarnReason WatchAndWin = 32;
+	public const CurrencyEarnReason CollectionChest = 33;
+	public const CurrencyEarnReason CollectionThemeCompleted = 34;
+	public const CurrencyEarnReason CollectionCompleted = 35;
+	public const CurrencyEarnReason CollectionActivated = 36;
+	public const CurrencyEarnReason TeamCardHelp = 37;
+	public const CurrencyEarnReason TeamsFreeLife = 38;
+	public const CurrencyEarnReason TeamsHelpSupport = 39;
+	public const CurrencyEarnReason TreasureDrill = 40;
+	public const CurrencyEarnReason MagicPass = 41;
+	public const CurrencyEarnReason MagicPassFinished = 42;
+	public const CurrencyEarnReason MagicPassTicketClaim = 43;
+	public const CurrencyEarnReason DuckFestival = 44;
+	public const CurrencyEarnReason WheelOfFortune = 45;
+	public const CurrencyEarnReason TeamArena = 46;
+	public const CurrencyEarnReason TeamArenaContribution = 47;
+	public const CurrencyEarnReason TeamArenaProgress = 48;
+	public const CurrencyEarnReason MiniGameUnderwaterTreasures = 49;
+	public const CurrencyEarnReason TeamQuest = 50;
+	public const CurrencyEarnReason Referral = 51;
+	public const CurrencyEarnReason FacebookLogin = 52;
+	public const CurrencyEarnReason MiniGameOffer = 53;
+	public const CurrencyEarnReason BoatRushRaceCompleted = 54;
+	public const CurrencyEarnReason BoatRushTierCompleted = 55;
+	public const CurrencyEarnReason BoatRushJoinLimitless = 56;
+	public const CurrencyEarnReason MergeMiniGameCollectibleItem = 57;
+	public const CurrencyEarnReason MergeMiniGameStageCompleted = 58;
+	public const CurrencyEarnReason MergeMiniGameGrandPrize = 59;
+	public const CurrencyEarnReason WebShopBonus = 60;
+	public const CurrencyEarnReason WindQuest = 61;
+	public const CurrencyEarnReason OnePlusFreeOffer = 62;
+	public const CurrencyEarnReason StrikeShow = 63;
+}
+
+// Namespace: Modules.Contexts.Application.Inventory.Scripts

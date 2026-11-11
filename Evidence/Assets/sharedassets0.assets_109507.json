@@ -1,0 +1,565 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "816"
+  },
+  "m_Name": "WheelOfFortuneAnimationConfig",
+  "<ChipSpawnRandomRange>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "<ChipSpawnDelayConsecutive>k__BackingField": 0.029999999329447746,
+  "<TickAppearTime>k__BackingField": 0.10000000149011612,
+  "<TaskProgressBarFillDuration>k__BackingField": 0.6000000238418579,
+  "<CompletedTextScaleDuration>k__BackingField": 0.4000000059604645,
+  "<CompletedTextScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.424681663513184,
+        "outSlope": 4.424681663513184,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05210597440600395
+      },
+      {
+        "time": 0.43901506066322327,
+        "value": 1.0620901584625244,
+        "inSlope": 0.0587654784321785,
+        "outSlope": 0.0587654784321785,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.20059339702129364
+      },
+      {
+        "time": 0.7638294696807861,
+        "value": 0.9512426853179932,
+        "inSlope": 0.0130927050486207,
+        "outSlope": 0.0130927050486207,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.33757829666137695
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CompletedTextStartScale>k__BackingField": 1.350000023841858,
+  "<TaskProgressBarWidth>k__BackingField": 3.619999885559082,
+  "<TaskProgressBarMinFillRatio>k__BackingField": 0.10000000149011612,
+  "<TaskProgressBarMinMaxFillValue>k__BackingField": {
+    "x": 0.20000000298023224,
+    "y": 3.619999885559082
+  },
+  "<TaskProgressBarMaxFillValueForFullFill>k__BackingField": 3.619999885559082,
+  "<TaskCompleteDelay>k__BackingField": 0.05000000074505806,
+  "<NewTaskAppearCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.424681663513184,
+        "outSlope": 4.424681663513184,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05210597440600395
+      },
+      {
+        "time": 0.43901506066322327,
+        "value": 1.0620901584625244,
+        "inSlope": 0.0587654784321785,
+        "outSlope": 0.0587654784321785,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.20059339702129364
+      },
+      {
+        "time": 0.7638294696807861,
+        "value": 0.9512426853179932,
+        "inSlope": 0.0130927050486207,
+        "outSlope": 0.0130927050486207,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.33757829666137695
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<NewTaskAppearDuration>k__BackingField": 0.18000000715255737,
+  "<OldTaskDissapearDuration>k__BackingField": 0.18000000715255737,
+  "<StageIdlePositions>k__BackingField": [
+    {
+      "x": -2.624000072479248,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": -0.3499999940395355,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": 0.6499999761581421,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": 1.649999976158142,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": 2.6500000953674316,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    }
+  ],
+  "<StageReachedPositions>k__BackingField": [
+    {
+      "x": -2.624000072479248,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": -1.6239999532699585,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": -0.6240000128746033,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": 0.37599998712539673,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    },
+    {
+      "x": 1.3760000467300415,
+      "y": 0.03799999877810478,
+      "z": 0.0
+    }
+  ],
+  "<ProgressBarFullWidth>k__BackingField": 1.8914060592651367,
+  "<ProgressBarFilledSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4980"
+  },
+  "<ProgressBarNotFilledSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "5702"
+  },
+  "<CurrentProgressBarStagePositions>k__BackingField": [
+    {
+      "x": -2.569999933242798,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "x": -1.5700000524520874,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "x": -0.5699999928474426,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "x": 0.4300000071525574,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "x": 1.4299999475479126,
+      "y": 0.0,
+      "z": 0.0
+    }
+  ],
+  "<ProgressBarLastStageFrame>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4091"
+  },
+  "<ProgressBarLastStageFrameSize>k__BackingField": {
+    "x": 1.4170000553131104,
+    "y": 0.426290899515152
+  },
+  "<ProgressBarLastStageFullWidth>k__BackingField": 1.4170000553131104,
+  "<CurrentProgressTextLastStagePosition>k__BackingField": {
+    "x": 0.75,
+    "y": 0.04180033132433891
+  },
+  "<ProgressBarInitialFrameSize>k__BackingField": {
+    "x": 1.8914060592651367,
+    "y": 0.426290899515152
+  },
+  "<CurrentProgressBarSizeY>k__BackingField": 0.426290899515152,
+  "<DelayBeforeProgressBarUpdateAndMoveToNextStage>k__BackingField": 1.0,
+  "<ProgressBarChangeTime>k__BackingField": 0.75,
+  "<ProgressBarStartScrollTime>k__BackingField": 1.0,
+  "<ProgressViewUnlockedTime>k__BackingField": 1.7999999523162842,
+  "<StageUnlockedTime>k__BackingField": 1.600000023841858,
+  "<RevealCurrentProgressBarTime>k__BackingField": 2.200000047683716,
+  "<RevealCurrentProgressBarTextTime>k__BackingField": 2.299999952316284,
+  "<CurrentProgressBarSnapToFinishedBarDuration>k__BackingField": 0.20000000298023224,
+  "<ProgressBarStageScrollDuration>k__BackingField": 0.5,
+  "<FinishedProgressBarStepSize>k__BackingField": {
+    "x": 1.0,
+    "y": 0.262286901473999
+  },
+  "<FinishedProgressBarStageCompleteFillWidth>k__BackingField": 5.579999923706055,
+  "<FinishedProgressBarFrameSizeY>k__BackingField": 0.262286901473999,
+  "<FinishedProgressBarFillSizeY>k__BackingField": 0.16622880101203918,
+  "<EmptyProgressBarStepSize>k__BackingField": {
+    "x": 1.100000023841858,
+    "y": 0.2577090859413147
+  },
+  "<EmptyProgressBarSizeY>k__BackingField": 0.2577090859413147,
+  "<ProgressBarWidth>k__BackingField": 2.930000066757202,
+  "<ProgressBarMinFillRatio>k__BackingField": 0.10000000149011612,
+  "<ProgressBarMinMaxFillValue>k__BackingField": {
+    "x": 0.30000001192092896,
+    "y": 2.930000066757202
+  },
+  "<ProgressBarMaxFillValueForFullFill>k__BackingField": 2.930000066757202,
+  "<ProgressBarFillDuration>k__BackingField": 0.5,
+  "<ProgressDelayDuration>k__BackingField": 0.5,
+  "<DelayAfterUnlockedStageDuration>k__BackingField": 1.2999999523162842,
+  "<DelayBeforeScrollNextStageOnCollectionReturn>k__BackingField": 0.800000011920929,
+  "<ProgressBarStageLockDisappearDuration>k__BackingField": 0.10000000149011612,
+  "<ProgressBarStageGlowAppearDuration>k__BackingField": 0.10000000149011612,
+  "<ProgressBarStageGlowDisappearDuration>k__BackingField": 0.10000000149011612,
+  "<ProgressBarStageTickAppearDuration>k__BackingField": 0.10000000149011612,
+  "<ProgressBarStageLockedWheelSprites>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2550"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4682"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5965"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2078"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3029"
+    }
+  ],
+  "<ProgressBarStageCurrentWheelSprites>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "3739"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5899"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2198"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2873"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5146"
+    }
+  ],
+  "<ProgressBarStageClaimedWheelSprites>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "2858"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4745"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2992"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5467"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4259"
+    }
+  ],
+  "<ScrollBarMaxSize>k__BackingField": 93.16000366210938,
+  "<ScrollBarMinSize>k__BackingField": -11.239999771118164,
+  "<ScrollCompleteThreshold>k__BackingField": 0.20000000298023224,
+  "<DelayBeforeStageButtonClaimed>k__BackingField": 0.5,
+  "<ScrollToNextStageTime>k__BackingField": 1.649999976158142,
+  "<TickScaleOnClaim>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<TickScaleDuration>k__BackingField": 0.20000000298023224,
+  "<LockBackgroundTargetFade>k__BackingField": 0.4745098054409027,
+  "<LockBackgroundTargetFadeDuration>k__BackingField": 0.30000001192092896,
+  "<DragEndJumpDuration>k__BackingField": 0.20000000298023224,
+  "<NextStageJumpDuration>k__BackingField": 0.6000000238418579,
+  "<WaitAfterScrollDuration>k__BackingField": 0.10000000149011612,
+  "<SpinAnimationStartTime>k__BackingField": 0.0,
+  "<RewardRevealAnimationSortOrder>k__BackingField": 105,
+  "<RewardMoveDuration>k__BackingField": 0.8500000238418579,
+  "<RewardScaleDuration>k__BackingField": 0.8500000238418579,
+  "<RewardScaleAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.18635807931423187,
+        "value": 0.7397022843360901,
+        "inSlope": 1.1439504623413086,
+        "outSlope": 1.1439504623413086,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardMoveAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<InitialRewardScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<RewardFirstMoveScale>k__BackingField": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 2.0
+  },
+  "<RewardArrivedShrinkScale>k__BackingField": {
+    "x": 1.100000023841858,
+    "y": 1.100000023841858,
+    "z": 1.100000023841858
+  },
+  "<RewardArrivedShrinkDuration>k__BackingField": 0.10000000149011612,
+  "<RewardArrivedShrinkCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.5849394798278809,
+        "outSlope": 0.5849394798278809,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04805302247405052
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.6963247060775757,
+        "outSlope": 1.6963247060775757,
+        "weightedMode": 0,
+        "inWeight": 0.02485501766204834,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardArrivedZoomScale>k__BackingField": {
+    "x": 2.200000047683716,
+    "y": 2.200000047683716,
+    "z": 2.200000047683716
+  },
+  "<RewardArrivedZoomDuration>k__BackingField": 0.20000000298023224,
+  "<RewardArrivedZoomCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.5849394798278809,
+        "outSlope": 0.5849394798278809,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04805302247405052
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.6963247060775757,
+        "outSlope": 1.6963247060775757,
+        "weightedMode": 0,
+        "inWeight": 0.02485501766204834,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardBackgroundFadeInDuration>k__BackingField": 0.20000000298023224,
+  "<RewardBackgroundFadeInTarget>k__BackingField": 0.800000011920929,
+  "<TextScaleAnimationDuration>k__BackingField": 0.4000000059604645,
+  "<TextAnimationScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.001220703125,
+        "value": 1.0,
+        "inSlope": -0.7369045615196228,
+        "outSlope": -0.7369045615196228,
+        "weightedMode": 0,
+        "inWeight": 0.025691738352179527,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AccelerationDuration>k__BackingField": 0.5,
+  "<ConstantVelocityDuration>k__BackingField": 0.3700000047683716,
+  "<DecelerationDuration>k__BackingField": 4.0,
+  "<FullRotationCount>k__BackingField": 8,
+  "<MovementDurationWithoutFinalStrategyBehavior>k__BackingField": 4.869999885559082,
+  "<FinalStrategyDuration>k__BackingField": 1.5,
+  "<FinalStrategyRewardSoundProgress>k__BackingField": 0.8999999761581421,
+  "<LightBlinkDuration>k__BackingField": 0.8999999761581421,
+  "<LightBlinkInterval>k__BackingField": 0.15000000596046448,
+  "<FallBackCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<OvershootCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": -1.2000000476837158,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.6000000238418579,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

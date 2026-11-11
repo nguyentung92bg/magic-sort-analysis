@@ -1,0 +1,365 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1904"
+  },
+  "m_Name": "DuckAnimationConfig",
+  "<BezierDuration>k__BackingField": 0.5,
+  "<BezierMoveTime>k__BackingField": 0.5,
+  "<BezierSpeedCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.2646884322166443,
+        "outSlope": 0.2646884322166443,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03079076297581196
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.227987766265869,
+        "outSlope": 2.227987766265869,
+        "weightedMode": 0,
+        "inWeight": 0.01609516143798828,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AdditionalCeilingOffset>k__BackingField": 2.0,
+  "<PrepareTopPosition>k__BackingField": {
+    "x": 0.0,
+    "y": 5.900000095367432,
+    "z": 0.0
+  },
+  "<PrepareDuration>k__BackingField": 0.44999998807907104,
+  "<PrepareCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.697668075561523,
+        "outSlope": 5.697668075561523,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.009293679147958755
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.17044146358966827,
+        "outSlope": 0.17044146358966827,
+        "weightedMode": 0,
+        "inWeight": 0.12621361017227173,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<SqueezeAnimTime>k__BackingField": 0.0,
+  "<SqueezeAnimDuration>k__BackingField": 0.05000000074505806,
+  "<SqueezeAnimValue>k__BackingField": {
+    "x": 0.800000011920929,
+    "y": 1.2000000476837158,
+    "z": 0.0
+  },
+  "<SqueezeCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PrepareFadeTime>k__BackingField": 0.05000000074505806,
+  "<PrepareFadeDuration>k__BackingField": 0.10000000149011612,
+  "<RevealTime>k__BackingField": 0.5,
+  "<SlowDownAnimTime>k__BackingField": 0.10000000149011612,
+  "<SlowDownDuration>k__BackingField": 0.05000000074505806,
+  "<SlowDownScaleValue>k__BackingField": {
+    "x": 1.0499999523162842,
+    "y": 0.949999988079071,
+    "z": 1.0
+  },
+  "<SlowDownCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.8215027451515198,
+        "outSlope": 0.8215027451515198,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.2619841992855072
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.0329274944961071,
+        "outSlope": -0.0329274944961071,
+        "weightedMode": 0,
+        "inWeight": 0.07956820726394653,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<StretchBackAnimTime>k__BackingField": 0.25,
+  "<StretchBackDuration>k__BackingField": 0.25,
+  "<StretchBackAnimValue>k__BackingField": {
+    "x": 1.25,
+    "y": 1.25,
+    "z": 1.25
+  },
+  "<StretchBackCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -2.8903462886810303,
+        "outSlope": -2.8903462886810303,
+        "weightedMode": 0,
+        "inWeight": 0.05016183853149414,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RotationAnimTime>k__BackingField": 0.30000001192092896,
+  "<RotationAnimDuration>k__BackingField": 0.10000000149011612,
+  "<RotationAnimValue>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -15.0
+  },
+  "<RotationAnimCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.8215027451515198,
+        "outSlope": 0.8215027451515198,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.2619841992855072
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.0329274944961071,
+        "outSlope": -0.0329274944961071,
+        "weightedMode": 0,
+        "inWeight": 0.07956820726394653,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<HitParticleTime>k__BackingField": 0.5,
+  "<PrepareTime>k__BackingField": 0.0,
+  "<EndTime>k__BackingField": 1.5499999523162842,
+  "<RotateDuration>k__BackingField": 0.18000000715255737,
+  "<ScaleDuration>k__BackingField": 0.15000000596046448,
+  "<ScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.9552754759788513,
+        "outSlope": -0.9552754759788513,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06784386187791824
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.5339159965515137,
+        "outSlope": 2.5339159965515137,
+        "weightedMode": 0,
+        "inWeight": 0.028748691082000732,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RotateCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.8215027451515198,
+        "outSlope": 0.8215027451515198,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.2619841992855072
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.0329274944961071,
+        "outSlope": -0.0329274944961071,
+        "weightedMode": 0,
+        "inWeight": 0.07956820726394653,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScaleTime>k__BackingField": 2.0,
+  "<KeyUnlockParticleTime>k__BackingField": 1.149999976158142,
+  "<UnlockSoundTime>k__BackingField": 0.550000011920929,
+  "<KeySfxTime>k__BackingField": 0.0,
+  "<HideTime>k__BackingField": 0.699999988079071,
+  "<HideDuration>k__BackingField": 0.30000001192092896,
+  "<HideAnimScaleValue>k__BackingField": {
+    "x": 0.8999999761581421,
+    "y": 0.8999999761581421,
+    "z": 0.8999999761581421
+  },
+  "<HideCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FadeOutTime>k__BackingField": 1.0,
+  "<FadeOutDuration>k__BackingField": 0.0,
+  "<CompletedBySnitchScaleDuration>k__BackingField": 0.23999999463558197,
+  "<CompletedBySnitchScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.39866259694099426,
+        "outSlope": -0.39866259694099426,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08734224736690521
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.257294178009033,
+        "outSlope": 3.257294178009033,
+        "weightedMode": 0,
+        "inWeight": 0.051790498197078705,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_data": [
+    {
+      "DuckType": 5,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2491"
+      }
+    },
+    {
+      "DuckType": 4,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5565"
+      }
+    },
+    {
+      "DuckType": 2,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "4071"
+      }
+    },
+    {
+      "DuckType": 3,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5491"
+      }
+    },
+    {
+      "DuckType": 1,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "3137"
+      }
+    },
+    {
+      "DuckType": 6,
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "1976"
+      }
+    }
+  ]
+}

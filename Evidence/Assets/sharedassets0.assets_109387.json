@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3424"
+  },
+  "m_Name": "MagicPassRevealCurrencyViewFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "21013"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 2,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12615"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 4,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12595"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 5,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12618"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 6,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12661"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 14,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12510"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

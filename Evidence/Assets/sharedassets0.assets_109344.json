@@ -1,0 +1,215 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6639"
+  },
+  "m_Name": "BoatRushBannerAnimationConfig",
+  "<ScaleInTarget>k__BackingField": {
+    "x": 1.25,
+    "y": 1.25,
+    "z": 1.0
+  },
+  "<ScaleInDuration>k__BackingField": 0.30000001192092896,
+  "<ScaleInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.665642499923706,
+        "value": 1.2143707275390625,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScaleOutDuration>k__BackingField": 0.25,
+  "<ScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.382808208465576,
+        "outSlope": 3.382808208465576,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03470297530293465
+      },
+      {
+        "time": 0.5120288133621216,
+        "value": 1.3498048782348633,
+        "inSlope": 0.0004202127456665039,
+        "outSlope": 0.0004202127456665039,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.08268717676401138,
+        "outSlope": -0.08268717676401138,
+        "weightedMode": 0,
+        "inWeight": 0.1662716418504715,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserViewMoveDuration>k__BackingField": 0.4000000059604645,
+  "<UserViewMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.049607992172241,
+        "outSlope": 3.049607992172241,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.025027837604284286
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.08486536145210266,
+        "outSlope": 0.08486536145210266,
+        "weightedMode": 0,
+        "inWeight": 0.06618183851242065,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<OpponentViewMoveDuration>k__BackingField": 0.3499999940395355,
+  "<OpponentViewMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.047438383102417,
+        "outSlope": 2.047438383102417,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05971852317452431
+      },
+      {
+        "time": 0.6401843428611755,
+        "value": 1.1204477548599243,
+        "inSlope": -0.011999804526567459,
+        "outSlope": -0.011999804526567459,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23774230480194092
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.005182201042771339,
+        "outSlope": -0.005182201042771339,
+        "weightedMode": 0,
+        "inWeight": 0.3724837005138397,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ParticleTime>k__BackingField": 0.8799999952316284,
+  "<ParticleOffset>k__BackingField": {
+    "x": 0.0,
+    "y": -0.3499999940395355,
+    "z": 0.0
+  },
+  "<UserRankScaleDuration>k__BackingField": 0.1899999976158142,
+  "<UserRankScaleInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.476229667663574,
+        "outSlope": 5.476229667663574,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.024865897372364998
+      },
+      {
+        "time": 0.5137338638305664,
+        "value": 1.1983217000961304,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserRankScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -1.254324197769165,
+        "outSlope": -1.254324197769165,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.059386879205703735
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.235586643218994,
+        "outSlope": 2.235586643218994,
+        "weightedMode": 0,
+        "inWeight": 0.02661740779876709,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AnimationDelay>k__BackingField": 0.20000000298023224
+}

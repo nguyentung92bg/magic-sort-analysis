@@ -1,0 +1,626 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1364"
+  },
+  "m_Name": "CollectionAnimationConfig",
+  "OpeningPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "OpeningPositionMoveDuration": 0.30000001192092896,
+  "OpeningPositionMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "OpeningCardMoveInterval": 0.20000000298023224,
+  "OpeningCardMoveDuration": 0.30000001192092896,
+  "OpeningCardMoveXDuration": 0.25,
+  "OpeningCardMoveYDuration": 0.30000001192092896,
+  "OpeningCardScaleDuration": 0.20000000298023224,
+  "OpeningCardMoveXCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.7527599334716797,
+        "outSlope": 2.7527599334716797,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.01539538148790598
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.04159277305006981,
+        "outSlope": -0.04159277305006981,
+        "weightedMode": 0,
+        "inWeight": 0.039188265800476074,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "OpeningCardMoveYCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.407392978668213,
+        "outSlope": 3.407392978668213,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.01739850826561451
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.5781645774841309,
+        "outSlope": -0.5781645774841309,
+        "weightedMode": 0,
+        "inWeight": 0.03428971767425537,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "OpeningCardScale": 0.6499999761581421,
+  "OpeningTitleHideDelay": 1.2000000476837158,
+  "OpeningOtherPackMoveStartPosition": {
+    "x": 7.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "CardRevealAnimationDelay": 0.20000000298023224,
+  "CardRevealAnimationStartScale": 0.10000000149011612,
+  "CardPackOpenClip": {
+    "m_FileID": 0,
+    "m_PathID": "855"
+  },
+  "CardPackOpenInstantClip": {
+    "m_FileID": 0,
+    "m_PathID": "856"
+  },
+  "CardPackExitClip": {
+    "m_FileID": 0,
+    "m_PathID": "853"
+  },
+  "CardPackIdleAnim": {
+    "m_FileID": 0,
+    "m_PathID": "854"
+  },
+  "PackCapSoundFxTime": 0.8999999761581421,
+  "OpeningCardRotationTime": 0.0,
+  "OpeningCardRotationDuration": 0.05000000074505806,
+  "OpeningCardRotationResetTime": 0.10000000149011612,
+  "CardPackOpenInstantTime": 0.03333333507180214,
+  "NewCardScaleOutDuration": 0.4000000059604645,
+  "NewCardScaleOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -1.4522864818572998,
+        "outSlope": -1.4522864818572998,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.24575532972812653
+      },
+      {
+        "time": 0.38461920619010925,
+        "value": -0.026380810886621475,
+        "inSlope": 1.2048054933547974,
+        "outSlope": 1.2048054933547974,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "NewCardParticleDelay": 0.15000000596046448,
+  "NewCardParticleStopDelay": 0.6499999761581421,
+  "NewCardDuplicatedWaitDuration": 1.0,
+  "DuplicateCardScaleOutDuration": 0.4000000059604645,
+  "DuplicateCardScaleOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -1.4522864818572998,
+        "outSlope": -1.4522864818572998,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.24575532972812653
+      },
+      {
+        "time": 0.38461920619010925,
+        "value": -0.026380810886621475,
+        "inSlope": 1.2048054933547974,
+        "outSlope": 1.2048054933547974,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "DuplicateCardParticleDelay": 0.15000000596046448,
+  "DuplicateCardParticleStopDelay": 0.6499999761581421,
+  "DuplicateStarsCreateDelay": 0.25,
+  "DuplicateStarsMoveDelay": 0.550000011920929,
+  "BonusChestShowDelay": 0.10000000149011612,
+  "BonusChestShowDuration": 0.20000000298023224,
+  "BonusChestHideMoveDelay": 1.7000000476837158,
+  "BonusChestDisableDelay": 2.200000047683716,
+  "BonusChestEndDelay": 0.009999999776482582,
+  "BonusChestHideMovePosition": {
+    "x": 3.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "CompleteChestIntroAnimClip": {
+    "m_FileID": 0,
+    "m_PathID": "949"
+  },
+  "CompleteBottomTextScaleInTime": 0.3499999940395355,
+  "CompleteBottomTextScaleInDuration": 0.33000001311302185,
+  "CompleteBottomTextScaleInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.7688772678375244,
+        "value": 1.119045615196228,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteBottomTextScaleOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.4638175666332245,
+        "outSlope": 0.4638175666332245,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.10148975998163223
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteBottomTextScaleOutDuration": 0.20000000298023224,
+  "CompleteBackgroundFadeInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteBackgroundFadeInDuration": 0.30000001192092896,
+  "CompleteBackgroundFadeInValue": 0.8999999761581421,
+  "CompleteBackgroundFadeOutDuration": 0.30000001192092896,
+  "CompleteBackgroundFadeOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteTokenCurrencyMoveDelay": 0.699999988079071,
+  "CompleteTokenCurrencyMoveDuration": 0.6000000238418579,
+  "CompleteTokenCurrencyMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteTokenCurrencyScaleDuration": 0.6000000238418579,
+  "CompleteTokenCurrencyScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteTokenTargetRotation": {
+    "x": 0.0,
+    "y": 550.0,
+    "z": 0.0
+  },
+  "CompleteTokenRotationDuration": 2.5,
+  "CompleteTokenRotationLoopDuration": 2.0,
+  "CompleteTokenTargetLoopRotation": {
+    "x": 0.0,
+    "y": 530.0,
+    "z": 0.0
+  },
+  "CompleteTokenPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -7.0
+  },
+  "CompleteCurrencyMoveDelay": 0.6499999761581421,
+  "CompleteCurrencyMoveDuration": 0.6000000238418579,
+  "CompleteCurrencyMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteCurrencyScaleDuration": 0.30000001192092896,
+  "CompleteCurrencyScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CurrencySortOrder": 75,
+  "CompleteTokenMoveDelay": 0.25,
+  "CompleteTokenMoveDuration": 0.5,
+  "CompleteTokenMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteTokenScale": 1.0,
+  "CompleteTokenScaleDuration": 0.30000001192092896,
+  "CompleteTokenScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteChestScaleOutDuration": 0.05000000074505806,
+  "CompleteInfoTextScaleInDelay": 0.20000000298023224,
+  "CompleteInfoTextScaleInDuration": 0.25,
+  "CompleteInfoTextScaleInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.5594806671142578,
+        "outSlope": -0.5594806671142578,
+        "weightedMode": 0,
+        "inWeight": 0.17083334922790527,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteProfileInfoScaleInDelay": 0.15000000596046448,
+  "CompleteProfileInfoScaleInDuration": 0.25,
+  "CompleteProfileInfoScaleInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.6371864676475525,
+        "outSlope": -0.6371864676475525,
+        "weightedMode": 0,
+        "inWeight": 0.1499999761581421,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteEquipButtonScaleInDelay": 0.10000000149011612,
+  "CompleteEquipButtonScaleInDuration": 0.25,
+  "CompleteEquipButtonScaleInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.9881531596183777,
+        "outSlope": -0.9881531596183777,
+        "weightedMode": 0,
+        "inWeight": 0.10833334922790527,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CompleteTokenSpotlightOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.10000000149011612
+  },
+  "CardSelectMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CardSelectMoveDuration": 0.20000000298023224,
+  "CardSelectScaleAmount": 1.75
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "35949"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2626"
+  },
+  "m_Name": "",
+  "_id": 1,
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "121638"
+  },
+  "_spriteConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109403"
+  },
+  "_userNameText": {
+    "m_FileID": 0,
+    "m_PathID": "112852"
+  },
+  "_profileImageView": {
+    "m_FileID": 0,
+    "m_PathID": "116462"
+  },
+  "_medalView": {
+    "m_FileID": 0,
+    "m_PathID": "112414"
+  },
+  "_backgroundView": {
+    "m_FileID": 0,
+    "m_PathID": "120325"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "123180"
+  },
+  "_hatImage": {
+    "m_FileID": 0,
+    "m_PathID": "110969"
+  }
+}

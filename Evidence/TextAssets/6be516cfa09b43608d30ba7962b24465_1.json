@@ -1,0 +1,18 @@
+{
+  "IsEnabled": false,
+  "EventType": 18,
+  "FirstLevelToShow": 100,
+  "InitialEnergyCount": 5,
+  "NormalLevelEnergyCount": 1,
+  "HardLevelEnergyCount": 2,
+  "SuperHardLevelEnergyCount": 3,
+  "AutoOpenEnabledOnFinish": true,
+  "FirstTryMultiplier": 0,
+  "AutoOpenEnergyCountBeforeThreshold": 50,
+  "AutoOpenEnergyCountAfterThreshold": 100,
+  "AutoOpenEnergyCountThreshold": 9,
+  "Multiplier2xUnlockStage": 4,
+  "Multiplier4xUnlockStage": 8,
+  "ForceOpenCount": 2,
+  "FirstStageToShowNewItemFound": 5
+}

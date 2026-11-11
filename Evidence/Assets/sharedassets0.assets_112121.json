@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "37729"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "390"
+  },
+  "m_Name": "",
+  "_particleSystem": {
+    "m_FileID": 0,
+    "m_PathID": "80963"
+  },
+  "_spriteEntries": [
+    {
+      "SpriteId": "f71c79a0a1b89b74fbe8d16ed894339c_21300000",
+      "SpriteIndex": 0
+    }
+  ]
+}

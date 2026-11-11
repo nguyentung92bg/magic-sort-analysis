@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "27789"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "752"
+  },
+  "m_Name": "",
+  "_timer": {
+    "m_FileID": 0,
+    "m_PathID": "110036"
+  },
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": "117956"
+  },
+  "_coinText": {
+    "m_FileID": 0,
+    "m_PathID": "111641"
+  },
+  "_limitlessLifeText": {
+    "m_FileID": 0,
+    "m_PathID": "121371"
+  },
+  "_offText": {
+    "m_FileID": 0,
+    "m_PathID": "122649"
+  },
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "116512"
+  },
+  "_tickContainer": {
+    "m_FileID": 0,
+    "m_PathID": "55596"
+  },
+  "_buyButtonTransform": {
+    "m_FileID": 0,
+    "m_PathID": "65528"
+  },
+  "_tickHitParticle": {
+    "m_FileID": 0,
+    "m_PathID": "82177"
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "109427"
+  }
+}

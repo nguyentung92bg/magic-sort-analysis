@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2496"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6229"
+  },
+  "m_Name": "",
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "13877"
+  },
+  "_scrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "13878"
+  },
+  "_viewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "13876"
+  },
+  "_leaderboardDegrees": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13618"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14441"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13516"
+    }
+  ],
+  "_stickyScrollElementsController": {
+    "m_FileID": 0,
+    "m_PathID": "13879"
+  },
+  "_noInternetConnectionGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "4019"
+  },
+  "_visibleParentGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "4315"
+  },
+  "_heroImage": {
+    "m_FileID": 0,
+    "m_PathID": "3254"
+  }
+}

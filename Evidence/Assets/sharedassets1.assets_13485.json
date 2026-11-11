@@ -1,0 +1,400 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5100"
+  },
+  "m_Name": "BlobAnimationConfig",
+  "<BlobMoveUpDuration>k__BackingField": 0.15000000596046448,
+  "<BlobMoveUpCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.1787627935409546,
+        "outSlope": 1.1787627935409546,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.07478242367506027
+      },
+      {
+        "time": 0.8065810799598694,
+        "value": 1.0242208242416382,
+        "inSlope": 0.003629308193922043,
+        "outSlope": 0.003629308193922043,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.30721449851989746
+      },
+      {
+        "time": 0.9188148379325867,
+        "value": 0.9796250462532043,
+        "inSlope": -0.02107325755059719,
+        "outSlope": -0.02107325755059719,
+        "weightedMode": 0,
+        "inWeight": 0.36619916558265686,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BezierResolution>k__BackingField": 20,
+  "<BezierMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0694732517004013,
+        "outSlope": 0.0694732517004013,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0591316856443882
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.2995485067367554,
+        "outSlope": 1.2995485067367554,
+        "weightedMode": 0,
+        "inWeight": 0.04558151960372925,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BlobEnterBottleBezierNodeOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 3.0
+  },
+  "<BlobStartBezierNodeOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 1.5
+  },
+  "<BlobInsideBottleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottleTopEntranceOffset>k__BackingField": {
+    "x": 0.0,
+    "y": -2.200000047683716,
+    "z": 0.0
+  },
+  "<BlobTopPositionOffset>k__BackingField": 3.5,
+  "<BezierShortDuration>k__BackingField": 0.23999999463558197,
+  "<BezierLongDuration>k__BackingField": 0.3199999928474426,
+  "<BezierShortDistanceThreshold>k__BackingField": 7.0,
+  "<BlobMoveToBottomMinMaxDuration>k__BackingField": {
+    "x": 0.05999999865889549,
+    "y": 0.16500000655651093
+  },
+  "<BlobInsideMinMaxDistance>k__BackingField": {
+    "x": 0.10000000149011612,
+    "y": 14.100000381469727
+  },
+  "<BlobPathDurationSubtracted>k__BackingField": 0.004999999888241291,
+  "<BlobXYSizeForHeight>k__BackingField": [
+    {
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 2.5
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 2.75
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 3.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 3.25
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 3.5
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 3.75
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    },
+    {
+      "x": 2.299999952316284,
+      "y": 5.0
+    }
+  ],
+  "<BlobSizeChangeDuration>k__BackingField": 0.029999999329447746,
+  "<BlobEndSize>k__BackingField": {
+    "x": 1.850000023841858,
+    "y": 2.0
+  },
+  "<BlobHeightToScaleMultiplier>k__BackingField": 0.05000000074505806,
+  "<BlobScaleDuration>k__BackingField": 0.07000000029802322,
+  "<BlobScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.946662187576294,
+        "outSlope": 2.946662187576294,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.02884538099169731
+      },
+      {
+        "time": 0.7310512065887451,
+        "value": 1.0513434410095215,
+        "inSlope": 0.016659162938594818,
+        "outSlope": 0.016659162938594818,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.22956694662570953
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BlobScaleTime>k__BackingField": 0.15000000596046448,
+  "<BlobMaxScale>k__BackingField": 1.350000023841858,
+  "<BlobDeselectMoveDuration>k__BackingField": 0.18000000715255737,
+  "<BlobDeselectMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.4027860462665558,
+        "outSlope": 0.4027860462665558,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08302302658557892
+      },
+      {
+        "time": 0.9440122246742249,
+        "value": 0.9634217619895935,
+        "inSlope": 1.8596417903900146,
+        "outSlope": 1.8596417903900146,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.07341281324625015,
+        "outSlope": -0.07341281324625015,
+        "weightedMode": 0,
+        "inWeight": 0.6779221892356873,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BlobResetScaleDuration>k__BackingField": 0.05000000074505806,
+  "<BlobBezierControlPointsByBottleDistance>k__BackingField": [
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 1.75,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.200000047683716,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 1.899999976158142,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.4000000953674316,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 2.0999999046325684,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.5999999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 2.4000000953674316,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.9000000953674316,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 2.700000047683716,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 4.199999809265137,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.0,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 4.5,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.200000047683716,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 4.800000190734863,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.4000000953674316,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 5.099999904632568,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.5999999046325684,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 5.400000095367432,
+        "z": 0.0
+      }
+    },
+    {
+      "<StartControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 3.799999952316284,
+        "z": 0.0
+      },
+      "<EndControlPoint>k__BackingField": {
+        "x": 0.0,
+        "y": 5.699999809265137,
+        "z": 0.0
+      }
+    }
+  ]
+}

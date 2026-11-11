@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1003"
+  },
+  "m_Name": "DailyBelowWaterStart",
+  "_speed": 50.0,
+  "_transitionStartDuration": 0.15000000596046448,
+  "_transitionEndEndDuration": 0.800000011920929,
+  "_transitionEndDurationDecreased": 0.0,
+  "_aboveWaveLength": 2.0,
+  "_aboveWaveHeightStart": 0.0,
+  "_aboveWaveHeightEnd": 0.10000000149011612,
+  "_aboveWaveDirectionX": 0.75,
+  "_aboveWaveDirectionY": 0.0,
+  "_belowWaveLength": 2.0,
+  "_belowWaveHeightStart": 0.0,
+  "_belowWaveHeightEnd": 0.10000000149011612,
+  "_belowWaveDirectionX": 0.0,
+  "_belowWaveDirectionY": 0.10000000149011612,
+  "_belowWaveCustomTime": 0.0,
+  "_belowAditionalWaveHeight": 0.0,
+  "_customFirstHalfDuration": 0.2800000011920929,
+  "_customSecondHalfDuration": 0.550000011920929
+}

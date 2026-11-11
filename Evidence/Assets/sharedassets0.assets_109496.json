@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4387"
+  },
+  "m_Name": "TowerWinStreakAreYouSureAnimationConfig-Quit",
+  "<MoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.007791213691234589,
+        "outSlope": 0.007791213691234589,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.6479918956756592
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MoveDuration>k__BackingField": 0.3799999952316284,
+  "<CatTargetY>k__BackingField": -7.0,
+  "<BroomDownMultiplier>k__BackingField": 3.0,
+  "<BroomMoveDuration>k__BackingField": 0.4000000059604645,
+  "<BroomMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0034848812501877546,
+        "outSlope": 0.0034848812501877546,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.6217471361160278
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BroomTweenTime>k__BackingField": 0.6499999761581421,
+  "<MoveTweenTime>k__BackingField": 1.2999999523162842,
+  "<TotalTweenTime>k__BackingField": 1.100000023841858,
+  "<SmokeParticleTime>k__BackingField": 1.600000023841858
+}

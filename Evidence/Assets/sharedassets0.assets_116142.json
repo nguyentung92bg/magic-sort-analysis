@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "19497"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "616"
+  },
+  "m_Name": "",
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "122923"
+  },
+  "_scrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "117190"
+  },
+  "_viewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "119878"
+  },
+  "_verticalProgressBarView": {
+    "m_FileID": 0,
+    "m_PathID": "113734"
+  },
+  "_stepSeparatorView": {
+    "m_FileID": 0,
+    "m_PathID": "116999"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109384"
+  }
+}

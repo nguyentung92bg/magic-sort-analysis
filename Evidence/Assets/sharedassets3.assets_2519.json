@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6487"
+  },
+  "m_Name": "NavigationManagerAnimationConfig",
+  "selectedIconScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.13340511918067932,
+        "value": 0.5460710525512695,
+        "inSlope": 0.006787811405956745,
+        "outSlope": 0.006787811405956745,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8978271484375,
+        "value": 0.0044403076171875,
+        "inSlope": -2.5821480751037598,
+        "outSlope": -2.5821480751037598,
+        "weightedMode": 0,
+        "inWeight": 0.027824264019727707,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "selectedIconScaleDuration": 0.25,
+  "swipeDuration": 0.6000000238418579,
+  "swipeAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.825890064239502,
+        "outSlope": 2.825890064239502,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.02313624694943428
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.06374431401491165,
+        "outSlope": 0.06374431401491165,
+        "weightedMode": 0,
+        "inWeight": 0.06649580597877502,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PunchScale>k__BackingField": {
+    "x": 0.07999999821186066,
+    "y": 0.07999999821186066,
+    "z": 0.0
+  },
+  "<PunchDuration>k__BackingField": 0.23999999463558197,
+  "<PunchVibrato>k__BackingField": 1,
+  "<PunchElasticity>k__BackingField": 1.0
+}

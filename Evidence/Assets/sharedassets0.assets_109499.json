@@ -1,0 +1,247 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2480"
+  },
+  "m_Name": "ChestSpriteConfig",
+  "<_chestSpriteModels>k__BackingField": [
+    {
+      "<ChestId>k__BackingField": 1,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "2643"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 2,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5433"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 3,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "1556"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 4,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "2490"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 5,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3148"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 6,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3509"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 7,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5862"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 8,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "2262"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 9,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "4936"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 10,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "1606"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 11,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "4044"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 12,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "4790"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 13,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3274"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 14,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5888"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 15,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3919"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 16,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "4006"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 17,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5069"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 18,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5760"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 19,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "1992"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 20,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "5726"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 21,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3596"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 22,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3994"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 23,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3123"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 24,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "2025"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 25,
+      "<Sprite>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "3926"
+      }
+    }
+  ],
+  "<ChestSpriteLibraryModels>k__BackingField": [
+    {
+      "<ChestId>k__BackingField": 1,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109561"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 2,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109571"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 3,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109572"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 4,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109558"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 5,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109557"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 6,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109556"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 7,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109575"
+      }
+    },
+    {
+      "<ChestId>k__BackingField": 8,
+      "<SpriteLibraryAsset>k__BackingField": {
+        "m_FileID": 0,
+        "m_PathID": "109564"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "9481"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3619"
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "116841"
+  },
+  "_rewardParent": {
+    "m_FileID": 0,
+    "m_PathID": "67660"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109302"
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "76995"
+  },
+  "_openAnimationClip": {
+    "m_FileID": 0,
+    "m_PathID": "954"
+  },
+  "_openAnimationWithoutDarkeningClip": {
+    "m_FileID": 0,
+    "m_PathID": "953"
+  },
+  "_openImmediateAnimationClip": {
+    "m_FileID": 0,
+    "m_PathID": "955"
+  },
+  "_unlockParticle": {
+    "m_FileID": 0,
+    "m_PathID": "17248"
+  },
+  "_hatSpriteRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "95920"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "102667"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "94872"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "95979"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "98469"
+    }
+  ]
+}

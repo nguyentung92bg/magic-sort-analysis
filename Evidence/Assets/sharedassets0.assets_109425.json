@@ -1,0 +1,392 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4868"
+  },
+  "m_Name": "MiniGameItemDataConfig",
+  "Items": [
+    {
+      "Type": 0,
+      "Width": 2,
+      "Height": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5142"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2113"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 1,
+      "Width": 1,
+      "Height": 3,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1466"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3258"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 2,
+      "Width": 1,
+      "Height": 4,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1758"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4853"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 3,
+      "Width": 2,
+      "Height": 2,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3953"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2555"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 4,
+      "Width": 1,
+      "Height": 4,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3844"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3498"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 5,
+      "Width": 1,
+      "Height": 4,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3792"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3843"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 6,
+      "Width": 3,
+      "Height": 2,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5335"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3061"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 7,
+      "Width": 4,
+      "Height": 2,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3209"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3286"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 8,
+      "Width": 3,
+      "Height": 3,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5017"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2067"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 9,
+      "Width": 3,
+      "Height": 3,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "2012"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4920"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 10,
+      "Width": 2,
+      "Height": 5,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3618"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1820"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 11,
+      "Width": 3,
+      "Height": 3,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5504"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2655"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 12,
+      "Width": 2,
+      "Height": 7,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1770"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4469"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 13,
+      "Width": 4,
+      "Height": 4,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "4095"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4882"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "121090"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "112951"
+      }
+    },
+    {
+      "Type": 14,
+      "Width": 1,
+      "Height": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "110959"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    },
+    {
+      "Type": 15,
+      "Width": 1,
+      "Height": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5196"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "111732"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    },
+    {
+      "Type": 16,
+      "Width": 1,
+      "Height": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "4576"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "111732"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    },
+    {
+      "Type": 17,
+      "Width": 1,
+      "Height": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5022"
+      },
+      "SlotSprite": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      },
+      "ItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "111732"
+      },
+      "ItemSlotPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "0"
+      }
+    }
+  ]
+}

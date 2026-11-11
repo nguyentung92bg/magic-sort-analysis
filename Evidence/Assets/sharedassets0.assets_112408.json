@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "14003"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1074"
+  },
+  "m_Name": "",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "119757"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119527"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115463"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121780"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114522"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120995"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110858"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118341"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113059"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": []
+}

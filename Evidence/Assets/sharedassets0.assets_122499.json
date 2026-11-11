@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "27620"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2158"
+  },
+  "m_Name": "",
+  "_rewardSlots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "109694"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120039"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112560"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120919"
+    }
+  ],
+  "_layoutConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109473"
+  }
+}

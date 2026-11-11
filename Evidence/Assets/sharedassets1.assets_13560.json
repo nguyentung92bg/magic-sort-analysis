@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7250"
+  },
+  "m_Name": "GameplayConfigs",
+  "<BottleCollectionCameraConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13553"
+  },
+  "<BottleCollectionCameraConfigNewBackground>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13554"
+  },
+  "<BottleCollectionZoomedCameraConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13555"
+  },
+  "<BottleCollectionZoomedAndNewBackgroundCameraConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13556"
+  },
+  "<FailFlowAnimationTallBottlesConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13561"
+  },
+  "<GameUIViewTallBottlesConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13558"
+  },
+  "<GameUIViewTallBottlesAndNewBackgroundCameraConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13559"
+  },
+  "<ConfigsByBottleHeight>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13518"
+  },
+  "<LevelEntranceAnimationConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13547"
+  },
+  "<InLevelBoosterAnimationConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13546"
+  },
+  "<IceConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13529"
+  },
+  "<BottleCollectionPlacementConfig>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "13557"
+  }
+}

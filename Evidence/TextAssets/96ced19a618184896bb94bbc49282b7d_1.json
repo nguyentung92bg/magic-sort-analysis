@@ -1,0 +1,698 @@
+{
+  "IAPStatModels": [
+    {
+      "EventToken": "2r6v62",
+      "ProductId": "sort.starterbundle1"
+    },
+    {
+      "EventToken": "77dixk",
+      "ProductId": "sort.apprenticebundle5"
+    },
+    {
+      "EventToken": "opelwl",
+      "ProductId": "sort.magicianbundle10"
+    },
+    {
+      "EventToken": "pllfqr",
+      "ProductId": "sort.sorcererbundle20"
+    },
+    {
+      "EventToken": "3clirc",
+      "ProductId": "sort.magebundle50"
+    },
+    {
+      "EventToken": "g249zl",
+      "ProductId": "sort.wizardbundle100"
+    },
+    {
+      "EventToken": "c0q0zz",
+      "ProductId": "sort.coins2"
+    },
+    {
+      "EventToken": "v5eoet",
+      "ProductId": "sort.coins8"
+    },
+    {
+      "EventToken": "8q2aiz",
+      "ProductId": "sort.coins15"
+    },
+    {
+      "EventToken": "mc7vnz",
+      "ProductId": "sort.coins30"
+    },
+    {
+      "EventToken": "rbw09y",
+      "ProductId": "sort.coins55"
+    },
+    {
+      "EventToken": "3th4e5",
+      "ProductId": "sort.coins100"
+    },
+    {
+      "EventToken": "c914di",
+      "ProductId": "sort.endless2"
+    },
+    {
+      "EventToken": "1uyl86",
+      "ProductId": "sort.endless3"
+    },
+    {
+      "EventToken": "m34yrf",
+      "ProductId": "sort.endless5"
+    },
+    {
+      "EventToken": "rq4kcc",
+      "ProductId": "sort.endless10"
+    },
+    {
+      "EventToken": "t9ibj3",
+      "ProductId": "sort.endless12"
+    },
+    {
+      "EventToken": "wh94gf",
+      "ProductId": "sort.endless15"
+    },
+    {
+      "EventToken": "4lo4lc",
+      "ProductId": "sort.endless20"
+    },
+    {
+      "EventToken": "ugtty4",
+      "ProductId": "sort.endless25"
+    },
+    {
+      "EventToken": "dl26wf",
+      "ProductId": "sort.endless50"
+    },
+    {
+      "EventToken": "kbiseu",
+      "ProductId": "sort.endless100"
+    },
+    {
+      "EventToken": "gquuii",
+      "ProductId": "sort.special0.8"
+    },
+    {
+      "EventToken": "4atpx7",
+      "ProductId": "sort.special1"
+    },
+    {
+      "EventToken": "eyou4e",
+      "ProductId": "sort.special3"
+    },
+    {
+      "EventToken": "f1xqqo",
+      "ProductId": "sort.special4"
+    },
+    {
+      "EventToken": "p37hwv",
+      "ProductId": "sort.special4.99"
+    },
+    {
+      "EventToken": "xjci9k",
+      "ProductId": "sort.special5"
+    },
+    {
+      "EventToken": "n9ainl",
+      "ProductId": "sort.special8.5"
+    },
+    {
+      "EventToken": "3l2gd9",
+      "ProductId": "sort.special10"
+    },
+    {
+      "EventToken": "xr53ib",
+      "ProductId": "sort.special18"
+    },
+    {
+      "EventToken": "29jvd5",
+      "ProductId": "sort.special20"
+    },
+    {
+      "EventToken": "dbl30b",
+      "ProductId": "sort.special40"
+    },
+    {
+      "EventToken": "yfs5p1",
+      "ProductId": "sort.special45"
+    },
+    {
+      "EventToken": "gcglna",
+      "ProductId": "sort.special50"
+    },
+    {
+      "EventToken": "sauwb3",
+      "ProductId": "sort.special80"
+    },
+    {
+      "EventToken": "q4pyhc",
+      "ProductId": "sort.special100"
+    },
+    {
+      "EventToken": "noqz2e",
+      "ProductId": "sort.pawtouch1"
+    },
+    {
+      "EventToken": "8l8m9r",
+      "ProductId": "sort.pawtouch3"
+    },
+    {
+      "EventToken": "7ugm1u",
+      "ProductId": "sort.pawtouch10"
+    },
+    {
+      "EventToken": "97mkb0",
+      "ProductId": "sort.pawtouch20"
+    },
+    {
+      "EventToken": "z0bv93",
+      "ProductId": "sort.pawtouch50"
+    },
+    {
+      "EventToken": "62fuji",
+      "ProductId": "sort.endlessnv3"
+    },
+    {
+      "EventToken": "tqew62",
+      "ProductId": "sort.endlessnv4"
+    },
+    {
+      "EventToken": "rm1130",
+      "ProductId": "sort.endlessnv6"
+    },
+    {
+      "EventToken": "ec36g4",
+      "ProductId": "sort.endlessnv8"
+    },
+    {
+      "EventToken": "4gll4s",
+      "ProductId": "sort.endlessnv12"
+    },
+    {
+      "EventToken": "dpu1we",
+      "ProductId": "sort.endlessnv25"
+    },
+    {
+      "EventToken": "y7z7k6",
+      "ProductId": "sort.endlessnv45"
+    },
+    {
+      "EventToken": "u9cfrm",
+      "ProductId": "sort.endlessnv90"
+    },
+    {
+      "EventToken": "r46k4f",
+      "ProductId": "sort.endlessnv7"
+    },
+    {
+      "EventToken": "wjn5sl",
+      "ProductId": "sort.endlessnv120"
+    },
+    {
+      "EventToken": "n1tu1m",
+      "ProductId": "sort.endlessnv200"
+    },
+    {
+      "EventToken": "dfiq94",
+      "ProductId": "sort.noadsoffer"
+    },
+    {
+      "EventToken": "dzyc3y",
+      "ProductId": "sort.chooseone10"
+    },
+    {
+      "EventToken": "yyxod2",
+      "ProductId": "sort.chooseone14"
+    },
+    {
+      "EventToken": "4v0a76",
+      "ProductId": "sort.chooseone15"
+    },
+    {
+      "EventToken": "4xcbmm",
+      "ProductId": "sort.chooseone21"
+    },
+    {
+      "EventToken": "gcosty",
+      "ProductId": "sort.chooseone3"
+    },
+    {
+      "EventToken": "3opgpo",
+      "ProductId": "sort.chooseone35"
+    },
+    {
+      "EventToken": "39gghk",
+      "ProductId": "sort.chooseone6"
+    },
+    {
+      "EventToken": "3hmlfb",
+      "ProductId": "sort.chooseone6.99"
+    },
+    {
+      "EventToken": "b2ymo3",
+      "ProductId": "sort.treasuredrill2"
+    },
+    {
+      "EventToken": "g2bhex",
+      "ProductId": "sort.treasuredrill5"
+    },
+    {
+      "EventToken": "ucwpbq",
+      "ProductId": "sort.treasuredrill10"
+    },
+    {
+      "EventToken": "o317ma",
+      "ProductId": "sort.treasuredrill15"
+    },
+    {
+      "EventToken": "8zp4l3",
+      "ProductId": "sort.treasuredrill25"
+    },
+    {
+      "EventToken": "o7q1ox",
+      "ProductId": "sort.magicpass10"
+    },
+    {
+      "EventToken": "6645uu",
+      "ProductId": "sort.magicpass5"
+    },
+    {
+      "EventToken": "v72y4n",
+      "ProductId": "sort.magicpass8"
+    },
+    {
+      "EventToken": "zbcpmz",
+      "ProductId": "sort.magicpass13"
+    },
+    {
+      "EventToken": "1m5flk",
+      "ProductId": "sort.magicpass18"
+    },
+    {
+      "EventToken": "ufnkfq",
+      "ProductId": "sort.underwater1"
+    },
+    {
+      "EventToken": "apzg8e",
+      "ProductId": "sort.underwater2"
+    },
+    {
+      "EventToken": "3mwkql",
+      "ProductId": "sort.underwater3"
+    },
+    {
+      "EventToken": "gahi7s",
+      "ProductId": "sort.underwater4"
+    },
+    {
+      "EventToken": "h4ogzg",
+      "ProductId": "sort.underwater5"
+    },
+    {
+      "EventToken": "6twsw1",
+      "ProductId": "sort.underwater10"
+    },
+    {
+      "EventToken": "2fu2wk",
+      "ProductId": "sort.noads5"
+    },
+    {
+      "EventToken": "tbj9hr",
+      "ProductId": "sort.noads7"
+    },
+    {
+      "EventToken": "lpcfqx",
+      "ProductId": "w.sort.chooseone3"
+    },
+    {
+      "EventToken": "jrhjrj",
+      "ProductId": "w.sort.chooseone6"
+    },
+    {
+      "EventToken": "tizf2d",
+      "ProductId": "w.sort.chooseone6.99"
+    },
+    {
+      "EventToken": "lv0kbe",
+      "ProductId": "w.sort.chooseone10"
+    },
+    {
+      "EventToken": "n03o3s",
+      "ProductId": "w.sort.chooseone14"
+    },
+    {
+      "EventToken": "qxyqbl",
+      "ProductId": "w.sort.chooseone15"
+    },
+    {
+      "EventToken": "l8auw3",
+      "ProductId": "w.sort.chooseone21"
+    },
+    {
+      "EventToken": "p8v618",
+      "ProductId": "w.sort.chooseone35"
+    },
+    {
+      "EventToken": "gefbsa",
+      "ProductId": "w.sort.chooseone2.5"
+    },
+    {
+      "EventToken": "dwh3p4",
+      "ProductId": "w.sort.chooseone5"
+    },
+    {
+      "EventToken": "8t99n7",
+      "ProductId": "w.sort.chooseone6.1"
+    },
+    {
+      "EventToken": "qx5wab",
+      "ProductId": "w.sort.chooseone8.5"
+    },
+    {
+      "EventToken": "z74pje",
+      "ProductId": "w.sort.chooseone11.5"
+    },
+    {
+      "EventToken": "m0gdl1",
+      "ProductId": "w.sort.chooseone13"
+    },
+    {
+      "EventToken": "vytabj",
+      "ProductId": "w.sort.chooseone18.5"
+    },
+    {
+      "EventToken": "h8i2iv",
+      "ProductId": "w.sort.chooseone31"
+    },
+    {
+      "EventToken": "lses3x",
+      "ProductId": "w.sort.special1"
+    },
+    {
+      "EventToken": "t2jul3",
+      "ProductId": "w.sort.special4.99"
+    },
+    {
+      "EventToken": "z6rm6a",
+      "ProductId": "w.sort.special10"
+    },
+    {
+      "EventToken": "q1h58z",
+      "ProductId": "w.sort.special20"
+    },
+    {
+      "EventToken": "av7cdc",
+      "ProductId": "w.sort.special50"
+    },
+    {
+      "EventToken": "vify9j",
+      "ProductId": "w.sort.special0.8"
+    },
+    {
+      "EventToken": "tgihcb",
+      "ProductId": "w.sort.special4"
+    },
+    {
+      "EventToken": "7t381h",
+      "ProductId": "w.sort.special8.5"
+    },
+    {
+      "EventToken": "6vcl9l",
+      "ProductId": "w.sort.special18"
+    },
+    {
+      "EventToken": "jatop0",
+      "ProductId": "w.sort.special45"
+    },
+    {
+      "EventToken": "h21lvs",
+      "ProductId": "w.sort.treasuredrill2"
+    },
+    {
+      "EventToken": "y1m86m",
+      "ProductId": "w.sort.treasuredrill5"
+    },
+    {
+      "EventToken": "7m80m8",
+      "ProductId": "w.sort.treasuredrill10"
+    },
+    {
+      "EventToken": "hg8yf5",
+      "ProductId": "w.sort.treasuredrill15"
+    },
+    {
+      "EventToken": "h2vju6",
+      "ProductId": "w.sort.treasuredrill25"
+    },
+    {
+      "EventToken": "a6q8ku",
+      "ProductId": "w.sort.treasuredrill1.5"
+    },
+    {
+      "EventToken": "f5foyn",
+      "ProductId": "w.sort.treasuredrill4"
+    },
+    {
+      "EventToken": "tlbq8z",
+      "ProductId": "w.sort.treasuredrill8.5"
+    },
+    {
+      "EventToken": "qr0kni",
+      "ProductId": "w.sort.treasuredrill13.5"
+    },
+    {
+      "EventToken": "9cslw5",
+      "ProductId": "w.sort.treasuredrill22.5"
+    },
+    {
+      "EventToken": "2i60xz",
+      "ProductId": "w.sort.apprenticebundle5"
+    },
+    {
+      "EventToken": "9zs0dc",
+      "ProductId": "w.sort.magicianbundle10"
+    },
+    {
+      "EventToken": "17dsb3",
+      "ProductId": "w.sort.sorcererbundle20"
+    },
+    {
+      "EventToken": "tqx5k5",
+      "ProductId": "w.sort.magebundle50"
+    },
+    {
+      "EventToken": "li4bnb",
+      "ProductId": "w.sort.wizardbundle100"
+    },
+    {
+      "EventToken": "pjt2nl",
+      "ProductId": "w.sort.apprenticebundle4.5"
+    },
+    {
+      "EventToken": "4h221q",
+      "ProductId": "w.sort.magicianbundle9"
+    },
+    {
+      "EventToken": "5dmii8",
+      "ProductId": "w.sort.sorcererbundle18"
+    },
+    {
+      "EventToken": "6wr21j",
+      "ProductId": "w.sort.magebundle45"
+    },
+    {
+      "EventToken": "9ez70c",
+      "ProductId": "w.sort.wizardbundle90"
+    },
+    {
+      "EventToken": "g4qv1s",
+      "ProductId": "w.sort.coins2"
+    },
+    {
+      "EventToken": "ovfj3c",
+      "ProductId": "w.sort.coins8"
+    },
+    {
+      "EventToken": "jptsej",
+      "ProductId": "w.sort.coins15"
+    },
+    {
+      "EventToken": "2hsacv",
+      "ProductId": "w.sort.coins30"
+    },
+    {
+      "EventToken": "dphgqp",
+      "ProductId": "w.sort.coins55"
+    },
+    {
+      "EventToken": "ls13d7",
+      "ProductId": "w.sort.coins100"
+    },
+    {
+      "EventToken": "6xdj9t",
+      "ProductId": "w.sort.coins1.8"
+    },
+    {
+      "EventToken": "o26r2n",
+      "ProductId": "w.sort.coins7"
+    },
+    {
+      "EventToken": "hdlgx2",
+      "ProductId": "w.sort.coins13.5"
+    },
+    {
+      "EventToken": "q4kzdv",
+      "ProductId": "w.sort.coins27"
+    },
+    {
+      "EventToken": "37crlq",
+      "ProductId": "w.sort.coins49"
+    },
+    {
+      "EventToken": "opofg8",
+      "ProductId": "w.sort.coins90"
+    }
+  ],
+  "LevelStatModels": [
+    {
+      "EventToken": "k3yff1",
+      "ReachedLevel": 5
+    },
+    {
+      "EventToken": "4na3pe",
+      "ReachedLevel": 10
+    },
+    {
+      "EventToken": "gta5kt",
+      "ReachedLevel": 15
+    },
+    {
+      "EventToken": "r4yrba",
+      "ReachedLevel": 20
+    },
+    {
+      "EventToken": "xuk4pl",
+      "ReachedLevel": 25
+    },
+    {
+      "EventToken": "mie0lb",
+      "ReachedLevel": 30
+    },
+    {
+      "EventToken": "vb990c",
+      "ReachedLevel": 35
+    },
+    {
+      "EventToken": "gvehzl",
+      "ReachedLevel": 40
+    },
+    {
+      "EventToken": "5g49kk",
+      "ReachedLevel": 45
+    },
+    {
+      "EventToken": "1itggl",
+      "ReachedLevel": 50
+    },
+    {
+      "EventToken": "15oaj2",
+      "ReachedLevel": 60
+    },
+    {
+      "EventToken": "8arp2x",
+      "ReachedLevel": 70
+    },
+    {
+      "EventToken": "rjiyxy",
+      "ReachedLevel": 80
+    },
+    {
+      "EventToken": "2g6wav",
+      "ReachedLevel": 90
+    },
+    {
+      "EventToken": "7am4qy",
+      "ReachedLevel": 100
+    },
+    {
+      "EventToken": "dzr2pn",
+      "ReachedLevel": 125
+    },
+    {
+      "EventToken": "enqtxq",
+      "ReachedLevel": 150
+    },
+    {
+      "EventToken": "vi42u4",
+      "ReachedLevel": 175
+    },
+    {
+      "EventToken": "iytj1n",
+      "ReachedLevel": 200
+    },
+    {
+      "EventToken": "mlsl57",
+      "ReachedLevel": 250
+    },
+    {
+      "EventToken": "y76x5w",
+      "ReachedLevel": 300
+    },
+    {
+      "EventToken": "y9zy9v",
+      "ReachedLevel": 400
+    },
+    {
+      "EventToken": "h1gqqa",
+      "ReachedLevel": 500
+    },
+    {
+      "EventToken": "ls9ro4",
+      "ReachedLevel": 750
+    },
+    {
+      "EventToken": "aghmi3",
+      "ReachedLevel": 1000
+    },
+    {
+      "EventToken": "l71s11",
+      "ReachedLevel": 1250
+    },
+    {
+      "EventToken": "wvwqkn",
+      "ReachedLevel": 1500
+    },
+    {
+      "EventToken": "l68c6e",
+      "ReachedLevel": 1750
+    },
+    {
+      "EventToken": "5tmfjz",
+      "ReachedLevel": 2000
+    },
+    {
+      "EventToken": "ji2ls1",
+      "ReachedLevel": 2250
+    },
+    {
+      "EventToken": "w755ao",
+      "ReachedLevel": 2500
+    },
+    {
+      "EventToken": "mbqlu0",
+      "ReachedLevel": 2750
+    },
+    {
+      "EventToken": "rvijp7",
+      "ReachedLevel": 3000
+    },
+    {
+      "EventToken": "dvffjf",
+      "ReachedLevel": 3500
+    },
+    {
+      "EventToken": "blje4v",
+      "ReachedLevel": 4000
+    }
+  ]
+}

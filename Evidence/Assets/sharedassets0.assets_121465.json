@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26885"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "merge_mini_game_bundle",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "113914"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "122874"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120533"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": [],
+  "_externalReferenceGroups": []
+}

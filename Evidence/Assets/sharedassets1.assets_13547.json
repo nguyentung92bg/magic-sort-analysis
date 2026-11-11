@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3788"
+  },
+  "m_Name": "LevelEntranceAnimationConfig",
+  "_moveDuration": 0.3799999952316284,
+  "_moveDelay": 0.3499999940395355,
+  "_boardMoveDelay": 0.6499999761581421,
+  "_moveAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.287768602371216,
+        "outSlope": 2.287768602371216,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.029320986941456795
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.6269075870513916,
+        "outSlope": -0.6269075870513916,
+        "weightedMode": 0,
+        "inWeight": 0.05864201486110687,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_shelfAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.287768602371216,
+        "outSlope": 2.287768602371216,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.029320986941456795
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.6269075870513916,
+        "outSlope": -0.6269075870513916,
+        "weightedMode": 0,
+        "inWeight": 0.05864201486110687,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_waterShakeDelay": 0.3400000035762787
+}

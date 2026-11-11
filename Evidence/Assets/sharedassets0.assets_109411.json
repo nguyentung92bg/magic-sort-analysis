@@ -1,0 +1,335 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4691"
+  },
+  "m_Name": "MergeMiniGameAnimationConfig2",
+  "<ItemSelectAnimDuration>k__BackingField": 0.0,
+  "<ItemSelectAnimScaleCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CursorAppearCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CursorAppearDuration>k__BackingField": 0.0,
+  "<CursorStartScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<GeneratorItemDisappearDuration>k__BackingField": 0.0,
+  "<GeneratorItemDisappearCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ItemGeneratorItemClickScaleDuration>k__BackingField": 0.0,
+  "<ItemGeneratorItemClickCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MergeableHintStartDuration>k__BackingField": 0.0,
+  "<MergeableHintGlowEndAlpha>k__BackingField": 0.0,
+  "<MergeableHintParticleEndScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PreMergeOriginItemTargetScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PreMergeOriginItemScaleDuration>k__BackingField": 0.0,
+  "<PreMergeTargetItemTargetScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PreMergeTargetItemScaleDuration>k__BackingField": 0.0,
+  "<PostMergeNewItemScaleDuration>k__BackingField": 0.0,
+  "<PostMergeNewItemInitialScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PostMergeNewItemTargetScale>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PostMergeNewItemExpandCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PostMergeNewItemShrinkAnimationDuration>k__BackingField": 0.0,
+  "<PostMergeNewItemExpandAnimationDuration>k__BackingField": 0.0,
+  "<PostMergeNewItemShrinkCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<NeighborItemScaleDuration>k__BackingField": 0.0,
+  "<NeighborItemsScaleCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BlockFadeOutDuration>k__BackingField": 0.0,
+  "<BlockFadeOutCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<NeighborItemsScaleDelay>k__BackingField": 0.0,
+  "<BubbleDisappearDuration>k__BackingField": 0.0,
+  "<MoveSequenceDuration>k__BackingField": 0.0,
+  "<MoveSequenceCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterMoveDuration>k__BackingField": 0.0,
+  "<ScatterMoveCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterScaleTarget>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<ScatterScaleDuration>k__BackingField": 0.0,
+  "<ScatterScaleCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterDelayBetweenItems>k__BackingField": 0.0,
+  "<ScatterQueueNextItemScaleDuration>k__BackingField": 0.0,
+  "<ScatterQueueNextItemScaleCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterQueueViewDisappearDuration>k__BackingField": 0.0,
+  "<ScatterQueueViewDisappearScale>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterQueueViewAppearDuration>k__BackingField": 0.0,
+  "<ScatterQueueViewAppearScale>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScatterFromQueueAfterCollectTime>k__BackingField": 0.0,
+  "<GeneratorButtonInitialScale>k__BackingField": 0.0,
+  "<GeneratorButtonSequenceDuration>k__BackingField": 0.0,
+  "<GeneratorButtonScaleDuration>k__BackingField": 0.0,
+  "<GeneratorButtonMoveSequenceCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<GeneratorButtonScaleCurve>k__BackingField": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<BOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "HintMoveMagnitude": 9.999999747378752e-05,
+  "HintScaleMultiplier": 1.0499999523162842,
+  "HintDuration": 0.4000000059604645,
+  "HintEase": 4,
+  "StageCompletedSlotItemsParticleToCenterMoveDuration": 0.4000000059604645,
+  "StageCompletedSlotItemsParticleToTargetMoveDuration": 0.10000000149011612,
+  "StageCompletedSlotItemsParticleMoveOffset": {
+    "x": 0.5,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "StageCompletedSlotItemsParticleMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StageCompletedItemInitialScale": 0.06300000101327896,
+  "StageCompletedItemFinalScale": 0.2199999988079071,
+  "StageCompletedItemTargetPosition": {
+    "x": 0.0,
+    "y": 2.2200000286102295,
+    "z": 0.0
+  },
+  "StageCompletedBackgroundFadeEndValue": 0.8700000047683716,
+  "StageCompletedAnimationDuration": 0.5,
+  "ItemMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ItemScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.35326042771339417,
+        "outSlope": -0.35326042771339417,
+        "weightedMode": 0,
+        "inWeight": 0.2875000238418579,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "RewardRevealTime": 0.6000000238418579,
+  "CheckMarkScaleTime": 0.30000001192092896,
+  "ProgressBarRewardFadeTime": 0.15000000596046448,
+  "CollectibleCollectTime": 0.0,
+  "DelayBetweenCollectibles": 0.0,
+  "EnergyCollectDelay": 1.0,
+  "GrandPrizeTapToOpenTime": 0.0,
+  "GrandPrizeAnimationStartTime": 0.0,
+  "GrandPrizeBackgroundFadeInValue": 0.0,
+  "GrandPrizeBackgroundFadeInTime": 0.0,
+  "GrandPrizeBackgroundFadeInDuration": 0.0,
+  "GrandPrizeBackgroundFadeOutDuration": 0.0,
+  "GrandPrizeTitleIntroDuration": 0.0,
+  "GrandPrizeTitleIntroCurve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "GrandPrizeIntroTime": 0.0,
+  "GrandPrizeChestIntroTime": 0.0,
+  "GrandPrizeChestIntroClip": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "GrandPrizeChestOpenClip": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "GrandPrizeRewardRevealTime": 0.0,
+  "DelayBetweenGrandPrizeRewards": 0.0,
+  "GrandPrizeRewardScaleInTime": 0.0,
+  "GrandPrizeRewardScaleTarget": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "GrandPrizeRewardScaleDuration": 0.0,
+  "GrandPrizeRewardScaleCurve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "GrandPrizeRewardPositioningCurve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ItemPositionYScaling": 0.0,
+  "GrandPrizeRewardMoveTime": 0.0,
+  "GrandPrizeRewardMoveDuration": 0.0,
+  "GrandPrizeRewardMoveCurve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "TapToContinueActivateTime": 0.0,
+  "GrandPrizeMaxRewardCount": 5
+}

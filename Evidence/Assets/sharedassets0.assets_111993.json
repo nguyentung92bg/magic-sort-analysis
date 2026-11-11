@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "16047"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1519"
+  },
+  "m_Name": "",
+  "_startTransform": {
+    "m_FileID": 0,
+    "m_PathID": "48401"
+  },
+  "_endTransform": {
+    "m_FileID": 0,
+    "m_PathID": "68953"
+  },
+  "_greenBar": {
+    "m_FileID": 0,
+    "m_PathID": "102952"
+  },
+  "_progressText": {
+    "m_FileID": 0,
+    "m_PathID": "117272"
+  },
+  "_minProgressBarSize": 0.20000000298023224,
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109384"
+  }
+}

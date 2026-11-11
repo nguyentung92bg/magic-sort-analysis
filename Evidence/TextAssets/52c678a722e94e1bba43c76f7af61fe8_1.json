@@ -1,0 +1,961 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "FirstLevelToShow": 44,
+  "NormalLevelKeyCount": 1,
+  "HardLevelKeyCount": 3,
+  "SuperHardLevelKeyCount": 5,
+  "TicketClaimReward": 50,
+  "VaultStepCount": 50,
+  "VaultStepKeyCount": 20,
+  "VaultStepCoinAmount": 100,
+  "Steps": [
+    {
+      "KeyCount": 0,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:15:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 0
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:15:00"
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 0
+      }
+    },
+    {
+      "KeyCount": 1,
+      "FreeReward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      }
+    },
+    {
+      "KeyCount": 3,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "KeyCount": 3,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "KeyCount": 5,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "PaidReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "KeyCount": 5,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 1,
+            "Amount": 100
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 1,
+            "Amount": 200
+          }
+        ],
+        "ChestType": 15
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 1
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 2
+          }
+        ],
+        "ChestType": 15
+      }
+    },
+    {
+      "KeyCount": 5,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 300
+      }
+    },
+    {
+      "KeyCount": 10,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "KeyCount": 10,
+      "FreeReward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "KeyCount": 10,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "KeyCount": 10,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "00:30:00"
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 16
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "00:30:00"
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 16
+      }
+    },
+    {
+      "KeyCount": 15,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 150
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 150
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "KeyCount": 15,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "02:00:00"
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "KeyCount": 15,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 2
+      }
+    },
+    {
+      "KeyCount": 15,
+      "FreeReward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "PaidReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "KeyCount": 15,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 100
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "02:00:00"
+          },
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          }
+        ],
+        "ChestType": 17
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 1
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 3
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "02:00:00"
+          },
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          }
+        ],
+        "ChestType": 17
+      }
+    },
+    {
+      "KeyCount": 20,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "KeyCount": 20,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "02:00:00"
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "02:00:00"
+      }
+    },
+    {
+      "KeyCount": 20,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "KeyCount": 20,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 300
+      }
+    },
+    {
+      "KeyCount": 20,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "00:30:00"
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 18
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 2
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 3
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "01:00:00"
+          }
+        ],
+        "ChestType": 18
+      }
+    },
+    {
+      "KeyCount": 25,
+      "FreeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "PaidReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "03:00:00"
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 2,
+        "TimeSpan": "03:00:00"
+      }
+    },
+    {
+      "KeyCount": 25,
+      "FreeReward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "KeyCount": 30,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "PaidReward": {
+        "CurrencyType": 4,
+        "Amount": 3
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 3
+      }
+    },
+    {
+      "KeyCount": 30,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 800
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 800
+      }
+    },
+    {
+      "KeyCount": 40,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "03:00:00"
+          },
+          {
+            "CurrencyType": 1,
+            "Amount": 100
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "06:00:00"
+          },
+          {
+            "CurrencyType": 1,
+            "Amount": 200
+          }
+        ],
+        "ChestType": 19
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "03:00:00"
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 3
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "06:00:00"
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 4
+          }
+        ],
+        "ChestType": 19
+      }
+    },
+    {
+      "KeyCount": 40,
+      "FreeReward": {
+        "CurrencyType": 4,
+        "Amount": 3
+      },
+      "PaidReward": {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 4,
+        "Amount": 3
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "KeyCount": 50,
+      "FreeReward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 600
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 600
+      }
+    },
+    {
+      "KeyCount": 50,
+      "FreeReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "PaidReward": {
+        "CurrencyType": 5,
+        "Amount": 3
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "KeyCount": 60,
+      "FreeReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "PaidReward": {
+        "CurrencyType": 1,
+        "Amount": 1000
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 1,
+        "Amount": 1000
+      }
+    },
+    {
+      "KeyCount": 60,
+      "FreeReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "03:00:00"
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 1000
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "06:00:00"
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          }
+        ],
+        "ChestType": 20
+      },
+      "FreeRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 4
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "03:00:00"
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          }
+        ],
+        "ChestType": 14
+      },
+      "PaidRewardWithCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 5
+          },
+          {
+            "CurrencyType": 1,
+            "Amount": 1000
+          },
+          {
+            "CurrencyType": 2,
+            "TimeSpan": "06:00:00"
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          }
+        ],
+        "ChestType": 20
+      }
+    }
+  ],
+  "IAPConfigModel": {
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  "IAPConfigModelsSegmented": {
+    "non-purchaser": {
+      "ProductId": "sort.magicpass10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    "poor": {
+      "ProductId": "sort.magicpass10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    "hamsi": {
+      "ProductId": "sort.magicpass10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    "dolphin": {
+      "ProductId": "sort.magicpass10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    "whale": {
+      "ProductId": "sort.magicpass10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    }
+  }
+}

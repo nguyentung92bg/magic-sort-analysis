@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5600"
+  },
+  "m_Name": "CurrencyAnimationConfig",
+  "_totalAnimationDuration": 1.100000023841858,
+  "_APoint": {
+    "x": -0.8999999761581421,
+    "y": -3.0,
+    "z": 0.0
+  },
+  "_BPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_CPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_DPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_middleOffset": {
+    "x": -0.5199999809265137,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.023707851767539978,
+        "outSlope": 0.023707851767539978,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15110085904598236
+      },
+      {
+        "time": 0.7177631258964539,
+        "value": 0.10764442384243011,
+        "inSlope": 0.48193785548210144,
+        "outSlope": 0.48193785548210144,
+        "weightedMode": 0,
+        "inWeight": 0.13128185272216797,
+        "outWeight": 0.303129643201828
+      },
+      {
+        "time": 1.0,
+        "value": 1.00140380859375,
+        "inSlope": 7.853163242340088,
+        "outSlope": 7.853163242340088,
+        "weightedMode": 0,
+        "inWeight": 0.03386872261762619,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_spawnPoint": {
+    "x": 0.0,
+    "y": -2.700000047683716,
+    "z": 0.0
+  },
+  "_randomSpawnDistance": {
+    "x": 1.0,
+    "y": 0.800000011920929
+  },
+  "_useTriangularWaveForSpawn": 1,
+  "_flipAnimationSpeed": {
+    "Max": 1.0,
+    "Min": 1.0
+  },
+  "_delayBetweenRewards": {
+    "Max": 0.10000000149011612,
+    "Min": 0.07000000029802322
+  },
+  "_fadeDuration": 0.20000000298023224,
+  "_spawnScaleDuration": 0.30000001192092896,
+  "_spawnScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_seed": 4,
+  "_requiredAmoutForEachCoin": 30,
+  "_minCoinCount": 5,
+  "_maxCoinCount": 10
+}

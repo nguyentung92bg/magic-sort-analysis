@@ -1,0 +1,995 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base href="../"><title>Magic Sort — Phụ lục — Leaderboard</title><link rel="stylesheet" href="report.css"><link rel="stylesheet" href="magicsort.css"></head><body><a class="skip" href="#main">Đến nội dung</a><aside><a class="brand" href="LevelDesign.html"><span class="brand-icon">M</span><span>Magic Sort<small>GAME DESIGN WIKI</small></span></a><div class="nav-caption">BỘ BÁO CÁO</div><nav aria-label="Các phần báo cáo"><a href="LevelDesign.html">Game Design</a><a href="Levels/Levels.html">Chi tiết level</a><a href="Items/Items.html">Vật thể & cơ chế</a><a href="Boosters/Boosters.html">Booster</a><a href="IAP/IAP.html">IAP & cửa hàng</a><a href="Events/Events.html">Events & tiến trình</a><a href="Leaderboard/Leaderboard.html">Leaderboard</a><a href="Daily/Daily.html">Hằng ngày</a><a href="Daily/DailyChallenge.html">Daily Challenge</a><a href="Daily/DailyReward.html">Daily Reward</a><a href="Analytics/Analytics.html">Analytics</a><a href="Evidence/Evidence.html">Nguồn & độ tin cậy</a></nav><div class="aside-footer">APK 0.0.3420 · ARM 64-bit<br>Cập nhật 11.11.2026<br>Đọc hoàn toàn ngoại tuyến</div></aside><main id="main"><div class="eyebrow">MAGIC SORT / TÀI LIỆU THIẾT KẾ</div><h1>Phụ lục — Leaderboard</h1><p class="lead">Bảng thưởng và các nhánh giải đấu; tách schema client khỏi dữ liệu cạnh tranh live.</p><div class="infobox"><strong>Phạm vi:</strong> Phân tích tĩnh APK đóng gói và IL2CPP. Các giá trị dưới đây là cấu hình có trong APK; máy chủ, A/B test và trạng thái tài khoản có thể ghi đè.</div><section><h2>Các nhánh cạnh tranh</h2><div class="scroll"><table><thead><tr><th scope="col">Asset cấu hình</th><th scope="col">Cờ bật trong APK</th><th scope="col">Mốc level trong APK</th><th scope="col">Nguồn</th></tr></thead><tbody><tr><td>ChampionsLeagueConfigModel</td><td>false</td><td>300</td><td><a href="Evidence/TextAssets/2a82e8eba9b94406a8ce06b204466c31_1.json">JSON</a></td></tr><tr><td>TeamArenaConfigModel</td><td>false</td><td>45</td><td><a href="Evidence/TextAssets/3a6a782135354091adabd2a201a5d20c_1.json">JSON</a></td></tr><tr><td>WeeklyTournamentConfigModel</td><td>true</td><td>40</td><td><a href="Evidence/TextAssets/7b3a4d9ecd624f44b3777056c718a66c_1.json">JSON</a></td></tr><tr><td>MagicStreakTournamentConfigModel</td><td>false</td><td>25</td><td><a href="Evidence/TextAssets/a6bc4534c98b4ba59a63bcf688937781_1.json">JSON</a></td></tr><tr><td>StreakTournamentConfigModel</td><td>false</td><td>25</td><td><a href="Evidence/TextAssets/efd3ed6ef806b4923abd9890425b0ceb_1.json">JSON</a></td></tr><tr><td>StrikeShowConfigModel</td><td>false</td><td>45</td><td><a href="Evidence/TextAssets/ff1b5aa3bea948c08c9e8eb845f546fe_1.json">JSON</a></td></tr></tbody></table></div></section><section><h2>Ví dụ bảng thưởng fallback</h2><p>WeeklyTournamentConfigModel bật, FirstLevelToShow = 40; top 1/2/3 có coin reward 1.000 / 500 / 250. StreakTournamentConfigModel có cờ giải đấu và banner tắt; không dùng bảng thưởng của nó để khẳng định giải đấu đang chạy.</p><p>Các lớp RemoteService / response thể hiện client có luồng lấy dữ liệu leaderboard. APK không cho biết thứ hạng tài khoản hiện tại, số người chơi thật, danh sách bot thực tế hay lịch giải đấu đang mở.</p><p class="evidence"><a href="Evidence/Classes/1954.cs">WeeklyTournamentConfigModel</a> · StreakTournamentConfigModel · <a href="Evidence/Classes/4740.cs">ChampionsLeagueService</a> · <a href="Evidence/Classes/4838.cs">BoatRushService</a></p></section><section><h2>Cấu hình đầy đủ</h2><h3>ChampionsLeagueConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/2a82e8eba9b94406a8ce06b204466c31_1.json">JSON nguồn</a> · 2a82e8eba9b94406a8ce06b204466c31 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>300</td></tr><tr><td>TournamentType</td><td>3</td></tr><tr><td>PreJoinTargetScore</td><td>50</td></tr><tr><td>ChampionsLeagueRewardsByLeague</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;0&quot;: [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 3000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 2000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 1000
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;1&quot;: [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 4000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 3000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 2000
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;2&quot;: [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 5000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 4000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 2500
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    }
+  ],
+  &quot;3&quot;: [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 6000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 5000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 3000
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;4&quot;: [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 7500
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 5000
+    },
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 4000
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    }
+  ]
+}</pre></details></td></tr><tr><td>ChampionsLeagueRewardsWithCollectionByLeague</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;0&quot;: [
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 13,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 3000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 12,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 2000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 11,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 1000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;1&quot;: [
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 13,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 4000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 12,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 3000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 11,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 2000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;2&quot;: [
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 13,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 5000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 12,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 4000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 11,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 2500
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 2
+    }
+  ],
+  &quot;3&quot;: [
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 13,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 6000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 12,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 5000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 11,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 3000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 4
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    }
+  ],
+  &quot;4&quot;: [
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 13,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 7500
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 12,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 5000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 13,
+      &quot;ChestType&quot;: 11,
+      &quot;Amount&quot;: 1,
+      &quot;Rewards&quot;: [
+        {
+          &quot;currencyType&quot;: 1,
+          &quot;amount&quot;: 4000
+        },
+        {
+          &quot;currencyType&quot;: 14,
+          &quot;amount&quot;: 1,
+          &quot;CollectionPackType&quot;: 5
+        }
+      ]
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    },
+    {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 2
+    }
+  ]
+}</pre></details></td></tr></tbody></table></div><h3>TeamArenaConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/3a6a782135354091adabd2a201a5d20c_1.json">JSON nguồn</a> · 3a6a782135354091adabd2a201a5d20c / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>TournamentType</td><td>1</td></tr><tr><td>FirstLevelToShow</td><td>45</td></tr><tr><td>NormalScore</td><td>1</td></tr><tr><td>HardScore</td><td>3</td></tr><tr><td>SuperHardScore</td><td>5</td></tr><tr><td>MinimumUserToJoinEvent</td><td>10</td></tr><tr><td>StepsWithCollection</td><td><details><summary>10 phần tử</summary><pre>[
+  {
+    &quot;RequiredProgress&quot;: 10,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;TimeSpan&quot;: &quot;00:15:00&quot;
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 15,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 14,
+      &quot;Amount&quot;: 1,
+      &quot;CollectionPackType&quot;: 2
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 20,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 25,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 100
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 30,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;TimeSpan&quot;: &quot;00:30:00&quot;
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 35,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 14,
+      &quot;Amount&quot;: 1,
+      &quot;CollectionPackType&quot;: 3
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 40,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 50,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 200
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 70,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 100,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 14,
+      &quot;Amount&quot;: 1,
+      &quot;CollectionPackType&quot;: 4
+    }
+  }
+]</pre></details></td></tr><tr><td>Steps</td><td><details><summary>10 phần tử</summary><pre>[
+  {
+    &quot;RequiredProgress&quot;: 10,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;TimeSpan&quot;: &quot;00:15:00&quot;
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 15,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 20,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 25,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 100
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 30,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;TimeSpan&quot;: &quot;00:30:00&quot;
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 35,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 40,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 50,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 200
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 70,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;RequiredProgress&quot;: 100,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 250
+    }
+  }
+]</pre></details></td></tr><tr><td>LeaderboardRewards</td><td><details><summary>3 phần tử</summary><pre>[
+  {
+    &quot;CurrencyType&quot;: 6,
+    &quot;Amount&quot;: 1
+  },
+  {
+    &quot;CurrencyType&quot;: 5,
+    &quot;Amount&quot;: 1
+  },
+  {
+    &quot;CurrencyType&quot;: 4,
+    &quot;Amount&quot;: 1
+  }
+]</pre></details></td></tr><tr><td>LeaderboardRewardsWithCollection</td><td><details><summary>3 phần tử</summary><pre>[
+  {
+    &quot;CurrencyType&quot;: 14,
+    &quot;Amount&quot;: 1,
+    &quot;CollectionPackType&quot;: 3
+  },
+  {
+    &quot;CurrencyType&quot;: 14,
+    &quot;Amount&quot;: 1,
+    &quot;CollectionPackType&quot;: 2
+  },
+  {
+    &quot;CurrencyType&quot;: 14,
+    &quot;Amount&quot;: 1,
+    &quot;CollectionPackType&quot;: 1
+  }
+]</pre></details></td></tr><tr><td>TeamLeaderboardRewards</td><td><details><summary>3 phần tử</summary><pre>[
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 2000
+  },
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 1000
+  },
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 500
+  }
+]</pre></details></td></tr><tr><td>TeamLeaderboardRewardsWithCollection</td><td><details><summary>3 phần tử</summary><pre>[
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 2000
+  },
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 1000
+  },
+  {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 500
+  }
+]</pre></details></td></tr></tbody></table></div><h3>WeeklyTournamentConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/7b3a4d9ecd624f44b3777056c718a66c_1.json">JSON nguồn</a> · 7b3a4d9ecd624f44b3777056c718a66c / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsTournamentEnable</td><td>true</td></tr><tr><td>FirstLevelToShow</td><td>40</td></tr><tr><td>ShouldOpenAutomaticallyOnLobbyReturnOnResult</td><td>true</td></tr><tr><td>ShouldOpenAutomaticallyOnSessionStartOnResult</td><td>true</td></tr><tr><td>Rewards</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;FirstRankCoinRewardAmount&quot;: 1000,
+  &quot;SecondRankCoinRewardAmount&quot;: 500,
+  &quot;ThirdRankCoinRewardAmount&quot;: 250
+}</pre></details></td></tr></tbody></table></div><h3>MagicStreakTournamentConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/a6bc4534c98b4ba59a63bcf688937781_1.json">JSON nguồn</a> · a6bc4534c98b4ba59a63bcf688937781 / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsTournamentEnable</td><td>false</td></tr><tr><td>IsProgressBarEnable</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>25</td></tr><tr><td>EventType</td><td>1</td></tr><tr><td>IsBannerEnable</td><td>true</td></tr><tr><td>ShouldOpenPopUpAutomaticallyOnRankUp</td><td>true</td></tr><tr><td>ShowPopUpIntervalOnRankUp</td><td>10</td></tr><tr><td>Multipliers</td><td><details><summary>5 phần tử</summary><pre>[
+  1,
+  5,
+  10,
+  25,
+  100
+]</pre></details></td></tr><tr><td>TournamentRewards</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;FirstRankRewardModel&quot;: {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 2000
+  },
+  &quot;SecondRankRewardModel&quot;: {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 1000
+  },
+  &quot;ThirdRankRewardModel&quot;: {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 500
+  },
+  &quot;OtherRanksRewardModel&quot;: {
+    &quot;CurrencyType&quot;: 1,
+    &quot;Amount&quot;: 100
+  },
+  &quot;OtherRanksLimit&quot;: 10
+}</pre></details></td></tr><tr><td>ProgressbarRewardSteps</td><td><details><summary>10 phần tử</summary><pre>[
+  {
+    &quot;Score&quot;: 10,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 20
+    }
+  },
+  {
+    &quot;Score&quot;: 50,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:15:00&quot;
+    }
+  },
+  {
+    &quot;Score&quot;: 100,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 100
+    }
+  },
+  {
+    &quot;Score&quot;: 200,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 5,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;Score&quot;: 200,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 4,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;Score&quot;: 500,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 300
+    }
+  },
+  {
+    &quot;Score&quot;: 300,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  },
+  {
+    &quot;Score&quot;: 800,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 500
+    }
+  },
+  {
+    &quot;Score&quot;: 400,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 6,
+      &quot;Amount&quot;: 1
+    }
+  },
+  {
+    &quot;Score&quot;: 1000,
+    &quot;RewardModel&quot;: {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 1000
+    }
+  }
+]</pre></details></td></tr></tbody></table></div><h3>StreakTournamentConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/efd3ed6ef806b4923abd9890425b0ceb_1.json">JSON nguồn</a> · efd3ed6ef806b4923abd9890425b0ceb / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsTournamentEnable</td><td>false</td></tr><tr><td>IsBannerEnable</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>25</td></tr><tr><td>TournamentDurationInHours</td><td>24</td></tr><tr><td>ShouldOpenPopUpAutomaticallyOnRankUp</td><td>true</td></tr><tr><td>ShowPopUpIntervalOnRankUp</td><td>1</td></tr><tr><td>Rewards</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;FirstRankCoinRewardAmount&quot;: 2000,
+  &quot;SecondRankCoinRewardAmount&quot;: 1000,
+  &quot;ThirdRankCoinRewardAmount&quot;: 500,
+  &quot;OtherRanksCoinRewardAmount&quot;: 100,
+  &quot;OtherRanksLimit&quot;: 10
+}</pre></details></td></tr><tr><td>Multipliers</td><td><details><summary>Cấu trúc dữ liệu</summary><pre>{
+  &quot;Multiplier1&quot;: 1,
+  &quot;Multiplier2&quot;: 5,
+  &quot;Multiplier3&quot;: 10,
+  &quot;Multiplier4&quot;: 25,
+  &quot;Multiplier5&quot;: 100
+}</pre></details></td></tr></tbody></table></div><h3>StrikeShowConfigModel</h3><p class="evidence"><a href="Evidence/TextAssets/ff1b5aa3bea948c08c9e8eb845f546fe_1.json">JSON nguồn</a> · ff1b5aa3bea948c08c9e8eb845f546fe / path ID 1</p><div class="scroll"><table><thead><tr><th scope="col">Trường</th><th scope="col">Giá trị đóng gói</th></tr></thead><tbody><tr><td>IsEnabled</td><td>false</td></tr><tr><td>FirstLevelToShow</td><td>45</td></tr><tr><td>NormalScore</td><td>1</td></tr><tr><td>HardScore</td><td>3</td></tr><tr><td>SuperHardScore</td><td>5</td></tr><tr><td>Multipliers</td><td><details><summary>3 phần tử</summary><pre>[
+  1,
+  25,
+  50
+]</pre></details></td></tr><tr><td>BronzeLeaderboardRewards</td><td><details><summary>3 phần tử</summary><pre>[
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 50
+    },
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 25
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ]
+]</pre></details></td></tr><tr><td>SilverLeaderboardRewards</td><td><details><summary>3 phần tử</summary><pre>[
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 50
+    },
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 25
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ]
+]</pre></details></td></tr><tr><td>GoldLeaderboardRewards</td><td><details><summary>3 phần tử</summary><pre>[
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 50
+    },
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 1,
+      &quot;Amount&quot;: 25
+    }
+  ],
+  [
+    {
+      &quot;CurrencyType&quot;: 2,
+      &quot;Amount&quot;: 0,
+      &quot;timeSpan&quot;: &quot;00:30:00&quot;
+    }
+  ]
+]</pre></details></td></tr></tbody></table></div></section><footer>Magic Sort · Báo cáo 11/11/2026 · Dữ liệu cấu hình, quan sát mã và nhận định thiết kế được ghi riêng.</footer></main></body></html>

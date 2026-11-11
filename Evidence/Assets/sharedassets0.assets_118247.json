@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "36872"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5871"
+  },
+  "m_Name": "",
+  "_discountAmountText": {
+    "m_FileID": 0,
+    "m_PathID": "116819"
+  },
+  "_discountHolder": {
+    "m_FileID": 0,
+    "m_PathID": "21747"
+  }
+}

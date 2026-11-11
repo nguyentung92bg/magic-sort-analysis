@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "32598"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1936"
+  },
+  "m_Name": "",
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "118209"
+  },
+  "_scrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "116418"
+  },
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "111711"
+  },
+  "_stepsRewardViewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "111778"
+  },
+  "_container": {
+    "m_FileID": 0,
+    "m_PathID": "41802"
+  },
+  "_toolbarConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109504"
+  }
+}

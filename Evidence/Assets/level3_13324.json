@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2279"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3723"
+  },
+  "m_Name": "",
+  "_userProfileView": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_isMeIndicator": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_scoreText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  }
+}

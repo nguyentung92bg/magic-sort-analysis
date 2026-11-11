@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "13"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6754"
+  },
+  "m_Name": "",
+  "_dateText": {
+    "m_FileID": 0,
+    "m_PathID": "376"
+  },
+  "_timeText": {
+    "m_FileID": 0,
+    "m_PathID": "374"
+  },
+  "_levelId": {
+    "m_FileID": 0,
+    "m_PathID": "379"
+  }
+}

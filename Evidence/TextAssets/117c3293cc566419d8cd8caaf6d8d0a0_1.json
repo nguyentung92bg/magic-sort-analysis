@@ -1,0 +1,9 @@
+{
+  "RateUsLevels": [
+    20,
+    60,
+    150,
+    300
+  ],
+  "LevelToShowRateUs": 35
+}

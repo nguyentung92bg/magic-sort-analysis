@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1083"
+  },
+  "m_Name": "TeamQuestRewardRevealAnimationConfig",
+  "<DelayBetweenReveals>k__BackingField": 0.18000000715255737,
+  "<PivotOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<RevealAnimationChestOffset>k__BackingField": 0.5,
+  "<HorizontalOffset>k__BackingField": 0.6499999761581421,
+  "<VerticalOffset>k__BackingField": 1.100000023841858
+}

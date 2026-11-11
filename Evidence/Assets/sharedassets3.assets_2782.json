@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "302"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6589"
+  },
+  "m_Name": "",
+  "_scaleDuration": 0.3499999940395355,
+  "_scaleEase": 9,
+  "_fadeInDuration": 0.25,
+  "_moveHeight": 1.5,
+  "_moveDuration": 1.5,
+  "_moveEase": 9,
+  "_moveDelay": 0.25,
+  "_fadeDelay": 0.75,
+  "_fadeoutDuration": 0.25,
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": "2708"
+  },
+  "_rewardSprite": {
+    "m_FileID": 0,
+    "m_PathID": "2203"
+  }
+}

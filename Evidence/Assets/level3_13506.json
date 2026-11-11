@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2553"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6779"
+  },
+  "m_Name": "",
+  "_id": 0,
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "14458"
+  },
+  "_rankView": {
+    "m_FileID": 0,
+    "m_PathID": "13822"
+  },
+  "_nameView": {
+    "m_FileID": 0,
+    "m_PathID": "13683"
+  },
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": "12927"
+  },
+  "_teamText": {
+    "m_FileID": 0,
+    "m_PathID": "13089"
+  },
+  "_score": {
+    "m_FileID": 0,
+    "m_PathID": "12705"
+  },
+  "_myScore": {
+    "m_FileID": 0,
+    "m_PathID": "12510"
+  },
+  "_profileImageView": {
+    "m_FileID": 0,
+    "m_PathID": "14421"
+  },
+  "_userObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "1447"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "924"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4346"
+    }
+  ],
+  "_otherObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "3374"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2037"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3481"
+    }
+  ],
+  "_userProfileView": {
+    "m_FileID": 0,
+    "m_PathID": "13930"
+  }
+}

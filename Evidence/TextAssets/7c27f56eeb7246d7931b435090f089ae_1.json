@@ -1,0 +1,220 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "FirstLevelToShow": 140,
+  "InitialTridentCount": 3,
+  "NormalLevelTridentCount": 1,
+  "HardLevelTridentCount": 2,
+  "SuperHardLevelTridentCount": 3,
+  "FirstTryMultiplier": 2,
+  "JellyFishHitPercentagePerMove": 5,
+  "AutoOpenEnabledOnFinish": false,
+  "RewardsWithCollection": [
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 17,
+      "Amount": 10
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 21,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 200
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 22,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 2
+        }
+      ]
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 400
+    },
+    {
+      "CurrencyType": 17,
+      "Amount": 10
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 24,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 3
+        }
+      ]
+    },
+    {
+      "CurrencyType": 14,
+      "Amount": 1,
+      "CollectionPackType": 4
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 25,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 800
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 14,
+          "Amount": 1,
+          "CollectionPackType": 5
+        }
+      ]
+    }
+  ],
+  "Rewards": [
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 17,
+      "Amount": 10
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 21,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 200
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 22,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 1,
+          "Amount": 100
+        }
+      ]
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 400
+    },
+    {
+      "CurrencyType": 17,
+      "Amount": 10
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 23,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 400
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 24,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 200
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "CurrencyType": 13,
+      "Amount": 1,
+      "ChestType": 25,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 800
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 1
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        }
+      ]
+    }
+  ]
+}

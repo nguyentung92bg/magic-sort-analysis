@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "9380"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "team_quest_bundle",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "119956"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115071"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": [],
+  "_externalReferenceGroups": []
+}

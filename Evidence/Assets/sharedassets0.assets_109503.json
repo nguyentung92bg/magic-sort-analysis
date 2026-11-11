@@ -1,0 +1,165 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "450"
+  },
+  "m_Name": "PreGameDifficultySpriteConfig",
+  "_multiplierSpriteConfigs": [
+    {
+      "Difficulty": 0,
+      "DecreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "5173"
+      },
+      "IncreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "5173"
+      },
+      "InfoButtonSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1691"
+      },
+      "TagSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3334"
+      },
+      "TagHoleSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3229"
+      },
+      "PanelSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4512"
+      },
+      "ProgressBgSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2933"
+      },
+      "RewardMultiplierTextMat": {
+        "m_FileID": 0,
+        "m_PathID": "209"
+      }
+    },
+    {
+      "Difficulty": 1,
+      "DecreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2918"
+      },
+      "IncreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2918"
+      },
+      "InfoButtonSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3837"
+      },
+      "TagSprite": {
+        "m_FileID": 0,
+        "m_PathID": "1550"
+      },
+      "TagHoleSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2459"
+      },
+      "PanelSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4755"
+      },
+      "ProgressBgSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3995"
+      },
+      "RewardMultiplierTextMat": {
+        "m_FileID": 0,
+        "m_PathID": "209"
+      }
+    },
+    {
+      "Difficulty": 2,
+      "DecreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "5202"
+      },
+      "IncreaseMultiplierFrameSprite": {
+        "m_FileID": 0,
+        "m_PathID": "5202"
+      },
+      "InfoButtonSprite": {
+        "m_FileID": 0,
+        "m_PathID": "3862"
+      },
+      "TagSprite": {
+        "m_FileID": 0,
+        "m_PathID": "6078"
+      },
+      "TagHoleSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2309"
+      },
+      "PanelSprite": {
+        "m_FileID": 0,
+        "m_PathID": "2526"
+      },
+      "ProgressBgSprite": {
+        "m_FileID": 0,
+        "m_PathID": "4768"
+      },
+      "RewardMultiplierTextMat": {
+        "m_FileID": 0,
+        "m_PathID": "209"
+      }
+    }
+  ],
+  "_eventCurrencySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "4923"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3335"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3468"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1865"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5911"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5424"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1538"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1513"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2559"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5704"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1533"
+    }
+  ]
+}

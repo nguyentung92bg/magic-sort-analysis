@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26969"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7082"
+  },
+  "m_Name": "",
+  "_restoreButton": {
+    "m_FileID": 0,
+    "m_PathID": "119784"
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "121926"
+  }
+}

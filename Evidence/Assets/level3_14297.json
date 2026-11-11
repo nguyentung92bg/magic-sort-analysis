@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2340"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2774"
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "9129"
+  },
+  "_repeatInterval": 10.0
+}

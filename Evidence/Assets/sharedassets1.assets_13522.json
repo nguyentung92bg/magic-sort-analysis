@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1003"
+  },
+  "m_Name": "BottleEntranceEllipseAnimation",
+  "_speed": 150.0,
+  "_transitionStartDuration": 0.30000001192092896,
+  "_transitionEndEndDuration": 0.800000011920929,
+  "_transitionEndDurationDecreased": 0.0,
+  "_aboveWaveLength": 3.0999999046325684,
+  "_aboveWaveHeightStart": 0.03500000014901161,
+  "_aboveWaveHeightEnd": 0.0,
+  "_aboveWaveDirectionX": 5.5,
+  "_aboveWaveDirectionY": 0.0010000000474974513,
+  "_belowWaveLength": 3.0999999046325684,
+  "_belowWaveHeightStart": 0.03500000014901161,
+  "_belowWaveHeightEnd": 0.0,
+  "_belowWaveDirectionX": 5.5,
+  "_belowWaveDirectionY": 0.0010000000474974513,
+  "_belowWaveCustomTime": 0.0,
+  "_belowAditionalWaveHeight": 0.0,
+  "_customFirstHalfDuration": 0.0,
+  "_customSecondHalfDuration": 0.0
+}

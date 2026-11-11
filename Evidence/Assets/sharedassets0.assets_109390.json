@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1520"
+  },
+  "m_Name": "KeyBlazeMultiplierBarAnimationConfig",
+  "<ShowBarMoveDuration>k__BackingField": 0.5,
+  "<DelayAfterBarSlideIn>k__BackingField": 0.05000000074505806,
+  "<ShowBarMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.5071794986724854,
+        "outSlope": 1.5071794986724854,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.2925289571285248
+      },
+      {
+        "time": 0.47911953926086426,
+        "value": 0.9792629480361938,
+        "inSlope": 0.4951164424419403,
+        "outSlope": 0.4951164424419403,
+        "weightedMode": 3,
+        "inWeight": 0.41272270679473877,
+        "outWeight": 0.3335753083229065
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.011726937256753445,
+        "outSlope": 0.011726937256753445,
+        "weightedMode": 1,
+        "inWeight": 0.37112098932266235,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<HideBarMoveDuration>k__BackingField": 0.46000000834465027,
+  "<HideBarMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.047589585185050964,
+        "outSlope": 0.047589585185050964,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.40263813734054565
+      },
+      {
+        "time": 0.40771710872650146,
+        "value": -0.022828614339232445,
+        "inSlope": 0.18308353424072266,
+        "outSlope": 0.18308353424072266,
+        "weightedMode": 0,
+        "inWeight": 0.15254341065883636,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 4.5235700607299805,
+        "outSlope": 4.5235700607299805,
+        "weightedMode": 0,
+        "inWeight": 0.3905375599861145,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MultiplierMoveDuration>k__BackingField": 0.5,
+  "<MultiplierMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.5964472889900208,
+        "outSlope": 0.5964472889900208,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.07798635214567184
+      },
+      {
+        "time": 0.5569881796836853,
+        "value": 1.0167156457901,
+        "inSlope": 0.09172132611274719,
+        "outSlope": 0.09172132611274719,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.4022541344165802
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.054972682148218155,
+        "outSlope": -0.054972682148218155,
+        "weightedMode": 0,
+        "inWeight": 0.6090774536132812,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DelayBeforeBarHide>k__BackingField": 1.1699999570846558,
+  "<DelayBeforeTagShake>k__BackingField": 0.11999999731779099
+}

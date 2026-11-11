@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "31863"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "286"
+  },
+  "m_Name": "",
+  "_rewardTargets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "113085"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "117966"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121693"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114002"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114882"
+    }
+  ],
+  "_viewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "122036"
+  }
+}

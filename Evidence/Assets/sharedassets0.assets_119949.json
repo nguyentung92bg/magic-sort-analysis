@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "32488"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1858"
+  },
+  "m_Name": "",
+  "_id": 1,
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "119991"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109393"
+  },
+  "_lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": "32491"
+  },
+  "_bottomStick": {
+    "m_FileID": 0,
+    "m_PathID": "10365"
+  },
+  "_topStick": {
+    "m_FileID": 0,
+    "m_PathID": "32486"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "119947"
+  },
+  "_currencyContainer": {
+    "m_FileID": 0,
+    "m_PathID": "64166"
+  },
+  "_spriteConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109395"
+  },
+  "_backgroundRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "102550"
+  },
+  "_backgroundTipRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "102551"
+  },
+  "_rankBackgroundRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "102548"
+  },
+  "_shineParticle": {
+    "m_FileID": 0,
+    "m_PathID": "77992"
+  },
+  "_lastRewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "32480"
+  },
+  "_greenTickRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "102553"
+  }
+}

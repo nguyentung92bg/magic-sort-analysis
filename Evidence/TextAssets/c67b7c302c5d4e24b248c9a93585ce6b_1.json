@@ -1,0 +1,444 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "FirstLevelToShow": 95,
+  "MinBundleDownloadLevel": 20,
+  "AdditionalCompleteCollectionCount": 0,
+  "CardMultipliers": [
+    {
+      "StarCount": 1,
+      "IsGoldCard": false,
+      "Multiplier": 32
+    },
+    {
+      "StarCount": 2,
+      "IsGoldCard": false,
+      "Multiplier": 24
+    },
+    {
+      "StarCount": 3,
+      "IsGoldCard": false,
+      "Multiplier": 24
+    },
+    {
+      "StarCount": 4,
+      "IsGoldCard": false,
+      "Multiplier": 16
+    },
+    {
+      "StarCount": 5,
+      "IsGoldCard": false,
+      "Multiplier": 16
+    },
+    {
+      "StarCount": 5,
+      "IsGoldCard": true,
+      "Multiplier": 8
+    }
+  ],
+  "BonusChests": [
+    {
+      "StarCount": 100,
+      "ChestReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 1
+          }
+        ]
+      },
+      "ChestRewardWithoutCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "StarCount": 250,
+      "ChestReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 1
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 2
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 3
+          }
+        ]
+      },
+      "ChestRewardWithoutCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          }
+        ]
+      }
+    },
+    {
+      "StarCount": 500,
+      "ChestReward": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 3
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 4
+          },
+          {
+            "CurrencyType": 14,
+            "Amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      "ChestRewardWithoutCollection": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 2
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 2
+          }
+        ]
+      }
+    }
+  ],
+  "ThemeRewards": [
+    {
+      "ThemeId": "theme_1",
+      "ThemeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "02:00:00"
+      }
+    },
+    {
+      "ThemeId": "theme_2",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_3",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "ThemeId": "theme_4",
+      "ThemeReward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_5",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_6",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "ThemeId": "theme_7",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_8",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 600
+      }
+    },
+    {
+      "ThemeId": "theme_9",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 4
+      }
+    },
+    {
+      "ThemeId": "theme_10",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_11",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 800
+      }
+    },
+    {
+      "ThemeId": "theme_12",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 5
+      }
+    },
+    {
+      "ThemeId": "theme_13",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 1000
+      }
+    },
+    {
+      "ThemeId": "theme_14",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 3
+      }
+    },
+    {
+      "ThemeId": "theme_15",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 1500
+      }
+    }
+  ],
+  "RepeatThemeRewards": [
+    {
+      "ThemeId": "theme_1",
+      "ThemeReward": {
+        "CurrencyType": 2,
+        "TimeSpan": "01:00:00"
+      }
+    },
+    {
+      "ThemeId": "theme_2",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_3",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "ThemeId": "theme_4",
+      "ThemeReward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_5",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_6",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "ThemeId": "theme_7",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_8",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      }
+    },
+    {
+      "ThemeId": "theme_9",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_10",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "ThemeId": "theme_11",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "ThemeId": "theme_12",
+      "ThemeReward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_13",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "ThemeId": "theme_14",
+      "ThemeReward": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "ThemeId": "theme_15",
+      "ThemeReward": {
+        "CurrencyType": 1,
+        "Amount": 750
+      }
+    }
+  ],
+  "CollectionReward": {
+    "CurrencyType": 13,
+    "ChestType": 8,
+    "Amount": 1,
+    "Rewards": [
+      {
+        "CurrencyType": 1,
+        "Amount": 10000
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 5
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 5
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 5
+      }
+    ]
+  },
+  "GoldCollectionReward": {
+    "CurrencyType": 13,
+    "ChestType": 8,
+    "Amount": 1,
+    "Rewards": [
+      {
+        "CurrencyType": 1,
+        "Amount": 15000
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 8
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 8
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 8
+      }
+    ]
+  },
+  "RepeatCollectionReward": {
+    "CurrencyType": 13,
+    "ChestType": 8,
+    "Amount": 1,
+    "Rewards": [
+      {
+        "CurrencyType": 1,
+        "Amount": 8000
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 4
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 4
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 4
+      }
+    ]
+  }
+}

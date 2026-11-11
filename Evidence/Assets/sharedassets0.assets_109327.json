@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5777"
+  },
+  "m_Name": "VibrationConfigs",
+  "ButtonClick": {
+    "m_FileID": 0,
+    "m_PathID": "109318"
+  },
+  "BottleSelect": {
+    "m_FileID": 0,
+    "m_PathID": "109317"
+  },
+  "BottleFillStart": {
+    "m_FileID": 0,
+    "m_PathID": "109316"
+  },
+  "BottleFillEnd": {
+    "m_FileID": 0,
+    "m_PathID": "109315"
+  },
+  "BottleDeselect": {
+    "m_FileID": 0,
+    "m_PathID": "109314"
+  },
+  "LevelWin": {
+    "m_FileID": 0,
+    "m_PathID": "109325"
+  },
+  "LevelLose": {
+    "m_FileID": 0,
+    "m_PathID": "109323"
+  },
+  "LevelStart": {
+    "m_FileID": 0,
+    "m_PathID": "109324"
+  },
+  "RewardSitToPosition": {
+    "m_FileID": 0,
+    "m_PathID": "109326"
+  },
+  "CauldronSmoke": {
+    "m_FileID": 0,
+    "m_PathID": "109320"
+  },
+  "CauldronBottleWaterFallComplete": {
+    "m_FileID": 0,
+    "m_PathID": "109319"
+  },
+  "CurtainReveal": {
+    "m_FileID": 0,
+    "m_PathID": "109321"
+  },
+  "BlockerBreak": {
+    "m_FileID": 0,
+    "m_PathID": "109311"
+  },
+  "BlockerGenerator": {
+    "m_FileID": 0,
+    "m_PathID": "109312"
+  },
+  "BlockerGeneratorExplosion": {
+    "m_FileID": 0,
+    "m_PathID": "109313"
+  },
+  "DrillStep": {
+    "m_FileID": 0,
+    "m_PathID": "109322"
+  }
+}

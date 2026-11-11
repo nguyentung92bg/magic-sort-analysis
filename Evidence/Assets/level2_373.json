@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "48"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2068"
+  },
+  "m_Name": "",
+  "_uiRoot": {
+    "m_FileID": 0,
+    "m_PathID": "453"
+  },
+  "_cameraController": {
+    "m_FileID": 0,
+    "m_PathID": "454"
+  },
+  "_itemPairs": {
+    "m_FileID": 9,
+    "m_PathID": "636"
+  },
+  "_itemPartPairs": {
+    "m_FileID": 8,
+    "m_PathID": "13486"
+  },
+  "_colorService": {
+    "m_FileID": 0,
+    "m_PathID": "412"
+  },
+  "_gamePlayUI": {
+    "m_FileID": 0,
+    "m_PathID": "453"
+  },
+  "_selectionView": {
+    "m_FileID": 0,
+    "m_PathID": "428"
+  },
+  "_inLevelTextDisplayer": {
+    "m_FileID": 0,
+    "m_PathID": "389"
+  },
+  "_inLevelBackgroundController": {
+    "m_FileID": 0,
+    "m_PathID": "416"
+  },
+  "_gameplayConfigs": {
+    "m_FileID": 9,
+    "m_PathID": "640"
+  },
+  "_gameplayAssets": {
+    "m_FileID": 8,
+    "m_PathID": "13545"
+  }
+}

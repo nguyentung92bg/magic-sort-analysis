@@ -1,0 +1,132 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26974"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "wind_quest",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "110822"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123249"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120632"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "116554"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "117972"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118029"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118339"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111670"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110604"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123004"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120532"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119267"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119223"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119270"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110834"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115303"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120758"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113081"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120330"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "116915"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "115816"
+    }
+  ],
+  "_spineReferences": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "110315"
+    }
+  ],
+  "_particleReferences": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "121407"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "122915"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118777"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119379"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114525"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112121"
+    }
+  ],
+  "_externalReferenceGroups": []
+}

@@ -1,0 +1,9 @@
+{
+  "IsEnabled": false,
+  "MaxFriendCount": 100,
+  "FbConnectReward": {
+    "CurrencyType": 1,
+    "Amount": 300
+  },
+  "IsFacebookFriendsEnabled": false
+}

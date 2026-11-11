@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26875"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3451"
+  },
+  "m_Name": "",
+  "_streakTournamentRewardAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109466"
+  },
+  "_streakTournamentRewardsPath": {
+    "m_FileID": 0,
+    "m_PathID": "62627"
+  },
+  "_levelWinCauldronRewardAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109502"
+  },
+  "_levelWinCauldronRewardsPaths": {
+    "m_FileID": 0,
+    "m_PathID": "47878"
+  },
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "67518"
+  },
+  "_rewardFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109306"
+  },
+  "_backgroundSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "100465"
+  },
+  "_backgroundInitialColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.9019607901573181
+  },
+  "_tapToClaimButton": {
+    "m_FileID": 0,
+    "m_PathID": "111519"
+  },
+  "_tapToClaimText": {
+    "m_FileID": 0,
+    "m_PathID": "112660"
+  },
+  "_coinDisappearParticle": {
+    "m_FileID": 0,
+    "m_PathID": "83245"
+  }
+}

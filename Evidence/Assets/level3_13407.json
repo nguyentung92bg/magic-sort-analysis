@@ -1,0 +1,273 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "3675"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4335"
+  },
+  "m_Name": "",
+  "_config": {
+    "m_FileID": 9,
+    "m_PathID": "2519"
+  },
+  "_clickableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13771"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13926"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14428"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13261"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14433"
+    }
+  ],
+  "_activeViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "650"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2453"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2810"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3308"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3194"
+    }
+  ],
+  "_activeViewsJourneyOn": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "1238"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "972"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1608"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "780"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3579"
+    }
+  ],
+  "_activeViewsJourneyOff": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "650"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2453"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2810"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3308"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3194"
+    }
+  ],
+  "_scaleTransforms": [],
+  "_scaleTransformsJourneyOn": [
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "5073"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12183"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "4952"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "7885"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12066"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "5945"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "6643"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12362"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "6378"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "7816"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12014"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "6353"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "6228"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12392"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "7112"
+        }
+      ]
+    }
+  ],
+  "_scaleTransformsJourneyOff": [
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "5986"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "11925"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "7967"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "6834"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12147"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "7489"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "6272"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12085"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "7806"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "4754"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12336"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "8145"
+        }
+      ]
+    },
+    {
+      "transforms": [
+        {
+          "m_FileID": 0,
+          "m_PathID": "6409"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "12174"
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": "7657"
+        }
+      ]
+    }
+  ],
+  "_swipeMenuManager": {
+    "m_FileID": 0,
+    "m_PathID": "13099"
+  }
+}

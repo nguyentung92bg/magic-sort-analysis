@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "11708"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1747"
+  },
+  "m_Name": "",
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109400"
+  },
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "46759"
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": "101317"
+  },
+  "_progressText": {
+    "m_FileID": 0,
+    "m_PathID": "109941"
+  },
+  "_completedTick": {
+    "m_FileID": 0,
+    "m_PathID": "36839"
+  },
+  "_minFillRatio": 0.05000000074505806
+}

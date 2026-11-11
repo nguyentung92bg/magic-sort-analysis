@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "9369"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4158"
+  },
+  "m_Name": "",
+  "_hatContainer": {
+    "m_FileID": 0,
+    "m_PathID": "67515"
+  },
+  "_hatPositions": [],
+  "progressView": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109397"
+  }
+}

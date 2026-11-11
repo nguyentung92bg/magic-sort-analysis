@@ -1,0 +1,74 @@
+public enum TTCurrency // TypeDefIndex: 40
+{
+	// Fields
+	public int value__; // 0x0
+	public const TTCurrency TTCurrencyAED = 0;
+	public const TTCurrency TTCurrencyARS = 1;
+	public const TTCurrency TTCurrencyAUD = 2;
+	public const TTCurrency TTCurrencyBDT = 3;
+	public const TTCurrency TTCurrencyBGN = 4;
+	public const TTCurrency TTCurrencyBHD = 5;
+	public const TTCurrency TTCurrencyBIF = 6;
+	public const TTCurrency TTCurrencyBOB = 7;
+	public const TTCurrency TTCurrencyBRL = 8;
+	public const TTCurrency TTCurrencyCAD = 9;
+	public const TTCurrency TTCurrencyCHF = 10;
+	public const TTCurrency TTCurrencyCLP = 11;
+	public const TTCurrency TTCurrencyCNY = 12;
+	public const TTCurrency TTCurrencyCOP = 13;
+	public const TTCurrency TTCurrencyCRC = 14;
+	public const TTCurrency TTCurrencyCZK = 15;
+	public const TTCurrency TTCurrencyDKK = 16;
+	public const TTCurrency TTCurrencyDZD = 17;
+	public const TTCurrency TTCurrencyEGP = 18;
+	public const TTCurrency TTCurrencyEUR = 19;
+	public const TTCurrency TTCurrencyGBP = 20;
+	public const TTCurrency TTCurrencyGTQ = 21;
+	public const TTCurrency TTCurrencyHKD = 22;
+	public const TTCurrency TTCurrencyHNL = 23;
+	public const TTCurrency TTCurrencyHUF = 24;
+	public const TTCurrency TTCurrencyIDR = 25;
+	public const TTCurrency TTCurrencyILS = 26;
+	public const TTCurrency TTCurrencyINR = 27;
+	public const TTCurrency TTCurrencyIQD = 28;
+	public const TTCurrency TTCurrencyISK = 29;
+	public const TTCurrency TTCurrencyJOD = 30;
+	public const TTCurrency TTCurrencyJPY = 31;
+	public const TTCurrency TTCurrencyKES = 32;
+	public const TTCurrency TTCurrencyKHR = 33;
+	public const TTCurrency TTCurrencyKRW = 34;
+	public const TTCurrency TTCurrencyKWD = 35;
+	public const TTCurrency TTCurrencyKZT = 36;
+	public const TTCurrency TTCurrencyLBP = 37;
+	public const TTCurrency TTCurrencyMAD = 38;
+	public const TTCurrency TTCurrencyMOP = 39;
+	public const TTCurrency TTCurrencyMXN = 40;
+	public const TTCurrency TTCurrencyMYR = 41;
+	public const TTCurrency TTCurrencyNGN = 42;
+	public const TTCurrency TTCurrencyNIO = 43;
+	public const TTCurrency TTCurrencyNOK = 44;
+	public const TTCurrency TTCurrencyNZD = 45;
+	public const TTCurrency TTCurrencyOMR = 46;
+	public const TTCurrency TTCurrencyPEN = 47;
+	public const TTCurrency TTCurrencyPHP = 48;
+	public const TTCurrency TTCurrencyPKR = 49;
+	public const TTCurrency TTCurrencyPLN = 50;
+	public const TTCurrency TTCurrencyPYG = 51;
+	public const TTCurrency TTCurrencyQAR = 52;
+	public const TTCurrency TTCurrencyRON = 53;
+	public const TTCurrency TTCurrencyRUB = 54;
+	public const TTCurrency TTCurrencySAR = 55;
+	public const TTCurrency TTCurrencySEK = 56;
+	public const TTCurrency TTCurrencySGD = 57;
+	public const TTCurrency TTCurrencyTHB = 58;
+	public const TTCurrency TTCurrencyTRY = 59;
+	public const TTCurrency TTCurrencyTWD = 60;
+	public const TTCurrency TTCurrencyTZS = 61;
+	public const TTCurrency TTCurrencyUAH = 62;
+	public const TTCurrency TTCurrencyUSD = 63;
+	public const TTCurrency TTCurrencyVES = 64;
+	public const TTCurrency TTCurrencyVND = 65;
+	public const TTCurrency TTCurrencyZAR = 66;
+}
+
+// Namespace: SDK

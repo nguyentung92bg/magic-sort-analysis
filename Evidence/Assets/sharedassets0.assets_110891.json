@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "30992"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1776"
+  },
+  "m_Name": "",
+  "_useSizeOfPerPrefab": 1,
+  "_factory": {
+    "m_FileID": 0,
+    "m_PathID": "109476"
+  }
+}

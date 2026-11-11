@@ -1,0 +1,272 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "38587"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6205"
+  },
+  "m_Name": "",
+  "_iapPriceViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "111726"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "111782"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118674"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112623"
+    }
+  ],
+  "_package1RewardViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "110052"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119062"
+    }
+  ],
+  "_package2RewardViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "109649"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118485"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120299"
+    }
+  ],
+  "_package3RewardViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "114064"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123129"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113849"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "116143"
+    }
+  ],
+  "_firstColumnTargets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "63932"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "41536"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "66029"
+    }
+  ],
+  "_secondColumnTargets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "44411"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "43990"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "57829"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "54403"
+    }
+  ],
+  "_thirdColumnTargets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "56321"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "62569"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "56105"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "41392"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "61001"
+    }
+  ],
+  "_firstColumnParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "83348"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83316"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83339"
+    }
+  ],
+  "_secondColumnParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "83313"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83335"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83351"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83308"
+    }
+  ],
+  "_thirdColumnParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "83317"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83334"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83355"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83333"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "83344"
+    }
+  ],
+  "_offText": {
+    "m_FileID": 0,
+    "m_PathID": "123437"
+  },
+  "_buyAllButton": {
+    "m_FileID": 0,
+    "m_PathID": "110114"
+  },
+  "_package1Button": {
+    "m_FileID": 0,
+    "m_PathID": "112384"
+  },
+  "_package2Button": {
+    "m_FileID": 0,
+    "m_PathID": "112358"
+  },
+  "_package3Button": {
+    "m_FileID": 0,
+    "m_PathID": "122018"
+  },
+  "_undoSprite": {
+    "m_FileID": 0,
+    "m_PathID": "3273"
+  },
+  "_shuffleSprite": {
+    "m_FileID": 0,
+    "m_PathID": "3269"
+  },
+  "_extraBottleSprite": {
+    "m_FileID": 0,
+    "m_PathID": "3992"
+  },
+  "_lifeSprite": {
+    "m_FileID": 0,
+    "m_PathID": "6131"
+  },
+  "_coinSprite1": {
+    "m_FileID": 0,
+    "m_PathID": "5001"
+  },
+  "_coinSprite2": {
+    "m_FileID": 0,
+    "m_PathID": "4478"
+  },
+  "_scaleDuration": 0.30000001192092896,
+  "_scaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 6.800531387329102,
+        "outSlope": 6.800531387329102,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04859922453761101
+      },
+      {
+        "time": 0.29181551933288574,
+        "value": 1.1302422285079956,
+        "inSlope": 0.5582084059715271,
+        "outSlope": 0.5582084059715271,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.15020252764225006
+      },
+      {
+        "time": 0.751336395740509,
+        "value": 0.9273290038108826,
+        "inSlope": -0.028138626366853714,
+        "outSlope": -0.028138626366853714,
+        "weightedMode": 0,
+        "inWeight": 0.17479565739631653,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_startScale": 1.399999976158142,
+  "_consecutiveDelay": 0.05999999865889549,
+  "_startDelay": 0.6000000238418579,
+  "_particleDelay": 0.07999999821186066
+}

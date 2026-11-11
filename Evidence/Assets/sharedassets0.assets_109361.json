@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3741"
+  },
+  "m_Name": "DailySpriteConfig",
+  "<DailyClaimedSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2231"
+  },
+  "<DailyUnlockedSelectedSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2801"
+  },
+  "<DailyUnclaimedSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4758"
+  },
+  "<DailyUpcomingSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "5512"
+  },
+  "<DailyLockedSelectedSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "2838"
+  },
+  "<DailyPurpleSeparator>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3294"
+  },
+  "<DailyGreenSeperator>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "1951"
+  }
+}

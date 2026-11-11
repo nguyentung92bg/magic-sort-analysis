@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "30913"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "world_cup_bundle",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "122032"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112875"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114337"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120351"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118826"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113139"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": [],
+  "_externalReferenceGroups": []
+}

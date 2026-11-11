@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "31123"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "294"
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "111765"
+  },
+  "_showDuration": 0.25,
+  "_showAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.505126953125,
+        "inSlope": 1.061285376548767,
+        "outSlope": 1.061285376548767,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.026966292411088943
+      },
+      {
+        "time": 0.36903074383735657,
+        "value": 0.9938522577285767,
+        "inSlope": 0.6218928694725037,
+        "outSlope": 0.6218928694725037,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.6054490804672241,
+        "outSlope": -0.6054490804672241,
+        "weightedMode": 0,
+        "inWeight": 0.05488847941160202,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_loadingbarView": {
+    "m_FileID": 0,
+    "m_PathID": "115192"
+  },
+  "_coinsToEarnText": {
+    "m_FileID": 0,
+    "m_PathID": "121241"
+  }
+}

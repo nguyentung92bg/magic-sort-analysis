@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Daily hub and two independent feature pages",
+    "31/28 calendar days + 1 tutorial",
+    "Day and variant selection, deep links, timer/bottle settings, CI legend",
+    "144 SKU table and ProductId filter",
+    "436 analytics method rows and literal filter",
+    "More than 20 event feature sections and filter",
+    "11 item logic sections with model/callback/rules",
+    "Desktop and mobile viewport checks across all changed tabs",
+    "No browser script errors"
+  ]
+}

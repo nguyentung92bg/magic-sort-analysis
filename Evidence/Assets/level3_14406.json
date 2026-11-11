@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2678"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2868"
+  },
+  "m_Name": "",
+  "_tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "14195"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14358"
+    }
+  ],
+  "_friendsListView": {
+    "m_FileID": 0,
+    "m_PathID": "13481"
+  },
+  "_addFriendView": {
+    "m_FileID": 0,
+    "m_PathID": "13592"
+  },
+  "_enabledContainer": {
+    "m_FileID": 0,
+    "m_PathID": "1507"
+  },
+  "_comingSoonContainer": {
+    "m_FileID": 0,
+    "m_PathID": "651"
+  },
+  "_noConnectionContainer": {
+    "m_FileID": 0,
+    "m_PathID": "1035"
+  },
+  "_loadingContainer": {
+    "m_FileID": 0,
+    "m_PathID": "524"
+  },
+  "_facebookSignInButton": {
+    "m_FileID": 0,
+    "m_PathID": "13840"
+  },
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "3086"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "13315"
+  },
+  "_facebookSignInRewardText": {
+    "m_FileID": 0,
+    "m_PathID": "12765"
+  },
+  "_signInTextContainer": {
+    "m_FileID": 0,
+    "m_PathID": "12407"
+  },
+  "_defaultWidth": 2.5785999298095703,
+  "_noRewardWidth": 3.899199962615967,
+  "_notificationController": {
+    "m_FileID": 0,
+    "m_PathID": "13827"
+  }
+}

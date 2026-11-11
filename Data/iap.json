@@ -1,0 +1,1521 @@
+[
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreSpecialBundles[0].IAPModel",
+    "ProductId": "sort.starterbundle1",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StorePermanentBundles[0].IAPModel",
+    "ProductId": "sort.apprenticebundle5",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 4.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StorePermanentBundles[1].IAPModel",
+    "ProductId": "sort.magicianbundle10",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StorePermanentBundles[2].IAPModel",
+    "ProductId": "sort.sorcererbundle20",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 19.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StorePermanentBundles[3].IAPModel",
+    "ProductId": "sort.magebundle50",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 49.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StorePermanentBundles[4].IAPModel",
+    "ProductId": "sort.wizardbundle100",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 99.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[0].IAPModel",
+    "ProductId": "sort.coins2",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 1.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[1].IAPModel",
+    "ProductId": "sort.coins8",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 7.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[2].IAPModel",
+    "ProductId": "sort.coins15",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 14.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[3].IAPModel",
+    "ProductId": "sort.coins30",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 29.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[4].IAPModel",
+    "ProductId": "sort.coins55",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 54.99
+  },
+  {
+    "source": "StoreConfigModelV2",
+    "path": "$.StoreBundles[5].IAPModel",
+    "ProductId": "sort.coins100",
+    "ProductType": "Consumable",
+    "DollarEquivalent": 99.99
+  },
+  {
+    "source": "NoAdsOfferConfigModel",
+    "path": "$.IAPConfigModel",
+    "ProductId": "sort.noadsoffer",
+    "ProductType": 0,
+    "DollarEquivalent": 7.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[0]",
+    "ProductId": "sort.special1",
+    "ProductType": 0,
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[1]",
+    "ProductId": "sort.special3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[2]",
+    "ProductId": "sort.special5",
+    "ProductType": 0,
+    "DollarEquivalent": 4.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[3]",
+    "ProductId": "sort.special10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[4]",
+    "ProductId": "sort.special20",
+    "ProductType": 0,
+    "DollarEquivalent": 19.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[5]",
+    "ProductId": "sort.special40",
+    "ProductType": 0,
+    "DollarEquivalent": 39.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[6]",
+    "ProductId": "sort.special50",
+    "ProductType": 0,
+    "DollarEquivalent": 49.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[7]",
+    "ProductId": "sort.special80",
+    "ProductType": 0,
+    "DollarEquivalent": 79.99
+  },
+  {
+    "source": "SpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[8]",
+    "ProductId": "sort.special100",
+    "ProductType": 0,
+    "DollarEquivalent": 99.99
+  },
+  {
+    "source": "PawTouchOfferConfig",
+    "path": "$.IAPConfigModels[0]",
+    "ProductId": "sort.pawtouch1",
+    "ProductType": 0,
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "PawTouchOfferConfig",
+    "path": "$.IAPConfigModels[1]",
+    "ProductId": "sort.pawtouch3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "PawTouchOfferConfig",
+    "path": "$.IAPConfigModels[2]",
+    "ProductId": "sort.pawtouch10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "PawTouchOfferConfig",
+    "path": "$.IAPConfigModels[3]",
+    "ProductId": "sort.pawtouch20",
+    "ProductType": 0,
+    "DollarEquivalent": 19.99
+  },
+  {
+    "source": "PawTouchOfferConfig",
+    "path": "$.IAPConfigModels[4]",
+    "ProductId": "sort.pawtouch50",
+    "ProductType": 0,
+    "DollarEquivalent": 49.99
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[0]",
+    "ProductId": "sort.special1",
+    "WebProductId": "sort.special1",
+    "Price": 0.99,
+    "Reward": {
+      "CurrencyType": 1,
+      "Amount": 250
+    }
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[1]",
+    "ProductId": "sort.special3",
+    "WebProductId": "sort.special3",
+    "Price": 2.69,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[2]",
+    "ProductId": "sort.special4.99",
+    "WebProductId": "sort.special4.99",
+    "Price": 4.99,
+    "Reward": {
+      "CurrencyType": 1,
+      "Amount": 500
+    }
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[3]",
+    "ProductId": "sort.special5",
+    "WebProductId": "sort.special5",
+    "Price": 4.49,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[4]",
+    "ProductId": "sort.special10",
+    "WebProductId": "sort.special10",
+    "Price": 9.99,
+    "Reward": {
+      "CurrencyType": 1,
+      "Amount": 1000
+    }
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[5]",
+    "ProductId": "sort.special20",
+    "WebProductId": "sort.special20",
+    "Price": 17.99,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[6]",
+    "ProductId": "sort.special40",
+    "WebProductId": "sort.special40",
+    "Price": 35.99,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[7]",
+    "ProductId": "sort.special50",
+    "WebProductId": "sort.special50",
+    "Price": 44.99,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[8]",
+    "ProductId": "sort.special80",
+    "WebProductId": "sort.special80",
+    "Price": 71.99,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "WebShopConfigModel",
+    "path": "$.Products[9]",
+    "ProductId": "sort.special100",
+    "WebProductId": "sort.special100",
+    "Price": 89.99,
+    "DiscountPercent": 10
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModel",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModelsSegmented.non-purchaser",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModelsSegmented.poor",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModelsSegmented.hamsi",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModelsSegmented.dolphin",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "MagicPassConfigModel",
+    "path": "$.IAPConfigModelsSegmented.whale",
+    "ProductId": "sort.magicpass10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[0]",
+    "ProductId": "sort.chooseone10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[1]",
+    "ProductId": "sort.chooseone14",
+    "ProductType": 0,
+    "DollarEquivalent": 13.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[2]",
+    "ProductId": "sort.chooseone15",
+    "ProductType": 0,
+    "DollarEquivalent": 14.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[3]",
+    "ProductId": "sort.chooseone21",
+    "ProductType": 0,
+    "DollarEquivalent": 20.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[4]",
+    "ProductId": "sort.chooseone3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[5]",
+    "ProductId": "sort.chooseone35",
+    "ProductType": 0,
+    "DollarEquivalent": 34.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[6]",
+    "ProductId": "sort.chooseone6",
+    "ProductType": 0,
+    "DollarEquivalent": 5.99
+  },
+  {
+    "source": "ChooseOneSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[7]",
+    "ProductId": "sort.chooseone6.99",
+    "ProductType": 0,
+    "DollarEquivalent": 6.99
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[0]",
+    "EventToken": "2r6v62",
+    "ProductId": "sort.starterbundle1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[1]",
+    "EventToken": "77dixk",
+    "ProductId": "sort.apprenticebundle5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[2]",
+    "EventToken": "opelwl",
+    "ProductId": "sort.magicianbundle10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[3]",
+    "EventToken": "pllfqr",
+    "ProductId": "sort.sorcererbundle20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[4]",
+    "EventToken": "3clirc",
+    "ProductId": "sort.magebundle50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[5]",
+    "EventToken": "g249zl",
+    "ProductId": "sort.wizardbundle100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[6]",
+    "EventToken": "c0q0zz",
+    "ProductId": "sort.coins2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[7]",
+    "EventToken": "v5eoet",
+    "ProductId": "sort.coins8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[8]",
+    "EventToken": "8q2aiz",
+    "ProductId": "sort.coins15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[9]",
+    "EventToken": "mc7vnz",
+    "ProductId": "sort.coins30"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[10]",
+    "EventToken": "rbw09y",
+    "ProductId": "sort.coins55"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[11]",
+    "EventToken": "3th4e5",
+    "ProductId": "sort.coins100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[12]",
+    "EventToken": "c914di",
+    "ProductId": "sort.endless2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[13]",
+    "EventToken": "1uyl86",
+    "ProductId": "sort.endless3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[14]",
+    "EventToken": "m34yrf",
+    "ProductId": "sort.endless5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[15]",
+    "EventToken": "rq4kcc",
+    "ProductId": "sort.endless10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[16]",
+    "EventToken": "t9ibj3",
+    "ProductId": "sort.endless12"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[17]",
+    "EventToken": "wh94gf",
+    "ProductId": "sort.endless15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[18]",
+    "EventToken": "4lo4lc",
+    "ProductId": "sort.endless20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[19]",
+    "EventToken": "ugtty4",
+    "ProductId": "sort.endless25"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[20]",
+    "EventToken": "dl26wf",
+    "ProductId": "sort.endless50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[21]",
+    "EventToken": "kbiseu",
+    "ProductId": "sort.endless100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[22]",
+    "EventToken": "gquuii",
+    "ProductId": "sort.special0.8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[23]",
+    "EventToken": "4atpx7",
+    "ProductId": "sort.special1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[24]",
+    "EventToken": "eyou4e",
+    "ProductId": "sort.special3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[25]",
+    "EventToken": "f1xqqo",
+    "ProductId": "sort.special4"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[26]",
+    "EventToken": "p37hwv",
+    "ProductId": "sort.special4.99"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[27]",
+    "EventToken": "xjci9k",
+    "ProductId": "sort.special5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[28]",
+    "EventToken": "n9ainl",
+    "ProductId": "sort.special8.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[29]",
+    "EventToken": "3l2gd9",
+    "ProductId": "sort.special10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[30]",
+    "EventToken": "xr53ib",
+    "ProductId": "sort.special18"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[31]",
+    "EventToken": "29jvd5",
+    "ProductId": "sort.special20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[32]",
+    "EventToken": "dbl30b",
+    "ProductId": "sort.special40"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[33]",
+    "EventToken": "yfs5p1",
+    "ProductId": "sort.special45"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[34]",
+    "EventToken": "gcglna",
+    "ProductId": "sort.special50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[35]",
+    "EventToken": "sauwb3",
+    "ProductId": "sort.special80"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[36]",
+    "EventToken": "q4pyhc",
+    "ProductId": "sort.special100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[37]",
+    "EventToken": "noqz2e",
+    "ProductId": "sort.pawtouch1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[38]",
+    "EventToken": "8l8m9r",
+    "ProductId": "sort.pawtouch3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[39]",
+    "EventToken": "7ugm1u",
+    "ProductId": "sort.pawtouch10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[40]",
+    "EventToken": "97mkb0",
+    "ProductId": "sort.pawtouch20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[41]",
+    "EventToken": "z0bv93",
+    "ProductId": "sort.pawtouch50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[42]",
+    "EventToken": "62fuji",
+    "ProductId": "sort.endlessnv3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[43]",
+    "EventToken": "tqew62",
+    "ProductId": "sort.endlessnv4"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[44]",
+    "EventToken": "rm1130",
+    "ProductId": "sort.endlessnv6"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[45]",
+    "EventToken": "ec36g4",
+    "ProductId": "sort.endlessnv8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[46]",
+    "EventToken": "4gll4s",
+    "ProductId": "sort.endlessnv12"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[47]",
+    "EventToken": "dpu1we",
+    "ProductId": "sort.endlessnv25"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[48]",
+    "EventToken": "y7z7k6",
+    "ProductId": "sort.endlessnv45"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[49]",
+    "EventToken": "u9cfrm",
+    "ProductId": "sort.endlessnv90"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[50]",
+    "EventToken": "r46k4f",
+    "ProductId": "sort.endlessnv7"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[51]",
+    "EventToken": "wjn5sl",
+    "ProductId": "sort.endlessnv120"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[52]",
+    "EventToken": "n1tu1m",
+    "ProductId": "sort.endlessnv200"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[53]",
+    "EventToken": "dfiq94",
+    "ProductId": "sort.noadsoffer"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[54]",
+    "EventToken": "dzyc3y",
+    "ProductId": "sort.chooseone10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[55]",
+    "EventToken": "yyxod2",
+    "ProductId": "sort.chooseone14"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[56]",
+    "EventToken": "4v0a76",
+    "ProductId": "sort.chooseone15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[57]",
+    "EventToken": "4xcbmm",
+    "ProductId": "sort.chooseone21"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[58]",
+    "EventToken": "gcosty",
+    "ProductId": "sort.chooseone3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[59]",
+    "EventToken": "3opgpo",
+    "ProductId": "sort.chooseone35"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[60]",
+    "EventToken": "39gghk",
+    "ProductId": "sort.chooseone6"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[61]",
+    "EventToken": "3hmlfb",
+    "ProductId": "sort.chooseone6.99"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[62]",
+    "EventToken": "b2ymo3",
+    "ProductId": "sort.treasuredrill2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[63]",
+    "EventToken": "g2bhex",
+    "ProductId": "sort.treasuredrill5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[64]",
+    "EventToken": "ucwpbq",
+    "ProductId": "sort.treasuredrill10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[65]",
+    "EventToken": "o317ma",
+    "ProductId": "sort.treasuredrill15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[66]",
+    "EventToken": "8zp4l3",
+    "ProductId": "sort.treasuredrill25"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[67]",
+    "EventToken": "o7q1ox",
+    "ProductId": "sort.magicpass10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[68]",
+    "EventToken": "6645uu",
+    "ProductId": "sort.magicpass5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[69]",
+    "EventToken": "v72y4n",
+    "ProductId": "sort.magicpass8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[70]",
+    "EventToken": "zbcpmz",
+    "ProductId": "sort.magicpass13"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[71]",
+    "EventToken": "1m5flk",
+    "ProductId": "sort.magicpass18"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[72]",
+    "EventToken": "ufnkfq",
+    "ProductId": "sort.underwater1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[73]",
+    "EventToken": "apzg8e",
+    "ProductId": "sort.underwater2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[74]",
+    "EventToken": "3mwkql",
+    "ProductId": "sort.underwater3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[75]",
+    "EventToken": "gahi7s",
+    "ProductId": "sort.underwater4"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[76]",
+    "EventToken": "h4ogzg",
+    "ProductId": "sort.underwater5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[77]",
+    "EventToken": "6twsw1",
+    "ProductId": "sort.underwater10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[78]",
+    "EventToken": "2fu2wk",
+    "ProductId": "sort.noads5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[79]",
+    "EventToken": "tbj9hr",
+    "ProductId": "sort.noads7"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[80]",
+    "EventToken": "lpcfqx",
+    "ProductId": "w.sort.chooseone3"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[81]",
+    "EventToken": "jrhjrj",
+    "ProductId": "w.sort.chooseone6"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[82]",
+    "EventToken": "tizf2d",
+    "ProductId": "w.sort.chooseone6.99"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[83]",
+    "EventToken": "lv0kbe",
+    "ProductId": "w.sort.chooseone10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[84]",
+    "EventToken": "n03o3s",
+    "ProductId": "w.sort.chooseone14"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[85]",
+    "EventToken": "qxyqbl",
+    "ProductId": "w.sort.chooseone15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[86]",
+    "EventToken": "l8auw3",
+    "ProductId": "w.sort.chooseone21"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[87]",
+    "EventToken": "p8v618",
+    "ProductId": "w.sort.chooseone35"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[88]",
+    "EventToken": "gefbsa",
+    "ProductId": "w.sort.chooseone2.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[89]",
+    "EventToken": "dwh3p4",
+    "ProductId": "w.sort.chooseone5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[90]",
+    "EventToken": "8t99n7",
+    "ProductId": "w.sort.chooseone6.1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[91]",
+    "EventToken": "qx5wab",
+    "ProductId": "w.sort.chooseone8.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[92]",
+    "EventToken": "z74pje",
+    "ProductId": "w.sort.chooseone11.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[93]",
+    "EventToken": "m0gdl1",
+    "ProductId": "w.sort.chooseone13"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[94]",
+    "EventToken": "vytabj",
+    "ProductId": "w.sort.chooseone18.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[95]",
+    "EventToken": "h8i2iv",
+    "ProductId": "w.sort.chooseone31"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[96]",
+    "EventToken": "lses3x",
+    "ProductId": "w.sort.special1"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[97]",
+    "EventToken": "t2jul3",
+    "ProductId": "w.sort.special4.99"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[98]",
+    "EventToken": "z6rm6a",
+    "ProductId": "w.sort.special10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[99]",
+    "EventToken": "q1h58z",
+    "ProductId": "w.sort.special20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[100]",
+    "EventToken": "av7cdc",
+    "ProductId": "w.sort.special50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[101]",
+    "EventToken": "vify9j",
+    "ProductId": "w.sort.special0.8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[102]",
+    "EventToken": "tgihcb",
+    "ProductId": "w.sort.special4"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[103]",
+    "EventToken": "7t381h",
+    "ProductId": "w.sort.special8.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[104]",
+    "EventToken": "6vcl9l",
+    "ProductId": "w.sort.special18"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[105]",
+    "EventToken": "jatop0",
+    "ProductId": "w.sort.special45"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[106]",
+    "EventToken": "h21lvs",
+    "ProductId": "w.sort.treasuredrill2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[107]",
+    "EventToken": "y1m86m",
+    "ProductId": "w.sort.treasuredrill5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[108]",
+    "EventToken": "7m80m8",
+    "ProductId": "w.sort.treasuredrill10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[109]",
+    "EventToken": "hg8yf5",
+    "ProductId": "w.sort.treasuredrill15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[110]",
+    "EventToken": "h2vju6",
+    "ProductId": "w.sort.treasuredrill25"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[111]",
+    "EventToken": "a6q8ku",
+    "ProductId": "w.sort.treasuredrill1.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[112]",
+    "EventToken": "f5foyn",
+    "ProductId": "w.sort.treasuredrill4"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[113]",
+    "EventToken": "tlbq8z",
+    "ProductId": "w.sort.treasuredrill8.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[114]",
+    "EventToken": "qr0kni",
+    "ProductId": "w.sort.treasuredrill13.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[115]",
+    "EventToken": "9cslw5",
+    "ProductId": "w.sort.treasuredrill22.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[116]",
+    "EventToken": "2i60xz",
+    "ProductId": "w.sort.apprenticebundle5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[117]",
+    "EventToken": "9zs0dc",
+    "ProductId": "w.sort.magicianbundle10"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[118]",
+    "EventToken": "17dsb3",
+    "ProductId": "w.sort.sorcererbundle20"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[119]",
+    "EventToken": "tqx5k5",
+    "ProductId": "w.sort.magebundle50"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[120]",
+    "EventToken": "li4bnb",
+    "ProductId": "w.sort.wizardbundle100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[121]",
+    "EventToken": "pjt2nl",
+    "ProductId": "w.sort.apprenticebundle4.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[122]",
+    "EventToken": "4h221q",
+    "ProductId": "w.sort.magicianbundle9"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[123]",
+    "EventToken": "5dmii8",
+    "ProductId": "w.sort.sorcererbundle18"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[124]",
+    "EventToken": "6wr21j",
+    "ProductId": "w.sort.magebundle45"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[125]",
+    "EventToken": "9ez70c",
+    "ProductId": "w.sort.wizardbundle90"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[126]",
+    "EventToken": "g4qv1s",
+    "ProductId": "w.sort.coins2"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[127]",
+    "EventToken": "ovfj3c",
+    "ProductId": "w.sort.coins8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[128]",
+    "EventToken": "jptsej",
+    "ProductId": "w.sort.coins15"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[129]",
+    "EventToken": "2hsacv",
+    "ProductId": "w.sort.coins30"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[130]",
+    "EventToken": "dphgqp",
+    "ProductId": "w.sort.coins55"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[131]",
+    "EventToken": "ls13d7",
+    "ProductId": "w.sort.coins100"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[132]",
+    "EventToken": "6xdj9t",
+    "ProductId": "w.sort.coins1.8"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[133]",
+    "EventToken": "o26r2n",
+    "ProductId": "w.sort.coins7"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[134]",
+    "EventToken": "hdlgx2",
+    "ProductId": "w.sort.coins13.5"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[135]",
+    "EventToken": "q4kzdv",
+    "ProductId": "w.sort.coins27"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[136]",
+    "EventToken": "37crlq",
+    "ProductId": "w.sort.coins49"
+  },
+  {
+    "source": "AdjustStatConfigModel",
+    "path": "$.IAPStatModels[137]",
+    "EventToken": "opofg8",
+    "ProductId": "w.sort.coins90"
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[0]",
+    "ProductId": "sort.special1",
+    "ProductType": 0,
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[1]",
+    "ProductId": "sort.special3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[2]",
+    "ProductId": "sort.special4.99",
+    "ProductType": 0,
+    "DollarEquivalent": 4.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[3]",
+    "ProductId": "sort.special5",
+    "ProductType": 0,
+    "DollarEquivalent": 4.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[4]",
+    "ProductId": "sort.special10",
+    "ProductType": 0,
+    "DollarEquivalent": 9.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[5]",
+    "ProductId": "sort.special20",
+    "ProductType": 0,
+    "DollarEquivalent": 19.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[6]",
+    "ProductId": "sort.special40",
+    "ProductType": 0,
+    "DollarEquivalent": 39.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[7]",
+    "ProductId": "sort.special50",
+    "ProductType": 0,
+    "DollarEquivalent": 49.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[8]",
+    "ProductId": "sort.special80",
+    "ProductType": 0,
+    "DollarEquivalent": 79.99
+  },
+  {
+    "source": "AdaptiveSpecialOfferConfigModel",
+    "path": "$.IAPConfigModels[9]",
+    "ProductId": "sort.special100",
+    "ProductType": 0,
+    "DollarEquivalent": 99.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[0].IAPModel",
+    "ProductId": "sort.endlessnv3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[1].IAPModel",
+    "ProductId": "sort.endlessnv6",
+    "ProductType": 0,
+    "DollarEquivalent": 5.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[2].IAPModel",
+    "ProductId": "sort.endlessnv8",
+    "ProductType": 0,
+    "DollarEquivalent": 7.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[3].IAPModel",
+    "ProductId": "sort.endlessnv12",
+    "ProductType": 0,
+    "DollarEquivalent": 11.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[4].IAPModel",
+    "ProductId": "sort.endlessnv25",
+    "ProductType": 0,
+    "DollarEquivalent": 24.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[5].IAPModel",
+    "ProductId": "sort.endlessnv45",
+    "ProductType": 0,
+    "DollarEquivalent": 44.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[6].IAPModel",
+    "ProductId": "sort.endlessnv90",
+    "ProductType": 0,
+    "DollarEquivalent": 89.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[7].IAPModel",
+    "ProductId": "sort.endlessnv4",
+    "ProductType": 0,
+    "DollarEquivalent": 3.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[8].IAPModel",
+    "ProductId": "sort.endlessnv7",
+    "ProductType": 0,
+    "DollarEquivalent": 6.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[9].IAPModel",
+    "ProductId": "sort.endlessnv120",
+    "ProductType": 0,
+    "DollarEquivalent": 119.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackStepsForUniqueInApps[10].IAPModel",
+    "ProductId": "sort.endlessnv200",
+    "ProductType": 0,
+    "DollarEquivalent": 199.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[2].IAPModel",
+    "ProductId": "sort.endlessnv3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[8].IAPModel",
+    "ProductId": "sort.endlessnv6",
+    "ProductType": 0,
+    "DollarEquivalent": 5.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[14].IAPModel",
+    "ProductId": "sort.endlessnv8",
+    "ProductType": 0,
+    "DollarEquivalent": 7.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[20].IAPModel",
+    "ProductId": "sort.endlessnv12",
+    "ProductType": 0,
+    "DollarEquivalent": 11.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[26].IAPModel",
+    "ProductId": "sort.endlessnv25",
+    "ProductType": 0,
+    "DollarEquivalent": 24.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[32].IAPModel",
+    "ProductId": "sort.endlessnv45",
+    "ProductType": 0,
+    "DollarEquivalent": 44.99
+  },
+  {
+    "source": "EndlessPortalV2ConfigModel",
+    "path": "$.FallbackSteps[38].IAPModel",
+    "ProductId": "sort.endlessnv90",
+    "ProductType": 0,
+    "DollarEquivalent": 89.99
+  },
+  {
+    "source": "TreasureDrillConfigModel",
+    "path": "$.SegmentedIAPModel.non-purchaser",
+    "ProductId": "sort.treasuredrill2",
+    "ProductType": 0,
+    "DollarEquivalent": 2
+  },
+  {
+    "source": "TreasureDrillConfigModel",
+    "path": "$.SegmentedIAPModel.poor",
+    "ProductId": "sort.treasuredrill5",
+    "ProductType": 0,
+    "DollarEquivalent": 5
+  },
+  {
+    "source": "TreasureDrillConfigModel",
+    "path": "$.SegmentedIAPModel.hamsi",
+    "ProductId": "sort.treasuredrill10",
+    "ProductType": 0,
+    "DollarEquivalent": 10
+  },
+  {
+    "source": "TreasureDrillConfigModel",
+    "path": "$.SegmentedIAPModel.dolphin",
+    "ProductId": "sort.treasuredrill15",
+    "ProductType": 0,
+    "DollarEquivalent": 15
+  },
+  {
+    "source": "TreasureDrillConfigModel",
+    "path": "$.SegmentedIAPModel.whale",
+    "ProductId": "sort.treasuredrill25",
+    "ProductType": 0,
+    "DollarEquivalent": 25
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[0]",
+    "ProductId": "sort.oneplusfree1",
+    "ProductType": 0,
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[1]",
+    "ProductId": "sort.oneplusfree8",
+    "ProductType": 0,
+    "DollarEquivalent": 7.99
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[2]",
+    "ProductId": "sort.oneplusfree13",
+    "ProductType": 0,
+    "DollarEquivalent": 12.99
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[3]",
+    "ProductId": "sort.oneplusfree25",
+    "ProductType": 0,
+    "DollarEquivalent": 24.99
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[4]",
+    "ProductId": "sort.oneplusfree55",
+    "ProductType": 0,
+    "DollarEquivalent": 54.99
+  },
+  {
+    "source": "OnePlusFreeOfferConfigModel",
+    "path": "$.IAPConfigModels[5]",
+    "ProductId": "sort.oneplusfree80",
+    "ProductType": 0,
+    "DollarEquivalent": 79.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.DefaultIAPConfigModel.IAPConfigModel",
+    "ProductId": "sort.underwater5",
+    "ProductType": 0,
+    "DollarEquivalent": 4.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.SegmentedIAPConfigModels.non-purchaser.IAPConfigModel",
+    "ProductId": "sort.underwater1",
+    "ProductType": 0,
+    "DollarEquivalent": 0.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.SegmentedIAPConfigModels.poor.IAPConfigModel",
+    "ProductId": "sort.underwater2",
+    "ProductType": 0,
+    "DollarEquivalent": 1.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.SegmentedIAPConfigModels.hamsi.IAPConfigModel",
+    "ProductId": "sort.underwater3",
+    "ProductType": 0,
+    "DollarEquivalent": 2.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.SegmentedIAPConfigModels.dolphin.IAPConfigModel",
+    "ProductId": "sort.underwater4",
+    "ProductType": 0,
+    "DollarEquivalent": 3.99
+  },
+  {
+    "source": "MiniGameOfferConfigModel",
+    "path": "$.SegmentedIAPConfigModels.whale.IAPConfigModel",
+    "ProductId": "sort.underwater5",
+    "ProductType": 0,
+    "DollarEquivalent": 4.99
+  }
+]

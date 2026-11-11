@@ -1,0 +1,135 @@
+{
+  "IsEnable": false,
+  "FirstLevelToShow": 65,
+  "EventType": 1,
+  "ShowFrequency": 1,
+  "MaxShowCount": 50,
+  "IAPConfigModels": [
+    {
+      "ProductId": "sort.chooseone10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    {
+      "ProductId": "sort.chooseone14",
+      "ProductType": 0,
+      "DollarEquivalent": 13.99
+    },
+    {
+      "ProductId": "sort.chooseone15",
+      "ProductType": 0,
+      "DollarEquivalent": 14.99
+    },
+    {
+      "ProductId": "sort.chooseone21",
+      "ProductType": 0,
+      "DollarEquivalent": 20.99
+    },
+    {
+      "ProductId": "sort.chooseone3",
+      "ProductType": 0,
+      "DollarEquivalent": 2.99
+    },
+    {
+      "ProductId": "sort.chooseone35",
+      "ProductType": 0,
+      "DollarEquivalent": 34.99
+    },
+    {
+      "ProductId": "sort.chooseone6",
+      "ProductType": 0,
+      "DollarEquivalent": 5.99
+    },
+    {
+      "ProductId": "sort.chooseone6.99",
+      "ProductType": 0,
+      "DollarEquivalent": 6.99
+    }
+  ],
+  "FallbackRewardMappings": [
+    {
+      "ProductIds": [
+        "sort.chooseone6.99",
+        "sort.chooseone3"
+      ],
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "ProductIds": [
+        "sort.chooseone15",
+        "sort.chooseone6"
+      ],
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 2
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 2
+        }
+      ]
+    },
+    {
+      "ProductIds": [
+        "sort.chooseone21",
+        "sort.chooseone10"
+      ],
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 8000
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 4
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 4
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 4
+        }
+      ]
+    },
+    {
+      "ProductIds": [
+        "sort.chooseone35",
+        "sort.chooseone14"
+      ],
+      "RewardModels": [
+        {
+          "CurrencyType": 1,
+          "Amount": 12200
+        },
+        {
+          "CurrencyType": 4,
+          "Amount": 7
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 6
+        },
+        {
+          "CurrencyType": 6,
+          "Amount": 4
+        }
+      ]
+    }
+  ]
+}

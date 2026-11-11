@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3013"
+  },
+  "m_Name": "HomeAnimationsConfig",
+  "AfterSuperHardSmokeDelay": 1.399999976158142,
+  "IntervalBeforeSmokeParticles": 1.2999999523162842,
+  "OnRegularLevelWinsLevelTextChangeDelay": 1.25,
+  "OnHardLevelWinsLevelTextChangeDelay": 0.10000000149011612,
+  "<UIOutsideOffset>k__BackingField": 7.0,
+  "<UIHideDuration>k__BackingField": 0.4000000059604645,
+  "<UIHideCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0007900387863628566,
+        "outSlope": 0.0007900387863628566,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.20482255518436432
+      },
+      {
+        "time": 0.4000000059604645,
+        "value": -0.05000000074505806,
+        "inSlope": 0.0002667592780198902,
+        "outSlope": 0.0002667592780198902,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.09087217599153519
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 5.1330485343933105,
+        "outSlope": 5.1330485343933105,
+        "weightedMode": 0,
+        "inWeight": 0.03038305789232254,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UIShowDuration>k__BackingField": 0.4000000059604645,
+  "<UIShowCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.085256576538086,
+        "outSlope": 4.085256576538086,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03422854095697403
+      },
+      {
+        "time": 0.6000000238418579,
+        "value": 1.0499999523162842,
+        "inSlope": 2.0646013581426814e-05,
+        "outSlope": 2.0646013581426814e-05,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.11605862528085709
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.00012786536535713822,
+        "outSlope": 0.00012786536535713822,
+        "weightedMode": 0,
+        "inWeight": 0.14835530519485474,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26873"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5979"
+  },
+  "m_Name": "",
+  "_championsLeagueLeaderboard": {
+    "m_FileID": 0,
+    "m_PathID": "114549"
+  },
+  "_championsLeagueLeaderboardCupSorter": {
+    "m_FileID": 0,
+    "m_PathID": "118804"
+  },
+  "_leagueLeaderboardEloHeaderController": {
+    "m_FileID": 0,
+    "m_PathID": "120611"
+  },
+  "_timer": {
+    "m_FileID": 0,
+    "m_PathID": "122358"
+  },
+  "_championsLeagueLeaderboardInProgressViewState": {
+    "m_FileID": 0,
+    "m_PathID": "121348"
+  },
+  "_championsLeagueLeaderboardClaimViewState": {
+    "m_FileID": 0,
+    "m_PathID": "118757"
+  },
+  "_heroImageView": {
+    "m_FileID": 0,
+    "m_PathID": "119384"
+  }
+}

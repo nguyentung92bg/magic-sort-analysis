@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "24204"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2664"
+  },
+  "m_Name": "",
+  "_placementController": {
+    "m_FileID": 0,
+    "m_PathID": "111169"
+  },
+  "_rankValueText": {
+    "m_FileID": 0,
+    "m_PathID": "120726"
+  },
+  "_championsLeagueLeaderboardElementRewardView": {
+    "m_FileID": 0,
+    "m_PathID": "119286"
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "113007"
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": "44836"
+  },
+  "_noRewardsObject": {
+    "m_FileID": 0,
+    "m_PathID": "31169"
+  },
+  "_continueText": {
+    "m_FileID": 0,
+    "m_PathID": "110699"
+  },
+  "_claimText": {
+    "m_FileID": 0,
+    "m_PathID": "109878"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "20995"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4900"
+  },
+  "m_Name": "",
+  "_spriteGuid": "e0d73c53a5872426e8cf895e385acc3b_21300000",
+  "_spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "97438"
+  },
+  "_spriteSize": {
+    "x": 9.658377647399902,
+    "y": 2.8499999046325684
+  }
+}

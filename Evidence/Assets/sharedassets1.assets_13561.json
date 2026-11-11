@@ -1,0 +1,629 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4216"
+  },
+  "m_Name": "StuckPopupAnimationConfigTallBottles",
+  "TopPanelIntroduceAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.715041995048523,
+        "value": 1.0067813396453857,
+        "inSlope": 0.2700669467449188,
+        "outSlope": 0.2700669467449188,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2531769275665283
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "LevelTextInitialShowDelay": 0.0,
+  "LevelTextStuckHideDelay": 0.10000000149011612,
+  "LevelTextQuitShowDelay": 0.05000000074505806,
+  "LevelTextStuckShowDelay": 0.15000000596046448,
+  "LevelTextQuitHideDelay": 0.0,
+  "LevelTextShowDuration": 0.30000001192092896,
+  "LevelTextHideDuration": 0.20000000298023224,
+  "LevelIntroduceDelay": 0.20000000298023224,
+  "LevelIntroduceAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.715041995048523,
+        "value": 1.0067813396453857,
+        "inSlope": 0.2700669467449188,
+        "outSlope": 0.2700669467449188,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2531769275665283
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "BoosterInitialShowDelay": 0.0,
+  "BoosterQuitShowDelay": 0.05000000074505806,
+  "BoosterQuitHideDelay": 0.0,
+  "BoosterButtonDirection": 0,
+  "LeftBooster": {
+    "enterDuration": 0.20000000298023224,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 1,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "MiddleBooster": {
+    "enterDuration": 0.20000000298023224,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 1,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "RightBooster": {
+    "enterDuration": 0.20000000298023224,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 1,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "BoosterLevelEnterDuration": 0.30000001192092896,
+  "_stuckPopupBottleEnterDuration": 0.4000000059604645,
+  "_stuckPopupBottleEnterDelay": 0.10000000149011612,
+  "_stuckPopupBottleEnterEase": 6,
+  "_stuckPopupBottlePlayOnDuration": 0.30000001192092896,
+  "_stuckPopupBottlePlayOnDelay": 0.10000000149011612,
+  "_stuckPopupBottlePlayOnEase": 6,
+  "_stuckPopupBottleGiveUpDuration": 0.20000000298023224,
+  "_stuckPopupBottleGiveUpDelay": 0.0,
+  "_stuckPopupBottleGiveUpEase": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.10779869556427002,
+        "value": -0.05416017770767212,
+        "inSlope": 0.5054926872253418,
+        "outSlope": 0.5054926872253418,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8679553270339966,
+        "value": 0.9477566480636597,
+        "inSlope": 0.7524086833000183,
+        "outSlope": 0.7524086833000183,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckPopupHeader": {
+    "enterDuration": 0.4000000059604645,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 6,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.20000000298023224,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 0.10779869556427002,
+          "value": -0.05416017770767212,
+          "inSlope": 0.5054926872253418,
+          "outSlope": 0.5054926872253418,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.8679553270339966,
+          "value": 0.9477566480636597,
+          "inSlope": 0.7524086833000183,
+          "outSlope": 0.7524086833000183,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "StuckPopupPlayOnButton": {
+    "enterDuration": 0.4000000059604645,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 6,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.20000000298023224,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 0.10779869556427002,
+          "value": -0.05416017770767212,
+          "inSlope": 0.5054926872253418,
+          "outSlope": 0.5054926872253418,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.8679553270339966,
+          "value": 0.9477566480636597,
+          "inSlope": 0.7524086833000183,
+          "outSlope": 0.7524086833000183,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "StuckPopupGiveUpButton": {
+    "enterDuration": 0.4000000059604645,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 6,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.10000000149011612,
+    "exitEase": 6,
+    "moveDownDuration": 0.20000000298023224,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 0.10779869556427002,
+          "value": -0.05416017770767212,
+          "inSlope": 0.5054926872253418,
+          "outSlope": 0.5054926872253418,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.8679553270339966,
+          "value": 0.9477566480636597,
+          "inSlope": 0.7524086833000183,
+          "outSlope": 0.7524086833000183,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "StuckPopUpExitButton": {
+    "enterDuration": 0.0,
+    "enterDelay": 0.0,
+    "enterEase": 0,
+    "exitDuration": 0.0,
+    "exitDelay": 0.0,
+    "exitEase": 0,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "_stuckPopupTopTextOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_stuckPopupBottomButtonsOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_stuckPopupBottomExitButtonOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "StuckPopupFilterBackground": {
+    "enterDuration": 0.4000000059604645,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 6,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.0,
+    "exitEase": 6,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "StuckPopupBackgroundSwitchDurationOld": 0.10000000149011612,
+  "StuckPopupBackgroundSwitchOldAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckPopupBackgroundSwitchDurationNew": 0.20000000298023224,
+  "StuckPopupBackgroundSwitchNewAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.23709909617900848,
+        "value": 0.3742326498031616,
+        "inSlope": 0.7755680084228516,
+        "outSlope": 0.7755680084228516,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckAreYouSure": {
+    "enterDuration": 0.30000001192092896,
+    "enterDelay": 0.10000000149011612,
+    "enterEase": 6,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.0,
+    "exitEase": 6,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "StuckAreYouSureEnterAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.5698040723800659,
+        "value": 1.0296740531921387,
+        "inSlope": 0.4001927375793457,
+        "outSlope": 0.4001927375793457,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.3169456422328949,
+        "outSlope": 0.3169456422328949,
+        "weightedMode": 0,
+        "inWeight": 0.13877761363983154,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckAreYouSureMoveDownAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.10779869556427002,
+        "value": -0.05416017770767212,
+        "inSlope": 0.5054926872253418,
+        "outSlope": 0.5054926872253418,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8679553270339966,
+        "value": 0.9477566480636597,
+        "inSlope": 0.7524086833000183,
+        "outSlope": 0.7524086833000183,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckAreYouSureMoveDownDuration": 0.30000001192092896,
+  "StuckAreYouSureMoveDownDelay": 0.0,
+  "StuckAreYouSureContineBackgroundDelay": 0.10000000149011612,
+  "StuckAreYouSureContineBackgroundDuration": 0.15000000596046448,
+  "StuckAreYouSureCloseButtonScaleDuration": 0.4000000059604645,
+  "_stuckAreYouSureOfferOffset": 1.4850000143051147,
+  "StuckAreYouSureCoinMoveTime": 0.0,
+  "StuckAreYouSureCoinMoveDuration": 0.0,
+  "StuckAreYouSureShowCoinMoveEase": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StuckAreYouSureHideCoinMoveEase": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "TryAgain": {
+    "enterDuration": 0.15000000596046448,
+    "enterDelay": 0.05000000074505806,
+    "enterEase": 0,
+    "exitDuration": 0.30000001192092896,
+    "exitDelay": 0.0,
+    "exitEase": 0,
+    "moveDownDuration": 0.0,
+    "moveDownDelay": 0.0,
+    "moveDownEase": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "TryAgainInitialScale": {
+    "x": 1.0499999523162842,
+    "y": 1.0499999523162842,
+    "z": 1.0
+  },
+  "TryAgainAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.24707737565040588,
+        "value": 1.453477382659912,
+        "inSlope": 2.7625041007995605,
+        "outSlope": 2.7625041007995605,
+        "weightedMode": 0,
+        "inWeight": 0.11183437705039978,
+        "outWeight": 0.14525960385799408
+      },
+      {
+        "time": 1.001220703125,
+        "value": 1.0019683837890625,
+        "inSlope": -1.150892734527588,
+        "outSlope": -1.150892734527588,
+        "weightedMode": 0,
+        "inWeight": 0.12840886414051056,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "TryAgainQuitEnterDelay": 0.05000000074505806,
+  "TryAgainStuckEnterDelay": 0.0
+}

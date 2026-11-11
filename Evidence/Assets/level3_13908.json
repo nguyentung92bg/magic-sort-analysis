@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2521"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2280"
+  },
+  "m_Name": "",
+  "_tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13898"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13874"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13880"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13676"
+    }
+  ],
+  "_weeklyTournamentLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "13903"
+  },
+  "_playersLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "13842"
+  },
+  "_teamsLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "13998"
+  },
+  "_friendsLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "14406"
+  },
+  "_lockedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2487"
+  },
+  "_unlockedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2508"
+  }
+}

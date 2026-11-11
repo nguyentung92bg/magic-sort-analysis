@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "40345"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5597"
+  },
+  "m_Name": "",
+  "_rewardPositionHolders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "115060"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114958"
+    }
+  ],
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109442"
+  },
+  "_animationsConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109440"
+  },
+  "_greenMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "285"
+  },
+  "_redMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "286"
+  },
+  "_spriteConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109441"
+  },
+  "_backgroundRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "100791"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109437"
+  },
+  "_tickContainer": {
+    "m_FileID": 0,
+    "m_PathID": "63366"
+  },
+  "_tickParticle": {
+    "m_FileID": 0,
+    "m_PathID": "79275"
+  }
+}

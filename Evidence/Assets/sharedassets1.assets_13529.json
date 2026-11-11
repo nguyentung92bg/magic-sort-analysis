@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2545"
+  },
+  "m_Name": "IceConfig",
+  "LeftMaskOffset": {
+    "x": 1.1799999475479126,
+    "y": 2.200000047683716,
+    "z": 0.0
+  },
+  "RightMaskOffset": {
+    "x": -1.1799999475479126,
+    "y": 2.200000047683716,
+    "z": 0.0
+  },
+  "InnerLeftMaskOffset": {
+    "x": 0.0,
+    "y": 2.200000047683716,
+    "z": 0.0
+  },
+  "InnerRightMaskOffset": {
+    "x": 0.0,
+    "y": 2.200000047683716,
+    "z": 0.0
+  },
+  "IceBreakAnimationStartTime": 1.0299999713897705,
+  "IceBreakAnimationEndTime": 2.299999952316284,
+  "RemoveBlockerTime": 1.2000000476837158,
+  "MaskScaleIncrement": 2.0299999713897705,
+  "IceBreakConsecutiveDelay": 0.06300000101327896,
+  "InnerStartScale": 0.8999999761581421,
+  "InnerMaskScaleIncrement": 2.0299999713897705
+}

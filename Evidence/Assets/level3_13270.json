@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "451"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6756"
+  },
+  "m_Name": "",
+  "_dailyCurrencyViewFactory": {
+    "m_FileID": 2,
+    "m_PathID": "109301"
+  },
+  "_rewardSteps": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "14121"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13703"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14130"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14107"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14126"
+    }
+  ],
+  "_progressBarBody": {
+    "m_FileID": 0,
+    "m_PathID": "10013"
+  },
+  "_progressBarPivot": {
+    "m_FileID": 0,
+    "m_PathID": "11240"
+  },
+  "_progressBarPivotText": {
+    "m_FileID": 0,
+    "m_PathID": "12874"
+  },
+  "_animationConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109360"
+  }
+}

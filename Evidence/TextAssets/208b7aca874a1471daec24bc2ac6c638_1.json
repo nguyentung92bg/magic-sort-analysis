@@ -1,0 +1,24 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 30,
+  "EventType": 1,
+  "RequiredAdCountsToWatch": [
+    1,
+    2,
+    3
+  ],
+  "Rewards": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 200
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    }
+  ]
+}

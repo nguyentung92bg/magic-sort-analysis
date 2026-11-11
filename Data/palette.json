@@ -1,0 +1,102 @@
+{
+  "22": {
+    "name": "BeigeColorConfig",
+    "color": "#b0ab85",
+    "file": "Evidence/Assets/sharedassets1.assets_13498.json"
+  },
+  "-1": {
+    "name": "BlackColorConfig",
+    "color": "#04010d",
+    "file": "Evidence/Assets/sharedassets1.assets_13499.json"
+  },
+  "7": {
+    "name": "BrownColorConfig",
+    "color": "#70322b",
+    "file": "Evidence/Assets/sharedassets1.assets_13500.json"
+  },
+  "1": {
+    "name": "DBlueColorConfig",
+    "color": "#1616bf",
+    "file": "Evidence/Assets/sharedassets1.assets_13501.json"
+  },
+  "4": {
+    "name": "DGreenColorConfig",
+    "color": "#0b3c01",
+    "file": "Evidence/Assets/sharedassets1.assets_13502.json"
+  },
+  "19": {
+    "name": "DPinkColorConfig",
+    "color": "#d72c89",
+    "file": "Evidence/Assets/sharedassets1.assets_13503.json"
+  },
+  "17": {
+    "name": "EmeraldColorConfig",
+    "color": "#067c65",
+    "file": "Evidence/Assets/sharedassets1.assets_13504.json"
+  },
+  "13": {
+    "name": "GrayColorConfig",
+    "color": "#262626",
+    "file": "Evidence/Assets/sharedassets1.assets_13505.json"
+  },
+  "0": {
+    "name": "LBlueColorConfig",
+    "color": "#0198d8",
+    "file": "Evidence/Assets/sharedassets1.assets_13506.json"
+  },
+  "3": {
+    "name": "LGreenColorConfig",
+    "color": "#70a502",
+    "file": "Evidence/Assets/sharedassets1.assets_13507.json"
+  },
+  "21": {
+    "name": "LavenderColorConfig",
+    "color": "#9d54f4",
+    "file": "Evidence/Assets/sharedassets1.assets_13508.json"
+  },
+  "20": {
+    "name": "MintColorConfig",
+    "color": "#00ce95",
+    "file": "Evidence/Assets/sharedassets1.assets_13509.json"
+  },
+  "18": {
+    "name": "MustardColorConfig",
+    "color": "#b08000",
+    "file": "Evidence/Assets/sharedassets1.assets_13510.json"
+  },
+  "2": {
+    "name": "OrangeColorConfig",
+    "color": "#e45900",
+    "file": "Evidence/Assets/sharedassets1.assets_13511.json"
+  },
+  "10": {
+    "name": "PinkColorConfig",
+    "color": "#fe6fd7",
+    "file": "Evidence/Assets/sharedassets1.assets_13512.json"
+  },
+  "11": {
+    "name": "RedColorConfig",
+    "color": "#c40602",
+    "file": "Evidence/Assets/sharedassets1.assets_13513.json"
+  },
+  "9": {
+    "name": "VioletColorConfig",
+    "color": "#5f1e8e",
+    "file": "Evidence/Assets/sharedassets1.assets_13514.json"
+  },
+  "5": {
+    "name": "WhiteColorConfig",
+    "color": "#5d64a6",
+    "file": "Evidence/Assets/sharedassets1.assets_13515.json"
+  },
+  "6": {
+    "name": "WineColorConfig",
+    "color": "#6b0052",
+    "file": "Evidence/Assets/sharedassets1.assets_13516.json"
+  },
+  "8": {
+    "name": "YellowColorConfig",
+    "color": "#fcc006",
+    "file": "Evidence/Assets/sharedassets1.assets_13517.json"
+  }
+}

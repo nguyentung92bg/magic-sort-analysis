@@ -1,0 +1,44 @@
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItems.Scripts.Bottle.BottleItem$$GetSuperChargerTrailTargetPosition
+UnityEngine_Vector3_o Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__GetSuperChargerTrailTargetPosition (Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.GamePlay.BoardItems.Scripts.Bottle.BottleItem$$GetSuperChargerTrailTargetPosition
+   UnityEngine_Vector3_o
+   Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__GetSuperChargerTrailTargetPosition
+   (Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem_o* __this, const MethodInfo*
+   method); */
+
+void Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__GetSuperChargerTrailTargetPosition_249e438
+               (long param_1)
+
+{
+  long lVar1;
+  undefined8 uStack_48;
+  undefined8 uStack_40;
+  undefined8 uStack_38;
+  undefined8 uStack_30;
+  undefined8 uStack_28;
+  undefined8 uStack_20;
+  
+  if (*(long *)(param_1 + 0x50) == 0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+  uStack_28 = 0;
+  uStack_20 = 0;
+  uStack_30 = 0;
+  lVar1 = *(long *)(*(long *)(param_1 + 0x50) + 0x30);
+  if (lVar1 != 0) {
+    UnityEngine_Renderer__get_bounds_4081df0(&uStack_48,lVar1,0);
+    uStack_28 = uStack_40;
+    uStack_30 = uStack_48;
+    uStack_20 = uStack_38;
+    UnityEngine_Bounds__get_center_38374e8(&uStack_30,0);
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0(0,0);
+}
+

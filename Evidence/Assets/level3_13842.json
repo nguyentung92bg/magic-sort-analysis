@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "556"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6605"
+  },
+  "m_Name": "",
+  "_tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13747"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13934"
+    }
+  ],
+  "_worldLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "13875"
+  },
+  "_countryLeaderboardController": {
+    "m_FileID": 0,
+    "m_PathID": "13893"
+  }
+}

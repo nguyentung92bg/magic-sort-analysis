@@ -1,0 +1,130 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5600"
+  },
+  "m_Name": "MergeMiniGameEnergyCollectConfig",
+  "_totalAnimationDuration": 1.2000000476837158,
+  "_APoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_BPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_CPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_DPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_middleOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.12945660948753357
+      },
+      {
+        "time": 0.507705807685852,
+        "value": 0.00034638214856386185,
+        "inSlope": 0.0006822497234679759,
+        "outSlope": 0.07855373620986938,
+        "weightedMode": 0,
+        "inWeight": 0.09270726144313812,
+        "outWeight": 0.12490390986204147
+      },
+      {
+        "time": 0.7180300354957581,
+        "value": 0.17626185715198517,
+        "inSlope": 1.2958590984344482,
+        "outSlope": 1.0974751710891724,
+        "weightedMode": 0,
+        "inWeight": 0.10600073635578156,
+        "outWeight": 0.13466523587703705
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.3354830741882324,
+        "outSlope": 3.3354830741882324,
+        "weightedMode": 0,
+        "inWeight": 0.03074660897254944,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_spawnPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_randomSpawnDistance": {
+    "x": -0.5,
+    "y": 0.5
+  },
+  "_useTriangularWaveForSpawn": 0,
+  "_flipAnimationSpeed": {
+    "Max": 1.0,
+    "Min": 1.0
+  },
+  "_delayBetweenRewards": {
+    "Max": 0.07000000029802322,
+    "Min": 0.029999999329447746
+  },
+  "_fadeDuration": 0.20000000298023224,
+  "_spawnScaleDuration": 0.25,
+  "_spawnScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.388429880142212,
+        "outSlope": 2.388429880142212,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04370179772377014
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -1.7481718063354492,
+        "outSlope": -1.7481718063354492,
+        "weightedMode": 0,
+        "inWeight": 0.03901749849319458,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_seed": 0,
+  "_requiredAmoutForEachCoin": 30,
+  "_minCoinCount": 5,
+  "_maxCoinCount": 10
+}

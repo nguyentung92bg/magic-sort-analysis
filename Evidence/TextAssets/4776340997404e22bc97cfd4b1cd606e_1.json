@@ -1,0 +1,82 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 5000,
+  "ClientKey": "[REDACTED]",
+  "Products": [
+    {
+      "ProductId": "sort.special1",
+      "WebProductId": "sort.special1",
+      "Price": 0.99,
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 250
+      }
+    },
+    {
+      "ProductId": "sort.special3",
+      "WebProductId": "sort.special3",
+      "Price": 2.69,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special4.99",
+      "WebProductId": "sort.special4.99",
+      "Price": 4.99,
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "ProductId": "sort.special5",
+      "WebProductId": "sort.special5",
+      "Price": 4.49,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special10",
+      "WebProductId": "sort.special10",
+      "Price": 9.99,
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 1000
+      }
+    },
+    {
+      "ProductId": "sort.special20",
+      "WebProductId": "sort.special20",
+      "Price": 17.99,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special40",
+      "WebProductId": "sort.special40",
+      "Price": 35.99,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special50",
+      "WebProductId": "sort.special50",
+      "Price": 44.99,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special80",
+      "WebProductId": "sort.special80",
+      "Price": 71.99,
+      "DiscountPercent": 10
+    },
+    {
+      "ProductId": "sort.special100",
+      "WebProductId": "sort.special100",
+      "Price": 89.99,
+      "DiscountPercent": 10
+    }
+  ],
+  "IsAdaptiveFlowEnabled": false,
+  "IapChosenOverWebShopCountdownDays": 1,
+  "NoPurchaseFromWebShopPopUpCountdownDays": 3,
+  "DisableDurationDays": 5,
+  "WebShopPurchaseProtectionDays": 6,
+  "CycleCount": 10
+}

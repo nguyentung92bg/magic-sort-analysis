@@ -1,0 +1,934 @@
+{
+  "Id": "collection_4",
+  "Name": "Summer Collection",
+  "GoldName": "Grand Summer Collection",
+  "RepeatName": "Grand {0} Summer Collection",
+  "TokenName": "Summer Badge",
+  "GoldTokenName": "Grand Summer Badge",
+  "TokenId": "collection_4_token",
+  "GoldTokenId": "collection_4_token_gold",
+  "Themes": [
+    {
+      "Id": "theme_1",
+      "Name": "Camp",
+      "Cards": [
+        {
+          "Id": "card_1_theme_1",
+          "Name": "Small campfire",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_1",
+          "Name": "Forest path",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_1",
+          "Name": "Wooden direction sign",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_1",
+          "Name": "Rainforest waterfall",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_1",
+          "Name": "Camping tents",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_1",
+          "Name": "Shooting star trail",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_1",
+          "Name": "Gas lantern",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_1",
+          "Name": "Torch",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_1",
+          "Name": "Old tree root",
+          "StarCount": 1,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_2",
+      "Name": "Road Trip",
+      "Cards": [
+        {
+          "Id": "card_1_theme_2",
+          "Name": "Explorer's compass",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_2",
+          "Name": "Folded exploration map",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_2",
+          "Name": "Traveller backpack",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_2",
+          "Name": "White fuzzy hanging dice",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_2",
+          "Name": "Classic metal car keys",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_2",
+          "Name": "Vintage camera",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_2",
+          "Name": "Retro plastic cassette tape",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_2",
+          "Name": "Steel travel thermos",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_2",
+          "Name": "Pastel retro camper van",
+          "StarCount": 2,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_3",
+      "Name": "Souvenir Shop",
+      "Cards": [
+        {
+          "Id": "card_1_theme_3",
+          "Name": "Souvenir magnet stand",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_3",
+          "Name": "Surfboard shaped wooden keychain",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_3",
+          "Name": "Bamboo wind chime",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_3",
+          "Name": "Paper souvenir bag",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_3",
+          "Name": "Ceramic souvenir mug",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_3",
+          "Name": "Heart shaped sunglasses",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_3",
+          "Name": "Wooden souvenir shop kiosk",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_3",
+          "Name": "Glass summer globe with a palm tree",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_3",
+          "Name": "Scenic postcard",
+          "StarCount": 2,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_4",
+      "Name": "Travel",
+      "Cards": [
+        {
+          "Id": "card_1_theme_4",
+          "Name": "Printed airline boarding pass",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_4",
+          "Name": "Sleep mask",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_4",
+          "Name": "Foam earplugs connected by a string",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_4",
+          "Name": "Neck pillow",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_4",
+          "Name": "Suitcase with stamps",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_4",
+          "Name": "Passport",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_4",
+          "Name": "Plane flying through clouds",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_4",
+          "Name": "Luggage tag with buckle strap",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_4",
+          "Name": "Desktop globe",
+          "StarCount": 2,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_5",
+      "Name": "Gelato Delights",
+      "Cards": [
+        {
+          "Id": "card_1_theme_5",
+          "Name": "Chocolate filled wafer rolls",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_5",
+          "Name": "Metal ice cream scoop with spring",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_5",
+          "Name": "Glass jar of rainbow sprinkles",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_5",
+          "Name": "Two-tone soft serve in a cone",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_5",
+          "Name": "Fruit popsicle on a wooden stick",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_5",
+          "Name": "Banana split in a glass boat",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_5",
+          "Name": "Swirled frozen yogurt in a paper cup",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_5",
+          "Name": "Scoops of gelato in a paper tub",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_5",
+          "Name": "Rectangular ice cream sandwich",
+          "StarCount": 3,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_6",
+      "Name": "Festival",
+      "Cards": [
+        {
+          "Id": "card_1_theme_6",
+          "Name": "Red carnival ticket roll",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_6",
+          "Name": "Festive string lights with round bulbs",
+          "StarCount": 1,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_6",
+          "Name": "Retro boombox",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_6",
+          "Name": "Three-pointed jester hat",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_6",
+          "Name": "Bursting colorful firework with sparks",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_6",
+          "Name": "Soft pretzel with salt crystals",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_6",
+          "Name": "Pink cotton candy on stick",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_6",
+          "Name": "Bumper car with a tall antenna",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_6",
+          "Name": "Bundle of firework rockets with fuses",
+          "StarCount": 3,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_7",
+      "Name": "Fresh Food",
+      "Cards": [
+        {
+          "Id": "card_1_theme_7",
+          "Name": "Mixed fruit skewers on a wooden stick",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_7",
+          "Name": "Glass pitcher of lemonade",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_7",
+          "Name": "Tall glass of tropical fruit slush",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_7",
+          "Name": "Iced virgin mojito with mint leaves",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_7",
+          "Name": "Iced tea with lemon",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_7",
+          "Name": "Wooden plate filled with fresh strawberries",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_7",
+          "Name": "Twin red cherries with a leaf",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_7",
+          "Name": "Watermelon slices",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_7",
+          "Name": "Smashed avocado toast on a plate",
+          "StarCount": 4,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_8",
+      "Name": "Barbecue",
+      "Cards": [
+        {
+          "Id": "card_1_theme_8",
+          "Name": "Metal BBQ spatula",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_8",
+          "Name": "Ketchup and mustard squeeze bottles",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_8",
+          "Name": "Quilted oven mitt",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_8",
+          "Name": "Picnic cutlery wrapped in a napkin",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_8",
+          "Name": "Closed red round grill",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_8",
+          "Name": "Roasted vegetable skewers on the plate",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_8",
+          "Name": "Ice cooler with cold drinks",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_8",
+          "Name": "Grilled hot dog with mustard",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_8",
+          "Name": "Classic cheeseburger",
+          "StarCount": 4,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_9",
+      "Name": "Summer Spa",
+      "Cards": [
+        {
+          "Id": "card_1_theme_9",
+          "Name": "Wooden body brush with natural bristles",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_9",
+          "Name": "Facial roller",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_9",
+          "Name": "Aroma candle",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_9",
+          "Name": "Amber glass bottle of massage oil",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_9",
+          "Name": "Wooden aroma diffuser with steam",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_9",
+          "Name": "Stacked balance stones",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_9",
+          "Name": "Ceramic cup of herbal tea with lemon",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_9",
+          "Name": "Rolled white spa towels",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_9",
+          "Name": "Wooden bowl with floating petals",
+          "StarCount": 5,
+          "IsGold": false
+        }
+      ]
+    },
+    {
+      "Id": "theme_10",
+      "Name": "Starlit Cinema",
+      "Cards": [
+        {
+          "Id": "card_1_theme_10",
+          "Name": "Bucket of popcorn",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_10",
+          "Name": "3D movie glasses",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_10",
+          "Name": "Cinema soda cup",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_10",
+          "Name": "Film reel",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_10",
+          "Name": "Movie projector",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_10",
+          "Name": "Director's megaphone",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_10",
+          "Name": "Cinema tickets",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_10",
+          "Name": "Director's clapperboard",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_10",
+          "Name": "Golden award statue",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    },
+    {
+      "Id": "theme_11",
+      "Name": "Deep Sea",
+      "Cards": [
+        {
+          "Id": "card_1_theme_11",
+          "Name": "Speargun",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_11",
+          "Name": "Scuba mask",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_11",
+          "Name": "Snorkel",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_11",
+          "Name": "Diving fins",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_11",
+          "Name": "Seaweed",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_11",
+          "Name": "Shark fin",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_11",
+          "Name": "Coral",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_11",
+          "Name": "Scuba tank",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_9_theme_11",
+          "Name": "Oyster with pearl",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    },
+    {
+      "Id": "theme_12",
+      "Name": "Cruise",
+      "Cards": [
+        {
+          "Id": "card_1_theme_12",
+          "Name": "Iron anchor with rope",
+          "StarCount": 2,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_12",
+          "Name": "Red and white lighthouse",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_12",
+          "Name": "Red and white lifebuoy",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_12",
+          "Name": "Giant cruise liner",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_12",
+          "Name": "Ship's wheel",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_12",
+          "Name": "Pirate binoculars",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_12",
+          "Name": "Bright orange life jacket",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_8_theme_12",
+          "Name": "White captain's hat",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_9_theme_12",
+          "Name": "Cresting ocean wave",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    },
+    {
+      "Id": "theme_13",
+      "Name": "Ocean",
+      "Cards": [
+        {
+          "Id": "card_1_theme_13",
+          "Name": "Small wooden boat pulled onto the shore",
+          "StarCount": 3,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_13",
+          "Name": "Hammock",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_13",
+          "Name": "Jellyfish",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_13",
+          "Name": "Starfish on wet sand",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_13",
+          "Name": "Stand-up paddle board",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_13",
+          "Name": "Calm sea shoreline",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_7_theme_13",
+          "Name": "Sea turtle",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_8_theme_13",
+          "Name": "Clownfish",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_9_theme_13",
+          "Name": "Dolphin jumping out of a blue wave",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    },
+    {
+      "Id": "theme_14",
+      "Name": "Pool",
+      "Cards": [
+        {
+          "Id": "card_1_theme_14",
+          "Name": "Beachball",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_14",
+          "Name": "Pool umbrella",
+          "StarCount": 4,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_14",
+          "Name": "Slippers",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_4_theme_14",
+          "Name": "Chaise lounge",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_5_theme_14",
+          "Name": "Sunglasses",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_6_theme_14",
+          "Name": "Toy duck",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_7_theme_14",
+          "Name": "Toy flamingo in pool",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_8_theme_14",
+          "Name": "Water gun",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_9_theme_14",
+          "Name": "Surfer",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    },
+    {
+      "Id": "theme_15",
+      "Name": "Tropical",
+      "Cards": [
+        {
+          "Id": "card_1_theme_15",
+          "Name": "Banana tree",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_2_theme_15",
+          "Name": "Crabs walking along the beach",
+          "StarCount": 5,
+          "IsGold": false
+        },
+        {
+          "Id": "card_3_theme_15",
+          "Name": "Pineapple",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_4_theme_15",
+          "Name": "Tiki totem",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_5_theme_15",
+          "Name": "Ukulele",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_6_theme_15",
+          "Name": "Flower lei",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_7_theme_15",
+          "Name": "Seaweed attached to coastal rocks",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_8_theme_15",
+          "Name": "Floral pattern summer dress",
+          "StarCount": 5,
+          "IsGold": true
+        },
+        {
+          "Id": "card_9_theme_15",
+          "Name": "Floral Aloha welcome sign",
+          "StarCount": 5,
+          "IsGold": true
+        }
+      ]
+    }
+  ],
+  "Packs": [
+    {
+      "Id": 1,
+      "CardCount": 2
+    },
+    {
+      "Id": 2,
+      "CardCount": 3
+    },
+    {
+      "Id": 3,
+      "CardCount": 4
+    },
+    {
+      "Id": 4,
+      "CardCount": 5
+    },
+    {
+      "Id": 5,
+      "CardCount": 6
+    }
+  ]
+}

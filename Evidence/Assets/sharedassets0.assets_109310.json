@@ -1,0 +1,821 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "905"
+  },
+  "m_Name": "SoundConfig",
+  "SoundDataList": [
+    {
+      "SoundType": 1,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1143"
+      }
+    },
+    {
+      "SoundType": 2,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1109"
+      }
+    },
+    {
+      "SoundType": 3,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1115"
+      }
+    },
+    {
+      "SoundType": 4,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1113"
+      }
+    },
+    {
+      "SoundType": 5,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1065"
+      }
+    },
+    {
+      "SoundType": 6,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1055"
+      }
+    },
+    {
+      "SoundType": 7,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1082"
+      }
+    },
+    {
+      "SoundType": 8,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1125"
+      }
+    },
+    {
+      "SoundType": 9,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1136"
+      }
+    },
+    {
+      "SoundType": 10,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1057"
+      }
+    },
+    {
+      "SoundType": 11,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1052"
+      }
+    },
+    {
+      "SoundType": 12,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1111"
+      }
+    },
+    {
+      "SoundType": 13,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1048"
+      }
+    },
+    {
+      "SoundType": 14,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1151"
+      }
+    },
+    {
+      "SoundType": 15,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1063"
+      }
+    },
+    {
+      "SoundType": 16,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1054"
+      }
+    },
+    {
+      "SoundType": 17,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1102"
+      }
+    },
+    {
+      "SoundType": 18,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1122"
+      }
+    },
+    {
+      "SoundType": 19,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1150"
+      }
+    },
+    {
+      "SoundType": 20,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1055"
+      }
+    },
+    {
+      "SoundType": 21,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1119"
+      }
+    },
+    {
+      "SoundType": 22,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1077"
+      }
+    },
+    {
+      "SoundType": 22,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1077"
+      }
+    },
+    {
+      "SoundType": 23,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1126"
+      }
+    },
+    {
+      "SoundType": 26,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1051"
+      }
+    },
+    {
+      "SoundType": 24,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1083"
+      }
+    },
+    {
+      "SoundType": 25,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1118"
+      }
+    },
+    {
+      "SoundType": 27,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1076"
+      }
+    },
+    {
+      "SoundType": 28,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1114"
+      }
+    },
+    {
+      "SoundType": 29,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1140"
+      }
+    },
+    {
+      "SoundType": 30,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1120"
+      }
+    },
+    {
+      "SoundType": 31,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1100"
+      }
+    },
+    {
+      "SoundType": 32,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1103"
+      }
+    },
+    {
+      "SoundType": 33,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1145"
+      }
+    },
+    {
+      "SoundType": 34,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1061"
+      }
+    },
+    {
+      "SoundType": 35,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1110"
+      }
+    },
+    {
+      "SoundType": 36,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1074"
+      }
+    },
+    {
+      "SoundType": 37,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1064"
+      }
+    },
+    {
+      "SoundType": 38,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1129"
+      }
+    },
+    {
+      "SoundType": 39,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1141"
+      }
+    },
+    {
+      "SoundType": 40,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1073"
+      }
+    },
+    {
+      "SoundType": 41,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1134"
+      }
+    },
+    {
+      "SoundType": 42,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1124"
+      }
+    },
+    {
+      "SoundType": 43,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1135"
+      }
+    },
+    {
+      "SoundType": 44,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1139"
+      }
+    },
+    {
+      "SoundType": 45,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1132"
+      }
+    },
+    {
+      "SoundType": 46,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1147"
+      }
+    },
+    {
+      "SoundType": 47,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1045"
+      }
+    },
+    {
+      "SoundType": 48,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1080"
+      }
+    },
+    {
+      "SoundType": 49,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1148"
+      }
+    },
+    {
+      "SoundType": 50,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1088"
+      }
+    },
+    {
+      "SoundType": 51,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1104"
+      }
+    },
+    {
+      "SoundType": 52,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1137"
+      }
+    },
+    {
+      "SoundType": 53,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1067"
+      }
+    },
+    {
+      "SoundType": 54,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1086"
+      }
+    },
+    {
+      "SoundType": 55,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1137"
+      }
+    },
+    {
+      "SoundType": 56,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1067"
+      }
+    },
+    {
+      "SoundType": 57,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1099"
+      }
+    },
+    {
+      "SoundType": 58,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1059"
+      }
+    },
+    {
+      "SoundType": 59,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1058"
+      }
+    },
+    {
+      "SoundType": 60,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1149"
+      }
+    },
+    {
+      "SoundType": 61,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1047"
+      }
+    },
+    {
+      "SoundType": 62,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1046"
+      }
+    },
+    {
+      "SoundType": 63,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1117"
+      }
+    },
+    {
+      "SoundType": 64,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1078"
+      }
+    },
+    {
+      "SoundType": 65,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1085"
+      }
+    },
+    {
+      "SoundType": 66,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1096"
+      }
+    },
+    {
+      "SoundType": 67,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1075"
+      }
+    },
+    {
+      "SoundType": 68,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1112"
+      }
+    },
+    {
+      "SoundType": 69,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1092"
+      }
+    },
+    {
+      "SoundType": 70,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1090"
+      }
+    },
+    {
+      "SoundType": 71,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1123"
+      }
+    },
+    {
+      "SoundType": 72,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1079"
+      }
+    },
+    {
+      "SoundType": 73,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1089"
+      }
+    },
+    {
+      "SoundType": 78,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1101"
+      }
+    },
+    {
+      "SoundType": 79,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1091"
+      }
+    },
+    {
+      "SoundType": 75,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1105"
+      }
+    },
+    {
+      "SoundType": 74,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1097"
+      }
+    },
+    {
+      "SoundType": 76,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1146"
+      }
+    },
+    {
+      "SoundType": 77,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1128"
+      }
+    },
+    {
+      "SoundType": 80,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1069"
+      }
+    },
+    {
+      "SoundType": 81,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1068"
+      }
+    },
+    {
+      "SoundType": 82,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1095"
+      }
+    },
+    {
+      "SoundType": 83,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1093"
+      }
+    },
+    {
+      "SoundType": 84,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1130"
+      }
+    },
+    {
+      "SoundType": 85,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1087"
+      }
+    },
+    {
+      "SoundType": 86,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1062"
+      }
+    },
+    {
+      "SoundType": 87,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1066"
+      }
+    },
+    {
+      "SoundType": 88,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1094"
+      }
+    },
+    {
+      "SoundType": 89,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1084"
+      }
+    },
+    {
+      "SoundType": 90,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1144"
+      }
+    },
+    {
+      "SoundType": 91,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1060"
+      }
+    },
+    {
+      "SoundType": 92,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1071"
+      }
+    },
+    {
+      "SoundType": 93,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1121"
+      }
+    },
+    {
+      "SoundType": 94,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1098"
+      }
+    },
+    {
+      "SoundType": 95,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1050"
+      }
+    },
+    {
+      "SoundType": 96,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1053"
+      }
+    },
+    {
+      "SoundType": 97,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1116"
+      }
+    },
+    {
+      "SoundType": 98,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1071"
+      }
+    },
+    {
+      "SoundType": 99,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1106"
+      }
+    },
+    {
+      "SoundType": 100,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1107"
+      }
+    },
+    {
+      "SoundType": 101,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1049"
+      }
+    },
+    {
+      "SoundType": 102,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1138"
+      }
+    },
+    {
+      "SoundType": 103,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1108"
+      }
+    },
+    {
+      "SoundType": 104,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1081"
+      }
+    },
+    {
+      "SoundType": 105,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1056"
+      }
+    },
+    {
+      "SoundType": 106,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1133"
+      }
+    },
+    {
+      "SoundType": 107,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1131"
+      }
+    },
+    {
+      "SoundType": 108,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1072"
+      }
+    },
+    {
+      "SoundType": 109,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1142"
+      }
+    },
+    {
+      "SoundType": 110,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1070"
+      }
+    }
+  ],
+  "MusicDataList": [
+    {
+      "MusicType": 1,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1128"
+      }
+    },
+    {
+      "MusicType": 2,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1146"
+      }
+    },
+    {
+      "MusicType": 3,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1046"
+      }
+    },
+    {
+      "MusicType": 4,
+      "AudioClip": {
+        "m_FileID": 0,
+        "m_PathID": "1127"
+      }
+    }
+  ]
+}

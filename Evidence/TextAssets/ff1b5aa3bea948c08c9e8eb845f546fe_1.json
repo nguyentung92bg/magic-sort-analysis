@@ -1,0 +1,90 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 45,
+  "NormalScore": 1,
+  "HardScore": 3,
+  "SuperHardScore": 5,
+  "Multipliers": [
+    1,
+    25,
+    50
+  ],
+  "BronzeLeaderboardRewards": [
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ],
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 25
+      }
+    ],
+    [
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ]
+  ],
+  "SilverLeaderboardRewards": [
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ],
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 25
+      }
+    ],
+    [
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ]
+  ],
+  "GoldLeaderboardRewards": [
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ],
+    [
+      {
+        "CurrencyType": 1,
+        "Amount": 25
+      }
+    ],
+    [
+      {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    ]
+  ]
+}

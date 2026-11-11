@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6363"
+  },
+  "m_Name": "ConfigsByBottleHeight",
+  "<BottleAnimationConfigs>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13543"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13494"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "0"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13493"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13493"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13487"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13495"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13489"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13488"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13490"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13491"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13492"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1612"
+  },
+  "m_Name": "DuckHouseCoverConfig",
+  "_covers": [
+    {
+      "DuckType": 1,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "4339"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5649"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "3137"
+      }
+    },
+    {
+      "DuckType": 4,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2456"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "1975"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5565"
+      }
+    },
+    {
+      "DuckType": 6,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "3910"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "4507"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "1976"
+      }
+    },
+    {
+      "DuckType": 5,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2335"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2044"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2491"
+      }
+    },
+    {
+      "DuckType": 2,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5827"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5362"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "4071"
+      }
+    },
+    {
+      "DuckType": 3,
+      "CenterSprite": {
+        "m_FileID": 10,
+        "m_PathID": "2681"
+      },
+      "SideSprite": {
+        "m_FileID": 10,
+        "m_PathID": "1573"
+      },
+      "DuckSprite": {
+        "m_FileID": 10,
+        "m_PathID": "5491"
+      }
+    }
+  ],
+  "_colors": [
+    {
+      "DuckType": 2,
+      "BaseColor": {
+        "r": 1.0,
+        "g": 0.529411792755127,
+        "b": 0.2666666805744171,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.6235294342041016,
+        "g": 0.24313725531101227,
+        "b": 0.0,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 1.0,
+        "g": 0.6313725709915161,
+        "b": 0.23529411852359772,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 0.8941176533699036,
+        "g": 0.5137255191802979,
+        "b": 0.04313725605607033,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.8941176533699036,
+        "g": 0.5137255191802979,
+        "b": 0.04313725605607033,
+        "a": 1.0
+      }
+    },
+    {
+      "DuckType": 1,
+      "BaseColor": {
+        "r": 0.0,
+        "g": 0.6075770854949951,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.0,
+        "g": 0.09673965722322464,
+        "b": 0.6235294342041016,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 0.23529410362243652,
+        "g": 0.705777645111084,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 0.0,
+        "g": 0.09803921729326248,
+        "b": 0.6235294342041016,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.0,
+        "g": 0.6078431606292725,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "DuckType": 3,
+      "BaseColor": {
+        "r": 0.8584905862808228,
+        "g": 0.27131539583206177,
+        "b": 0.7156642079353333,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.46226418018341064,
+        "g": 0.0,
+        "b": 0.32433053851127625,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 1.0,
+        "g": 0.23529410362243652,
+        "b": 0.886460542678833,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 0.8679245114326477,
+        "g": 0.004093993455171585,
+        "b": 0.7471312880516052,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.4811320900917053,
+        "g": 0.0,
+        "b": 0.34150952100753784,
+        "a": 1.0
+      }
+    },
+    {
+      "DuckType": 4,
+      "BaseColor": {
+        "r": 0.33851274847984314,
+        "g": 0.7452830076217651,
+        "b": 0.25663045048713684,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.03316720202565193,
+        "g": 0.40566039085388184,
+        "b": 0.0,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 0.4271876811981201,
+        "g": 0.9245283007621765,
+        "b": 0.32707369327545166,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 0.18398098647594452,
+        "g": 0.7358490228652954,
+        "b": 0.07289070636034012,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.060071367770433426,
+        "g": 0.35849058628082275,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    {
+      "DuckType": 5,
+      "BaseColor": {
+        "r": 1.0,
+        "g": 0.31603771448135376,
+        "b": 0.31603771448135376,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.698113203048706,
+        "g": 0.0,
+        "b": 0.1381681263446808,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 1.0,
+        "g": 0.2216981053352356,
+        "b": 0.244931161403656,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 1.0,
+        "g": 0.3537735939025879,
+        "b": 0.42473191022872925,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.4150943160057068,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    {
+      "DuckType": 6,
+      "BaseColor": {
+        "r": 0.9056603908538818,
+        "g": 0.844184935092926,
+        "b": 0.40583837032318115,
+        "a": 1.0
+      },
+      "GlowColor": {
+        "r": 0.7264150977134705,
+        "g": 0.6274995803833008,
+        "b": 0.2021626979112625,
+        "a": 0.250980406999588
+      },
+      "BaseParticleColor": {
+        "r": 0.9528301954269409,
+        "g": 0.8872352242469788,
+        "b": 0.3280971646308899,
+        "a": 1.0
+      },
+      "GlowParticleColor": {
+        "r": 0.85749751329422,
+        "g": 0.8941176533699036,
+        "b": 0.04313725233078003,
+        "a": 1.0
+      },
+      "CenterGlowColor": {
+        "r": 0.6603773832321167,
+        "g": 0.3295922875404358,
+        "b": 0.04672480747103691,
+        "a": 1.0
+      }
+    }
+  ],
+  "_particleTextures": [
+    {
+      "DuckType": 1,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1283"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1350"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1444"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "6192"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6238"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1413"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1443"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1441"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1431"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6198"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6188"
+        }
+      ]
+    },
+    {
+      "DuckType": 2,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1278"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6287"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1438"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "6282"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6209"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6158"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1317"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6221"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1440"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1432"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6257"
+        }
+      ]
+    },
+    {
+      "DuckType": 3,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "6253"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6195"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6295"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "6244"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6218"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6247"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6207"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6291"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1296"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1454"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1272"
+        }
+      ]
+    },
+    {
+      "DuckType": 4,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1368"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1408"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1366"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1287"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6278"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1274"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6296"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1427"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1315"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6191"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6225"
+        }
+      ]
+    },
+    {
+      "DuckType": 5,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1442"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6280"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1434"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1365"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6154"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1424"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6271"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1389"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1395"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1293"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6153"
+        }
+      ]
+    },
+    {
+      "DuckType": 6,
+      "CircleSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "1448"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1325"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1361"
+        }
+      ],
+      "CrystalSprites": [
+        {
+          "m_FileID": 10,
+          "m_PathID": "6285"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6242"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6200"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1407"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1340"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1416"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "6150"
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": "1318"
+        }
+      ]
+    }
+  ]
+}

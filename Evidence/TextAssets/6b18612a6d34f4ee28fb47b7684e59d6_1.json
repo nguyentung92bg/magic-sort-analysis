@@ -1,0 +1,718 @@
+{
+  "IsEnabled": true,
+  "JourneyRewardsConfigs": [
+    {
+      "Level": 10,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 100,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 15,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "00:30:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 25,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 30,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 35,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 45,
+      "Rewards": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 50,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 200,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 55,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 65,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 70,
+      "Rewards": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 75,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 85,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 90,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 95,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 110,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "00:30:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 120,
+      "Rewards": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 130,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 140,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 160,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 250,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 170,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 180,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 190,
+      "Rewards": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 210,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 220,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        },
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 230,
+      "Rewards": [
+        {
+          "CurrencyType": 6,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 240,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 1,
+          "TimeSpan": "00:30:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 260,
+      "Rewards": [
+        {
+          "CurrencyType": 1,
+          "Amount": 300,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 270,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 280,
+      "Rewards": [
+        {
+          "CurrencyType": 2,
+          "Amount": 0,
+          "TimeSpan": "01:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 290,
+      "Rewards": [
+        {
+          "CurrencyType": 5,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    },
+    {
+      "Level": 310,
+      "Rewards": [
+        {
+          "CurrencyType": 4,
+          "Amount": 1,
+          "TimeSpan": "00:00:00",
+          "Rewards": [],
+          "ChestType": 0
+        }
+      ]
+    }
+  ],
+  "JourneyLoopRewardsConfig": {
+    "LevelInterval": 10,
+    "Rewards": [
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "01:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "00:30:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "02:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "00:30:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "01:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 2,
+            "Amount": 0,
+            "TimeSpan": "01:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      },
+      {
+        "CurrencyType": 0,
+        "Amount": 0,
+        "TimeSpan": "00:00:00",
+        "Rewards": [
+          {
+            "CurrencyType": 5,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1,
+            "TimeSpan": "00:00:00",
+            "ChestType": 0
+          }
+        ],
+        "ChestType": 0
+      }
+    ]
+  },
+  "JourneyPosterConfigs": [
+    {
+      "Level": 1,
+      "LevelRange": 18,
+      "PosterId": "poster1"
+    },
+    {
+      "Level": 20,
+      "LevelRange": 19,
+      "PosterId": "poster2"
+    },
+    {
+      "Level": 40,
+      "LevelRange": 19,
+      "PosterId": "poster3"
+    },
+    {
+      "Level": 60,
+      "LevelRange": 19,
+      "PosterId": "poster4"
+    },
+    {
+      "Level": 80,
+      "LevelRange": 19,
+      "PosterId": "poster5"
+    },
+    {
+      "Level": 100,
+      "LevelRange": 49,
+      "PosterId": "poster6"
+    },
+    {
+      "Level": 150,
+      "LevelRange": 49,
+      "PosterId": "poster7"
+    },
+    {
+      "Level": 200,
+      "LevelRange": 49,
+      "PosterId": "poster8"
+    },
+    {
+      "Level": 250,
+      "LevelRange": 49,
+      "PosterId": "poster9"
+    },
+    {
+      "Level": 300,
+      "LevelRange": 0,
+      "PosterId": "poster10"
+    }
+  ]
+}

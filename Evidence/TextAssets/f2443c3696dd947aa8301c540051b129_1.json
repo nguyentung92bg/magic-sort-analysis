@@ -1,0 +1,40 @@
+{
+  "refillPrice": 900,
+  "PlayOnPrice": 900,
+  "SecondPlayOnPrice": 1900,
+  "ThirdSecondPlayOnPrice": 2300,
+  "refillDurationAsMinutes": 30,
+  "maxLifeAmount": 5,
+  "initialCoin": 1000,
+  "initialUndoAmount": 3,
+  "initialShuffleAmount": 3,
+  "initialExtraBottleAmount": 3,
+  "initialFourthBoosterAmount": 3,
+  "undoUnlockAtLevel": 15,
+  "shuffleUnlockAtLevel": 15,
+  "extraBottleUnlockAtLevel": 15,
+  "UndoPrice": 300,
+  "ShufflePrice": 300,
+  "ExtraBottlePrice": 900,
+  "MegaShufflePrice": 900,
+  "RevealPrice": 900,
+  "RegularLevelWinCoinReward": 20,
+  "HardLevelWinCoinReward": 60,
+  "SuperHardLevelWinCoinReward": 100,
+  "IsFirstPlayOnFree": false,
+  "Hierarchy": 10000,
+  "PlayOnConfigModels": [
+    {
+      "PlayOnType": 0,
+      "Price": 900
+    },
+    {
+      "PlayOnType": 0,
+      "Price": 1900
+    },
+    {
+      "PlayOnType": 0,
+      "Price": 2300
+    }
+  ]
+}

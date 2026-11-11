@@ -1,0 +1,325 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5072"
+  },
+  "m_Name": "BulkCurrencyAnimationConfig",
+  "<RevealEndScale>k__BackingField": 1.0,
+  "<RevealScaleDuration>k__BackingField": 0.30000001192092896,
+  "<RevealScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.6644304990768433,
+        "value": 1.1183191537857056,
+        "inSlope": -0.011209881864488125,
+        "outSlope": -0.011209881864488125,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.11894281208515167
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.08170768618583679,
+        "outSlope": 0.08170768618583679,
+        "weightedMode": 0,
+        "inWeight": 0.1304015815258026,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardMoveMinDuration>k__BackingField": 0.6499999761581421,
+  "<RewardMoveMaxDuration>k__BackingField": 0.8500000238418579,
+  "<RewardMoveLengthDurationFactor>k__BackingField": 0.054999999701976776,
+  "<RewardMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.08921747654676437,
+        "outSlope": 0.08921747654676437,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.07342202961444855
+      },
+      {
+        "time": 0.41478031873703003,
+        "value": 0.10233919322490692,
+        "inSlope": 0.37176957726478577,
+        "outSlope": 0.37176957726478577,
+        "weightedMode": 0,
+        "inWeight": 0.16511856019496918,
+        "outWeight": 0.07561494410037994
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.711440324783325,
+        "outSlope": 3.711440324783325,
+        "weightedMode": 0,
+        "inWeight": 0.02386539801955223,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardPathAPointXOffsetMultiplier>k__BackingField": 0.5,
+  "<RewardPathAPointYOffsetMultiplier>k__BackingField": 0.5,
+  "<BezierResolution>k__BackingField": 50,
+  "<CoinPathAPointXOffsetMultiplierMinMax>k__BackingField": {
+    "x": -0.5,
+    "y": 0.5
+  },
+  "<CoinPathAPointYOffsetMultiplierMinMax>k__BackingField": {
+    "x": 0.6000000238418579,
+    "y": 1.2000000476837158
+  },
+  "<CoinStartPositionRandomOffset>k__BackingField": {
+    "x": 0.5,
+    "y": 0.20000000298023224
+  },
+  "<CoinMoveDuration>k__BackingField": 0.7799999713897705,
+  "<CoinMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.023707851767539978,
+        "outSlope": 0.023707851767539978,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15110085904598236
+      },
+      {
+        "time": 0.7177631258964539,
+        "value": 0.10764442384243011,
+        "inSlope": 0.48193785548210144,
+        "outSlope": 0.48193785548210144,
+        "weightedMode": 0,
+        "inWeight": 0.13128185272216797,
+        "outWeight": 0.303129643201828
+      },
+      {
+        "time": 1.0,
+        "value": 1.00140380859375,
+        "inSlope": 7.853163242340088,
+        "outSlope": 7.853163242340088,
+        "weightedMode": 0,
+        "inWeight": 0.03386872261762619,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CoinEndScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "<CoinScaleInDuration>k__BackingField": 0.30000001192092896,
+  "<CoinScaleInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.09648951143026352,
+        "outSlope": 0.09648951143026352,
+        "weightedMode": 0,
+        "inWeight": 0.0507621169090271,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScaleOutDuration>k__BackingField": 0.33000001311302185,
+  "<ScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.9832007884979248,
+        "outSlope": -0.9832007884979248,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04577779769897461
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardScaleDownDuration>k__BackingField": 0.5,
+  "<RewardScaleDownCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.800000011920929,
+        "value": 0.0,
+        "inSlope": Infinity,
+        "outSlope": 2.33874773979187,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.05027930065989494
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 5.000000476837158,
+        "outSlope": 5.000000476837158,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardScaleDownTarget>k__BackingField": {
+    "x": 0.699999988079071,
+    "y": 0.699999988079071,
+    "z": 1.0
+  },
+  "<TextScaleOutDuration>k__BackingField": 0.20000000298023224,
+  "<TextScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.455928921699524,
+        "outSlope": 1.455928921699524,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06191429868340492
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.5667001008987427,
+        "outSlope": 0.5667001008987427,
+        "weightedMode": 0,
+        "inWeight": 0.05528789758682251,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardMoveToTargetConstantDuration>k__BackingField": 0.5,
+  "<RewardMoveToTargetCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.9520753622055054,
+        "outSlope": -0.9520753622055054,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.14255477488040924
+      },
+      {
+        "time": 0.4000000059604645,
+        "value": -0.18576425313949585,
+        "inSlope": 0.029320186004042625,
+        "outSlope": 0.029320186004042625,
+        "weightedMode": 0,
+        "inWeight": 0.12900501489639282,
+        "outWeight": 0.08837640285491943
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.6342129707336426,
+        "outSlope": 3.6342129707336426,
+        "weightedMode": 0,
+        "inWeight": 0.046122170984745026,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RewardPunchScale>k__BackingField": {
+    "x": 0.20000000298023224,
+    "y": 0.20000000298023224,
+    "z": 0.20000000298023224
+  },
+  "<RewardPunchScaleDuration>k__BackingField": 0.0,
+  "<RewardPunchScaleVibrato>k__BackingField": 0,
+  "<RewardPunchScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "IsEnabled": false,
+  "ShouldShowOfferOnLastHit": false,
+  "IsOfferInitiallyVisible": false,
+  "DefaultIAPConfigModel": {
+    "IAPProductDiscountAmount": 80,
+    "IAPConfigModel": {
+      "ProductId": "sort.underwater5",
+      "ProductType": 0,
+      "DollarEquivalent": 4.99
+    }
+  },
+  "SegmentedIAPConfigModels": {
+    "non-purchaser": {
+      "IAPProductDiscountAmount": 80,
+      "IAPConfigModel": {
+        "ProductId": "sort.underwater1",
+        "ProductType": 0,
+        "DollarEquivalent": 0.99
+      }
+    },
+    "poor": {
+      "IAPProductDiscountAmount": 80,
+      "IAPConfigModel": {
+        "ProductId": "sort.underwater2",
+        "ProductType": 0,
+        "DollarEquivalent": 1.99
+      }
+    },
+    "hamsi": {
+      "IAPProductDiscountAmount": 80,
+      "IAPConfigModel": {
+        "ProductId": "sort.underwater3",
+        "ProductType": 0,
+        "DollarEquivalent": 2.99
+      }
+    },
+    "dolphin": {
+      "IAPProductDiscountAmount": 80,
+      "IAPConfigModel": {
+        "ProductId": "sort.underwater4",
+        "ProductType": 0,
+        "DollarEquivalent": 3.99
+      }
+    },
+    "whale": {
+      "IAPProductDiscountAmount": 80,
+      "IAPConfigModel": {
+        "ProductId": "sort.underwater5",
+        "ProductType": 0,
+        "DollarEquivalent": 4.99
+      }
+    }
+  }
+}

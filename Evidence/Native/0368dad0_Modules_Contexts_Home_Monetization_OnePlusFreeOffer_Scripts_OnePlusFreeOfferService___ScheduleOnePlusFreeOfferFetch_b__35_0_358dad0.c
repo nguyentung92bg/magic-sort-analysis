@@ -1,0 +1,69 @@
+/* IL2CPP: Modules.Contexts.Home.Monetization.OnePlusFreeOffer.Scripts.OnePlusFreeOfferService$$<ScheduleOnePlusFreeOfferFetch>b__35_0
+void Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService___ScheduleOnePlusFreeOfferFetch_b__35_0 (Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.Home.Monetization.OnePlusFreeOffer.Scripts.OnePlusFreeOfferService$$<ScheduleOnePlusFreeOfferFetch>b__35_0
+   void 
+   Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService___ScheduleOnePlusFreeOfferFetch_b__35_0
+   (Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService_o* __this,
+   const MethodInfo* method); */
+
+void Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferService___ScheduleOnePlusFreeOfferFetch_b__35_0_358dad0
+               (long param_1)
+
+{
+  undefined *puVar1;
+  undefined8 uStack_b0;
+  undefined8 uStack_a8;
+  undefined8 uStack_a0;
+  undefined8 uStack_98;
+  undefined8 uStack_90;
+  undefined8 uStack_88;
+  undefined8 uStack_80;
+  undefined8 uStack_78;
+  undefined8 uStack_70;
+  undefined8 uStack_68;
+  undefined8 uStack_60;
+  undefined8 uStack_58;
+  undefined8 uStack_50;
+  long alStack_48 [3];
+  
+  if (*(long *)(param_1 + 0x18) != 0) {
+    Modules_Contexts_Home_Monetization_OnePlusFreeOffer_Scripts_OnePlusFreeOfferStateService__GetState_358e738
+              ();
+    puVar1 = PTR_DAT_057c14a8;
+    if ((bRam0000000005c32df5 & 1) == 0) {
+      FUN_012d0dc8(PTR_DAT_057c14a8);
+      bRam0000000005c32df5 = 1;
+    }
+    alStack_48[0] = 0;
+    uStack_50 = 0;
+    alStack_48[2] = 0;
+    alStack_48[1] = 0;
+    uStack_68 = 0;
+    uStack_70 = 0;
+    uStack_58 = 0;
+    uStack_60 = 0;
+    System_Runtime_CompilerServices_AsyncVoidMethodBuilder__Create_2445128(&uStack_b0,0);
+    uStack_88 = uStack_a8;
+    uStack_90 = uStack_b0;
+    uStack_78 = uStack_98;
+    uStack_80 = uStack_a0;
+    uStack_60 = uStack_a8;
+    uStack_68 = uStack_b0;
+    uStack_50 = uStack_98;
+    uStack_58 = uStack_a0;
+    FUN_012d0d74((ulong)&uStack_70 | 8,0);
+    alStack_48[0] = param_1;
+    FUN_012d0d74(alStack_48,param_1);
+    uStack_70 = CONCAT44(uStack_70._4_4_,0xffffffff);
+    System_Runtime_CompilerServices_AsyncVoidMethodBuilder__Start_OnePlusFreeOfferService__TryFetchCurrentEvent_d__27__2171828
+              ((ulong)&uStack_70 | 8,&uStack_70,*(undefined8 *)puVar1);
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

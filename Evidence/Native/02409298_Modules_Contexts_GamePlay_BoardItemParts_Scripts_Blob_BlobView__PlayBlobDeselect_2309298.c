@@ -1,0 +1,44 @@
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItemParts.Scripts.Blob.BlobView$$PlayBlobDeselect
+DG_Tweening_Sequence_o* Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView__PlayBlobDeselect (Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView_o* __this, float targetY, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItemParts.Scripts.Blob.BlobView$$PlayBlobDeselect
+   DG_Tweening_Sequence_o*
+   Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView__PlayBlobDeselect
+   (Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView_o* __this, float targetY, const
+   MethodInfo* method); */
+
+undefined8
+Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView__PlayBlobDeselect_2309298
+          (undefined8 param_1,long param_2)
+
+{
+  undefined *puVar1;
+  undefined8 uVar2;
+  undefined8 uVar3;
+  
+  puVar1 = PTR_DAT_057815e0;
+  if ((bRam0000000005c2a66a & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_057815e0);
+    FUN_012d0dc8(PTR_DAT_057ce270);
+    bRam0000000005c2a66a = 1;
+  }
+  if (*(int *)(*(long *)puVar1 + 0xe0) == 0) {
+    thunk_FUN_0130472c();
+  }
+  uVar2 = DG_Tweening_DOTween__Sequence_1eda154(0);
+  *(undefined8 *)(param_2 + 0x60) = uVar2;
+  FUN_012d0d74((undefined8 *)(param_2 + 0x60),uVar2);
+  if (*(long *)(param_2 + 0x30) != 0) {
+    UnityEngine_Animator__Play_1f79afc(*(long *)(param_2 + 0x30),*(undefined8 *)PTR_DAT_057ce270,0);
+    uVar3 = *(undefined8 *)(param_2 + 0x60);
+    uVar2 = Modules_Contexts_GamePlay_BoardItemParts_Scripts_Blob_BlobView__BlobDeselectMoveBack_230a05c
+                      (param_1,param_2);
+    DG_Tweening_TweenSettingsExtensions__Insert_1eedff4(0,uVar3,uVar2,0);
+    return *(undefined8 *)(param_2 + 0x60);
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

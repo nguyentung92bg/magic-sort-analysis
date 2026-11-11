@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1825"
+  },
+  "m_Name": "TeamChatTextMessageViewAnimationConfig",
+  "Delay": 0.10000000149011612,
+  "From": {
+    "x": 0.15000000596046448,
+    "y": 0.15000000596046448,
+    "z": 0.15000000596046448
+  },
+  "Curve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.620335102081299,
+        "outSlope": 3.620335102081299,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.019292602315545082
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.18395407497882843,
+        "outSlope": 0.18395407497882843,
+        "weightedMode": 0,
+        "inWeight": 0.04099684953689575,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "Duration": 0.27000001072883606
+}

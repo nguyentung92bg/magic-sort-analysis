@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4375"
+  },
+  "m_Name": "MiniGameBoardConfig",
+  "Boards": [
+    {
+      "Size": {
+        "x": 4,
+        "y": 4
+      },
+      "BoardPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "122652"
+      },
+      "BoardItemScale": 1.2999999523162842
+    },
+    {
+      "Size": {
+        "x": 5,
+        "y": 5
+      },
+      "BoardPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "111340"
+      },
+      "BoardItemScale": 1.25
+    },
+    {
+      "Size": {
+        "x": 6,
+        "y": 6
+      },
+      "BoardPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "119753"
+      },
+      "BoardItemScale": 1.2000000476837158
+    },
+    {
+      "Size": {
+        "x": 7,
+        "y": 7
+      },
+      "BoardPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "120223"
+      },
+      "BoardItemScale": 1.100000023841858
+    },
+    {
+      "Size": {
+        "x": 8,
+        "y": 8
+      },
+      "BoardPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "110262"
+      },
+      "BoardItemScale": 1.0
+    }
+  ]
+}

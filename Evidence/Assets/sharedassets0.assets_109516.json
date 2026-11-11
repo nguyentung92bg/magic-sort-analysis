@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3903"
+  },
+  "m_Name": "WindQuestAnimationConfig",
+  "ProgressAnimationStartDelay": 0.30000001192092896,
+  "ProgressBarFillDuration": 1.2999999523162842,
+  "ProgressBarFillEase": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.7832781076431274,
+        "outSlope": 1.7832781076431274,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.45824357867240906
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.40650084614753723,
+        "outSlope": 0.40650084614753723,
+        "weightedMode": 0,
+        "inWeight": 0.5689750909805298,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "RewardFadeTime": 0.0,
+  "RewardFadeDuration": 0.20000000298023224,
+  "CheckMarkScaleTime": 0.05000000074505806,
+  "CheckMarkScaleDuration": 0.30000001192092896,
+  "CheckMarkScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "RewardRevealTime": 0.15000000596046448
+}

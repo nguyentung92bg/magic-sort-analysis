@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5153"
+  },
+  "m_Name": "InLevelSettingsAnimationConfig",
+  "AnimationDuration": 0.25,
+  "DelayBetweenButtons": 0.05999999865889549,
+  "AnimationCurve": {
+    "m_Curve": [
+      {
+        "time": -0.00128173828125,
+        "value": 0.0,
+        "inSlope": 3.5547666549682617,
+        "outSlope": 3.5547666549682617,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.016802862286567688
+      },
+      {
+        "time": 0.99871826171875,
+        "value": 1.0010719299316406,
+        "inSlope": -0.6919997334480286,
+        "outSlope": -0.6919997334480286,
+        "weightedMode": 0,
+        "inWeight": 0.04247453063726425,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "SettingsButtonSpinDuration": 0.6000000238418579,
+  "SettingsButtonSpinAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.235440254211426,
+        "outSlope": 3.235440254211426,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.01670951209962368
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.28526854515075684,
+        "outSlope": -0.28526854515075684,
+        "weightedMode": 0,
+        "inWeight": 0.05917954444885254,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "SpinRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -360.0
+  },
+  "SettingsButtonHiddenPositionOffset": {
+    "x": 3.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

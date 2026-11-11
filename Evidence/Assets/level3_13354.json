@@ -1,0 +1,154 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "451"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4749"
+  },
+  "m_Name": "",
+  "_dailyDateViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "13569"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13964"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13952"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13434"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13697"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13591"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13941"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13629"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14265"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13335"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13853"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14375"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13584"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13933"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13940"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14445"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13413"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13466"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14366"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13474"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14278"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13480"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13984"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13671"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13716"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14162"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13394"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13745"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13558"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14234"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14163"
+    }
+  ],
+  "_animationConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109360"
+  },
+  "_monthText": {
+    "m_FileID": 0,
+    "m_PathID": "12562"
+  },
+  "_dailyPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "14448"
+  },
+  "SpriteConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109361"
+  }
+}

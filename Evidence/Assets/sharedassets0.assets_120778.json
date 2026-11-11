@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "36510"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4263"
+  },
+  "m_Name": "",
+  "_coinText": {
+    "m_FileID": 0,
+    "m_PathID": "123256"
+  },
+  "_limitlessLifeText": {
+    "m_FileID": 0,
+    "m_PathID": "114167"
+  },
+  "_undoText": {
+    "m_FileID": 0,
+    "m_PathID": "121821"
+  },
+  "_shuffleText": {
+    "m_FileID": 0,
+    "m_PathID": "119893"
+  },
+  "_extraBottleText": {
+    "m_FileID": 0,
+    "m_PathID": "121538"
+  },
+  "_offText": {
+    "m_FileID": 0,
+    "m_PathID": "122792"
+  },
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "118986"
+  },
+  "_iapButton": {
+    "m_FileID": 0,
+    "m_PathID": "115847"
+  },
+  "_specialOfferTheme": 0
+}

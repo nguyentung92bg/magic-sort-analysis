@@ -1,0 +1,201 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2849"
+  },
+  "m_Name": "ToggleAnimationConfig",
+  "<ToggleAnimationDuration>k__BackingField": 0.5830000042915344,
+  "<ToggleOpenAnimationDurationTotal>k__BackingField": 1.149999976158142,
+  "<ToggleOpenAnimationDurationWithoutSway>k__BackingField": 0.5830000042915344,
+  "<ToggleAnimationLockDelayTime>k__BackingField": 0.25,
+  "<ToggleCloseAnimationDuration>k__BackingField": 0.5830000042915344,
+  "<CloseCapAnimationStartTime>k__BackingField": 0.5830000042915344,
+  "<OpenCapAnimationStartTime>k__BackingField": 0.0,
+  "<SwayAnimationStartTime>k__BackingField": 0.5830000042915344,
+  "<MoveAnimationDuration>k__BackingField": 1.5,
+  "<SFXDelay>k__BackingField": 0.03999999910593033,
+  "<CompleteAnimationDuration>k__BackingField": 1.100000023841858,
+  "<ShrinkScaleForToggleOpen>k__BackingField": {
+    "x": 1.0199999809265137,
+    "y": 0.9800000190734863,
+    "z": 1.0
+  },
+  "<ShrinkDurationForToggleOpen>k__BackingField": 0.03999999910593033,
+  "<ShrinkCurveForToggleOpen>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<StretchScaleForToggleOpen>k__BackingField": {
+    "x": 0.9800000190734863,
+    "y": 1.0199999809265137,
+    "z": 1.0
+  },
+  "<StretchDurationForToggleOpen>k__BackingField": 0.07000000029802322,
+  "<StretchCurveForToggleOpen>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ReturnToNormalScaleDurationForToggleOpen>k__BackingField": 0.20000000298023224,
+  "<ReturnToNormalScaleCurveForToggleOpen>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DelayBeforeShrinkForToggleOpen>k__BackingField": 0.0,
+  "<ShrinkScaleForToggleClose>k__BackingField": {
+    "x": 1.0199999809265137,
+    "y": 0.9800000190734863,
+    "z": 1.0
+  },
+  "<ShrinkDurationForToggleClose>k__BackingField": 0.03999999910593033,
+  "<ShrinkCurveForToggleClose>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<StretchScaleForToggleClose>k__BackingField": {
+    "x": 0.9800000190734863,
+    "y": 1.0199999809265137,
+    "z": 1.0
+  },
+  "<StretchDurationForToggleClose>k__BackingField": 0.07000000029802322,
+  "<StretchCurveForToggleClose>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ReturnToNormalScaleDurationForToggleClose>k__BackingField": 0.20000000298023224,
+  "<ReturnToNormalScaleCurveForToggleClose>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<DelayBeforeShrinkForToggleClose>k__BackingField": 0.0
+}

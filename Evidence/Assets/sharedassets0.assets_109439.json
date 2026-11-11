@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1079"
+  },
+  "m_Name": "TreasureDrillPopUpConfig",
+  "_treasureDrillTaskIcons": [
+    {
+      "TreasureDrillTaskType": 1,
+      "DescriptionLocalizationKey": "TreasureDrillLevelTask"
+    }
+  ],
+  "_progressBarWidth": 2.930000066757202,
+  "_progressBarFilledSprite": {
+    "m_FileID": 0,
+    "m_PathID": "1812"
+  },
+  "_progressBarNotFilledSprite": {
+    "m_FileID": 0,
+    "m_PathID": "5658"
+  },
+  "<ProgressBarMinFillRatio>k__BackingField": 0.10000000149011612,
+  "<ProgressBarMinMaxFillValue>k__BackingField": {
+    "x": 0.30000001192092896,
+    "y": 2.930000066757202
+  },
+  "<ProgressBarMaxFillValueForFullFill>k__BackingField": 2.930000066757202,
+  "_completedTextStartScale": 1.350000023841858,
+  "_completedTextScaleDuration": 0.4000000059604645,
+  "_completedTextScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.424681663513184,
+        "outSlope": 4.424681663513184,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05210597440600395
+      },
+      {
+        "time": 0.43901506066322327,
+        "value": 1.0620901584625244,
+        "inSlope": 0.0587654784321785,
+        "outSlope": 0.0587654784321785,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.20059339702129364
+      },
+      {
+        "time": 0.7638294696807861,
+        "value": 0.9512426853179932,
+        "inSlope": 0.0130927050486207,
+        "outSlope": 0.0130927050486207,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.33757829666137695
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

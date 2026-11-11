@@ -1,0 +1,58 @@
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItems.Scripts.Bottle.BottleItem$$DailyBottleStretchIn
+void Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__DailyBottleStretchIn (Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.GamePlay.BoardItems.Scripts.Bottle.BottleItem$$DailyBottleStretchIn
+   void Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__DailyBottleStretchIn
+   (Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem_o* __this, const MethodInfo*
+   method); */
+
+void Modules_Contexts_GamePlay_BoardItems_Scripts_Bottle_BottleItem__DailyBottleStretchIn_249d94c
+               (long param_1)
+
+{
+  ulong *puVar1;
+  char cVar2;
+  bool bVar3;
+  long lVar4;
+  undefined8 uVar5;
+  long lVar6;
+  undefined4 uVar7;
+  
+  lVar6 = *(long *)(param_1 + 0x50);
+  if (lVar6 == 0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+  if ((bRam0000000005c2a602 & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_05773040,0);
+    FUN_012d0dc8(PTR_DAT_057cc518);
+    bRam0000000005c2a602 = 1;
+  }
+  if (*(long *)(lVar6 + 0xc0) != 0) {
+    uVar7 = *(undefined4 *)(*(long *)(lVar6 + 0xc0) + 0x18);
+    lVar4 = thunk_FUN_01320e48(*(undefined8 *)PTR_DAT_057cc518);
+    if (lVar4 != 0) {
+      DG_Tweening_TweenCallback_float____ctor_341f244(lVar4,lVar6,*(undefined8 *)PTR_DAT_05773040,0)
+      ;
+      uVar5 = DG_Tweening_DOVirtual__Float_1edbb8c(0,0x3f800000,uVar7,lVar4,0);
+      *(undefined8 *)(lVar6 + 0x108) = uVar5;
+      if (iRam0000000005c3d478 != 0) {
+        puVar1 = (ulong *)((lVar6 + 0x108U >> 0x12 & 0x7fff) * 8 + 0x5c86b80);
+        do {
+          cVar2 = '\x01';
+          bVar3 = (bool)ExclusiveMonitorPass(puVar1,0x10);
+          if (bVar3) {
+            *puVar1 = *puVar1 | 1L << (lVar6 + 0x108U >> 0xc & 0x3f);
+            cVar2 = ExclusiveMonitorsStatus();
+          }
+        } while (cVar2 != '\0');
+      }
+      return;
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

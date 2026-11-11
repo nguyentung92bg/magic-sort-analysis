@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "30596"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7049"
+  },
+  "m_Name": "",
+  "_viewId": 2,
+  "_progressBarView": {
+    "m_FileID": 0,
+    "m_PathID": "111993"
+  },
+  "_lockedIconToolbarButton": {
+    "m_FileID": 0,
+    "m_PathID": "122143"
+  },
+  "_vaultLockedInfo": {
+    "m_FileID": 0,
+    "m_PathID": "106400"
+  },
+  "_vaultInProgressInfo": {
+    "m_FileID": 0,
+    "m_PathID": "108435"
+  },
+  "_vaultFullInfo": {
+    "m_FileID": 0,
+    "m_PathID": "106968"
+  }
+}

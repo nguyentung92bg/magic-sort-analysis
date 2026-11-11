@@ -1,0 +1,217 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5935"
+  },
+  "m_Name": "VariantKeyAnimationConfig",
+  "<BezierDuration>k__BackingField": 0.4000000059604645,
+  "<BezierMoveTime>k__BackingField": 0.550000011920929,
+  "<BezierSpeedCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.05383838713169098,
+        "outSlope": 0.05383838713169098,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.07449925690889359
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.007048965897411108,
+        "outSlope": 0.007048965897411108,
+        "weightedMode": 0,
+        "inWeight": 0.06947284936904907,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AdditionalCeilingOffset>k__BackingField": 2.0,
+  "<KeyRevealParticleTime>k__BackingField": 0.4000000059604645,
+  "<PrepareTopPosition>k__BackingField": {
+    "x": 0.0,
+    "y": 5.699999809265137,
+    "z": 0.0
+  },
+  "<PrepareDuration>k__BackingField": 0.4000000059604645,
+  "<PrepareCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.697668075561523,
+        "outSlope": 5.697668075561523,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.009293679147958755
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.008260903880000114,
+        "outSlope": -0.008260903880000114,
+        "weightedMode": 0,
+        "inWeight": 0.05564415454864502,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PrepareTime>k__BackingField": 0.0,
+  "<EndTime>k__BackingField": 4.0,
+  "<RotateDuration>k__BackingField": 0.18000000715255737,
+  "<ScaleDuration>k__BackingField": 0.15000000596046448,
+  "<ScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.9552754759788513,
+        "outSlope": -0.9552754759788513,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06784386187791824
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.5339159965515137,
+        "outSlope": 2.5339159965515137,
+        "weightedMode": 0,
+        "inWeight": 0.028748691082000732,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RotateCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.8215027451515198,
+        "outSlope": 0.8215027451515198,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.2619841992855072
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.0329274944961071,
+        "outSlope": -0.0329274944961071,
+        "weightedMode": 0,
+        "inWeight": 0.07956820726394653,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RotateTime>k__BackingField": 1.0499999523162842,
+  "<ScaleTime>k__BackingField": 1.25,
+  "<KeyUnlockParticleTime>k__BackingField": 1.149999976158142,
+  "<UnlockSoundTime>k__BackingField": 0.550000011920929,
+  "<KeySfxTime>k__BackingField": 0.0,
+  "<CompletedBySnitchScaleDuration>k__BackingField": 0.23999999463558197,
+  "<CompletedBySnitchScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.39866259694099426,
+        "outSlope": -0.39866259694099426,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08734224736690521
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.257294178009033,
+        "outSlope": 3.257294178009033,
+        "weightedMode": 0,
+        "inWeight": 0.051790498197078705,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<WoodKeySprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "1461"
+  },
+  "<MetalKeySprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "6275"
+  },
+  "<GoldKeySprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "1404"
+  },
+  "<GrayKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109562"
+  },
+  "<YellowKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109568"
+  },
+  "<WhiteKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109565"
+  },
+  "<OrangeKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109569"
+  },
+  "<WineKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109555"
+  },
+  "<GreenKeyLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109574"
+  },
+  "<GrayLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109560"
+  },
+  "<YellowLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109573"
+  },
+  "<OrangeLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109567"
+  },
+  "<WineLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109559"
+  },
+  "<GreenLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109563"
+  },
+  "<WhiteLockLibrary>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "109576"
+  }
+}

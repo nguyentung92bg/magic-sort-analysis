@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "28720"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6430"
+  },
+  "m_Name": "",
+  "_scrollWithProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": "15777"
+  },
+  "_scrollWithoutProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": "26830"
+  },
+  "_swipeController": {
+    "m_FileID": 0,
+    "m_PathID": "110578"
+  },
+  "_swipeControllerWithoutProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": "119682"
+  },
+  "_rewardsSwipeController": {
+    "m_FileID": 0,
+    "m_PathID": "115528"
+  },
+  "_lastRewardView": {
+    "m_FileID": 0,
+    "m_PathID": "113456"
+  },
+  "_progressBarView": {
+    "m_FileID": 0,
+    "m_PathID": "121065"
+  },
+  "_multiplierProgressView": {
+    "m_FileID": 0,
+    "m_PathID": "120754"
+  }
+}

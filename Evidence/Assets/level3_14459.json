@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1019"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1782"
+  },
+  "m_Name": "",
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "13906"
+  },
+  "_scrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "13905"
+  },
+  "_viewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "13904"
+  },
+  "_leaderboardDegrees": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "14182"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "14229"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "13573"
+    }
+  ],
+  "_resultPanel": {
+    "m_FileID": 0,
+    "m_PathID": "2516"
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "13557"
+  },
+  "_claimButtonText": {
+    "m_FileID": 0,
+    "m_PathID": "12895"
+  },
+  "_currentRankText": {
+    "m_FileID": 0,
+    "m_PathID": "12820"
+  },
+  "_coinRewardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1494"
+  },
+  "_coinRewardText": {
+    "m_FileID": 0,
+    "m_PathID": "12986"
+  },
+  "_thereIsNoRewardGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2503"
+  }
+}

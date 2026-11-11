@@ -1,0 +1,359 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2026"
+  },
+  "m_Name": "WonderlandCollectionThemeVisualsConfig",
+  "Visuals": [
+    {
+      "ThemeId": "theme_1",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2841"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2059"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5944"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4449"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3732"
+      }
+    },
+    {
+      "ThemeId": "theme_2",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1942"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5691"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4482"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5695"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2406"
+      }
+    },
+    {
+      "ThemeId": "theme_3",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4528"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1543"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3425"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4012"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5462"
+      }
+    },
+    {
+      "ThemeId": "theme_4",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3191"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3127"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1970"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1702"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4831"
+      }
+    },
+    {
+      "ThemeId": "theme_5",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2817"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3113"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1878"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4761"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3280"
+      }
+    },
+    {
+      "ThemeId": "theme_6",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1941"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3571"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "6124"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2922"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4697"
+      }
+    },
+    {
+      "ThemeId": "theme_7",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1728"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3604"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3769"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2280"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4763"
+      }
+    },
+    {
+      "ThemeId": "theme_8",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4411"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4382"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2802"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "6098"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3512"
+      }
+    },
+    {
+      "ThemeId": "theme_9",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4144"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5886"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2208"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5419"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3130"
+      }
+    },
+    {
+      "ThemeId": "theme_10",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1577"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1655"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5305"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2434"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5538"
+      }
+    },
+    {
+      "ThemeId": "theme_11",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3097"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2746"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5500"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5948"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4162"
+      }
+    },
+    {
+      "ThemeId": "theme_12",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5013"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2839"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3410"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4970"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3597"
+      }
+    },
+    {
+      "ThemeId": "theme_13",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5597"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "1678"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4823"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3607"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3914"
+      }
+    },
+    {
+      "ThemeId": "theme_14",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "2754"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4521"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4852"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "3814"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4146"
+      }
+    },
+    {
+      "ThemeId": "theme_15",
+      "PopUpBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4306"
+      },
+      "PopUpTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "4389"
+      },
+      "CardNameBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5493"
+      },
+      "CardExtraCountBackground": {
+        "m_FileID": 0,
+        "m_PathID": "5962"
+      },
+      "AskCardTitleBackground": {
+        "m_FileID": 0,
+        "m_PathID": "6053"
+      }
+    }
+  ]
+}

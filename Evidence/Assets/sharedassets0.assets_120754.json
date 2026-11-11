@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "20286"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2539"
+  },
+  "m_Name": "",
+  "_multiplierModels": [
+    {
+      "Target": {
+        "m_FileID": 0,
+        "m_PathID": "34481"
+      },
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": "117266"
+      },
+      "DefaultText": {
+        "m_FileID": 0,
+        "m_PathID": "122653"
+      }
+    },
+    {
+      "Target": {
+        "m_FileID": 0,
+        "m_PathID": "7264"
+      },
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": "114972"
+      },
+      "DefaultText": {
+        "m_FileID": 0,
+        "m_PathID": "112356"
+      }
+    },
+    {
+      "Target": {
+        "m_FileID": 0,
+        "m_PathID": "7343"
+      },
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": "115804"
+      },
+      "DefaultText": {
+        "m_FileID": 0,
+        "m_PathID": "117989"
+      }
+    },
+    {
+      "Target": {
+        "m_FileID": 0,
+        "m_PathID": "23388"
+      },
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": "116614"
+      },
+      "DefaultText": {
+        "m_FileID": 0,
+        "m_PathID": "118158"
+      }
+    },
+    {
+      "Target": {
+        "m_FileID": 0,
+        "m_PathID": "31960"
+      },
+      "TargetText": {
+        "m_FileID": 0,
+        "m_PathID": "109957"
+      },
+      "DefaultText": {
+        "m_FileID": 0,
+        "m_PathID": "111556"
+      }
+    }
+  ]
+}

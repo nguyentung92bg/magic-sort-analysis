@@ -1,0 +1,18 @@
+/* IL2CPP: Modules.Contexts.Home.Monetization.NoAdsOffer.Scripts.NoAdsOfferModel$$get_PopupShowCount
+int32_t Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_NoAdsOfferModel__get_PopupShowCount (Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_NoAdsOfferModel_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.Home.Monetization.NoAdsOffer.Scripts.NoAdsOfferModel$$get_PopupShowCount
+   int32_t Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_NoAdsOfferModel__get_PopupShowCount
+   (Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_NoAdsOfferModel_o* __this, const
+   MethodInfo* method); */
+
+undefined4
+Modules_Contexts_Home_Monetization_NoAdsOffer_Scripts_NoAdsOfferModel__get_PopupShowCount_3462834
+          (long param_1)
+
+{
+  return *(undefined4 *)(param_1 + 0x18);
+}
+

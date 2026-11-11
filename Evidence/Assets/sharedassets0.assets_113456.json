@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "35569"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1739"
+  },
+  "m_Name": "",
+  "_toolTipContainer": {
+    "m_FileID": 0,
+    "m_PathID": "29214"
+  },
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "63188"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109400"
+  },
+  "_rewardsListOpenButton": {
+    "m_FileID": 0,
+    "m_PathID": "119423"
+  },
+  "_lastRewardContainerScaleDuration": 0.2199999988079071,
+  "_scaleInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.23014235496521,
+        "outSlope": 2.23014235496521,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.037068840116262436
+      },
+      {
+        "time": 0.7800688147544861,
+        "value": 1.0911046266555786,
+        "inSlope": -0.021462757140398026,
+        "outSlope": -0.021462757140398026,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.19833575189113617
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.023357534781098366,
+        "outSlope": -0.023357534781098366,
+        "weightedMode": 0,
+        "inWeight": 0.31392601132392883,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_scaleOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.6147049069404602,
+        "outSlope": -0.6147049069404602,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04283049702644348
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.9731998443603516,
+        "outSlope": 2.9731998443603516,
+        "weightedMode": 0,
+        "inWeight": 0.019880712032318115,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

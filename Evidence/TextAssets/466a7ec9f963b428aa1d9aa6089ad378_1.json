@@ -1,0 +1,43 @@
+{
+  "IsEnable": false,
+  "EventType": 1,
+  "FirstLevelToShow": 59,
+  "ShowDurationInSeconds": 1800,
+  "IAPConfigModels": [
+    {
+      "ProductId": "sort.pawtouch1",
+      "ProductType": 0,
+      "DollarEquivalent": 0.99
+    },
+    {
+      "ProductId": "sort.pawtouch3",
+      "ProductType": 0,
+      "DollarEquivalent": 2.99
+    },
+    {
+      "ProductId": "sort.pawtouch10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    {
+      "ProductId": "sort.pawtouch20",
+      "ProductType": 0,
+      "DollarEquivalent": 19.99
+    },
+    {
+      "ProductId": "sort.pawtouch50",
+      "ProductType": 0,
+      "DollarEquivalent": 49.99
+    }
+  ],
+  "FallBackRewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 2,
+      "TimeSpan": "00:15:00"
+    }
+  ]
+}

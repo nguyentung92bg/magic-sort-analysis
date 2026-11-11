@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "29013"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1166"
+  },
+  "m_Name": "",
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "115348"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109509"
+  },
+  "_currencyContainer": {
+    "m_FileID": 0,
+    "m_PathID": "58641"
+  },
+  "_rewardIndex": 1,
+  "_rewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_pathPoints": [
+    {
+      "x": 0.7099999785423279,
+      "y": 0.7699999809265137,
+      "z": 0.0
+    },
+    {
+      "x": 1.5399999618530273,
+      "y": 0.800000011920929,
+      "z": 0.0
+    },
+    {
+      "x": 1.5399999618530273,
+      "y": -0.14000000059604645,
+      "z": 0.0
+    },
+    {
+      "x": 1.0,
+      "y": -0.8399999737739563,
+      "z": 0.0
+    },
+    {
+      "x": -1.5119999647140503,
+      "y": -1.475000023841858,
+      "z": 0.0
+    }
+  ],
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109507"
+  },
+  "_tapToClaimView": {
+    "m_FileID": 0,
+    "m_PathID": "111889"
+  },
+  "_pathTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "42417"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "55491"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "71737"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "61281"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "48031"
+    }
+  ]
+}

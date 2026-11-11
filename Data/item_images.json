@@ -1,0 +1,285 @@
+{
+  "images": [
+    {
+      "mechanic": "WoodboxKey",
+      "name": "wooden_key_Sprite_0",
+      "file": "Images/Items/sharedassets0.assets_1461.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1461",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Clay",
+      "name": "Clay",
+      "file": "Images/Items/sharedassets0.assets_1563.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1563",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Woodbox",
+      "name": "woodbox_bluelock1",
+      "file": "Images/Items/sharedassets0.assets_1679.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1679",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Tag",
+      "name": "bottle_tag_tooltip_info",
+      "file": "Images/Items/sharedassets0.assets_1866.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1866",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Woodbox",
+      "name": "woodbox_door1",
+      "file": "Images/Items/sharedassets0.assets_2089.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2089",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Ice",
+      "name": "item_ice_editor",
+      "file": "Images/Items/sharedassets0.assets_2239.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2239",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "QuestionMark",
+      "name": "QuestionMark_info",
+      "file": "Images/Items/sharedassets0.assets_2297.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2297",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Plaster",
+      "name": "Plaster_1",
+      "file": "Images/Items/sharedassets0.assets_3480.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3480",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Clay",
+      "name": "ClayVariant1",
+      "file": "Images/Items/sharedassets0.assets_4160.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "4160",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Plaster",
+      "name": "Plaster",
+      "file": "Images/Items/sharedassets0.assets_4195.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "4195",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Curtain",
+      "name": "Curtain_Nex_Export",
+      "file": "Images/Items/sharedassets0.assets_5163.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5163",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Carpet",
+      "name": "cl_carpet",
+      "file": "Images/Items/sharedassets0.assets_5255.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5255",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Woodbox",
+      "name": "woodbox_door1",
+      "file": "Images/Items/sharedassets0.assets_5333.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5333",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Ice",
+      "name": "item_ice_new_3",
+      "file": "Images/Items/sharedassets0.assets_5381.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5381",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Tag",
+      "name": "item_tag_red",
+      "file": "Images/Items/sharedassets0.assets_5586.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5586",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Carpet",
+      "name": "carpet_roll",
+      "file": "Images/Items/sharedassets0.assets_5790.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5790",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Curtain",
+      "name": "curtain_icon_variant1",
+      "file": "Images/Items/sharedassets0.assets_5797.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5797",
+      "route": "Sprite name matched; standalone part/icon, not gameplay screenshot"
+    },
+    {
+      "mechanic": "Generator",
+      "name": "Grup 8",
+      "file": "Images/Items/sharedassets0.assets_5672.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5672",
+      "route": "GeneratorView/GeneratorView/Root/Front/View/Grup 8 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Generator",
+      "name": "Katman 152",
+      "file": "Images/Items/sharedassets0.assets_3388.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3388",
+      "route": "GeneratorView/GeneratorView/Root/Front/View/Katman 152 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Generator",
+      "name": "Grup 6",
+      "file": "Images/Items/sharedassets0.assets_2269.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2269",
+      "route": "GeneratorView/GeneratorView/Root/Back/View/Grup 6 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "case2",
+      "file": "Images/Items/sharedassets0.assets_3704.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3704",
+      "route": "BagView/BagView/Front/bag_right → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "case1",
+      "file": "Images/Items/sharedassets0.assets_1727.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1727",
+      "route": "BagView/BagView/Front/bag_left → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "knot_back",
+      "file": "Images/Items/sharedassets0.assets_2882.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2882",
+      "route": "BagView/BagView/Front/knot_back_pivot/knot_back → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "knot_front",
+      "file": "Images/Items/sharedassets0.assets_5821.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "5821",
+      "route": "BagView/BagView/Front/knot_front_pivot/knot_front → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope_node_left",
+      "file": "Images/Items/sharedassets0.assets_4464.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "4464",
+      "route": "BagView/BagView/Front/node_left_pivot/rope_node_left → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope_node_right",
+      "file": "Images/Items/sharedassets0.assets_3711.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3711",
+      "route": "BagView/BagView/Front/node_right_pivot/rope_node_right → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope_node_shadow",
+      "file": "Images/Items/sharedassets0.assets_2178.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2178",
+      "route": "BagView/BagView/Front/rope_node_shadow → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope5",
+      "file": "Images/Items/sharedassets0.assets_4335.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "4335",
+      "route": "BagView/BagView/Front/knots/knots1/rope5 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope2",
+      "file": "Images/Items/sharedassets0.assets_1938.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "1938",
+      "route": "BagView/BagView/Front/tag_pivot/tag_and_ropes/rope_front_pivot/rope2 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "rope3",
+      "file": "Images/Items/sharedassets0.assets_2781.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2781",
+      "route": "BagView/BagView/Front/tag_pivot/tag_and_ropes/rope_back_pivot/rope3 → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "tag_drop_shadow",
+      "file": "Images/Items/sharedassets0.assets_2506.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2506",
+      "route": "BagView/BagView/Front/tag_pivot/tag_and_ropes/tag/tag_drop_shadow → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "tag_front_shadow",
+      "file": "Images/Items/sharedassets0.assets_2255.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "2255",
+      "route": "BagView/BagView/Front/tag_pivot/tag_and_ropes/tag/tag_front_shadow → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "tag_base",
+      "file": "Images/Items/sharedassets0.assets_4374.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "4374",
+      "route": "BagView/BagView/Front/tag_pivot/tag_and_ropes/tag → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "botle shadow",
+      "file": "Images/Items/sharedassets0.assets_3949.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3949",
+      "route": "BagView/BagView/Back/shadow → SpriteRenderer.m_Sprite"
+    },
+    {
+      "mechanic": "Bag",
+      "name": "case3_merge",
+      "file": "Images/Items/sharedassets0.assets_3483.png",
+      "serialized": "sharedassets0.assets",
+      "path_id": "3483",
+      "route": "BagView/BagView/Back/bag_back/case3_merge → SpriteRenderer.m_Sprite"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "36529"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5019"
+  },
+  "m_Name": "",
+  "_screenTopPosition": {
+    "m_FileID": 0,
+    "m_PathID": "46308"
+  },
+  "_screenBottomPosition": {
+    "m_FileID": 0,
+    "m_PathID": "57526"
+  },
+  "_screenLeftPosition": {
+    "m_FileID": 0,
+    "m_PathID": "70505"
+  },
+  "_screenRightPosition": {
+    "m_FileID": 0,
+    "m_PathID": "67198"
+  },
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": "105641"
+  },
+  "_fullDarkBackground": {
+    "m_FileID": 0,
+    "m_PathID": "100304"
+  },
+  "_coinTransform": {
+    "m_FileID": 0,
+    "m_PathID": "70472"
+  },
+  "_infoTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "114988"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118627"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112901"
+    }
+  ],
+  "_headerText": {
+    "m_FileID": 0,
+    "m_PathID": "52238"
+  },
+  "_playOnButtonTransform": {
+    "m_FileID": 0,
+    "m_PathID": "44570"
+  },
+  "_giveUpButtonTransform": {
+    "m_FileID": 0,
+    "m_PathID": "47788"
+  },
+  "_playOnButton": {
+    "m_FileID": 0,
+    "m_PathID": "118673"
+  },
+  "_giveUpButton": {
+    "m_FileID": 0,
+    "m_PathID": "120294"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3424"
+  },
+  "m_Name": "MiniGameTooltipCurrencyViewFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "21019"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 2,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12514"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 4,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12538"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 5,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12518"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 6,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12576"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 13,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "25503"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 14,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12500"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 17,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12601"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 18,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12594"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 19,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "12578"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

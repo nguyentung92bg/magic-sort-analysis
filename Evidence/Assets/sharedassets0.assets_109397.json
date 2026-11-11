@@ -1,0 +1,265 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5977"
+  },
+  "m_Name": "MagicStreakTournamentBannerAnimationConfig",
+  "hatAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "hatMoveDuration": 0.6000000238418579,
+  "hatGoBackDuration": 0.6000000238418579,
+  "progressBarTickDelay": 0.0,
+  "progressBarTickGoBackDelay": 0.4000000059604645,
+  "progressBarMoveDuration": 0.4000000059604645,
+  "progressBarMoveLoseDelay": 0.0,
+  "progressBarMoveWinDelay": 0.0,
+  "progressBarMoveHideWinDelay": 0.0,
+  "progressBarMoveHideLoseDelay": 0.0,
+  "hatAnimationStartDelay": 0.0,
+  "bannerHatJumpPrepareDuration": 0.15000000596046448,
+  "bannerHatJumpPrepareScale": {
+    "x": 1.0499999523162842,
+    "y": 0.8999999761581421,
+    "z": 1.0
+  },
+  "bannerHatJumpDuration": 0.07500000298023224,
+  "bannerHatJumpScale": {
+    "x": 0.949999988079071,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "bannerHatLandingDuration": 0.15000000596046448,
+  "bannerHatLandingScale": {
+    "x": 1.0499999523162842,
+    "y": 0.949999988079071,
+    "z": 1.0
+  },
+  "bannerHatLandingToIdleDuration": 0.15000000596046448,
+  "bannerHatLandingNegativeDelayDuration": 0.12999999523162842,
+  "tickGoBackDuration": 0.20000000298023224,
+  "tickGoBackDelayDuration": -0.15000000596046448,
+  "progressBarMoveAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.765594244003296,
+        "outSlope": 1.765594244003296,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.039364177733659744
+      },
+      {
+        "time": 1.0276517868041992,
+        "value": 1.0430026054382324,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.09353713691234589,
+        "outWeight": 0.07604759186506271
+      },
+      {
+        "time": 1.4014892578125,
+        "value": 1.0,
+        "inSlope": 0.024381496012210846,
+        "outSlope": 0.024381496012210846,
+        "weightedMode": 0,
+        "inWeight": 0.22613827884197235,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "collectableMoveDuration": 0.25,
+  "collectableMoveAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "collectableInterval": 0.17000000178813934,
+  "lobbyIconScaleAmount": {
+    "x": 1.100000023841858,
+    "y": 1.100000023841858,
+    "z": 1.0
+  },
+  "lobbyIconScaleUpDuration": 0.10000000149011612,
+  "lobbyIconScaleDownDuration": 0.10000000149011612,
+  "collectableIdleDuration": 0.10000000149011612,
+  "collectablePrepareJumpScale": {
+    "x": 1.2999999523162842,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "collectablePrepareJumpDuration": 0.15000000596046448,
+  "collectableJumpScale": {
+    "x": 1.0,
+    "y": 1.2999999523162842,
+    "z": 1.0
+  },
+  "collectableJumpDuration": 0.07000000029802322,
+  "collectableFadeInDuration": 0.10000000149011612,
+  "progressBarRedFlashDuration": 0.25,
+  "_2xStreakHatMoveAdditionalDuration": 0.05000000074505806,
+  "_3xStreakHatMoveAdditionalDuration": 0.10000000149011612,
+  "_4xStreakHatMoveAdditionalDuration": 0.20000000298023224,
+  "_5xStreakHatMoveAdditionalDuration": 0.3499999940395355,
+  "_2xtickGoBackDelayDuration": 0.0,
+  "_3xtickGoBackDelayDuration": 0.0,
+  "_4xtickGoBackDelayDuration": -0.07000000029802322,
+  "_5xtickGoBackDelayDuration": -0.15000000596046448,
+  "<HatJumpHeightOffset>k__BackingField": 0.3799999952316284,
+  "<MultiplierTextPunchScale>k__BackingField": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.20000000298023224
+  },
+  "<MultiplierTextPunchDuration>k__BackingField": 0.20000000298023224,
+  "<MultiplierTextPunchVibrato>k__BackingField": 1,
+  "<MultiplierTextPunchCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PunchWinColor>k__BackingField": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "<PunchLoseColor>k__BackingField": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "<DefaultTargetMultiplierColor>k__BackingField": {
+    "r": 0.9215686321258545,
+    "g": 0.6705882549285889,
+    "b": 0.05098039284348488,
+    "a": 1.0
+  },
+  "<PunchColorDuration>k__BackingField": 0.10000000149011612,
+  "<LoseSeparatorSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4584"
+  },
+  "<DefaultSeparatorSprite>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3312"
+  },
+  "<RedProgressBarFlashTime>k__BackingField": 0.0,
+  "<RedProgressBarFlashCloseTime>k__BackingField": 0.30000001192092896,
+  "<RedProgressBarFlashFinalTime>k__BackingField": 0.6000000238418579,
+  "<RedProgressBarMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AdditionalFollowDuration>k__BackingField": 0.15000000596046448,
+  "<InsideRedBarTexColor>k__BackingField": {
+    "r": 0.9647059440612793,
+    "g": 0.8901961445808411,
+    "b": 0.8196079134941101,
+    "a": 1.0
+  },
+  "<OutsideRedBarTexColor>k__BackingField": {
+    "r": 0.2862745225429535,
+    "g": 0.2078431397676468,
+    "b": 0.1411764770746231,
+    "a": 1.0
+  },
+  "<RestartLoopStartDelay>k__BackingField": 0.5,
+  "<RestartLoopFinishDelay>k__BackingField": 1.0,
+  "<DelayAfterContainerEnd>k__BackingField": 0.0,
+  "<ShowContainerDuration>k__BackingField": 0.5
+}

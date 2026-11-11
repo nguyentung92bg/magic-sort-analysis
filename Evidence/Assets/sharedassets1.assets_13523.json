@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1003"
+  },
+  "m_Name": "BottleSelectionEclipseAnimation",
+  "_speed": 100.0,
+  "_transitionStartDuration": 0.20000000298023224,
+  "_transitionEndEndDuration": 0.6000000238418579,
+  "_transitionEndDurationDecreased": 0.0,
+  "_aboveWaveLength": 3.200000047683716,
+  "_aboveWaveHeightStart": 0.04500000178813934,
+  "_aboveWaveHeightEnd": 0.0,
+  "_aboveWaveDirectionX": 5.5,
+  "_aboveWaveDirectionY": 0.0010000000474974513,
+  "_belowWaveLength": 3.200000047683716,
+  "_belowWaveHeightStart": 0.04500000178813934,
+  "_belowWaveHeightEnd": 0.0,
+  "_belowWaveDirectionX": 5.5,
+  "_belowWaveDirectionY": 0.0010000000474974513,
+  "_belowWaveCustomTime": 0.0,
+  "_belowAditionalWaveHeight": 0.0,
+  "_customFirstHalfDuration": 0.0,
+  "_customSecondHalfDuration": 0.0
+}

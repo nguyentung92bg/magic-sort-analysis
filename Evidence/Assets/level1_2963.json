@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "113"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2290"
+  },
+  "m_Name": "",
+  "_leftBooster": {
+    "m_FileID": 0,
+    "m_PathID": "1081"
+  },
+  "_middleBooster": {
+    "m_FileID": 0,
+    "m_PathID": "1460"
+  },
+  "_rightBooster": {
+    "m_FileID": 0,
+    "m_PathID": "1737"
+  },
+  "_screenBottomPosition": {
+    "x": 0.0,
+    "y": -2.9800000190734863,
+    "z": 0.0
+  },
+  "_screenRightPosition": {
+    "x": 12.489999771118164,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_screenLeftPosition": {
+    "x": -12.520000457763672,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_leftBoosterDefault": {
+    "m_FileID": 0,
+    "m_PathID": "1081"
+  },
+  "_middleBoosterDefault": {
+    "m_FileID": 0,
+    "m_PathID": "1460"
+  },
+  "_rightBoosterDefault": {
+    "m_FileID": 0,
+    "m_PathID": "1737"
+  },
+  "_leftBoosterWithPanel": {
+    "m_FileID": 0,
+    "m_PathID": "1283"
+  },
+  "_middleBoosterWithPanel": {
+    "m_FileID": 0,
+    "m_PathID": "1154"
+  },
+  "_rightBoosterWithPanel": {
+    "m_FileID": 0,
+    "m_PathID": "1336"
+  },
+  "_panel": {
+    "m_FileID": 0,
+    "m_PathID": "1338"
+  },
+  "_boostersParent": {
+    "m_FileID": 0,
+    "m_PathID": "1173"
+  },
+  "_superChargerButton": {
+    "m_FileID": 0,
+    "m_PathID": "1478"
+  },
+  "_superCharger4BoosterParent": {
+    "m_FileID": 0,
+    "m_PathID": "1807"
+  }
+}

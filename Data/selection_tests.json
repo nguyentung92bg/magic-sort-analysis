@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Level24 cap2 transition",
+    "Level49 random before cap6",
+    "Last seed exclusion + singleton fallback",
+    "Effective retry subtracts Snitch counter and clamps zero",
+    "Force / slSeed / cache precedence",
+    "Modulo random weights",
+    "Regular/loop boundaries 219/220/299/300/379/380"
+  ]
+}

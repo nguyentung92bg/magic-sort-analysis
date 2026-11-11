@@ -1,0 +1,11 @@
+{
+  "IsTournamentEnable": true,
+  "FirstLevelToShow": 40,
+  "ShouldOpenAutomaticallyOnLobbyReturnOnResult": true,
+  "ShouldOpenAutomaticallyOnSessionStartOnResult": true,
+  "Rewards": {
+    "FirstRankCoinRewardAmount": 1000,
+    "SecondRankCoinRewardAmount": 500,
+    "ThirdRankCoinRewardAmount": 250
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "20424"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1855"
+  },
+  "m_Name": "",
+  "_tryAgainContainer": {
+    "m_FileID": 0,
+    "m_PathID": "55345"
+  },
+  "_coinAmountText": {
+    "m_FileID": 0,
+    "m_PathID": "114845"
+  },
+  "_dateText": {
+    "m_FileID": 0,
+    "m_PathID": "114843"
+  }
+}

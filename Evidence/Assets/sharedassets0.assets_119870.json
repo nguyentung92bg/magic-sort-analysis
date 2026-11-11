@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "25161"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "349"
+  },
+  "m_Name": "",
+  "_tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "118511"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "121685"
+    }
+  ],
+  "_teamsLeaderboardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "22088"
+  },
+  "_playersLeaderboardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "29001"
+  },
+  "_playersLeaderboardScrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "118162"
+  },
+  "_playersScrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "120005"
+  },
+  "_playersLeaderboardViewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "110891"
+  },
+  "_teamsLeaderboardScrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "115917"
+  },
+  "_teamsScrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "109829"
+  },
+  "_teamsLeaderboardViewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "120903"
+  }
+}

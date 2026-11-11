@@ -1,0 +1,542 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "18858"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3371"
+  },
+  "m_Name": "",
+  "sets": [
+    {
+      "setId": 0,
+      "items": [
+        {
+          "level": 1,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "104297"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103576"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "104305"
+          }
+        },
+        {
+          "level": 2,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95287"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103401"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97806"
+          }
+        },
+        {
+          "level": 3,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97204"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95414"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "104793"
+          }
+        },
+        {
+          "level": 4,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95465"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96638"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "98633"
+          }
+        },
+        {
+          "level": 5,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96468"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "100556"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101232"
+          }
+        },
+        {
+          "level": 6,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94076"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96050"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101447"
+          }
+        },
+        {
+          "level": 7,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "100891"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96033"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95444"
+          }
+        },
+        {
+          "level": 8,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96379"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93690"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "98937"
+          }
+        },
+        {
+          "level": 9,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93871"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101065"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95036"
+          }
+        },
+        {
+          "level": 10,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101495"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93757"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94242"
+          }
+        },
+        {
+          "level": 11,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96900"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "105118"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99834"
+          }
+        },
+        {
+          "level": 12,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95889"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99527"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94811"
+          }
+        }
+      ]
+    },
+    {
+      "setId": 1,
+      "items": [
+        {
+          "level": 1,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99653"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96438"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 2,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94606"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101892"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 3,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93659"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102985"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 4,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101792"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99797"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 5,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102864"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99691"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 6,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102942"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97343"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 7,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "100157"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95927"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        }
+      ]
+    },
+    {
+      "setId": 2,
+      "items": [
+        {
+          "level": 1,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103839"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97913"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 2,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99616"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95997"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 3,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97596"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94292"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 4,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95737"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "104421"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 5,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "94562"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103332"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        }
+      ]
+    },
+    {
+      "setId": 3,
+      "items": [
+        {
+          "level": 1,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102929"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "95745"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 2,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "105127"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "97737"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 3,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "99577"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102949"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 4,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93901"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101963"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 5,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93225"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103729"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        }
+      ]
+    },
+    {
+      "setId": 4,
+      "items": [
+        {
+          "level": 1,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "101248"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "96503"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 2,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103095"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "102394"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 3,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "104418"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93178"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        },
+        {
+          "level": 4,
+          "normalRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "93699"
+          },
+          "lockedRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "103798"
+          },
+          "largeRenderer": {
+            "m_FileID": 0,
+            "m_PathID": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "energyCurrencyRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "99364"
+  },
+  "coinCurrencyRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "93725"
+  }
+}

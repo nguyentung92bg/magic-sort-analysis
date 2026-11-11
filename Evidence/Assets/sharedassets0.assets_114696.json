@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "9081"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6832"
+  },
+  "m_Name": "",
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "121172"
+  },
+  "_paidRewardColumn": {
+    "m_FileID": 0,
+    "m_PathID": "122773"
+  },
+  "_freeRewardColumn": {
+    "m_FileID": 0,
+    "m_PathID": "117126"
+  },
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": "116448"
+  },
+  "_freeButton": {
+    "m_FileID": 0,
+    "m_PathID": "112017"
+  },
+  "_lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": "19377"
+  },
+  "_freeButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": "19405"
+  },
+  "_freeButtonCheckMark": {
+    "m_FileID": 0,
+    "m_PathID": "31821"
+  },
+  "_freeUnlockParticle": {
+    "m_FileID": 0,
+    "m_PathID": "83761"
+  },
+  "_buyButtonRoot": {
+    "m_FileID": 0,
+    "m_PathID": "24607"
+  },
+  "_buyCheckmark": {
+    "m_FileID": 0,
+    "m_PathID": "19930"
+  },
+  "_paidCheckMarkParticle": {
+    "m_FileID": 0,
+    "m_PathID": "80952"
+  },
+  "_descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": "109977"
+  },
+  "_introAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "77037"
+  },
+  "_introStateName": "entrance",
+  "_idleStateName": "idle",
+  "_textSequenceAnimator": {
+    "m_FileID": 0,
+    "m_PathID": "113681"
+  },
+  "_popupAnimationController": {
+    "m_FileID": 0,
+    "m_PathID": "117267"
+  }
+}

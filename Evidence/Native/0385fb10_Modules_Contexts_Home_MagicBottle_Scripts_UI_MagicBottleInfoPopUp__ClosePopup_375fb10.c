@@ -1,0 +1,80 @@
+/* IL2CPP: Modules.Contexts.Home.MagicBottle.Scripts.UI.MagicBottleInfoPopUp$$ClosePopup
+void Modules_Contexts_Home_MagicBottle_Scripts_UI_MagicBottleInfoPopUp__ClosePopup (Modules_Contexts_Home_MagicBottle_Scripts_UI_MagicBottleInfoPopUp_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.Home.MagicBottle.Scripts.UI.MagicBottleInfoPopUp$$ClosePopup
+   void Modules_Contexts_Home_MagicBottle_Scripts_UI_MagicBottleInfoPopUp__ClosePopup
+   (Modules_Contexts_Home_MagicBottle_Scripts_UI_MagicBottleInfoPopUp_o* __this, const MethodInfo*
+   method); */
+
+void Modules_Contexts_Home_MagicBottle_Scripts_UI_MagicBottleInfoPopUp__ClosePopup_375fb10
+               (long param_1)
+
+{
+  undefined *puVar1;
+  undefined *puVar2;
+  bool bVar3;
+  long lVar4;
+  long *plVar5;
+  long lVar6;
+  long lVar7;
+  long *plVar8;
+  
+  puVar1 = PTR_DAT_057b8520;
+                    /* try { // try from 0385fb14 to 0395fb1f has its CatchHandler @ 0385f660 */
+                    /* try { // try from 0385fb20 to 0395fb27 has its CatchHandler @ 0385fb34 */
+                    /* catch() { ... } // from try @ 0385faac with catch @ 0385fb28 */
+  if ((bRam0000000005c33bb9 & 1) == 0) {
+                    /* catch(type#2 @ 00000000) { ... } // from try @ 0385faec with catch @ 0385fb34
+                       catch(type#2 @ 00000000) { ... } // from try @ 0385fb20 with catch @ 0385fb34
+                        */
+    FUN_012d0dc8(PTR_DAT_057e7410);
+    FUN_012d0dc8(PTR_DAT_057b8520);
+    bRam0000000005c33bb9 = 1;
+  }
+  puVar2 = PTR_DAT_057e7410;
+  if (*(int *)(*(long *)puVar1 + 0xe0) == 0) {
+    thunk_FUN_0130472c();
+  }
+  lVar4 = Modules_Infrastructure_Common_Scripts_SignalNS_SignalBus__Get_object__268f620
+                    (*(undefined8 *)puVar2);
+  if (lVar4 != 0) {
+    Modules_Infrastructure_Common_Scripts_SignalNS_Signal__Invoke_40e28a4(lVar4,0);
+    puVar1 = PTR_DAT_0578b048;
+    if ((bRam0000000005c33bb8 & 1) == 0) {
+      FUN_012d0dc8(PTR_DAT_0578b048);
+      FUN_012d0dc8(PTR_DAT_05784ad0);
+      bRam0000000005c33bb8 = 1;
+    }
+    lVar7 = *(long *)(param_1 + 0x28);
+    lVar4 = thunk_FUN_01320e48(*(undefined8 *)puVar1);
+    if ((lVar4 != 0) &&
+       (System_Action___ctor_21239bc(lVar4,param_1,*(undefined8 *)PTR_DAT_05784ad0,0), lVar7 != 0))
+    {
+      if ((bRam0000000005c39420 & 1) == 0) {
+        FUN_012d0dc8(PTR_DAT_0578b048,lVar4,0);
+        bRam0000000005c39420 = 1;
+      }
+      puVar1 = PTR_DAT_0578b048;
+      plVar8 = (long *)(lVar7 + 0x38);
+      lVar7 = *plVar8;
+      while ((plVar5 = (long *)System_Delegate__Remove_23e3b70(lVar7,lVar4,0), plVar5 == (long *)0x0
+             || (*plVar5 == *(long *)puVar1))) {
+        lVar6 = FUN_01351224(plVar8,plVar5,lVar7);
+        bVar3 = lVar7 == lVar6;
+        lVar7 = lVar6;
+        if (bVar3) {
+          return;
+        }
+      }
+                    /* WARNING: Subroutine does not return */
+      FUN_012d1288(plVar5);
+    }
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

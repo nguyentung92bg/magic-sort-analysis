@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2517"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7196"
+  },
+  "m_Name": "",
+  "_weeklyTournamentInProgressView": {
+    "m_FileID": 0,
+    "m_PathID": "13956"
+  },
+  "_weeklyTournamentInResultView": {
+    "m_FileID": 0,
+    "m_PathID": "14459"
+  },
+  "_noInternetConnectionGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "195"
+  },
+  "_visibleParentGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1561"
+  },
+  "_heroImage": {
+    "m_FileID": 0,
+    "m_PathID": "3430"
+  }
+}

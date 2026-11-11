@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7245"
+  },
+  "m_Name": "ChargeableBottleAnimationConfig",
+  "<ScaleAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.3025568127632141,
+        "outSlope": -0.3025568127632141,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.2065727710723877
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ScaleAnimationDuration>k__BackingField": 0.20000000298023224,
+  "<TrailAnimationTime>k__BackingField": 0.20000000298023224,
+  "<TrailAnimationDuration>k__BackingField": 0.5,
+  "<BottleOpenDelay>k__BackingField": 1.5,
+  "<CircleProgressBarAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CircleProgressBarAnimationDuration>k__BackingField": 0.5,
+  "<CircleProgressBarZeroRatioDuration>k__BackingField": 0.36000001430511475
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "521"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4948"
+  },
+  "m_Name": "",
+  "_storeHorizontalOfferViewAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "2715"
+  },
+  "_storeHorizontalOfferSliderViewController": {
+    "m_FileID": 0,
+    "m_PathID": "2593"
+  },
+  "_scrollBarIndexClamper": {
+    "m_FileID": 0,
+    "m_PathID": "2827"
+  },
+  "_boxCollider2D": {
+    "m_FileID": 0,
+    "m_PathID": "1816"
+  },
+  "_extendedBoxOffset": {
+    "x": 0.0,
+    "y": -0.2980189025402069
+  },
+  "_extendedBoxSize": {
+    "x": 9.0600004196167,
+    "y": 5.258720874786377
+  },
+  "_boxOffset": {
+    "x": 0.0,
+    "y": -0.10499999672174454
+  },
+  "_boxSize": {
+    "x": 9.0600004196167,
+    "y": 4.874430179595947
+  }
+}

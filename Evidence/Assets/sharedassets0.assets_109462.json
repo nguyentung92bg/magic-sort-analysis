@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "334"
+  },
+  "m_Name": "ScrollItemsEnterAnimationConfigV2",
+  "MoveOptions": {
+    "TweenOptions": {
+      "Duration": 0.6000000238418579,
+      "Ease": 27,
+      "UseAnimationCurve": 1,
+      "AnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 3.582007884979248,
+            "outSlope": 3.582007884979248,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.02619047649204731
+          },
+          {
+            "time": 0.6781265735626221,
+            "value": 1.0433719158172607,
+            "inSlope": -0.20788416266441345,
+            "outSlope": -0.20788416266441345,
+            "weightedMode": 0,
+            "inWeight": 0.07112247496843338,
+            "outWeight": 0.16460296511650085
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.010690590366721153,
+            "outSlope": 0.010690590366721153,
+            "weightedMode": 0,
+            "inWeight": 0.075937420129776,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "Delay": 0.05000000074505806
+    },
+    "EndValue": 4.987196445465088,
+    "From": 1,
+    "FromValue": 30.0
+  }
+}

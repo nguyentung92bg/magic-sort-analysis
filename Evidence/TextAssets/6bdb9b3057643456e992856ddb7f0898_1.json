@@ -1,0 +1,10 @@
+{
+  "IsEnable": false,
+  "UnlockLevel": 40,
+  "TeamCapacity": 50,
+  "CreateCost": 100,
+  "MaxHelpCount": 5,
+  "DefaultHelpCooldown": 14400,
+  "HelpSupportReward": 5,
+  "MaxColeaderCount": 3
+}

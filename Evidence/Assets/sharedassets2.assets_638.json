@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2336"
+  },
+  "m_Name": "BottleCollectionCameraConfigDaily",
+  "BoundCenterYOffset": -3.4000000953674316,
+  "BoundCenterYOffsetFor3Row": -1.7000000476837158,
+  "DistanceBetweenBottlesFor6Bottle": 2.0999999046325684,
+  "DistanceBetweenBottles": 0.8500000238418579,
+  "DistanceBetweenRows": 7.5,
+  "DistanceBetweenRowsFor3Row": 6.300000190734863,
+  "BottleWidth": 1.25,
+  "CameraPadding": 0.0,
+  "MinWidth": 13.199999809265137,
+  "CameraHeightMarginFor3Row": 8.0,
+  "CameraHeightMargin": 8.0
+}

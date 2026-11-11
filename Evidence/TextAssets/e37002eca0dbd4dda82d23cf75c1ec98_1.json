@@ -1,0 +1,701 @@
+{
+  "isEnabled": false,
+  "eventType": 1,
+  "firstLevelToShow": 34,
+  "DayOneProbabilities": [
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 25
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 27
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 23
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 2
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 3
+    }
+  ],
+  "HardLevelOrNoLifeProbabilities": [
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 23
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 45
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 22
+    }
+  ],
+  "OthersProbabilities": [
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 10
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 15
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 6
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 6
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 15
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 10
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 10
+    }
+  ],
+  "DayOneProbabilitiesWithCollection": [
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 25
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 27
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 23
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 2
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      },
+      "Probability": 0
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      },
+      "Probability": 0
+    }
+  ],
+  "HardLevelOrNoLifeProbabilitiesWithCollection": [
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 23
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 45
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 22
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      },
+      "Probability": 0
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      },
+      "Probability": 0
+    }
+  ],
+  "OthersProbabilitiesWithCollection": [
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 50
+      },
+      "Probability": 10
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 100
+      },
+      "Probability": 15
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 200
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 300
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 1,
+        "Amount": 400
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      "Probability": 6
+    },
+    {
+      "Reward": {
+        "CurrencyType": 4,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      "Probability": 6
+    },
+    {
+      "Reward": {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:15:00"
+      },
+      "Probability": 15
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      },
+      "Probability": 10
+    },
+    {
+      "Reward": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      },
+      "Probability": 10
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      },
+      "Probability": 5
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      },
+      "Probability": 3
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      },
+      "Probability": 1
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      },
+      "Probability": 0
+    },
+    {
+      "Reward": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      },
+      "Probability": 0
+    }
+  ]
+}

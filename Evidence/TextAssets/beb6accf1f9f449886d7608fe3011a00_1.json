@@ -1,0 +1,32 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "FirstLevelToShow": 110,
+  "SegmentedIAPModel": {
+    "non-purchaser": {
+      "ProductId": "sort.treasuredrill2",
+      "ProductType": 0,
+      "DollarEquivalent": 2
+    },
+    "poor": {
+      "ProductId": "sort.treasuredrill5",
+      "ProductType": 0,
+      "DollarEquivalent": 5
+    },
+    "hamsi": {
+      "ProductId": "sort.treasuredrill10",
+      "ProductType": 0,
+      "DollarEquivalent": 10
+    },
+    "dolphin": {
+      "ProductId": "sort.treasuredrill15",
+      "ProductType": 0,
+      "DollarEquivalent": 15
+    },
+    "whale": {
+      "ProductId": "sort.treasuredrill25",
+      "ProductType": 0,
+      "DollarEquivalent": 25
+    }
+  }
+}

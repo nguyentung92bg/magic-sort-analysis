@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Opened LevelDesign.html",
+    "Opened Levels/Levels.html",
+    "Opened Items/Items.html",
+    "Opened Boosters/Boosters.html",
+    "Opened IAP/IAP.html",
+    "Opened Events/Events.html",
+    "Opened Leaderboard/Leaderboard.html",
+    "Opened Daily/Daily.html",
+    "Opened Analytics/Analytics.html",
+    "Opened Evidence/Evidence.html",
+    "Combined group/special filters",
+    "Zero-result state",
+    "Index search",
+    "Pagination",
+    "Deep link",
+    "QuestionMark analysis toggle",
+    "Desktop/mobile overflow",
+    "Extracted sprite loading"
+  ],
+  "errors": []
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5238"
+  },
+  "m_Name": "SuperChargerTrailAnimationConfig",
+  "BestSortTrailAnimationTime": 0.800000011920929,
+  "TrailAnimationDuration": 0.20000000298023224,
+  "TrailAnimationDurationForChargeableBottle": 0.38999998569488525,
+  "TrailAnimationDurationForRainbow": 0.15000000596046448,
+  "TrailAnimationTimeForRainbow": 0.6499999761581421,
+  "ChargeAnimationStartTime": 0.05000000074505806,
+  "BestSortBottleAnimationBottleCoverTime": 0.47999998927116394,
+  "BestSortBottleAnimationRemainingTime": 0.6000000238418579,
+  "TrailDelayForChargeableBottle": 0.2800000011920929
+}

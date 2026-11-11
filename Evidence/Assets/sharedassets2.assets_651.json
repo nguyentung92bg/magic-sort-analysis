@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "130"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3920"
+  },
+  "m_Name": "",
+  "_color": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "_defaultAnimation": {
+    "m_FileID": 9,
+    "m_PathID": "13524"
+  },
+  "_onRisingAnimationEndEnd": {
+    "m_FileID": 9,
+    "m_PathID": "13526"
+  },
+  "_bottleSelectionAnimation": {
+    "m_FileID": 9,
+    "m_PathID": "13523"
+  },
+  "_bottleEntranceAnimation": {
+    "m_FileID": 9,
+    "m_PathID": "13522"
+  },
+  "_risingAnimationStart": {
+    "m_FileID": 0,
+    "m_PathID": "635"
+  },
+  "_risingAnimationEnd": {
+    "m_FileID": 0,
+    "m_PathID": "634"
+  },
+  "_risingAnimationEndStart": {
+    "m_FileID": 0,
+    "m_PathID": "634"
+  },
+  "_dailyBelowWaterStart": {
+    "m_FileID": 0,
+    "m_PathID": "633"
+  }
+}

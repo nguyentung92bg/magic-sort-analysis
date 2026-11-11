@@ -1,0 +1,251 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3108"
+  },
+  "m_Name": "MagicBottleCongratsAnimationConfig",
+  "<BottleEnlargeDuration>k__BackingField": 0.6000000238418579,
+  "<FirstPathEndParticleTime>k__BackingField": 0.44999998807907104,
+  "<BottleEnlargeStartScale>k__BackingField": 0.20000000298023224,
+  "<BottleEnlargeEndScale>k__BackingField": 1.0,
+  "<BottleEnlargeScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.04301590472459793,
+        "outSlope": -0.04301590472459793,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.08812442421913147
+      },
+      {
+        "time": 0.6289033889770508,
+        "value": 1.2004114389419556,
+        "inSlope": -0.2906413972377777,
+        "outSlope": -0.2906413972377777,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.41055920720100403
+      },
+      {
+        "time": 0.8479337692260742,
+        "value": 0.9283519983291626,
+        "inSlope": 0.004886675160378218,
+        "outSlope": 0.004886675160378218,
+        "weightedMode": 0,
+        "inWeight": 0.7593160271644592,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.03895072266459465,
+        "outSlope": -0.03895072266459465,
+        "weightedMode": 0,
+        "inWeight": 0.4366178810596466,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BezierAOffset>k__BackingField": {
+    "x": 0.0,
+    "y": -2.0,
+    "z": 0.0
+  },
+  "<BezierBOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<BezierEndPosition>k__BackingField": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "<BezierCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.02382889948785305,
+        "outSlope": -0.02382889948785305,
+        "weightedMode": 0,
+        "inWeight": 0.048636436462402344,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BezierDuration>k__BackingField": 0.44999998807907104,
+  "<BackgroundStartAlpha>k__BackingField": 0.0,
+  "<BackgroundEndAlpha>k__BackingField": 0.9200000166893005,
+  "<BackgroundFadeDuration>k__BackingField": 0.20000000298023224,
+  "<BackgroundFadeCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<TextSequenceTime>k__BackingField": 0.5,
+  "<DescriptionTextTime>k__BackingField": 0.699999988079071,
+  "<TapToContinueTextTime>k__BackingField": 1.0,
+  "<TextScaleDuration>k__BackingField": 0.4000000059604645,
+  "<TextScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.838758945465088,
+        "outSlope": 3.838758945465088,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.024782713502645493
+      },
+      {
+        "time": 0.6778810024261475,
+        "value": 1.1183496713638306,
+        "inSlope": -0.02213040180504322,
+        "outSlope": -0.02213040180504322,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2618618607521057
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<EnableInputTime>k__BackingField": 1.0,
+  "<SecondPartBottleMoveDuration>k__BackingField": 0.5,
+  "<SecondPartBottleMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.7575899958610535,
+        "outSlope": -0.7575899958610535,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04384826496243477
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.3827173709869385,
+        "outSlope": 3.3827173709869385,
+        "weightedMode": 0,
+        "inWeight": 0.026496469974517822,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<SecondPartTextScaleOutDuration>k__BackingField": 0.20000000298023224,
+  "<SecondPartTextScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<ClosePopupTime>k__BackingField": 1.100000023841858,
+  "<BottleScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.8782788515090942,
+        "outSlope": 1.8782788515090942,
+        "weightedMode": 0,
+        "inWeight": 0.04335397481918335,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MagicBottleScaleOutTarget>k__BackingField": {
+    "x": 0.15000000596046448,
+    "y": 0.15000000596046448,
+    "z": 0.0
+  },
+  "<PlayButtonMagicBottlePlayTime>k__BackingField": 0.5
+}

@@ -1,0 +1,81 @@
+{
+  "IsEnable": false,
+  "FirstLevelToShow": 55,
+  "EventType": 1,
+  "ShowFrequency": 2,
+  "MaxShowCount": 10,
+  "IAPConfigModels": [
+    {
+      "ProductId": "sort.special1",
+      "ProductType": 0,
+      "DollarEquivalent": 0.99
+    },
+    {
+      "ProductId": "sort.special3",
+      "ProductType": 0,
+      "DollarEquivalent": 2.99
+    },
+    {
+      "ProductId": "sort.special4.99",
+      "ProductType": 0,
+      "DollarEquivalent": 4.99
+    },
+    {
+      "ProductId": "sort.special5",
+      "ProductType": 0,
+      "DollarEquivalent": 4.99
+    },
+    {
+      "ProductId": "sort.special10",
+      "ProductType": 0,
+      "DollarEquivalent": 9.99
+    },
+    {
+      "ProductId": "sort.special20",
+      "ProductType": 0,
+      "DollarEquivalent": 19.99
+    },
+    {
+      "ProductId": "sort.special40",
+      "ProductType": 0,
+      "DollarEquivalent": 39.99
+    },
+    {
+      "ProductId": "sort.special50",
+      "ProductType": 0,
+      "DollarEquivalent": 49.99
+    },
+    {
+      "ProductId": "sort.special80",
+      "ProductType": 0,
+      "DollarEquivalent": 79.99
+    },
+    {
+      "ProductId": "sort.special100",
+      "ProductType": 0,
+      "DollarEquivalent": 99.99
+    }
+  ],
+  "FallBackRewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 2,
+      "TimeSpan": "00:15:00"
+    },
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 5,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 6,
+      "Amount": 1
+    }
+  ]
+}

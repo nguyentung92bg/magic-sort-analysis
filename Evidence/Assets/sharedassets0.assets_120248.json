@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "39150"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4158"
+  },
+  "m_Name": "",
+  "_hatContainer": {
+    "m_FileID": 0,
+    "m_PathID": "61293"
+  },
+  "_hatPositions": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "45987"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "64781"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "60584"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "61634"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "45507"
+    }
+  ],
+  "progressView": {
+    "m_FileID": 0,
+    "m_PathID": "118373"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109397"
+  }
+}

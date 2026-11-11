@@ -1,0 +1,32 @@
+{
+  "IsEnabled": false,
+  "EventType": 4,
+  "FirstLevelToShow": 80,
+  "RewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:15:00"
+    }
+  ],
+  "RewardModelsWithCollection": [
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:15:00"
+    },
+    {
+      "currencyType": 14,
+      "amount": 1,
+      "CollectionPackType": 3
+    }
+  ]
+}

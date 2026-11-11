@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4805"
+  },
+  "m_Name": "MagicPassAnimationConfig",
+  "InitialMoveDelay": 0.10000000149011612,
+  "InitialMoveDuration": 1.5,
+  "InitialMoveEndDelay": 0.699999988079071,
+  "InitialStepOffset": 3.200000047683716,
+  "InitialMoveSoundDelay": 0.30000001192092896,
+  "ProgressBarStepFillInitialDelay": 0.30000001192092896,
+  "ProgressBarStepFillDuration": 0.5,
+  "ProgressBarStepFillIconPuchScale": -0.07000000029802322,
+  "ProgressBarStepFillIconPuchDuration": 0.20000000298023224,
+  "LockHitAnimationDuration": 0.5,
+  "LockHitAnimationEase": 3,
+  "VaultHitParticleDelay": 0.4000000059604645,
+  "VerticalScrollBarMoveDurationPerStep": 0.4000000059604645,
+  "VerticalScrollBarSingleStepMoveDuration": 0.800000011920929,
+  "VerticalScrollBarFillOffset": -1.399999976158142,
+  "VerticalScrollBarVaultMoveDuration": 1.0,
+  "StepSeparatorUnlockDuration": 1.2300000190734863,
+  "StepSeparatorYOffset": 1.5,
+  "StepSeparatorVaultYOffset": -3.200000047683716,
+  "StepSeparatorInitialYOffset": 4.0,
+  "StepSeparatorLockOffsetDuration": -0.699999988079071,
+  "StepSeparatorClaimButtonsScaleDuration": 0.30000001192092896,
+  "StepSeparatorClaimButtonsScaleDelay": 1.100000023841858,
+  "StepSeparatorParticleStopDelay": 0.5,
+  "StepSeparatorVaultMoveDelay": 1.100000023841858,
+  "StepIconChangeInitialDelay": 0.5,
+  "StepIconChangeDelay": 0.11999999731779099
+}

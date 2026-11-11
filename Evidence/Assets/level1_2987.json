@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "630"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "340"
+  },
+  "m_Name": "",
+  "_revealParent": {
+    "m_FileID": 0,
+    "m_PathID": "408"
+  },
+  "_megaShuffleParent": {
+    "m_FileID": 0,
+    "m_PathID": "630"
+  },
+  "_3boosterParent": {
+    "m_FileID": 0,
+    "m_PathID": "394"
+  },
+  "_4boosterParent": {
+    "m_FileID": 0,
+    "m_PathID": "832"
+  },
+  "_currencyType": 18
+}

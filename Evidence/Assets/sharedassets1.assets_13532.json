@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6545"
+  },
+  "m_Name": "QuestionMarkAnimationConfig",
+  "<SnitchStickerScaleDuration>k__BackingField": 0.3799999952316284,
+  "<SnitchStickerStartScale>k__BackingField": 0.4000000059604645,
+  "<SnitchStickerTargetScale>k__BackingField": 0.5,
+  "<SnitchStickerScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 9.557236671447754,
+        "outSlope": 9.557236671447754,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0784129947423935
+      },
+      {
+        "time": 0.28894540667533875,
+        "value": 1.2159367799758911,
+        "inSlope": 0.706644594669342,
+        "outSlope": 0.706644594669342,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.1520972102880478
+      },
+      {
+        "time": 0.754611611366272,
+        "value": 0.8733441829681396,
+        "inSlope": 0.004435669630765915,
+        "outSlope": 0.004435669630765915,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.5672014355659485
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

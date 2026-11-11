@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "16139"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2860"
+  },
+  "m_Name": "",
+  "_coinParticle": {
+    "m_FileID": 0,
+    "m_PathID": "80590"
+  },
+  "_coinShineParticle": {
+    "m_FileID": 0,
+    "m_PathID": "80728"
+  },
+  "_coinFontParticle": {
+    "m_FileID": 0,
+    "m_PathID": "78174"
+  },
+  "_coinText": {
+    "m_FileID": 0,
+    "m_PathID": "122343"
+  },
+  "_coinAnimationDuration": 1.5
+}

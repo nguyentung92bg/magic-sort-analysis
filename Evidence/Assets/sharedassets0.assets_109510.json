@@ -1,0 +1,256 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2628"
+  },
+  "m_Name": "WheelOfFortunePopUpConfig",
+  "_wheelOfFortuneConfigsByType": [
+    {
+      "WheelOfFortuneTaskType": 1,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "4498"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabSuperHardLevelTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabSuperHardLevelTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "MagicLabSuperHardLevelTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabSuperHardLevelTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 2,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "6049"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabJetpackRaceWinTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabJetpackRaceWinTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "MagicLabJetpackRaceWinTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabJetpackRaceWinTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 3,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1875"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabMagicStreakStepReachTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabMagicStreakStepReachTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabMagicStreakStepReachTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabMagicStreakStepReachTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 4,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1749"
+      },
+      "SpriteSize": {
+        "x": 0.8199999928474426,
+        "y": 0.8199999928474426
+      },
+      "DescriptionLocalizationKey": "MagicLabBroomStreakStepReachTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabBroomStreakStepReachTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabBroomStreakStepReachTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabBroomStreakStepReachTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 5,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3083"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabDuckFestivalWinTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabDuckFestivalWinTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabDuckFestivalWinTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabDuckFestivalWinTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 6,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "3654"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabMinigameCompleteStageTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabMinigameCompleteStageTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "MagicLabMinigameCompleteStageTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabMinigameCompleteStageTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 7,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "6023"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabGetUniqueCardsTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabGetUniqueCardsTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabGetUniqueCardsTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabGetUniqueCardsTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 8,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5988"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "MagicLabEarnCoinsTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabEarnCoinsTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabEarnCoinsTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabEarnCoinsTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 9,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "1753"
+      },
+      "SpriteSize": {
+        "x": 0.9100000262260437,
+        "y": 0.9100000262260437
+      },
+      "DescriptionLocalizationKey": "MagicLabFirstTryWinTaskDescription",
+      "PluralDescriptionLocalizationKey": "MagicLabFirstTryWinTaskDescription",
+      "ToolbarDescriptionLocalizationKey": "MagicLabFirstTryWinTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "MagicLabFirstTryWinTaskDescription"
+    },
+    {
+      "WheelOfFortuneTaskType": 10,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "4854"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "WheelOfFortuneRegularLevelTaskDescription",
+      "PluralDescriptionLocalizationKey": "WheelOfFortuneRegularLevelTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "WheelOfFortuneRegularLevelTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "WheelOfFortuneRegularLevelTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 11,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5788"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "WheelOfFortuneHardLevelTaskDescription",
+      "PluralDescriptionLocalizationKey": "WheelOfFortuneHardLevelTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "WheelOfFortuneHardLevelTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "WheelOfFortuneHardLevelTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 12,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "5189"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "WheelOfFortuneBoatRushTaskDescription",
+      "PluralDescriptionLocalizationKey": "WheelOfFortuneBoatRushTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "WheelOfFortuneBoatRushTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "WheelOfFortuneBoatRushTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 13,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "4143"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "WheelOfFortuneMergeTaskDescription",
+      "PluralDescriptionLocalizationKey": "WheelOfFortuneMergeTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "WheelOfFortuneMergeTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "WheelOfFortuneMergeTaskDescriptionPlural"
+    },
+    {
+      "WheelOfFortuneTaskType": 14,
+      "Sprite": {
+        "m_FileID": 0,
+        "m_PathID": "6059"
+      },
+      "SpriteSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "DescriptionLocalizationKey": "WheelOfFortuneWinStreakTaskDescription",
+      "PluralDescriptionLocalizationKey": "WheelOfFortuneWinStreakTaskDescriptionPlural",
+      "ToolbarDescriptionLocalizationKey": "WheelOfFortuneWinStreakTaskDescription",
+      "PluralToolbarDescriptionLocalizationKey": "WheelOfFortuneWinStreakTaskDescriptionPlural"
+    }
+  ],
+  "_activeSpinButtonTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "126"
+  },
+  "_inactiveSpinButtonTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "123"
+  },
+  "_inactiveSpinButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": "5998"
+  },
+  "_activeSpinButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": "4028"
+  },
+  "_greenBackground": {
+    "m_FileID": 0,
+    "m_PathID": "1790"
+  },
+  "_greenRightBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4503"
+  },
+  "_beigeBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4115"
+  },
+  "_beigeRightBackground": {
+    "m_FileID": 0,
+    "m_PathID": "3864"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3879"
+  },
+  "m_Name": "SkyJumpAreYouSureAnimationConfig",
+  "<AnimationStartDelay>k__BackingField": 0.699999988079071,
+  "<PillowFallTime>k__BackingField": 0.10000000149011612,
+  "<JumpFallYPosition>k__BackingField": -5.5,
+  "<JumpFallXPosition>k__BackingField": -2.5,
+  "<JumpScalePrepDuration>k__BackingField": 0.6000000238418579,
+  "<JumpScalePrep>k__BackingField": {
+    "x": 1.2000000476837158,
+    "y": 0.800000011920929,
+    "z": 1.0
+  },
+  "<JumpScalePrepAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 6.956491947174072,
+        "outSlope": 6.956491947174072,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.01159900613129139
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": 6.081592082977295,
+        "outSlope": 6.081592082977295,
+        "weightedMode": 0,
+        "inWeight": 0.021648049354553223,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<UserJumpDelay>k__BackingField": 0.20000000298023224,
+  "<PillowJumpScalePrepDuration>k__BackingField": 0.30000001192092896,
+  "<PillowJumpScalePrep>k__BackingField": {
+    "x": 1.399999976158142,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<PillowJumpScalePrepAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.181715488433838,
+        "outSlope": 2.181715488433838,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.012872076593339443
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": 0.02395865134894848,
+        "outSlope": 0.02395865134894848,
+        "weightedMode": 0,
+        "inWeight": 0.11780565977096558,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<JumpPower>k__BackingField": 6.0,
+  "<PillowFallDuration>k__BackingField": 0.800000011920929,
+  "<PillowFallCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0037929301615804434,
+        "outSlope": 0.0037929301615804434,
+        "weightedMode": 2,
+        "inWeight": 0.0,
+        "outWeight": 0.6944246888160706
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<PillowFallYPosition>k__BackingField": -4.5,
+  "<JumpFallDuration>k__BackingField": 0.75,
+  "<MidAirRotationDuration>k__BackingField": 0.5,
+  "<RestartDelayTime>k__BackingField": 0.5,
+  "<MidAirRotationEase>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

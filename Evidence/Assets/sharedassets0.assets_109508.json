@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5459"
+  },
+  "m_Name": "WheelOfFortuneCurrencyRevealAnimationConfig",
+  "<MoveUpDuration>k__BackingField": 0.6399999856948853,
+  "<MoveUpCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MoveUpTime>k__BackingField": 0.49000000953674316,
+  "<MoveUpMultiplier>k__BackingField": 1.649999976158142,
+  "<EndScale>k__BackingField": {
+    "x": 0.800000011920929,
+    "y": 0.800000011920929,
+    "z": 1.0
+  },
+  "<ScaleDuration>k__BackingField": 0.3499999940395355,
+  "<ScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.4757422208786011,
+        "value": 1.1540063619613647,
+        "inSlope": 0.0782233476638794,
+        "outSlope": 0.0782233476638794,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.1267191618680954
+      },
+      {
+        "time": 0.7713798880577087,
+        "value": 0.9091330766677856,
+        "inSlope": 0.009196416474878788,
+        "outSlope": 0.009196416474878788,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 1.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.07406168431043625,
+        "outSlope": 0.07406168431043625,
+        "weightedMode": 0,
+        "inWeight": 0.3262324333190918,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<FadeDuration>k__BackingField": 0.3700000047683716,
+  "<FadeTime>k__BackingField": 0.5699999928474426,
+  "<ParticleTime>k__BackingField": 0.07999999821186066,
+  "<ShouldIncreaseSortingOrder>k__BackingField": 0
+}

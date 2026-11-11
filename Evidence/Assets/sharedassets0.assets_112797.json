@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "15651"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3216"
+  },
+  "m_Name": "",
+  "_config": {
+    "m_FileID": 0,
+    "m_PathID": "109503"
+  },
+  "_currencySprite": {
+    "m_FileID": 0,
+    "m_PathID": "103498"
+  },
+  "_scaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.4449875354766846,
+        "outSlope": 3.4449875354766846,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.265976220369339
+      },
+      {
+        "time": 0.6232933402061462,
+        "value": 1.0640238523483276,
+        "inSlope": 0.15645328164100647,
+        "outSlope": 0.15645328164100647,
+        "weightedMode": 3,
+        "inWeight": 0.36675503849983215,
+        "outWeight": 0.30352890491485596
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.4710064232349396,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": "112476"
+  },
+  "_amountTextMid": {
+    "m_FileID": 0,
+    "m_PathID": "118102"
+  },
+  "_amountTextHigh": {
+    "m_FileID": 0,
+    "m_PathID": "110826"
+  }
+}

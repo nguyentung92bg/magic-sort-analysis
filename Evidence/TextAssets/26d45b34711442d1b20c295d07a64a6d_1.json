@@ -1,0 +1,938 @@
+{
+  "IsEnable": false,
+  "FirstLevelToShow": 25,
+  "EventType": 1,
+  "StreakMultipliers": [
+    1,
+    5,
+    10,
+    25,
+    100
+  ],
+  "RewardStepsW": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "NeededKeyCount": 600,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 1400,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 300,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 900,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 1200,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "03:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "04:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 2500,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 3000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 500,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 2100,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 3800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 1000,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 2500,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1900,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 250,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 3000,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "06:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000,
+        "timeSpan": "00:00:00"
+      }
+    }
+  ],
+  "RewardStepsNPP": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 300
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "03:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "04:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 2000
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 600
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "06:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000
+      }
+    }
+  ],
+  "RewardStepsDH": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 900,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 300
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "03:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1100,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 1200,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "04:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 2600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 2000
+      }
+    },
+    {
+      "NeededKeyCount": 1300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 250
+      }
+    },
+    {
+      "NeededKeyCount": 1900,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "NeededKeyCount": 1500,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "06:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000
+      }
+    }
+  ],
+  "RewardStepsWithCollectionW": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      }
+    },
+    {
+      "NeededKeyCount": 600,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 1400,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 900,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 1200,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1300,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 2500,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 3000,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 2100,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 3800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 1000,
+        "timeSpan": "00:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 2500,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 1900,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 250
+      }
+    },
+    {
+      "NeededKeyCount": 3000,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000
+      }
+    }
+  ],
+  "RewardStepsWithCollectionNPP": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 600
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000
+      }
+    }
+  ],
+  "RewardStepsWithCollectionDH": [
+    {
+      "NeededKeyCount": 5,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 200,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 1
+      }
+    },
+    {
+      "NeededKeyCount": 400,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "00:30:00"
+      }
+    },
+    {
+      "NeededKeyCount": 500,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      }
+    },
+    {
+      "NeededKeyCount": 300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "01:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "NeededKeyCount": 900,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 700,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "02:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 400
+      }
+    },
+    {
+      "NeededKeyCount": 800,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "NeededKeyCount": 1100,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 1200,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    },
+    {
+      "NeededKeyCount": 2600,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 1300,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "Amount": 0,
+        "timeSpan": "05:00:00"
+      }
+    },
+    {
+      "NeededKeyCount": 1600,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 250
+      }
+    },
+    {
+      "NeededKeyCount": 1900,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    },
+    {
+      "NeededKeyCount": 1800,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 500
+      }
+    },
+    {
+      "NeededKeyCount": 1500,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 5
+      }
+    },
+    {
+      "NeededKeyCount": 10000,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 10000
+      }
+    }
+  ]
+}

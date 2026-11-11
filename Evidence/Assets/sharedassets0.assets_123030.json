@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "6664"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2527"
+  },
+  "m_Name": "",
+  "_resultController": {
+    "m_FileID": 0,
+    "m_PathID": "121758"
+  },
+  "_inProgressController": {
+    "m_FileID": 0,
+    "m_PathID": "119618"
+  }
+}

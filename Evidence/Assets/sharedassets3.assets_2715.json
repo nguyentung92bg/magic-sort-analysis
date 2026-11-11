@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "923"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6733"
+  },
+  "m_Name": "",
+  "_useSizeOfPerPrefab": 0,
+  "_factory": {
+    "m_FileID": 0,
+    "m_PathID": "2507"
+  },
+  "_scrollBar": {
+    "m_FileID": 0,
+    "m_PathID": "2843"
+  },
+  "_basicScrollAdapter": {
+    "m_FileID": 0,
+    "m_PathID": "2809"
+  },
+  "_contentTransform": {
+    "m_FileID": 0,
+    "m_PathID": "1588"
+  },
+  "_scrollBarIndexClamper": {
+    "m_FileID": 0,
+    "m_PathID": "2827"
+  }
+}

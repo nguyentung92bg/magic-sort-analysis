@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1972"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4770"
+  },
+  "m_Name": "",
+  "_rewardPosition": {
+    "m_FileID": 0,
+    "m_PathID": "6730"
+  },
+  "_greenTickSprite": {
+    "m_FileID": 0,
+    "m_PathID": "10269"
+  },
+  "_separator": {
+    "m_FileID": 0,
+    "m_PathID": "11052"
+  },
+  "_claimRewardParticle": {
+    "m_FileID": 0,
+    "m_PathID": "9352"
+  },
+  "_animationConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109360"
+  },
+  "_spriteConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109361"
+  },
+  "_dateText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "<IsStartStep>k__BackingField": 0,
+  "<StepDate>k__BackingField": 7
+}

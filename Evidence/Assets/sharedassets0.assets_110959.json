@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "29881"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5302"
+  },
+  "m_Name": "",
+  "_viewParent": {
+    "m_FileID": 0,
+    "m_PathID": "13408"
+  },
+  "_skeletonAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "114592"
+  },
+  "_meshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "72074"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109423"
+  }
+}

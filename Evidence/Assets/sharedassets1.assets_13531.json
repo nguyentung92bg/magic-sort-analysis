@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3643"
+  },
+  "m_Name": "WaterParticleConfig",
+  "<RingCycleCountByHeight>k__BackingField": [
+    0,
+    2,
+    3,
+    3,
+    7
+  ],
+  "<DailyWaterDenseBurstCountMinMax>k__BackingField": {
+    "x": 2,
+    "y": 2
+  },
+  "<DailyWaterBiggerDenseBurstCountMinMax>k__BackingField": {
+    "x": 2,
+    "y": 3
+  },
+  "<DailyConstantRingBurstCount>k__BackingField": 1
+}

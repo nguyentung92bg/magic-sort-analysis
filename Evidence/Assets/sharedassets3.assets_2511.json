@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3339"
+  },
+  "m_Name": "HelpSupportRewardViewFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 0,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "302"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

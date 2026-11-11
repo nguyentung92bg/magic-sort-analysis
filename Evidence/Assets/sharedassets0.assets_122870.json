@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "33742"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1347"
+  },
+  "m_Name": "",
+  "_chestView": {
+    "m_FileID": 0,
+    "m_PathID": "122331"
+  },
+  "_singleRewardContainer": {
+    "m_FileID": 0,
+    "m_PathID": "62800"
+  },
+  "_doubleRewardContainer1": {
+    "m_FileID": 0,
+    "m_PathID": "56350"
+  },
+  "_doubleRewardContainer2": {
+    "m_FileID": 0,
+    "m_PathID": "52971"
+  },
+  "_tripleRewardContainer1": {
+    "m_FileID": 0,
+    "m_PathID": "60535"
+  },
+  "_tripleRewardContainer2": {
+    "m_FileID": 0,
+    "m_PathID": "47957"
+  },
+  "_tripleRewardContainer3": {
+    "m_FileID": 0,
+    "m_PathID": "58763"
+  },
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109432"
+  },
+  "_animationsConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109430"
+  }
+}

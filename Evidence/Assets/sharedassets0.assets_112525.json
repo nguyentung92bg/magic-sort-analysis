@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "16504"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1721"
+  },
+  "m_Name": "",
+  "_useSizeOfPerPrefab": 0,
+  "_viewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109368"
+  },
+  "_elementSize": {
+    "x": 9.226811408996582,
+    "y": 1.7999999523162842,
+    "z": 0.0
+  },
+  "_leaderboardFramesController": {
+    "m_FileID": 0,
+    "m_PathID": "120808"
+  }
+}

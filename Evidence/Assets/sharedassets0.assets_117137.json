@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26850"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6179"
+  },
+  "m_Name": "",
+  "_currencyViewFactory": {
+    "m_FileID": 0,
+    "m_PathID": "109420"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109423"
+  },
+  "_stageMoveEndParticle": {
+    "m_FileID": 0,
+    "m_PathID": "80862"
+  },
+  "_rewardParent": {
+    "m_FileID": 0,
+    "m_PathID": "67185"
+  },
+  "_claimedView": {
+    "m_FileID": 0,
+    "m_PathID": "66955"
+  },
+  "_progressBarStagePosition": {
+    "x": -2.200000047683716,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

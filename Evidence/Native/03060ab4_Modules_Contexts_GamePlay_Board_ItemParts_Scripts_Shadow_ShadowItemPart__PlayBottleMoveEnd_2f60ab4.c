@@ -1,0 +1,84 @@
+/* IL2CPP: Modules.Contexts.GamePlay.Board.ItemParts.Scripts.Shadow.ShadowItemPart$$PlayBottleMoveEnd
+void Modules_Contexts_GamePlay_Board_ItemParts_Scripts_Shadow_ShadowItemPart__PlayBottleMoveEnd (Modules_Contexts_GamePlay_Board_ItemParts_Scripts_Shadow_ShadowItemPart_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+/* IL2CPP:
+   Modules.Contexts.GamePlay.Board.ItemParts.Scripts.Shadow.ShadowItemPart$$PlayBottleMoveEnd
+   void Modules_Contexts_GamePlay_Board_ItemParts_Scripts_Shadow_ShadowItemPart__PlayBottleMoveEnd
+   (Modules_Contexts_GamePlay_Board_ItemParts_Scripts_Shadow_ShadowItemPart_o* __this, const
+   MethodInfo* method); */
+
+undefined8
+Modules_Contexts_GamePlay_Board_ItemParts_Scripts_Shadow_ShadowItemPart__PlayBottleMoveEnd_2f60ab4
+          (long param_1)
+
+{
+  undefined4 uVar1;
+  undefined *puVar2;
+  undefined *puVar3;
+  undefined8 uVar4;
+  long lVar5;
+  long lVar6;
+  long lVar7;
+  undefined8 *puVar8;
+  undefined4 uVar9;
+  undefined4 uVar10;
+  undefined4 uVar11;
+  undefined4 uVar12;
+  
+  puVar2 = PTR_DAT_057e34f0;
+  uVar1 = _UNK_04339ec8;
+  lVar7 = *(long *)(param_1 + 0x28);
+  if (lVar7 == 0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_012d0ef0();
+  }
+  uVar4 = *(undefined8 *)(lVar7 + 0x20);
+  uVar9 = *(undefined4 *)(lVar7 + 0x28);
+  uVar10 = *(undefined4 *)(lVar7 + 0x2c);
+  uVar11 = *(undefined4 *)(lVar7 + 0x30);
+  uVar12 = *(undefined4 *)(lVar7 + 0x34);
+  if ((bRam0000000005c322ad & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_057d4a60,0);
+    FUN_012d0dc8(PTR_DAT_057710a8);
+    FUN_012d0dc8(PTR_DAT_057815e0);
+    FUN_012d0dc8(PTR_DAT_05798d68);
+    FUN_012d0dc8(PTR_DAT_057db880);
+    FUN_012d0dc8(PTR_DAT_058020d8);
+    FUN_012d0dc8(PTR_DAT_057e34f0);
+    bRam0000000005c322ad = 1;
+  }
+  lVar7 = thunk_FUN_01320e48(*(undefined8 *)puVar2);
+  puVar2 = PTR_DAT_057d4a60;
+  if (lVar7 != 0) {
+    System_Object___ctor_23dfe5c(lVar7,0);
+    puVar8 = (undefined8 *)(lVar7 + 0x10);
+    *puVar8 = uVar4;
+    FUN_012d0d74(puVar8,uVar4);
+    lVar5 = thunk_FUN_01320e48(*(undefined8 *)puVar2);
+    puVar2 = PTR_DAT_057710a8;
+    if (lVar5 != 0) {
+      DG_Tweening_Core_DOGetter_Color____ctor_156c9ec(lVar5,lVar7,*(undefined8 *)PTR_DAT_057db880,0)
+      ;
+      lVar6 = thunk_FUN_01320e48(*(undefined8 *)puVar2);
+      puVar3 = PTR_DAT_05798d68;
+      puVar2 = PTR_DAT_057815e0;
+      if (lVar6 != 0) {
+        DG_Tweening_Core_DOSetter_Color____ctor_156da1c
+                  (lVar6,lVar7,*(undefined8 *)PTR_DAT_058020d8,0);
+        if (*(int *)(*(long *)puVar2 + 0xe0) == 0) {
+          thunk_FUN_0130472c();
+        }
+        uVar4 = DG_Tweening_DOTween__To_1ed8b94(uVar9,uVar10,uVar11,uVar12,uVar1,lVar5,lVar6,0);
+        DG_Tweening_TweenSettingsExtensions__SetTarget_object__2451274
+                  (uVar4,*puVar8,*(undefined8 *)puVar3);
+        return uVar4;
+      }
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

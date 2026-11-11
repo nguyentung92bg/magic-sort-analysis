@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "529"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3294"
+  },
+  "m_Name": "",
+  "_uiElement": {
+    "m_FileID": 0,
+    "m_PathID": "2874"
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": "2793"
+  },
+  "_claimedButtonParent": {
+    "m_FileID": 0,
+    "m_PathID": "1651"
+  },
+  "_nameStyleView": {
+    "m_FileID": 0,
+    "m_PathID": "2535"
+  },
+  "_coinAmountText": {
+    "m_FileID": 0,
+    "m_PathID": "2923"
+  },
+  "_centerNameText": 1,
+  "_nameText": {
+    "m_FileID": 0,
+    "m_PathID": "2528"
+  },
+  "_sizeOfSuffix": 3.0,
+  "_containerSize": 8.0
+}

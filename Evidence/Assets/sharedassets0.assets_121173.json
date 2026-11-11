@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "20100"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "155"
+  },
+  "m_Name": "",
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "112968"
+  },
+  "_completedCheck": {
+    "m_FileID": 0,
+    "m_PathID": "29540"
+  },
+  "_completedText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6579"
+  },
+  "m_Name": "BottleFillAnimationConfig",
+  "_delayBeforeShrink": 0.10999999940395355,
+  "_shrink": {
+    "x": 1.0700000524520874,
+    "y": 0.949999988079071,
+    "z": 1.0
+  },
+  "_stretch": {
+    "x": 0.9700000286102295,
+    "y": 1.0399999618530273,
+    "z": 1.0
+  },
+  "_shrinkDuration": 0.03999999910593033,
+  "_stretchDuration": 0.07000000029802322,
+  "_stretchAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_shrinkAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_returnToNormalScaleDuration": 0.20000000298023224,
+  "_returnToNormalScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_animationDelay": 0.6399999856948853,
+  "_oldAnimationDelay": 0.8999999761581421,
+  "_particleDelay": 0.0,
+  "_moveUpDelay": 0.6499999761581421,
+  "_moveUpCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.31247371435165405,
+        "value": 0.720574140548706,
+        "inSlope": 1.0264405012130737,
+        "outSlope": 1.0264405012130737,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.19496166706085205
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_moveDownCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_moveUpDuration": 0.2800000011920929,
+  "_moveDownDuration": 0.05000000074505806,
+  "_moveUpOffset": 0.5,
+  "_animationDelayByBottleHeights": [
+    {
+      "Height": 8,
+      "StopperDelay": 0.699999988079071,
+      "ParticleDelay": 0.30000001192092896,
+      "MoveUpDelay": 0.949999988079071
+    },
+    {
+      "Height": 10,
+      "StopperDelay": 0.8500000238418579,
+      "ParticleDelay": 0.30000001192092896,
+      "MoveUpDelay": 0.949999988079071
+    },
+    {
+      "Height": 11,
+      "StopperDelay": 0.8500000238418579,
+      "ParticleDelay": 0.30000001192092896,
+      "MoveUpDelay": 0.949999988079071
+    },
+    {
+      "Height": 15,
+      "StopperDelay": 0.8999999761581421,
+      "ParticleDelay": 0.30000001192092896,
+      "MoveUpDelay": 0.949999988079071
+    },
+    {
+      "Height": 16,
+      "StopperDelay": 0.8999999761581421,
+      "ParticleDelay": 0.30000001192092896,
+      "MoveUpDelay": 0.949999988079071
+    }
+  ]
+}

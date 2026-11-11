@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "25596"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2758"
+  },
+  "m_Name": "",
+  "_spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "99036"
+  },
+  "_shuffleSprite": {
+    "m_FileID": 0,
+    "m_PathID": "3855"
+  },
+  "_revealSprite": {
+    "m_FileID": 0,
+    "m_PathID": "1740"
+  }
+}

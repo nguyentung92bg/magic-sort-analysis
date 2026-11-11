@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "37914"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4383"
+  },
+  "m_Name": "",
+  "_materialEntries": [
+    {
+      "TextureId": "5bc397f36190945d4a34cb86c6b69ccb_2800000",
+      "Material": {
+        "m_FileID": 0,
+        "m_PathID": "77"
+      }
+    }
+  ]
+}

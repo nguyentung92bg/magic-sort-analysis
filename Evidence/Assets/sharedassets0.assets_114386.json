@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "16979"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3091"
+  },
+  "m_Name": "",
+  "_offText": {
+    "m_FileID": 0,
+    "m_PathID": "119501"
+  },
+  "_rewardBg": {
+    "m_FileID": 0,
+    "m_PathID": "101714"
+  },
+  "_offParent": {
+    "m_FileID": 0,
+    "m_PathID": "15411"
+  },
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "121995"
+  },
+  "_iapButton": {
+    "m_FileID": 0,
+    "m_PathID": "112192"
+  },
+  "_purhcaseLimitText": {
+    "m_FileID": 0,
+    "m_PathID": "113017"
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "121631"
+  },
+  "_rewardContainers": [
+    {
+      "CurrencyType": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": "119099"
+      },
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": "6968"
+      }
+    },
+    {
+      "CurrencyType": 17,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": "122486"
+      },
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": "24511"
+      }
+    },
+    {
+      "CurrencyType": 2,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": "110513"
+      },
+      "Root": {
+        "m_FileID": 0,
+        "m_PathID": "8132"
+      }
+    }
+  ],
+  "_tridentIcon": {
+    "m_FileID": 0,
+    "m_PathID": "12964"
+  },
+  "_containerConfigs": [
+    {
+      "RewardsCount": 1,
+      "RewardPositions": [
+        {
+          "x": -0.20000000298023224,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        }
+      ],
+      "BgSize": {
+        "x": 4.199999809265137,
+        "y": 2.1873838901519775
+      },
+      "SaleContainerPosition": {
+        "x": -2.259999990463257,
+        "y": -2.9000000953674316,
+        "z": 0.0
+      },
+      "TridentIconScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "RewardsCount": 2,
+      "RewardPositions": [
+        {
+          "x": -0.8999999761581421,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        },
+        {
+          "x": 0.8999999761581421,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        }
+      ],
+      "BgSize": {
+        "x": 4.79118013381958,
+        "y": 2.1873838901519775
+      },
+      "SaleContainerPosition": {
+        "x": -2.3589999675750732,
+        "y": -2.433000087738037,
+        "z": 0.0
+      },
+      "TridentIconScale": {
+        "x": 0.8199999928474426,
+        "y": 0.8199999928474426,
+        "z": 0.8199999928474426
+      }
+    },
+    {
+      "RewardsCount": 3,
+      "RewardPositions": [
+        {
+          "x": -1.7000000476837158,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        },
+        {
+          "x": 1.7000000476837158,
+          "y": -0.6499999761581421,
+          "z": 0.0
+        }
+      ],
+      "BgSize": {
+        "x": 5.639999866485596,
+        "y": 2.1873838901519775
+      },
+      "SaleContainerPosition": {
+        "x": -2.880000114440918,
+        "y": -2.2269999980926514,
+        "z": 0.0
+      },
+      "TridentIconScale": {
+        "x": 0.8199999928474426,
+        "y": 0.8199999928474426,
+        "z": 0.8199999928474426
+      }
+    }
+  ]
+}

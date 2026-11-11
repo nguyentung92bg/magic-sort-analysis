@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "8293"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5490"
+  },
+  "m_Name": "",
+  "_raycastOrder": 71,
+  "_isRaycastable": 1,
+  "_boxCollider2D": {
+    "m_FileID": 0,
+    "m_PathID": "75860"
+  },
+  "_touchAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109522"
+  },
+  "buttonSfxType": 0,
+  "_packageType": 1
+}

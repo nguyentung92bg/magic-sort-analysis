@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "39738"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6582"
+  },
+  "m_Name": "",
+  "_profile1": {
+    "m_FileID": 0,
+    "m_PathID": "115885"
+  },
+  "_profile2": {
+    "m_FileID": 0,
+    "m_PathID": "120482"
+  },
+  "_profile3": {
+    "m_FileID": 0,
+    "m_PathID": "114194"
+  },
+  "_name1": {
+    "m_FileID": 0,
+    "m_PathID": "113330"
+  },
+  "_name2": {
+    "m_FileID": 0,
+    "m_PathID": "114983"
+  },
+  "_name3": {
+    "m_FileID": 0,
+    "m_PathID": "122310"
+  }
+}

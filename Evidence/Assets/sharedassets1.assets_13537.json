@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5614"
+  },
+  "m_Name": "WaterRegularRiseConfigVariant0",
+  "<DurationsByHeights>k__BackingField": [
+    {
+      "Height": 1.0,
+      "Duration": 0.25
+    },
+    {
+      "Height": 1.0,
+      "Duration": 0.2800000011920929
+    },
+    {
+      "Height": 2.0,
+      "Duration": 0.3700000047683716
+    },
+    {
+      "Height": 3.0,
+      "Duration": 0.4399999976158142
+    },
+    {
+      "Height": 4.0,
+      "Duration": 0.6000000238418579
+    }
+  ]
+}

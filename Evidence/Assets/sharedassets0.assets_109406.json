@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4723"
+  },
+  "m_Name": "MergeCollectibleItemAnimationConfig",
+  "ItemScaleOutTime": 0.0,
+  "ItemScaleOutDuration": 0.30000001192092896,
+  "ItemScaleOutValue": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "ItemScaleOutCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ItemRevealAnimationTime": 0.0,
+  "RevealInitialTransform": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "DefaultCollectibleItemAnimationUnlockTime": 0.4000000059604645,
+  "DefaultCollectibleAnimationDuration": 0.800000011920929,
+  "EnergyCollectDuration": 1.0,
+  "EnergyCollectAPoint": {
+    "x": 0.0,
+    "y": -5.0,
+    "z": 0.0
+  },
+  "EnergyCollectBPoint": {
+    "x": 5.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "EnergyCollectCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": [
+    "7 reader pages on desktop and mobile",
+    "144 products and exact SKU filter",
+    "11 mechanism sections and original sprites/color table",
+    "5 booster descriptions",
+    "6 leaderboard systems and rank rewards",
+    "Daily 31/28 dates, variant selection and board",
+    "No raw code blocks, undefined text or browser errors"
+  ]
+}

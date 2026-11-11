@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2014"
+  },
+  "m_Name": "HeartBeatAnimationConfig",
+  "_heartBeatDuration": 0.699999988079071,
+  "_heartIdleDuration": 1.0,
+  "_minScale": 1.0,
+  "_maxScale": 1.2999999523162842,
+  "_heartBeatCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 5.73470401763916,
+        "outSlope": 5.73470401763916,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04747560992836952
+      },
+      {
+        "time": 0.17190811038017273,
+        "value": 0.8363000750541687,
+        "inSlope": -1.6889322996139526,
+        "outSlope": -1.6889322996139526,
+        "weightedMode": 0,
+        "inWeight": 0.13768917322158813,
+        "outWeight": 0.21032388508319855
+      },
+      {
+        "time": 0.382937490940094,
+        "value": -0.30426472425460815,
+        "inSlope": -1.4578214883804321,
+        "outSlope": -1.4578214883804321,
+        "weightedMode": 0,
+        "inWeight": 0.24703772366046906,
+        "outWeight": 0.22628219425678253
+      },
+      {
+        "time": 0.6220317482948303,
+        "value": 0.0905977115035057,
+        "inSlope": 0.005857311189174652,
+        "outSlope": 0.005857311189174652,
+        "weightedMode": 0,
+        "inWeight": 0.43505018949508667,
+        "outWeight": 0.11820878088474274
+      },
+      {
+        "time": 0.8320882320404053,
+        "value": -0.04357022047042847,
+        "inSlope": -0.18861892819404602,
+        "outSlope": -0.18861892819404602,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.4061965346336365
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": 0.7422806620597839,
+        "outSlope": 0.7422806620597839,
+        "weightedMode": 0,
+        "inWeight": 0.40648266673088074,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

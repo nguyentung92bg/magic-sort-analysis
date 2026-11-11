@@ -1,0 +1,259 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3985"
+  },
+  "m_Name": "BulkRewardAnimationConfig",
+  "<BottomTextScaleInTime>k__BackingField": 0.3499999940395355,
+  "<BottomTextScaleInDuration>k__BackingField": 0.33000001311302185,
+  "<BottomTextScaleInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.7688772678375244,
+        "value": 1.119045615196228,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<TopTextScaleOutTime>k__BackingField": 0.10000000149011612,
+  "<TopTextScaleOutDuration>k__BackingField": 0.20000000298023224,
+  "<TopTextScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.07451114058494568,
+        "outSlope": 0.07451114058494568,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0577281191945076
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BotTextScaleOutTime>k__BackingField": 0.0,
+  "<BottomTextScaleOutDuration>k__BackingField": 0.20000000298023224,
+  "<BottomTextScaleOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.4638175666332245,
+        "outSlope": 0.4638175666332245,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.10148975998163223
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BackgroundFadeInTime>k__BackingField": 0.0,
+  "<BackgroundFadeInValue>k__BackingField": 0.8999999761581421,
+  "<BackgroundFadeInDuration>k__BackingField": 0.30000001192092896,
+  "<BackgroundFadeInCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BackgroundFadeOutTime>k__BackingField": 0.0,
+  "<BackgroundFadeOutDuration>k__BackingField": 0.30000001192092896,
+  "<BackgroundFadeOutCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RevealRewardsTime>k__BackingField": 0.10000000149011612,
+  "<RevealDelayConsecutive>k__BackingField": 0.07999999821186066,
+  "<ParticleSpawnDelay>k__BackingField": 0.20000000298023224,
+  "<GatherDelayConsecutive>k__BackingField": 0.20000000298023224,
+  "<GatherRewardsTime>k__BackingField": 0.20000000298023224,
+  "<CoinSpawnDelayConsecutive>k__BackingField": 0.07999999821186066,
+  "<CoinSpawnRandomRange>k__BackingField": {
+    "x": -0.6000000238418579,
+    "y": 0.6000000238418579
+  },
+  "<MinCoinSpawnCount>k__BackingField": 5,
+  "<MaxCoinSpawnCount>k__BackingField": 30,
+  "<RequiredAmountForEachCoin>k__BackingField": 5,
+  "<CongratsTextTime>k__BackingField": 0.0,
+  "<CongratsTextDelayConsecutive>k__BackingField": 0.029999999329447746,
+  "<CongratsTextScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 11.515166282653809,
+        "outSlope": 11.515166282653809,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.04281148314476013
+      },
+      {
+        "time": 0.31514841318130493,
+        "value": 1.5458208322525024,
+        "inSlope": -0.026756564155220985,
+        "outSlope": -0.026756564155220985,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21588195860385895
+      },
+      {
+        "time": 0.7265616059303284,
+        "value": 0.872823178768158,
+        "inSlope": -0.005344866309314966,
+        "outSlope": -0.005344866309314966,
+        "weightedMode": 0,
+        "inWeight": 0.10937260836362839,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.08118277043104172,
+        "outSlope": 0.08118277043104172,
+        "weightedMode": 0,
+        "inWeight": 0.12618495523929596,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CongratsTextScaleDuration>k__BackingField": 0.30000001192092896,
+  "<CoinAmountTextFadeDuration>k__BackingField": 0.5,
+  "<CoinAmountTextFadeInTime>k__BackingField": 0.0,
+  "<CoinAmountTextFadeOutTime>k__BackingField": 1.0,
+  "<CoinAmountTextMoveDuration>k__BackingField": 2.0,
+  "<CoinAmountTextOffset>k__BackingField": {
+    "x": 0.0,
+    "y": 2.0,
+    "z": 0.0
+  },
+  "<CoinAmountTextCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.04027177765965462,
+        "outSlope": 0.04027177765965462,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.1340782195329666
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<CoinAmountTextScaleDuration>k__BackingField": 0.5,
+  "<MinMaxCoinRewardAmount>k__BackingField": {
+    "x": 1000,
+    "y": 50000
+  },
+  "<MinMaxCoinViewAmount>k__BackingField": {
+    "x": 5,
+    "y": 20
+  }
+}

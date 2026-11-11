@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1733"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7130"
+  },
+  "m_Name": "",
+  "_animationConfig": {
+    "m_FileID": 2,
+    "m_PathID": "109397"
+  },
+  "_collectables": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "11426"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10301"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "10850"
+    }
+  ],
+  "_initialTransform": {
+    "m_FileID": 0,
+    "m_PathID": "8281"
+  },
+  "_pathTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "8281"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "5392"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "6686"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "6575"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "6538"
+    }
+  ],
+  "_lobbyIconTransform": {
+    "m_FileID": 0,
+    "m_PathID": "4887"
+  },
+  "_onCurrencyArrivedParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": "9292"
+  }
+}

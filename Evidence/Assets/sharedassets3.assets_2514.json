@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1127"
+  },
+  "m_Name": "TeamLeaderboardViewFactory",
+  "_factoryPrefabs": [
+    {
+      "Id": 0,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "306"
+      },
+      "InitialSize": 0
+    },
+    {
+      "Id": 1,
+      "BoardItemPrefab": {
+        "m_FileID": 0,
+        "m_PathID": "852"
+      },
+      "InitialSize": 0
+    }
+  ]
+}

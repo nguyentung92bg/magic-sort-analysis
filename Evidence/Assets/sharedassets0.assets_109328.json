@@ -1,0 +1,106 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7227"
+  },
+  "m_Name": "BagAnimationConfig",
+  "<TagPunchAngle>k__BackingField": 8.0,
+  "<TagPunchDuration>k__BackingField": 0.6000000238418579,
+  "<TagPunchVibrato>k__BackingField": 6,
+  "<TagPunchElasticity>k__BackingField": 1.2000000476837158,
+  "<BezierDuration>k__BackingField": 0.5,
+  "<BezierMoveTime>k__BackingField": 0.5,
+  "<BezierSpeedCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<AdditionalCeilingOffset>k__BackingField": 2.0,
+  "<AdditionalWidthOffset>k__BackingField": 2.0,
+  "<TrailSpawnDelay>k__BackingField": 1.0,
+  "<TrailSpawnRandomDelay>k__BackingField": 0.15000000596046448,
+  "<TrailSpawnYOffsets>k__BackingField": [
+    {
+      "Height": 4,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 8,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 10,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 11,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 15,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 16,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    },
+    {
+      "Height": 18,
+      "YOffset": {
+        "x": 0.0,
+        "y": 3.8499999046325684,
+        "z": 0.0
+      }
+    }
+  ],
+  "<InputUnlockTime>k__BackingField": 3.0
+}

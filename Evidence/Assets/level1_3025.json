@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "408"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6443"
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "2976"
+  },
+  "_purchaseView": {
+    "m_FileID": 0,
+    "m_PathID": "3079"
+  },
+  "_inventoryView": {
+    "m_FileID": 0,
+    "m_PathID": "3061"
+  },
+  "_currencyType": 19
+}

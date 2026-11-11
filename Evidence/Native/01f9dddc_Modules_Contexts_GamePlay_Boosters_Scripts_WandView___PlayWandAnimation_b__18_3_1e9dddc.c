@@ -1,0 +1,35 @@
+/* IL2CPP: Modules.Contexts.GamePlay.Boosters.Scripts.WandView$$<PlayWandAnimation>b__18_3
+void Modules_Contexts_GamePlay_Boosters_Scripts_WandView___PlayWandAnimation_b__18_3 (Modules_Contexts_GamePlay_Boosters_Scripts_WandView_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: Modules.Contexts.GamePlay.Boosters.Scripts.WandView$$<PlayWandAnimation>b__18_3
+   void Modules_Contexts_GamePlay_Boosters_Scripts_WandView___PlayWandAnimation_b__18_3
+   (Modules_Contexts_GamePlay_Boosters_Scripts_WandView_o* __this, const MethodInfo* method); */
+
+void Modules_Contexts_GamePlay_Boosters_Scripts_WandView___PlayWandAnimation_b__18_3_1e9dddc
+               (long param_1)
+
+{
+  long lVar1;
+  
+  if (*(long *)(param_1 + 0x28) != 0) {
+    UnityEngine_ParticleSystem__Stop_3abc608(*(long *)(param_1 + 0x28),1,1,0);
+    if (*(long *)(param_1 + 0x38) != 0) {
+      UnityEngine_ParticleSystem__Stop_3abc608(*(long *)(param_1 + 0x38),1,1,0);
+      lVar1 = UnityEngine_Component__get_gameObject_408b480(param_1,0);
+      if (lVar1 != 0) {
+        if (pcRam0000000005c3a388 == (code *)0x0) {
+          pcRam0000000005c3a388 = (code *)FUN_012d0d84(&UNK_043edeb4);
+        }
+                    /* WARNING: Could not recover jumptable at 0x0418e358. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+        (*pcRam0000000005c3a388)(lVar1,0);
+        return;
+      }
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

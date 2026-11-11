@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "2752"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1874"
+  },
+  "m_Name": "",
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_remainingDurationText": {
+    "m_FileID": 0,
+    "m_PathID": "12683"
+  },
+  "_currencyType": 16,
+  "_amountImageGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_durationImageGameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_multiplierContainer": {
+    "m_FileID": 0,
+    "m_PathID": "73"
+  },
+  "_multiplierAnimation": {
+    "m_FileID": 0,
+    "m_PathID": "13766"
+  }
+}

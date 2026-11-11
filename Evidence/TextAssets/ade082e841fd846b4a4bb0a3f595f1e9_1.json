@@ -1,0 +1,8 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "FirstLevelToShow": 120,
+  "Stage1RewardsAsCoin": 5000,
+  "Stage2RewardsAsCoin": 7000,
+  "Stage3RewardsAsCoin": 10000
+}

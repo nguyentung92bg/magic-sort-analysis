@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6960"
+  },
+  "m_Name": "MergeMiniGameTutorialAnimationConfig",
+  "BackgroundFadeInValue": 0.8999999761581421,
+  "BackgroundFadeDuration": 0.30000001192092896,
+  "FingerMoveDuration": 2.0,
+  "FingerMoveOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FingerMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.4449875354766846,
+        "outSlope": 3.4449875354766846,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.265976220369339
+      },
+      {
+        "time": 0.6232933402061462,
+        "value": 1.0640238523483276,
+        "inSlope": 0.15645328164100647,
+        "outSlope": 0.15645328164100647,
+        "weightedMode": 3,
+        "inWeight": 0.36675503849983215,
+        "outWeight": 0.30352890491485596
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 3,
+        "inWeight": 0.4710064232349396,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "FingerFadeDuration": 0.20000000298023224
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "205"
+  },
+  "m_Name": "MagicStreakSpriteConfig",
+  "<MagicStreakGaeLockedBackground>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "5149"
+  },
+  "<MagicStreakGaeUnlockedBackground>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3299"
+  },
+  "<MagicStreakGaeLockedRankBackground>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3184"
+  },
+  "<MagicStreakGaeUnlockedRankBackground>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "3754"
+  },
+  "<MagicStreakGaeUnlockedTip>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "1915"
+  },
+  "<MagicStreakGaeLockedTip>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": "4112"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "scope": "Reconstructed from local native pseudo-C + dump.cs; fallback inputs only, no account runtime state.",
+  "effectiveRetry": "max(0, GetRetryCount() - GetSnitchRetryCount())",
+  "countersReadBeforeIncrement": true,
+  "tutorial": {
+    "runtimeLevel": 1,
+    "seeds": "all, sequential",
+    "nextLevel": 5
+  },
+  "regularLookup": "regular[level - 1]",
+  "loopLookup": "loop[(level - regular.Count - 1) % loop.Count]",
+  "cachedListBranch": "level % 10 in {4,9}, LevelSeedCacheData non-null, selected seed available in persistent or Resources",
+  "configPrecedence": [
+    "valid ForceSeedIndex",
+    "Snitch active + nonempty slSeed",
+    "dlbSeeds nonempty and effectiveRetry >= dlbCap",
+    "seeds"
+  ],
+  "dlbIndex": "effectiveRetry - dlbCap",
+  "normalIndex": "effectiveRetry",
+  "overflow": "Copy active list, remove first occurrence of LastSelectedSeedId; retain original if removal empties list. index=Random.Range(0,100)%candidateCount.",
+  "daily": "Random.Range(0,100)%seeds.Count",
+  "sources": [
+    {
+      "address": "01f8e524",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetSeedIdFromConfig",
+      "file": "Evidence/Native/01f8e524_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetSeedIdFromConfig_1e8e524.c"
+    },
+    {
+      "address": "01f8da80",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetSeedIdFromConfig",
+      "file": "Evidence/Native/01f8da80_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetSeedIdFromConfig_1e8da80.c"
+    },
+    {
+      "address": "01f8e3b4",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$TryGetCachedSeed",
+      "file": "Evidence/Native/01f8e3b4_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__TryGetCachedSeed_1e8e3b4.c"
+    },
+    {
+      "address": "01f8e114",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetRegularLevelAndLevelConfigModelInternal",
+      "file": "Evidence/Native/01f8e114_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetRegularLevelAndLevelConfigModelInternal_1e8e114.c"
+    },
+    {
+      "address": "01f8d598",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetLevelAndLevelConfigModelWhenCheatNotEnabled",
+      "file": "Evidence/Native/01f8d598_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetLevelAndLevelConfigModelWhenCheatNotEnabled_1e8d598.c"
+    },
+    {
+      "address": "01f8db18",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetTutorialLevelAndLevelConfigModel",
+      "file": "Evidence/Native/01f8db18_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetTutorialLevelAndLevelConfigModel_1e8db18.c"
+    },
+    {
+      "address": "01f8da0c",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetLevelConfigModel",
+      "file": "Evidence/Native/01f8da0c_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetLevelConfigModel_1e8da0c.c"
+    },
+    {
+      "address": "01f8e938",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetLoopLevelConfigModel",
+      "file": "Evidence/Native/01f8e938_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetLoopLevelConfigModel_1e8e938.c"
+    },
+    {
+      "address": "01f8ef54",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.LevelModelService.LevelModelService$$GetDailySeedIdFromConfig",
+      "file": "Evidence/Native/01f8ef54_Modules_Contexts_GamePlay_Levels_Scripts_LevelModelService_LevelModelService__GetDailySeedIdFromConfig_1e8ef54.c"
+    },
+    {
+      "address": "0201e294",
+      "method": "Modules.Contexts.GamePlay.Levels.Scripts.RegularLevels.RegularLevelManager$$StartLevel",
+      "file": "Evidence/Native/0201e294_Modules_Contexts_GamePlay_Levels_Scripts_RegularLevels_RegularLevelManager__StartLevel_1f1e294.c"
+    },
+    {
+      "address": "03dee384",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$IncreaseLevel",
+      "file": "Evidence/Native/03dee384_Modules_Contexts_Application_Player_Scripts_PlayerService__IncreaseLevel_3cee384.c"
+    },
+    {
+      "address": "03dee3cc",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$IncreaseRetryCount",
+      "file": "Evidence/Native/03dee3cc_Modules_Contexts_Application_Player_Scripts_PlayerService__IncreaseRetryCount_3cee3cc.c"
+    },
+    {
+      "address": "03dee3f8",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$GetRetryCount",
+      "file": "Evidence/Native/03dee3f8_Modules_Contexts_Application_Player_Scripts_PlayerService__GetRetryCount_3cee3f8.c"
+    },
+    {
+      "address": "03deed40",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$GetSnitchRetryCount",
+      "file": "Evidence/Native/03deed40_Modules_Contexts_Application_Player_Scripts_PlayerService__GetSnitchRetryCount_3ceed40.c"
+    },
+    {
+      "address": "03deed5c",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$IncreaseSnitchRetryCount",
+      "file": "Evidence/Native/03deed5c_Modules_Contexts_Application_Player_Scripts_PlayerService__IncreaseSnitchRetryCount_3ceed5c.c"
+    },
+    {
+      "address": "03dee2f4",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$SaveLastSelectedSeedId",
+      "file": "Evidence/Native/03dee2f4_Modules_Contexts_Application_Player_Scripts_PlayerService__SaveLastSelectedSeedId_3cee2f4.c"
+    },
+    {
+      "address": "03dee33c",
+      "method": "Modules.Contexts.Application.Player.Scripts.PlayerService$$CacheLevelSeeds",
+      "file": "Evidence/Native/03dee33c_Modules_Contexts_Application_Player_Scripts_PlayerService__CacheLevelSeeds_3cee33c.c"
+    }
+  ],
+  "interfaceSlots": {
+    "4": "IncreaseRetryCount",
+    "9": "GetRetryCount",
+    "26": "SaveLastSelectedSeedId",
+    "27": "GetLastSelectedSeedId",
+    "29": "GetLevelSeedCache",
+    "47": "GetSnitchRetryCount",
+    "48": "IncreaseSnitchRetryCount"
+  },
+  "limitations": [
+    "Remote lists and cached player lists may differ from APK fallback.",
+    "Ghidra automatic analysis timed out at 1800 seconds.",
+    "No live gameplay validation."
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "IsEnabled": false,
+  "TournamentType": 1,
+  "FirstLevelToShow": 45,
+  "NormalScore": 1,
+  "HardScore": 3,
+  "SuperHardScore": 5,
+  "MinimumUserToJoinEvent": 10,
+  "StepsWithCollection": [
+    {
+      "RequiredProgress": 10,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:15:00"
+      }
+    },
+    {
+      "RequiredProgress": 15,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 2
+      }
+    },
+    {
+      "RequiredProgress": 20,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 25,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "RequiredProgress": 30,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "RequiredProgress": 35,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 3
+      }
+    },
+    {
+      "RequiredProgress": 40,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 50,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "RequiredProgress": 70,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 100,
+      "RewardModel": {
+        "CurrencyType": 14,
+        "Amount": 1,
+        "CollectionPackType": 4
+      }
+    }
+  ],
+  "Steps": [
+    {
+      "RequiredProgress": 10,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:15:00"
+      }
+    },
+    {
+      "RequiredProgress": 15,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 20,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 25,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 100
+      }
+    },
+    {
+      "RequiredProgress": 30,
+      "RewardModel": {
+        "CurrencyType": 2,
+        "TimeSpan": "00:30:00"
+      }
+    },
+    {
+      "RequiredProgress": 35,
+      "RewardModel": {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 40,
+      "RewardModel": {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 50,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 200
+      }
+    },
+    {
+      "RequiredProgress": 70,
+      "RewardModel": {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    },
+    {
+      "RequiredProgress": 100,
+      "RewardModel": {
+        "CurrencyType": 1,
+        "Amount": 250
+      }
+    }
+  ],
+  "LeaderboardRewards": [
+    {
+      "CurrencyType": 6,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 5,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    }
+  ],
+  "LeaderboardRewardsWithCollection": [
+    {
+      "CurrencyType": 14,
+      "Amount": 1,
+      "CollectionPackType": 3
+    },
+    {
+      "CurrencyType": 14,
+      "Amount": 1,
+      "CollectionPackType": 2
+    },
+    {
+      "CurrencyType": 14,
+      "Amount": 1,
+      "CollectionPackType": 1
+    }
+  ],
+  "TeamLeaderboardRewards": [
+    {
+      "CurrencyType": 1,
+      "Amount": 2000
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 1000
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    }
+  ],
+  "TeamLeaderboardRewardsWithCollection": [
+    {
+      "CurrencyType": 1,
+      "Amount": 2000
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 1000
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+[
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 1,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily34_difficulty4-5",
+      "daily_daily34_difficulty4-4",
+      "daily_daily34_difficulty4-3",
+      "daily_daily34_difficulty4-2",
+      "daily_daily34_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 2,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily81_difficulty1-5",
+      "daily_daily81_difficulty1-4",
+      "daily_daily81_difficulty1-3",
+      "daily_daily81_difficulty1-2",
+      "daily_daily81_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 3,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily105_difficulty4-5",
+      "daily_daily105_difficulty4-4",
+      "daily_daily105_difficulty4-3",
+      "daily_daily105_difficulty4-2",
+      "daily_daily105_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 4,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily75_difficulty1-5",
+      "daily_daily75_difficulty1-4",
+      "daily_daily75_difficulty1-3",
+      "daily_daily75_difficulty1-2",
+      "daily_daily75_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 5,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily27_difficulty2-5",
+      "daily_daily27_difficulty2-4",
+      "daily_daily27_difficulty2-3",
+      "daily_daily27_difficulty2-2",
+      "daily_daily27_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 6,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily36_difficulty4-5",
+      "daily_daily36_difficulty5-4",
+      "daily_daily36_difficulty5-3",
+      "daily_daily36_difficulty5-2",
+      "daily_daily36_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 7,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily110_difficulty4-5",
+      "daily_daily110_difficulty4-4",
+      "daily_daily110_difficulty4-3",
+      "daily_daily110_difficulty4-2",
+      "daily_daily110_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 8,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily3_difficulty2-15",
+      "daily_daily3_difficulty2-14",
+      "daily_daily3_difficulty1-13",
+      "daily_daily3_difficulty3-12",
+      "daily_daily3_difficulty3-11"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 9,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily15_difficulty1-10",
+      "daily_daily15_difficulty1-9",
+      "daily_daily15_difficulty1-8",
+      "daily_daily15_difficulty1-7",
+      "daily_daily15_difficulty1-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 10,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily86_difficulty5-5",
+      "daily_daily86_difficulty5-4",
+      "daily_daily86_difficulty5-3",
+      "daily_daily86_difficulty5-2",
+      "daily_daily86_difficulty5-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 11,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily113_difficulty4-5",
+      "daily_daily113_difficulty4-4",
+      "daily_daily113_difficulty4-3",
+      "daily_daily113_difficulty4-2",
+      "daily_daily113_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 12,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily73_difficulty1-5",
+      "daily_daily73_difficulty1-4",
+      "daily_daily73_difficulty1-3",
+      "daily_daily73_difficulty1-2",
+      "daily_daily73_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 13,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily107_difficulty4-5",
+      "daily_daily107_difficulty4-4",
+      "daily_daily107_difficulty4-3",
+      "daily_daily107_difficulty4-2",
+      "daily_daily107_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 14,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily19_difficulty1-10",
+      "daily_daily19_difficulty1-9",
+      "daily_daily19_difficulty1-8",
+      "daily_daily19_difficulty1-7",
+      "daily_daily19_difficulty1-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 15,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily41_difficulty3-5",
+      "daily_daily41_difficulty1-4",
+      "daily_daily41_difficulty1-3",
+      "daily_daily41_difficulty1-2",
+      "daily_daily41_difficulty2-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 16,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily39_difficulty2-5",
+      "daily_daily39_difficulty2-4",
+      "daily_daily39_difficulty2-3",
+      "daily_daily39_difficulty1-2",
+      "daily_daily39_difficulty2-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 17,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily79_difficulty1-5",
+      "daily_daily79_difficulty1-4",
+      "daily_daily79_difficulty1-3",
+      "daily_daily79_difficulty1-2",
+      "daily_daily79_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 18,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily70_difficulty1-5",
+      "daily_daily70_difficulty1-4",
+      "daily_daily70_difficulty1-3",
+      "daily_daily70_difficulty1-2",
+      "daily_daily70_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 19,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily60_difficulty1-5",
+      "daily_daily60_difficulty1-4",
+      "daily_daily60_difficulty1-3",
+      "daily_daily60_difficulty1-2",
+      "daily_daily60_difficulty1-1"
+    ],
+    "emptyBottleCount": 3,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 20,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily91_difficulty5-5",
+      "daily_daily91_difficulty5-4",
+      "daily_daily91_difficulty5-3",
+      "daily_daily91_difficulty5-2",
+      "daily_daily91_difficulty5-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 21,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily54_difficulty1-5",
+      "daily_daily54_difficulty1-4",
+      "daily_daily54_difficulty1-3",
+      "daily_daily54_difficulty1-2",
+      "daily_daily54_difficulty1-1"
+    ],
+    "emptyBottleCount": 3,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 22,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily12_difficulty5-10",
+      "daily_daily12_difficulty5-9",
+      "daily_daily12_difficulty5-8",
+      "daily_daily12_difficulty5-7",
+      "daily_daily12_difficulty5-6"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 23,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily10_difficulty5-10",
+      "daily_daily10_difficulty5-9",
+      "daily_daily10_difficulty5-8",
+      "daily_daily10_difficulty5-7",
+      "daily_daily10_difficulty5-6"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 24,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily64_difficulty1-5",
+      "daily_daily64_difficulty1-4",
+      "daily_daily64_difficulty1-3",
+      "daily_daily64_difficulty1-2",
+      "daily_daily64_difficulty1-1"
+    ],
+    "emptyBottleCount": 3,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 25,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily38_difficulty4-5",
+      "daily_daily38_difficulty5-4",
+      "daily_daily38_difficulty5-3",
+      "daily_daily38_difficulty5-2",
+      "daily_daily38_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 26,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily37_difficulty2-5",
+      "daily_daily37_difficulty2-4",
+      "daily_daily37_difficulty2-3",
+      "daily_daily37_difficulty2-2",
+      "daily_daily37_difficulty2-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 27,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily9_difficulty4-10",
+      "daily_daily9_difficulty4-9",
+      "daily_daily9_difficulty4-8",
+      "daily_daily9_difficulty4-7",
+      "daily_daily9_difficulty4-6"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 28,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily82_difficulty1-5",
+      "daily_daily82_difficulty1-4",
+      "daily_daily82_difficulty1-3",
+      "daily_daily82_difficulty1-2",
+      "daily_daily82_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 29,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily112_difficulty4-5",
+      "daily_daily112_difficulty4-4",
+      "daily_daily112_difficulty4-3",
+      "daily_daily112_difficulty4-2",
+      "daily_daily112_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 30,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily26_difficulty4-5",
+      "daily_daily26_difficulty4-4",
+      "daily_daily26_difficulty4-3",
+      "daily_daily26_difficulty5-2",
+      "daily_daily26_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "currentMonthDailyLevels",
+    "dayIndex": 31,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily46_difficulty4-5",
+      "daily_daily46_difficulty4-4",
+      "daily_daily46_difficulty4-3",
+      "daily_daily46_difficulty5-2",
+      "daily_daily46_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 1,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily108_difficulty4-5",
+      "daily_daily108_difficulty4-4",
+      "daily_daily108_difficulty4-3",
+      "daily_daily108_difficulty4-2",
+      "daily_daily108_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 2,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily44_difficulty4-5",
+      "daily_daily44_difficulty5-4",
+      "daily_daily44_difficulty4-3",
+      "daily_daily44_difficulty5-2",
+      "daily_daily44_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 3,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily95_difficulty5-5",
+      "daily_daily95_difficulty5-4",
+      "daily_daily95_difficulty5-3",
+      "daily_daily95_difficulty5-2",
+      "daily_daily95_difficulty5-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 4,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily50_difficulty5-5",
+      "daily_daily50_difficulty4-4",
+      "daily_daily50_difficulty4-3",
+      "daily_daily50_difficulty4-2",
+      "daily_daily50_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 5,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily93_difficulty5-5",
+      "daily_daily93_difficulty5-4",
+      "daily_daily93_difficulty5-3",
+      "daily_daily93_difficulty5-2",
+      "daily_daily93_difficulty5-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 6,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily13_difficulty1-15",
+      "daily_daily13_difficulty1-14",
+      "daily_daily13_difficulty1-13",
+      "daily_daily13_difficulty1-12",
+      "daily_daily13_difficulty1-11"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 7,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily21_difficulty2-10",
+      "daily_daily21_difficulty1-9",
+      "daily_daily21_difficulty1-8",
+      "daily_daily21_difficulty3-7",
+      "daily_daily21_difficulty2-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 8,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily42_difficulty5-5",
+      "daily_daily42_difficulty4-4",
+      "daily_daily42_difficulty5-3",
+      "daily_daily42_difficulty4-2",
+      "daily_daily42_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 9,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily94_difficulty5-5",
+      "daily_daily94_difficulty5-4",
+      "daily_daily94_difficulty5-3",
+      "daily_daily94_difficulty5-2",
+      "daily_daily94_difficulty5-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 10,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily32_difficulty5-5",
+      "daily_daily32_difficulty4-4",
+      "daily_daily32_difficulty4-3",
+      "daily_daily32_difficulty4-2",
+      "daily_daily32_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 11,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily111_difficulty4-5",
+      "daily_daily111_difficulty4-4",
+      "daily_daily111_difficulty4-3",
+      "daily_daily111_difficulty4-2",
+      "daily_daily111_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 12,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily22_difficulty5-5",
+      "daily_daily22_difficulty4-4",
+      "daily_daily22_difficulty4-3",
+      "daily_daily22_difficulty5-2",
+      "daily_daily22_difficulty5-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 13,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily6_difficulty5-10",
+      "daily_daily6_difficulty5-9",
+      "daily_daily6_difficulty5-8",
+      "daily_daily6_difficulty5-7",
+      "daily_daily6_difficulty5-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 14,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily23_difficulty3-5",
+      "daily_daily23_difficulty2-4",
+      "daily_daily23_difficulty2-3",
+      "daily_daily23_difficulty2-2",
+      "daily_daily23_difficulty2-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 15,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily102_difficulty4-5",
+      "daily_daily102_difficulty4-4",
+      "daily_daily102_difficulty4-3",
+      "daily_daily102_difficulty4-2",
+      "daily_daily102_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 16,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily29_difficulty2-5",
+      "daily_daily29_difficulty2-4",
+      "daily_daily29_difficulty2-3",
+      "daily_daily29_difficulty1-2",
+      "daily_daily29_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 17,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily4_difficulty5-10",
+      "daily_daily4_difficulty5-9",
+      "daily_daily4_difficulty5-8",
+      "daily_daily4_difficulty5-7",
+      "daily_daily4_difficulty5-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 18,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily40_difficulty4-5",
+      "daily_daily40_difficulty4-4",
+      "daily_daily40_difficulty4-3",
+      "daily_daily40_difficulty4-2",
+      "daily_daily40_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 19,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily24_difficulty4-5",
+      "daily_daily24_difficulty4-4",
+      "daily_daily24_difficulty5-3",
+      "daily_daily24_difficulty4-2",
+      "daily_daily24_difficulty4-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 20,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily49_difficulty2-5",
+      "daily_daily49_difficulty1-4",
+      "daily_daily49_difficulty2-3",
+      "daily_daily49_difficulty2-2",
+      "daily_daily49_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 21,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily78_difficulty1-5",
+      "daily_daily78_difficulty1-4",
+      "daily_daily78_difficulty1-3",
+      "daily_daily78_difficulty1-2",
+      "daily_daily78_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 22,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily77_difficulty1-5",
+      "daily_daily77_difficulty1-4",
+      "daily_daily77_difficulty1-3",
+      "daily_daily77_difficulty1-2",
+      "daily_daily77_difficulty1-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 23,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily31_difficulty2-5",
+      "daily_daily31_difficulty2-4",
+      "daily_daily31_difficulty2-3",
+      "daily_daily31_difficulty1-2",
+      "daily_daily31_difficulty3-1"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 24,
+    "levelDuration": 130,
+    "seeds": [
+      "daily_daily20_difficulty5-10",
+      "daily_daily20_difficulty4-9",
+      "daily_daily20_difficulty4-8",
+      "daily_daily20_difficulty4-7",
+      "daily_daily20_difficulty4-6"
+    ],
+    "emptyBottleCount": 2,
+    "filledBottleCount": 5
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 25,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily17_difficulty1-10",
+      "daily_daily17_difficulty1-9",
+      "daily_daily17_difficulty1-8",
+      "daily_daily17_difficulty1-7",
+      "daily_daily17_difficulty1-6"
+    ],
+    "emptyBottleCount": 3,
+    "filledBottleCount": 4
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 26,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily114_difficulty4-5",
+      "daily_daily114_difficulty4-4",
+      "daily_daily114_difficulty4-3",
+      "daily_daily114_difficulty4-2",
+      "daily_daily114_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 27,
+    "levelDuration": 105,
+    "seeds": [
+      "daily_daily109_difficulty4-5",
+      "daily_daily109_difficulty4-4",
+      "daily_daily109_difficulty4-3",
+      "daily_daily109_difficulty4-2",
+      "daily_daily109_difficulty4-1"
+    ],
+    "emptyBottleCount": 1,
+    "filledBottleCount": 3
+  },
+  {
+    "period": "previousMonthDailyLevels",
+    "dayIndex": 28,
+    "levelDuration": 120,
+    "seeds": [
+      "daily_daily63_difficulty1-5",
+      "daily_daily63_difficulty1-4",
+      "daily_daily63_difficulty1-3",
+      "daily_daily63_difficulty1-2",
+      "daily_daily63_difficulty1-1"
+    ],
+    "emptyBottleCount": 3,
+    "filledBottleCount": 4
+  }
+]

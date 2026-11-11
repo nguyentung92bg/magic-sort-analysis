@@ -1,0 +1,31 @@
+/* IL2CPP: magicsort.schemas.v1.config.ads.GetAdConfigResponse$$GetRootAsGetAdConfigResponse
+magicsort_schemas_v1_config_ads_GetAdConfigResponse_o magicsort_schemas_v1_config_ads_GetAdConfigResponse__GetRootAsGetAdConfigResponse (Google_FlatBuffers_ByteBuffer_o* _bb, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: magicsort.schemas.v1.config.ads.GetAdConfigResponse$$GetRootAsGetAdConfigResponse
+   magicsort_schemas_v1_config_ads_GetAdConfigResponse_o
+   magicsort_schemas_v1_config_ads_GetAdConfigResponse__GetRootAsGetAdConfigResponse
+   (Google_FlatBuffers_ByteBuffer_o* _bb, const MethodInfo* method); */
+
+void magicsort_schemas_v1_config_ads_GetAdConfigResponse__GetRootAsGetAdConfigResponse_1601198
+               (long param_1)
+
+{
+  int iVar1;
+  undefined8 uStack_20;
+  undefined8 uStack_18;
+  
+  uStack_20 = 0;
+  uStack_18 = 0;
+  if (param_1 != 0) {
+    iVar1 = Google_FlatBuffers_ByteBuffer__GetInt_3135834(param_1,*(undefined4 *)(param_1 + 0x18),0)
+    ;
+    magicsort_schemas_v1_config_ads_GetAdConfigResponse____assign_16011e8
+              (&uStack_20,*(int *)(param_1 + 0x18) + iVar1,param_1);
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_012d0ef0();
+}
+

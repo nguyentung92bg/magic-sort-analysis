@@ -1,0 +1,20 @@
+/* IL2CPP: Modules.Contexts.Application.Inventory.Scripts.UI.BulkRewardAnimationConfig$$get_BackgroundFadeInTime
+float Modules_Contexts_Application_Inventory_Scripts_UI_BulkRewardAnimationConfig__get_BackgroundFadeInTime (Modules_Contexts_Application_Inventory_Scripts_UI_BulkRewardAnimationConfig_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.Application.Inventory.Scripts.UI.BulkRewardAnimationConfig$$get_BackgroundFadeInTime
+   float 
+   Modules_Contexts_Application_Inventory_Scripts_UI_BulkRewardAnimationConfig__get_BackgroundFadeInTime
+   (Modules_Contexts_Application_Inventory_Scripts_UI_BulkRewardAnimationConfig_o* __this, const
+   MethodInfo* method); */
+
+undefined4
+Modules_Contexts_Application_Inventory_Scripts_UI_BulkRewardAnimationConfig__get_BackgroundFadeInTime_13804dc
+          (long param_1)
+
+{
+  return *(undefined4 *)(param_1 + 0x48);
+}
+

@@ -1,0 +1,16 @@
+{
+  "IsEnabled": false,
+  "Type": 2,
+  "FirstLevelToShow": 5,
+  "TargetLevelProgress": 0,
+  "ChargeWithMove": false,
+  "CanIncreaseHealth": false,
+  "ShouldHaveInitialCharge": false,
+  "ChargeMatchCount": [
+    1
+  ],
+  "BestSortMaxEffectedBottleCap": 4,
+  "BestSortBottleCapByCandidateCount": {
+    "7": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "isEnabled": false,
+  "eventType": 1,
+  "firstLevelToShow": 20,
+  "probabilityModel": {
+    "undo": 15,
+    "shuffle": 15,
+    "extraBottle": 10,
+    "coin": 20,
+    "life": 40,
+    "coinProbabilities": {
+      "coin100": 40,
+      "coin200": 40,
+      "coin300": 20
+    },
+    "unlimitedLifeProbabilities": {
+      "life15Min": 30,
+      "life30Min": 50,
+      "life60min": 20
+    }
+  }
+}

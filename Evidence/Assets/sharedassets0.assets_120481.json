@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "34855"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5501"
+  },
+  "m_Name": "",
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": "114795"
+  },
+  "_payInAppButton": {
+    "m_FileID": 0,
+    "m_PathID": "113105"
+  },
+  "_payOnWebButton": {
+    "m_FileID": 0,
+    "m_PathID": "120337"
+  },
+  "_iapPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "111957"
+  },
+  "_oldPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "111736"
+  },
+  "_webShopPriceView": {
+    "m_FileID": 0,
+    "m_PathID": "112536"
+  },
+  "_discountView": {
+    "m_FileID": 0,
+    "m_PathID": "118247"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "120503"
+  },
+  "_popupAnimationController": {
+    "m_FileID": 0,
+    "m_PathID": "121791"
+  }
+}

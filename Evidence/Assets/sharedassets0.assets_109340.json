@@ -1,0 +1,387 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3004"
+  },
+  "m_Name": "WoodBoxAnimationConfig",
+  "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+  "<AnimationLockRemoveTime>k__BackingField": 0.699999988079071,
+  "<WoodBoxBottleAnimationTime>k__BackingField": 0.05999999865889549,
+  "<BottleScaleDuration>k__BackingField": 0.5,
+  "<BottleScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 4.870068550109863,
+        "outSlope": 4.870068550109863,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.05788632109761238
+      },
+      {
+        "time": 0.38637271523475647,
+        "value": 0.6983623504638672,
+        "inSlope": -0.0034442711621522903,
+        "outSlope": -0.0034442711621522903,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.09333452582359314
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottleStartScale>k__BackingField": {
+    "x": 0.699999988079071,
+    "y": 0.699999988079071,
+    "z": 0.699999988079071
+  },
+  "<BottlePunchRotationTarget>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.8999999761581421
+  },
+  "<BottlePunchRotationDuration>k__BackingField": 1.0,
+  "<BottlePunchRotationVibrato>k__BackingField": 10,
+  "<BottlePunchRotationElasticity>k__BackingField": 4.0,
+  "<DoorTargetXScale>k__BackingField": 0.0,
+  "<DoorScaleDuration>k__BackingField": 0.6000000238418579,
+  "<DoorScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<WoodBoxBreakTime>k__BackingField": 0.6000000238418579,
+  "<WoodBoxBottomPivotAnimationTime>k__BackingField": 0.0,
+  "<BottomPivotTargetRotation>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.20000000298023224
+  },
+  "<BottomPivotRotationDuration>k__BackingField": 0.6000000238418579,
+  "<BottomPivotRotationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 20.501352310180664,
+        "outSlope": 20.501352310180664,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.1386784017086029
+      },
+      {
+        "time": 0.2319946587085724,
+        "value": 8.218413352966309,
+        "inSlope": -1.2620586156845093,
+        "outSlope": -1.2620586156845093,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2679917514324188
+      },
+      {
+        "time": 0.5897982120513916,
+        "value": -3.695904016494751,
+        "inSlope": -12.144261360168457,
+        "outSlope": -12.144261360168457,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.21716520190238953,
+        "outSlope": -0.21716520190238953,
+        "weightedMode": 0,
+        "inWeight": 0.4489678740501404,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottomPivotTargetScale>k__BackingField": {
+    "x": 1.100000023841858,
+    "y": 1.100000023841858,
+    "z": 1.0
+  },
+  "<BottomPivotScaleDuration>k__BackingField": 0.6000000238418579,
+  "<BottomPivotScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.75545334815979,
+        "outSlope": 2.75545334815979,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.15010271966457367
+      },
+      {
+        "time": 0.23782017827033997,
+        "value": 0.3005490303039551,
+        "inSlope": 0.3493214249610901,
+        "outSlope": 0.3493214249610901,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.5762379169464111,
+        "value": 0.10930135846138,
+        "inSlope": -1.4952541589736938,
+        "outSlope": 1.515153408050537,
+        "weightedMode": 0,
+        "inWeight": 0.12340772897005081,
+        "outWeight": 0.0923018753528595
+      },
+      {
+        "time": 1.0,
+        "value": 1.149999976158142,
+        "inSlope": 2.8576557636260986,
+        "outSlope": 2.8576557636260986,
+        "weightedMode": 0,
+        "inWeight": 0.10899776220321655,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottomPivotTargetYPosition>k__BackingField": 0.0,
+  "<BottomPivotMoveDuration>k__BackingField": 0.6000000238418579,
+  "<BottomPivotMoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.39873114228248596,
+        "outSlope": 0.39873114228248596,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.09260718524456024
+      },
+      {
+        "time": 0.24064043164253235,
+        "value": 0.06071862578392029,
+        "inSlope": -0.03186690807342529,
+        "outSlope": -0.03186690807342529,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.2800537347793579
+      },
+      {
+        "time": 0.4873315393924713,
+        "value": -0.03749893978238106,
+        "inSlope": -0.5036602020263672,
+        "outSlope": 0.264145165681839,
+        "weightedMode": 0,
+        "inWeight": 0.08242975920438766,
+        "outWeight": 0.07533672451972961
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.022844573482871056,
+        "outSlope": -0.022844573482871056,
+        "weightedMode": 0,
+        "inWeight": 0.14482377469539642,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<RandomOffsetTimeBetweenBottles>k__BackingField": 0.04500000178813934,
+  "<BottleWaterShakeDelay>k__BackingField": 0.11999999731779099,
+  "<BackgroundFadeTime>k__BackingField": 0.25,
+  "<BackgroundFadeDuration>k__BackingField": 0.25,
+  "<BottleYMoveTarget>k__BackingField": 3.0,
+  "<BottleYMoveDuration>k__BackingField": 0.5,
+  "<BottleMoveYCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.42032188177108765,
+        "outSlope": 0.42032188177108765,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06523840874433517
+      },
+      {
+        "time": 0.2697232961654663,
+        "value": 0.07294625043869019,
+        "inSlope": 0.006685265339910984,
+        "outSlope": 0.006685265339910984,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.23525367677211761
+      },
+      {
+        "time": 0.49503135681152344,
+        "value": 0.0004182907287031412,
+        "inSlope": -0.5586339235305786,
+        "outSlope": 0.26921069622039795,
+        "weightedMode": 0,
+        "inWeight": 0.04639199748635292,
+        "outWeight": 0.0876411721110344
+      },
+      {
+        "time": 0.7425293326377869,
+        "value": 0.031134353950619698,
+        "inSlope": -0.007172961253672838,
+        "outSlope": -0.007172961253672838,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 0.0,
+        "inSlope": -0.2810027301311493,
+        "outSlope": -0.2810027301311493,
+        "weightedMode": 0,
+        "inWeight": 0.18485766649246216,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<WoodBoxHideTime>k__BackingField": 3.5,
+  "<WoodBoxConfigs>k__BackingField": [
+    {
+      "<DoorScaleDuration>k__BackingField": 0.4000000059604645,
+      "<WoodBoxBreakTime>k__BackingField": 0.4000000059604645,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.3499999940395355,
+      "<BottleAnimationsStartTime>k__BackingField": 0.07999999821186066,
+      "<AnimationLockRemoveTime>k__BackingField": 0.699999988079071,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.4000000059604645,
+      "<DoorSize>k__BackingField": 0.5
+    },
+    {
+      "<DoorScaleDuration>k__BackingField": 0.5,
+      "<WoodBoxBreakTime>k__BackingField": 0.5,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.44999998807907104,
+      "<BottleAnimationsStartTime>k__BackingField": 0.10000000149011612,
+      "<AnimationLockRemoveTime>k__BackingField": 0.800000011920929,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.5,
+      "<DoorSize>k__BackingField": 1.100000023841858
+    },
+    {
+      "<DoorScaleDuration>k__BackingField": 0.6000000238418579,
+      "<WoodBoxBreakTime>k__BackingField": 0.6000000238418579,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.550000011920929,
+      "<BottleAnimationsStartTime>k__BackingField": 0.10999999940395355,
+      "<AnimationLockRemoveTime>k__BackingField": 0.8999999761581421,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.6000000238418579,
+      "<DoorSize>k__BackingField": 2.0
+    },
+    {
+      "<DoorScaleDuration>k__BackingField": 0.6700000166893005,
+      "<WoodBoxBreakTime>k__BackingField": 0.6700000166893005,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.6200000047683716,
+      "<BottleAnimationsStartTime>k__BackingField": 0.07999999821186066,
+      "<AnimationLockRemoveTime>k__BackingField": 1.0,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.6700000166893005,
+      "<DoorSize>k__BackingField": 2.5
+    },
+    {
+      "<DoorScaleDuration>k__BackingField": 0.7200000286102295,
+      "<WoodBoxBreakTime>k__BackingField": 0.7200000286102295,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.6700000166893005,
+      "<BottleAnimationsStartTime>k__BackingField": 0.0,
+      "<AnimationLockRemoveTime>k__BackingField": 1.100000023841858,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.7200000286102295,
+      "<DoorSize>k__BackingField": 3.299999952316284
+    },
+    {
+      "<DoorScaleDuration>k__BackingField": 0.800000011920929,
+      "<WoodBoxBreakTime>k__BackingField": 0.800000011920929,
+      "<WoodBoxDoorOpenedTime>k__BackingField": 0.75,
+      "<BottleAnimationsStartTime>k__BackingField": 0.11999999731779099,
+      "<AnimationLockRemoveTime>k__BackingField": 1.2000000476837158,
+      "<WoodBoxRevealTime>k__BackingField": 1.2000000476837158,
+      "<BottomPivotDuration>k__BackingField": 0.800000011920929,
+      "<DoorSize>k__BackingField": 4.0
+    }
+  ],
+  "<WoodBoxRevealAnimationForBlockers>k__BackingField": [
+    {
+      "ItemType": 8,
+      "<ItemScaleDuration>k__BackingField": 0.17000000178813934,
+      "<ItemScaleCurve>k__BackingField": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 2.0,
+            "outSlope": 2.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 0
+      }
+    }
+  ]
+}

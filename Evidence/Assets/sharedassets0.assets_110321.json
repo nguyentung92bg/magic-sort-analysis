@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "26880"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4189"
+  },
+  "m_Name": "",
+  "_bundleId": "strike_show_bundle",
+  "_references": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "110528"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113495"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "118828"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119522"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119545"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110656"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114956"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "120976"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "112587"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "113808"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119653"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "110711"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "123127"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "119377"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114440"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "114766"
+    }
+  ],
+  "_spineReferences": [],
+  "_particleReferences": [],
+  "_externalReferenceGroups": []
+}

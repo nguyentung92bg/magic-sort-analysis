@@ -1,0 +1,18 @@
+{
+  "IsEnabled": false,
+  "EventType": 1,
+  "DailyPopupShowLimit": 7,
+  "SessionPopupShowLimit": 3,
+  "PopupIntervalAsAdCount": 2,
+  "IAPConfigModel": {
+    "ProductId": "sort.noadsoffer",
+    "ProductType": 0,
+    "DollarEquivalent": 7.99
+  },
+  "RewardModels": [
+    {
+      "CurrencyType": 7,
+      "Amount": 1
+    }
+  ]
+}

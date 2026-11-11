@@ -1,0 +1,75 @@
+/* IL2CPP: Modules.Contexts.Home.MagicStreakTournament.Scripts.Commands.TryShowMagicStreakLeaderboardHomeWelcomingCommand$$ExecuteAsync
+System_Threading_Tasks_Task_o* Modules_Contexts_Home_MagicStreakTournament_Scripts_Commands_TryShowMagicStreakLeaderboardHomeWelcomingCommand__ExecuteAsync (Modules_Contexts_Home_MagicStreakTournament_Scripts_Commands_TryShowMagicStreakLeaderboardHomeWelcomingCommand_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP:
+   Modules.Contexts.Home.MagicStreakTournament.Scripts.Commands.TryShowMagicStreakLeaderboardHomeWelcomingCommand$$ExecuteAsync
+   System_Threading_Tasks_Task_o*
+   Modules_Contexts_Home_MagicStreakTournament_Scripts_Commands_TryShowMagicStreakLeaderboardHomeWelcomingCommand__ExecuteAsync
+   (Modules_Contexts_Home_MagicStreakTournament_Scripts_Commands_TryShowMagicStreakLeaderboardHomeWelcomingCommand_o*
+   __this, const MethodInfo* method); */
+
+void Modules_Contexts_Home_MagicStreakTournament_Scripts_Commands_TryShowMagicStreakLeaderboardHomeWelcomingCommand__ExecuteAsync_3cf1e10
+               (undefined8 param_1)
+
+{
+  undefined *puVar1;
+  undefined *puVar2;
+  ulong uVar3;
+  undefined8 uStack_98;
+  undefined8 uStack_90;
+  undefined8 uStack_88;
+  undefined8 uStack_80;
+  undefined8 uStack_78;
+  undefined8 uStack_70;
+  undefined8 uStack_60;
+  undefined8 uStack_58;
+  undefined8 uStack_50;
+  undefined8 uStack_48;
+  undefined8 uStack_40;
+  undefined8 uStack_38;
+  
+  puVar2 = PTR_DAT_0576e800;
+  if ((bRam0000000005c37139 & 1) == 0) {
+    FUN_012d0dc8(PTR_DAT_05761000);
+    FUN_012d0dc8(PTR_DAT_0576e800);
+    bRam0000000005c37139 = 1;
+  }
+  puVar1 = PTR_DAT_05761000;
+                    /* catch(type#1 @ 054cbd58) { ... } // from try @ 03df1d90 with catch @ 03df1e58
+                        */
+                    /* catch(type#1 @ 054cbd58) { ... } // from try @ 03df1d58 with catch @ 03df1e5c
+                        */
+  uStack_48 = 0;
+  uStack_50 = 0;
+  uStack_38 = 0;
+  uStack_40 = 0;
+  uStack_58 = 0;
+  uStack_60 = 0;
+  if (*(int *)(*(long *)puVar2 + 0xe0) == 0) {
+    thunk_FUN_0130472c();
+  }
+  System_Runtime_CompilerServices_AsyncTaskMethodBuilder__Create_2445820(&uStack_98,0);
+  uVar3 = (ulong)&uStack_60 | 8;
+  uStack_70 = uStack_88;
+  uStack_78 = uStack_90;
+  uStack_80 = uStack_98;
+  uStack_50 = uStack_90;
+  uStack_58 = uStack_98;
+  uStack_48 = uStack_88;
+  FUN_012d0d74(uVar3,0);
+  uStack_40 = param_1;
+  FUN_012d0d74(&uStack_40,param_1);
+  uStack_60 = CONCAT44(uStack_60._4_4_,0xffffffff);
+  System_Runtime_CompilerServices_AsyncTaskMethodBuilder__Start_TryShowMagicStreakLeaderboardHomeWelcomingCommand__ExecuteAsync_d__6__20cae98
+            (uVar3,&uStack_60,*(undefined8 *)puVar1);
+  System_Runtime_CompilerServices_AsyncTaskMethodBuilder__get_Task_24437f0(uVar3,0);
+                    /* try { // try from 03df1ef4 to 03ef1f1b has its CatchHandler @ 03df1ef4
+                       catch() { ... } // from try @ 03df1ef4 with catch @ 03df1ef4
+                       catch() { ... } // from try @ 03df1f24 with catch @ 03df1ef4
+                       catch() { ... } // from try @ 03df1fd8 with catch @ 03df1ef4
+                       catch() { ... } // from try @ 03df2038 with catch @ 03df1ef4 */
+  return;
+}
+

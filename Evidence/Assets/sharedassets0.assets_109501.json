@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "7138"
+  },
+  "m_Name": "ClockAnimationConfig",
+  "RotationDuration": 5.0,
+  "RotationAxis": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -360.0
+  },
+  "RotationEase": 1
+}

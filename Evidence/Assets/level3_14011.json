@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "3356"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5463"
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "13862"
+  },
+  "_timer": {
+    "m_FileID": 0,
+    "m_PathID": "13752"
+  },
+  "_lobbyButtonVariants": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "1450"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "3158"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "1184"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "4227"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "2340"
+    }
+  ],
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": "1505"
+  },
+  "_variantController": {
+    "m_FileID": 0,
+    "m_PathID": "13527"
+  },
+  "_themeVariants": [
+    {
+      "ThemeTpye": 1,
+      "ThemeVariant": {
+        "m_FileID": 0,
+        "m_PathID": "1258"
+      }
+    },
+    {
+      "ThemeTpye": 2,
+      "ThemeVariant": {
+        "m_FileID": 0,
+        "m_PathID": "4325"
+      }
+    },
+    {
+      "ThemeTpye": 3,
+      "ThemeVariant": {
+        "m_FileID": 0,
+        "m_PathID": "1169"
+      }
+    },
+    {
+      "ThemeTpye": 4,
+      "ThemeVariant": {
+        "m_FileID": 0,
+        "m_PathID": "487"
+      }
+    }
+  ]
+}

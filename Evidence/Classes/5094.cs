@@ -1,0 +1,21 @@
+private struct RewardService.<GiveBulkRewards>d__22 : IAsyncStateMachine // TypeDefIndex: 5094
+{
+	// Fields
+	public int <>1__state; // 0x0
+	public AsyncTaskMethodBuilder <>t__builder; // 0x8
+	public RewardService <>4__this; // 0x20
+	public CurrencyEarnReason currencyEarnReason; // 0x28
+	private TaskAwaiter <>u__1; // 0x30
+
+	// Methods
+
+	// RVA: 0x3CE9BA0 Offset: 0x3CE9BA0 VA: 0x3CE9BA0 Slot: 4
+	private void MoveNext() { }
+
+	[DebuggerHidden]
+	// RVA: 0x3CE9F10 Offset: 0x3CE9F10 VA: 0x3CE9F10 Slot: 5
+	private void SetStateMachine(IAsyncStateMachine stateMachine) { }
+}
+
+// Namespace: 
+[CompilerGenerated]

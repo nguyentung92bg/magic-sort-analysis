@@ -1,0 +1,17 @@
+[
+  {
+    "file": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Magic Sort\\Inputs\\libil2cpp.so",
+    "bytes": 95548936,
+    "sha256": "a1180b4ecc909ca4ec75625f80f2e588b7c6e15109e25339919a628d149391fe"
+  },
+  {
+    "file": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Magic Sort\\Inputs\\global-metadata.dat",
+    "bytes": 20569912,
+    "sha256": "5f87bb81b170ed9230dd2ceb6f6511e620292435f121d47ff1e90c9b74401a9e"
+  },
+  {
+    "file": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Magic Sort\\dump.cs",
+    "bytes": 41742974,
+    "sha256": "42d6fbc1b16fff5c63c6a4e59ee7027b82508125bdaa903fdcd212acb907d8c9"
+  }
+]

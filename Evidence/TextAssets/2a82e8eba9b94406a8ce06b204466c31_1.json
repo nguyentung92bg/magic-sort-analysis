@@ -1,0 +1,610 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 300,
+  "TournamentType": 3,
+  "PreJoinTargetScore": 50,
+  "ChampionsLeagueRewardsByLeague": {
+    "0": [
+      {
+        "CurrencyType": 1,
+        "Amount": 3000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 2000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 1000
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    ],
+    "1": [
+      {
+        "CurrencyType": 1,
+        "Amount": 4000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 3000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 2000
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    ],
+    "2": [
+      {
+        "CurrencyType": 1,
+        "Amount": 5000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 4000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 2500
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    ],
+    "3": [
+      {
+        "CurrencyType": 1,
+        "Amount": 6000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 5000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 3000
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    ],
+    "4": [
+      {
+        "CurrencyType": 1,
+        "Amount": 7500
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 5000
+      },
+      {
+        "CurrencyType": 1,
+        "Amount": 4000
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    ]
+  },
+  "ChampionsLeagueRewardsWithCollectionByLeague": {
+    "0": [
+      {
+        "CurrencyType": 13,
+        "ChestType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 3000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 12,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 2000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 11,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 1000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 4,
+        "Amount": 1
+      }
+    ],
+    "1": [
+      {
+        "CurrencyType": 13,
+        "ChestType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 4000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 12,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 3000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 11,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 2000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 1
+      }
+    ],
+    "2": [
+      {
+        "CurrencyType": 13,
+        "ChestType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 5000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 12,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 4000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 11,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 2500
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 5,
+        "Amount": 2
+      }
+    ],
+    "3": [
+      {
+        "CurrencyType": 13,
+        "ChestType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 6000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 12,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 5000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 11,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 3000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 4
+          }
+        ]
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 1
+      }
+    ],
+    "4": [
+      {
+        "CurrencyType": 13,
+        "ChestType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 7500
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 12,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 5000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 13,
+        "ChestType": 11,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 1,
+            "amount": 4000
+          },
+          {
+            "currencyType": 14,
+            "amount": 1,
+            "CollectionPackType": 5
+          }
+        ]
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      },
+      {
+        "CurrencyType": 6,
+        "Amount": 2
+      }
+    ]
+  }
+}

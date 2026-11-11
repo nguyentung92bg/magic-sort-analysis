@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "1733"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "2066"
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "13410"
+  },
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "12693"
+  },
+  "_streakHatCollectableView": {
+    "m_FileID": 0,
+    "m_PathID": "14077"
+  },
+  "_streakTournamentTimer": {
+    "m_FileID": 0,
+    "m_PathID": "13844"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "14261"
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": "210"
+  }
+}

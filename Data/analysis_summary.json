@@ -1,0 +1,112 @@
+{
+  "levelRecords": 3956,
+  "uniqueLevelIds": 3956,
+  "uniqueFullPayloads": 3956,
+  "configAssets": 77,
+  "groups": {
+    "daily": 399,
+    "v4blockerprod": 255,
+    "v3magicsort": 885,
+    "earlyflow": 580,
+    "getcolor": 196,
+    "v2blockerprod": 1000,
+    "bfm": 158,
+    "v2paywallms": 35,
+    "bfmdlb": 18,
+    "paywallms": 145,
+    "v2iapmagicsort": 45,
+    "iapmagicsort": 150,
+    "v3paywallms": 5,
+    "beko": 3,
+    "v4pwms": 30,
+    "v5pwms": 5,
+    "v5ms": 10,
+    "v3msprod3row": 5,
+    "dlb": 24,
+    "magicsort": 4,
+    "earlyflowdlb": 3,
+    "zurna": 1
+  },
+  "orders": {
+    "LevelsConfigv2": {
+      "count": 219,
+      "difficulty": {
+        "Normal": 177,
+        "Hard": 21,
+        "SuperHard": 21
+      }
+    },
+    "LoopLevelsConfig": {
+      "count": 80,
+      "difficulty": {
+        "Normal": 64,
+        "Hard": 8,
+        "SuperHard": 8
+      }
+    }
+  },
+  "dailyRows": 59,
+  "missingSeeds": [],
+  "specials": {
+    "QuestionMark": {
+      "levels": 3496,
+      "entries": 63440,
+      "example": "daily_daily6_difficulty5-7"
+    },
+    "Plaster": {
+      "levels": 635,
+      "entries": 1890,
+      "example": "v4blockerprod_v4blockerprod321_difficulty3-1"
+    },
+    "Clay": {
+      "levels": 1703,
+      "entries": 3401,
+      "example": "v4blockerprod_v4blockerprod321_difficulty3-1"
+    },
+    "Carpet": {
+      "levels": 145,
+      "entries": 800,
+      "example": "v4blockerprod_v4blockerprod333_difficulty3-11"
+    },
+    "Curtain": {
+      "levels": 1607,
+      "entries": 6752,
+      "example": "v3magicsort_v3magicsort143_difficulty3-1"
+    },
+    "Woodbox": {
+      "levels": 583,
+      "entries": 3297,
+      "example": "earlyflow_earlyflow139_difficulty5-4"
+    },
+    "WoodboxKey": {
+      "levels": 583,
+      "entries": 1259,
+      "example": "earlyflow_earlyflow139_difficulty5-4"
+    },
+    "Tag": {
+      "levels": 340,
+      "entries": 765,
+      "example": "earlyflow_earlyflow139_difficulty5-4"
+    },
+    "Ice": {
+      "levels": 160,
+      "entries": 840,
+      "example": "v2blockerprod_v2blockerprod272_difficulty3-1"
+    },
+    "Bag": {
+      "levels": 136,
+      "entries": 637,
+      "example": "earlyflow_earlyflow94_difficulty5-10"
+    },
+    "Generator": {
+      "levels": 5,
+      "entries": 20,
+      "example": "v4blockerprod_v4blockerprod350_difficulty1-8"
+    }
+  },
+  "duplicates": [],
+  "iapEntries": 234,
+  "iapProducts": 144,
+  "minBottles": 2,
+  "maxBottles": 16
+}

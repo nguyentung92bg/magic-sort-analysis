@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3232"
+  },
+  "m_Name": "BottleShuffleAnimationConfigForGenerator",
+  "_rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -7.0
+  },
+  "_decreaseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.4000000059604645
+  },
+  "_rotationDuration": 0.07000000029802322,
+  "_rotationAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_rotateLoopCount": 5,
+  "_positionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_decreasePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_positionDuration": 0.07000000029802322,
+  "_positionAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_positionLoopCount": 5,
+  "_reduceDurationPerLoop": 0.0,
+  "_waterColorRevealDelay": 0.699999988079071
+}

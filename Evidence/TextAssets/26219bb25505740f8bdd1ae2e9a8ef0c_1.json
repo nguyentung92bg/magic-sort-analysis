@@ -1,0 +1,186 @@
+{
+  "IsEnabled": true,
+  "StoreSpecialBundles": [
+    {
+      "IAPModel": {
+        "ProductId": "sort.starterbundle1",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 0.99
+      },
+      "CoinAmount": 1000,
+      "Rank": 1,
+      "DiscountText": "90% OFF!",
+      "LifeDurationInHours": 1,
+      "ShuffleAmount": 1,
+      "ExtraBottleAmount": 1,
+      "UndoAmount": 1,
+      "HeaderText": "Starter Bundle",
+      "HeaderKey": "ShopBundleStarter",
+      "PictureId": 1
+    }
+  ],
+  "StorePermanentBundles": [
+    {
+      "IAPModel": {
+        "ProductId": "sort.apprenticebundle5",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 4.99
+      },
+      "CoinAmount": 2000,
+      "Rank": 1,
+      "DiscountText": "",
+      "LifeDurationInHours": 3,
+      "ShuffleAmount": 1,
+      "ExtraBottleAmount": 1,
+      "UndoAmount": 1,
+      "HeaderText": "Apprentice Bundle",
+      "HeaderKey": "ShopBundleApprentice",
+      "PictureId": 2,
+      "IsPopular": false,
+      "IsBest": false,
+      "ShouldCloseAds": false
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.magicianbundle10",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 9.99
+      },
+      "CoinAmount": 4000,
+      "Rank": 2,
+      "DiscountText": "",
+      "LifeDurationInHours": 6,
+      "ShuffleAmount": 3,
+      "ExtraBottleAmount": 3,
+      "UndoAmount": 3,
+      "HeaderText": "Magician Bundle",
+      "HeaderKey": "ShopBundleMagician",
+      "PictureId": 3,
+      "IsPopular": false,
+      "IsBest": false,
+      "ShouldCloseAds": false
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.sorcererbundle20",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 19.99
+      },
+      "CoinAmount": 8000,
+      "Rank": 3,
+      "DiscountText": "",
+      "LifeDurationInHours": 12,
+      "ShuffleAmount": 8,
+      "ExtraBottleAmount": 8,
+      "UndoAmount": 8,
+      "HeaderText": "Sorcerer Bundle",
+      "HeaderKey": "ShopBundleSorcerer",
+      "PictureId": 4,
+      "IsPopular": true,
+      "IsBest": false,
+      "ShouldCloseAds": true
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.magebundle50",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 49.99
+      },
+      "CoinAmount": 20000,
+      "Rank": 4,
+      "DiscountText": "",
+      "LifeDurationInHours": 36,
+      "ShuffleAmount": 18,
+      "ExtraBottleAmount": 18,
+      "UndoAmount": 18,
+      "HeaderText": "Mage Bundle",
+      "HeaderKey": "ShopBundleMage",
+      "PictureId": 5,
+      "IsPopular": false,
+      "IsBest": false,
+      "ShouldCloseAds": true
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.wizardbundle100",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 99.99
+      },
+      "CoinAmount": 60000,
+      "Rank": 5,
+      "DiscountText": "",
+      "LifeDurationInHours": 72,
+      "ShuffleAmount": 36,
+      "ExtraBottleAmount": 36,
+      "UndoAmount": 36,
+      "HeaderText": "Wizard Bundle",
+      "HeaderKey": "ShopBundleWizard",
+      "PictureId": 6,
+      "IsPopular": false,
+      "IsBest": true,
+      "ShouldCloseAds": true
+    }
+  ],
+  "StoreBundles": [
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins2",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 1.99
+      },
+      "CoinAmount": 1000,
+      "Rank": 1,
+      "PictureId": 0
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins8",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 7.99
+      },
+      "CoinAmount": 5000,
+      "Rank": 2,
+      "PictureId": 1
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins15",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 14.99
+      },
+      "CoinAmount": 10000,
+      "Rank": 3,
+      "PictureId": 2
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins30",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 29.99
+      },
+      "CoinAmount": 25000,
+      "Rank": 4,
+      "PictureId": 3
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins55",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 54.99
+      },
+      "CoinAmount": 50000,
+      "Rank": 5,
+      "PictureId": 4
+    },
+    {
+      "IAPModel": {
+        "ProductId": "sort.coins100",
+        "ProductType": "Consumable",
+        "DollarEquivalent": 99.99
+      },
+      "CoinAmount": 100000,
+      "Rank": 6,
+      "PictureId": 5
+    }
+  ]
+}

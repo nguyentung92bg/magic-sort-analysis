@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5600"
+  },
+  "m_Name": "WofCurrencyAnimationConfig",
+  "_totalAnimationDuration": 0.6499999761581421,
+  "_APoint": {
+    "x": 1.5,
+    "y": -2.0,
+    "z": 0.0
+  },
+  "_BPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_CPoint": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_DPoint": {
+    "x": 3.299999952316284,
+    "y": -0.8500000238418579,
+    "z": 0.0
+  },
+  "_middleOffset": {
+    "x": 1.8600000143051147,
+    "y": -3.2899999618530273,
+    "z": 0.0
+  },
+  "_animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.001407623291015625,
+        "value": -0.0012054443359375,
+        "inSlope": 0.2824978232383728,
+        "outSlope": 0.2824978232383728,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03715798631310463
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_spawnPoint": {
+    "x": 0.0,
+    "y": -1.7999999523162842,
+    "z": 0.0
+  },
+  "_randomSpawnDistance": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "_useTriangularWaveForSpawn": 1,
+  "_flipAnimationSpeed": {
+    "Max": 1.0,
+    "Min": 1.0
+  },
+  "_delayBetweenRewards": {
+    "Max": 0.05000000074505806,
+    "Min": 0.05000000074505806
+  },
+  "_fadeDuration": 0.10000000149011612,
+  "_spawnScaleDuration": 0.0,
+  "_spawnScaleAnimationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0,
+        "outSlope": 1.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_seed": 4,
+  "_requiredAmoutForEachCoin": 30,
+  "_minCoinCount": 5,
+  "_maxCoinCount": 10
+}

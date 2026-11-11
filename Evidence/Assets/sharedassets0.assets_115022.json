@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "6659"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4987"
+  },
+  "m_Name": "",
+  "_swipeController": {
+    "m_FileID": 0,
+    "m_PathID": "116142"
+  },
+  "_progressBarView": {
+    "m_FileID": 0,
+    "m_PathID": "121412"
+  },
+  "_timer": {
+    "m_FileID": 0,
+    "m_PathID": "118356"
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": "110784"
+  },
+  "_activateButton": {
+    "m_FileID": 0,
+    "m_PathID": "121191"
+  },
+  "_activateButtonParent": {
+    "m_FileID": 0,
+    "m_PathID": "45763"
+  },
+  "_activatedButtonParent": {
+    "m_FileID": 0,
+    "m_PathID": "70102"
+  },
+  "_inputBlocker": {
+    "m_FileID": 0,
+    "m_PathID": "50565"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109384"
+  }
+}

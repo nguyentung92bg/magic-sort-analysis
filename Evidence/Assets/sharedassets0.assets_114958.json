@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "39153"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6335"
+  },
+  "m_Name": "",
+  "_rewardCount": 2,
+  "_rewardTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "66923"
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": "67595"
+    }
+  ]
+}

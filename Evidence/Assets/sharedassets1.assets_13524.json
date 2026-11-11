@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1003"
+  },
+  "m_Name": "DefaultEclipseAnimation",
+  "_speed": 0.0,
+  "_transitionStartDuration": 0.0,
+  "_transitionEndEndDuration": 0.0,
+  "_transitionEndDurationDecreased": 0.0,
+  "_aboveWaveLength": 1.0,
+  "_aboveWaveHeightStart": 0.0,
+  "_aboveWaveHeightEnd": 0.0,
+  "_aboveWaveDirectionX": 0.009999999776482582,
+  "_aboveWaveDirectionY": 0.009999999776482582,
+  "_belowWaveLength": 1.0,
+  "_belowWaveHeightStart": 0.0,
+  "_belowWaveHeightEnd": 0.0,
+  "_belowWaveDirectionX": 0.009999999776482582,
+  "_belowWaveDirectionY": 0.009999999776482582,
+  "_belowWaveCustomTime": 0.0,
+  "_belowAditionalWaveHeight": 0.0,
+  "_customFirstHalfDuration": 0.0,
+  "_customSecondHalfDuration": 0.0
+}

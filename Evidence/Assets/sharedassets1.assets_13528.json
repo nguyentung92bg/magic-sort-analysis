@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3679"
+  },
+  "m_Name": "FireworkAnimationConfig",
+  "HideTime": 3.0,
+  "LaunchDelayBetweenFireworks": 0.0,
+  "BaseDestroyTime": 1.0609999895095825,
+  "FireworkLaunchTime": 0.8999999761581421,
+  "FireworkDurationNoise": 0.10000000149011612,
+  "HitTimeOffSet": 0.0,
+  "FireworkScaleUpTime": 0.30000001192092896,
+  "FireworkScaleUpVal": {
+    "x": 1.2999999523162842,
+    "y": 1.2999999523162842,
+    "z": 1.2999999523162842
+  },
+  "FireworkScaleUpDuration": 0.800000011920929,
+  "FireworkScaleUpCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "FireworkScaleDownTime": 0.0,
+  "FireworkScaleDownVal": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "FireworkScaleDownDuration": 0.0,
+  "FireworkScaleDownCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.016019264236092567,
+        "outSlope": 0.016019264236092567,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.26307380199432373
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.6072193384170532,
+        "outSlope": 1.6072193384170532,
+        "weightedMode": 3,
+        "inWeight": 0.5432794094085693,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "MoveToTargetBaseDuration": 1.100000023841858,
+  "MoveToTargetCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.016019264236092567,
+        "outSlope": 0.016019264236092567,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.26307380199432373
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.700493335723877,
+        "outSlope": 1.700493335723877,
+        "weightedMode": 3,
+        "inWeight": 0.5171448588371277,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 0
+  },
+  "FirebaseReversedHideTime": 0.0,
+  "LaunchFactor": 0.5,
+  "MinLaunchLength": 3.0,
+  "MaxLaunchLength": 6.0,
+  "ApproachFactor": 0.3499999940395355,
+  "MinApproachLength": 3.0,
+  "MaxApproachLength": 6.0,
+  "ArcHeight": 8.0,
+  "ArcHeightRandomness": {
+    "Max": 2.0,
+    "Min": 0.0
+  },
+  "MaxTurnDegreesPerSecond": 540.0,
+  "NarrowArcHorizontalThreshold": 3.0,
+  "NarrowArcShiftAmount": 9.0,
+  "FireworkTrailDisableTime": 0.15000000596046448
+}

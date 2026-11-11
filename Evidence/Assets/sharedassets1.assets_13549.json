@@ -1,0 +1,251 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5308"
+  },
+  "m_Name": "PillowViewAnimationConfig",
+  "<EnterAnimationStartRotation>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -25.0
+  },
+  "<EnterAnimationEndRotation>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<EnterAnimationRotationDuration>k__BackingField": 0.699999988079071,
+  "<EnterAnimationRotationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.6948599219322205,
+        "value": 1.1277543306350708,
+        "inSlope": -2.0948984622955322,
+        "outSlope": -2.0948984622955322,
+        "weightedMode": 0,
+        "inWeight": 0.10504293441772461,
+        "outWeight": 0.09751186519861221
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.1951722651720047,
+        "outSlope": 0.1951722651720047,
+        "weightedMode": 0,
+        "inWeight": 0.16019374132156372,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<EnterAnimationDuration>k__BackingField": 0.699999988079071,
+  "<EnterAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 3.2427005767822266,
+        "outSlope": 3.2427005767822266,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.01739850826561451
+      },
+      {
+        "time": 0.7249332070350647,
+        "value": 1.0146654844284058,
+        "inSlope": -0.1646779626607895,
+        "outSlope": -0.1646779626607895,
+        "weightedMode": 0,
+        "inWeight": 0.05175565928220749,
+        "outWeight": 0.21802997589111328
+      },
+      {
+        "time": 1.0008544921875,
+        "value": 1.0,
+        "inSlope": 0.04793902114033699,
+        "outSlope": 0.04793902114033699,
+        "weightedMode": 0,
+        "inWeight": 0.129807710647583,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<LeaveAnimationDuration>k__BackingField": 0.5,
+  "<LeaveAnimationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.45083269476890564,
+        "outSlope": -0.45083269476890564,
+        "weightedMode": 3,
+        "inWeight": 0.0,
+        "outWeight": 0.49295774102211
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.2073726654052734,
+        "outSlope": 1.2073726654052734,
+        "weightedMode": 0,
+        "inWeight": 0.04753708839416504,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<LeaveAnimationEndRotation>k__BackingField": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -22.0
+  },
+  "<LeaveAnimationRotationDuration>k__BackingField": 0.699999988079071,
+  "<LeaveAnimationRotationCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.7603304386138916,
+        "value": 1.1193571090698242,
+        "inSlope": -1.5475099086761475,
+        "outSlope": -1.5475099086761475,
+        "weightedMode": 0,
+        "inWeight": 0.10504293441772461,
+        "outWeight": 0.1598455309867859
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 1.0443072319030762,
+        "outSlope": 1.0443072319030762,
+        "weightedMode": 0,
+        "inWeight": 0.18709316849708557,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<BottleJumpTime>k__BackingField": 0.699999988079071,
+  "<PillowMoveOutTime>k__BackingField": 1.5,
+  "<CloseFirstTrailParticleTime>k__BackingField": 0.550000011920929,
+  "<BottleRow3PillowCenterPosition>k__BackingField": {
+    "x": 0.0,
+    "y": -7.5,
+    "z": 0.0
+  },
+  "<BottleRow3PillowOffset>k__BackingField": {
+    "x": 20.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "<PillowPositionValues>k__BackingField": [
+    {
+      "<HighestBottleCountInRow>k__BackingField": 3,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -2.200000047683716,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<HighestBottleCountInRow>k__BackingField": 4,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -2.25,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<HighestBottleCountInRow>k__BackingField": 5,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -2.299999952316284,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<HighestBottleCountInRow>k__BackingField": 6,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -2.4000000953674316,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<HighestBottleCountInRow>k__BackingField": 7,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -2.9000000953674316,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "<HighestBottleCountInRow>k__BackingField": 8,
+      "<PillowCenterPosition>k__BackingField": {
+        "x": 0.0,
+        "y": -3.200000047683716,
+        "z": 0.0
+      },
+      "<PillowOffset>k__BackingField": {
+        "x": 20.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

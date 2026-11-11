@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "507"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "3320"
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": "1869"
+  },
+  "_innerSprite": {
+    "m_FileID": 0,
+    "m_PathID": "2237"
+  },
+  "_outerSprite": {
+    "m_FileID": 0,
+    "m_PathID": "2204"
+  },
+  "_selectedSprite": {
+    "m_FileID": 18,
+    "m_PathID": "4327"
+  },
+  "_emptySprite": {
+    "m_FileID": 18,
+    "m_PathID": "1526"
+  }
+}

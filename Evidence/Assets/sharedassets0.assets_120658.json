@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "6661"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "1589"
+  },
+  "m_Name": "",
+  "_rewardCollectBackground": {
+    "m_FileID": 0,
+    "m_PathID": "93310"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109295"
+  },
+  "_rewardsCollectDuration": 0.4000000059604645,
+  "_rewardsCollectPosition": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 0.0
+  },
+  "_rewardMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.9809172749519348,
+        "outSlope": -0.9809172749519348,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.06835079938173294
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 3.8791282176971436,
+        "outSlope": 3.8791282176971436,
+        "weightedMode": 1,
+        "inWeight": 0.25351178646087646,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_rewardScaleDuration": 0.25,
+  "_rewardScaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

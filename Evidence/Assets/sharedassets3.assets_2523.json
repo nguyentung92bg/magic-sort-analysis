@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5751"
+  },
+  "m_Name": "WheelOfFortuneLobbyButtonAnimationConfig",
+  "_progressAnimationDelay": 0.10000000149011612,
+  "_progressAnimationDuration": 0.10000000149011612,
+  "_spinAlertAnimationDelay": 0.5,
+  "_progressViewFadeOutAnimationDuration": 0.10000000149011612,
+  "_spinAlertFadeInAnimationDuration": 0.20000000298023224
+}

@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "25439"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "5704"
+  },
+  "m_Name": "",
+  "_startTransform": {
+    "m_FileID": 0,
+    "m_PathID": "68168"
+  },
+  "_endTransform": {
+    "m_FileID": 0,
+    "m_PathID": "65536"
+  },
+  "_greenBar": {
+    "m_FileID": 0,
+    "m_PathID": "100645"
+  },
+  "_progressText": {
+    "m_FileID": 0,
+    "m_PathID": "112270"
+  },
+  "_stepText": {
+    "m_FileID": 0,
+    "m_PathID": "121828"
+  },
+  "_stepIconsParent": {
+    "m_FileID": 0,
+    "m_PathID": "51828"
+  },
+  "_stepIcon": {
+    "m_FileID": 0,
+    "m_PathID": "65536"
+  },
+  "_coinIcon": {
+    "m_FileID": 0,
+    "m_PathID": "67804"
+  },
+  "_coinText": {
+    "m_FileID": 0,
+    "m_PathID": "113483"
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": "121320"
+  },
+  "_animationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109384"
+  },
+  "_stepCompleteParticle": {
+    "m_FileID": 0,
+    "m_PathID": "79599"
+  },
+  "_starIconTransform": {
+    "m_FileID": 0,
+    "m_PathID": "54005"
+  },
+  "_lockHitParticle": {
+    "m_FileID": 0,
+    "m_PathID": "80391"
+  },
+  "_lockHitTransform": {
+    "m_FileID": 0,
+    "m_PathID": "45126"
+  },
+  "_vaultHitTransform": {
+    "m_FileID": 0,
+    "m_PathID": "63953"
+  },
+  "_vaultHitParticle": {
+    "m_FileID": 0,
+    "m_PathID": "77925"
+  },
+  "_completedText": {
+    "m_FileID": 0,
+    "m_PathID": "122444"
+  }
+}

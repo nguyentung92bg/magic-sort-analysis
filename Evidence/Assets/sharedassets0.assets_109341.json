@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "791"
+  },
+  "m_Name": "DifficultySpriteConfig",
+  "DefaultStuckAreYouSureBackground": {
+    "m_FileID": 0,
+    "m_PathID": "5627"
+  },
+  "DefaultBackground": {
+    "m_FileID": 0,
+    "m_PathID": "5980"
+  },
+  "DefaultHeaderBackground": {
+    "m_FileID": 0,
+    "m_PathID": "2296"
+  },
+  "DefaultPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "5851"
+  },
+  "DefaultPlayButtonFrame": {
+    "m_FileID": 0,
+    "m_PathID": "4942"
+  },
+  "_defaultTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": "5257"
+  },
+  "_defaultPlatform": {
+    "m_FileID": 0,
+    "m_PathID": "3185"
+  },
+  "_defaultShine": {
+    "m_FileID": 0,
+    "m_PathID": "5376"
+  },
+  "_defaultShadow": {
+    "m_FileID": 0,
+    "m_PathID": "3307"
+  },
+  "_defaultTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "165"
+  },
+  "_defaultHeaderTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "166"
+  },
+  "_defaultPlayButtonTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "128"
+  },
+  "HardStuckAreYouSureBackground": {
+    "m_FileID": 0,
+    "m_PathID": "2852"
+  },
+  "HardBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4394"
+  },
+  "HardHeaderBackground": {
+    "m_FileID": 0,
+    "m_PathID": "2646"
+  },
+  "HardPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "5438"
+  },
+  "HardPlayButtonFrame": {
+    "m_FileID": 0,
+    "m_PathID": "5033"
+  },
+  "_hardTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": "6126"
+  },
+  "_hardPlatform": {
+    "m_FileID": 0,
+    "m_PathID": "3503"
+  },
+  "_hardShine": {
+    "m_FileID": 0,
+    "m_PathID": "5780"
+  },
+  "_hardShadow": {
+    "m_FileID": 0,
+    "m_PathID": "4124"
+  },
+  "_hardTag": {
+    "m_FileID": 0,
+    "m_PathID": "3477"
+  },
+  "_hardTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "169"
+  },
+  "_hardHeaderTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "170"
+  },
+  "_hardPlayButtonTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "134"
+  },
+  "SuperHardStuckAreYouSureBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4837"
+  },
+  "SuperHardBackground": {
+    "m_FileID": 0,
+    "m_PathID": "2105"
+  },
+  "SuperHardHeaderBackground": {
+    "m_FileID": 0,
+    "m_PathID": "4808"
+  },
+  "SuperHardPlayButton": {
+    "m_FileID": 0,
+    "m_PathID": "4330"
+  },
+  "SuperHardPlayButtonFrame": {
+    "m_FileID": 0,
+    "m_PathID": "1707"
+  },
+  "_superHardTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": "1552"
+  },
+  "_superHardPlatform": {
+    "m_FileID": 0,
+    "m_PathID": "3730"
+  },
+  "_superHardShine": {
+    "m_FileID": 0,
+    "m_PathID": "1860"
+  },
+  "_superHardShadow": {
+    "m_FileID": 0,
+    "m_PathID": "5262"
+  },
+  "_superHardTag": {
+    "m_FileID": 0,
+    "m_PathID": "5137"
+  },
+  "_superHardTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "172"
+  },
+  "_superHardHeaderTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "173"
+  },
+  "_superHardPlayButtonTextMaterial": {
+    "m_FileID": 0,
+    "m_PathID": "137"
+  }
+}

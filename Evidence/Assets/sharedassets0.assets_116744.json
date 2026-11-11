@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "12612"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "4949"
+  },
+  "m_Name": "",
+  "_currencyAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109293"
+  },
+  "_currencyRevealAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109298"
+  },
+  "_bulkCurrencyAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109294"
+  },
+  "_amountText": {
+    "m_FileID": 0,
+    "m_PathID": "120162"
+  },
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_loopingAnimationKey": "",
+  "_spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "99113"
+  },
+  "_otherSpriteRenderers": [],
+  "_revealParticle": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_bulkRewardRevealParticle": {
+    "m_FileID": 0,
+    "m_PathID": "77384"
+  },
+  "_banner": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_revealAnimationView": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_checkMark": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_shineView": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_profileSpriteConfig": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_packVisuals": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_packAnimationHandler": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_toolbarButton": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_cardCountText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_cardCountIcon": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_newCardIcon": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_cardCountBgSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_newCardIconSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_newCardText": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "_id": 19
+}

@@ -1,0 +1,128 @@
+{
+  "IsEnabled": false,
+  "FirstLevelToShow": 50,
+  "EventType": 1,
+  "ShouldShowInLevelIcon": true,
+  "Steps": [
+    {
+      "Step": 0
+    },
+    {
+      "Step": 3,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 30
+          }
+        ]
+      }
+    },
+    {
+      "Step": 6,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "00:15:00"
+          }
+        ]
+      }
+    },
+    {
+      "Step": 11,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 300
+          }
+        ]
+      }
+    },
+    {
+      "Step": 16,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "Step": 22,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "Step": 30,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 1000
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          }
+        ]
+      }
+    },
+    {
+      "Step": 40,
+      "RewardModel": {
+        "CurrencyType": 13,
+        "Amount": 1,
+        "Rewards": [
+          {
+            "CurrencyType": 1,
+            "Amount": 2000
+          },
+          {
+            "CurrencyType": 6,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 4,
+            "Amount": 1
+          },
+          {
+            "CurrencyType": 5,
+            "Amount": 1
+          },
+          {
+            "currencyType": 2,
+            "amount": 0,
+            "timeSpan": "02:00:00"
+          }
+        ]
+      }
+    }
+  ]
+}

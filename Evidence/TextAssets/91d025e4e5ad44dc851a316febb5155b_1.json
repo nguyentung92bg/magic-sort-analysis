@@ -1,0 +1,100 @@
+{
+  "IsEnabled": false,
+  "EventType": 6,
+  "MagicLabEventType": 19,
+  "FirstLevelToShow": 80,
+  "StreakDisabled": true,
+  "LastStageWinLimit": 100,
+  "Stage1RewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:15:00"
+    }
+  ],
+  "Stage2RewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 250
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:30:00"
+    }
+  ],
+  "Stage3RewardModels": [
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    },
+    {
+      "CurrencyType": 5,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:45:00"
+    }
+  ],
+  "Stage1RewardModelsWithCollection": [
+    {
+      "currencyType": 14,
+      "amount": 1,
+      "CollectionPackType": 1
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 100
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:15:00"
+    }
+  ],
+  "Stage2RewardModelsWithCollection": [
+    {
+      "currencyType": 14,
+      "amount": 1,
+      "CollectionPackType": 2
+    },
+    {
+      "CurrencyType": 1,
+      "Amount": 250
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:30:00"
+    }
+  ],
+  "Stage3RewardModelsWithCollection": [
+    {
+      "CurrencyType": 1,
+      "Amount": 500
+    },
+    {
+      "CurrencyType": 5,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 4,
+      "Amount": 1
+    },
+    {
+      "CurrencyType": 2,
+      "Amount": 0,
+      "timeSpan": "00:45:00"
+    }
+  ]
+}

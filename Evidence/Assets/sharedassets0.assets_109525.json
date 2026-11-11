@@ -1,0 +1,126 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "0"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6439"
+  },
+  "m_Name": "TextSequenceAnimationConfigV2",
+  "<ScaleDuration>k__BackingField": 0.30000001192092896,
+  "<DelayBetweenLetters>k__BackingField": 0.02500000037252903,
+  "<DelayBetweenLettersCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<LetterStartScale>k__BackingField": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.5
+  },
+  "<TargetScale>k__BackingField": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "<ScaleCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.00238037109375,
+        "inSlope": 9.105046272277832,
+        "outSlope": 9.105046272277832,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03774455562233925
+      },
+      {
+        "time": 0.35120314359664917,
+        "value": 2.5,
+        "inSlope": 0.03440825641155243,
+        "outSlope": 0.03440825641155243,
+        "weightedMode": 0,
+        "inWeight": 0.18746192753314972,
+        "outWeight": 0.14065194129943848
+      },
+      {
+        "time": 0.7956316471099854,
+        "value": 0.8549565076828003,
+        "inSlope": -0.005344866309314966,
+        "outSlope": -0.005344866309314966,
+        "weightedMode": 0,
+        "inWeight": 0.10937260836362839,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.08118277043104172,
+        "outSlope": 0.08118277043104172,
+        "weightedMode": 0,
+        "inWeight": 0.12618495523929596,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "<MoveCurve>k__BackingField": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 2.5967495441436768,
+        "outSlope": 2.5967495441436768,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03538285568356514
+      },
+      {
+        "time": 0.3368872106075287,
+        "value": 0.4000000059604645,
+        "inSlope": -0.020262673497200012,
+        "outSlope": -0.020262673497200012,
+        "weightedMode": 0,
+        "inWeight": 0.18890005350112915,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.75,
+        "value": 0.0,
+        "inSlope": -2.1031508445739746,
+        "outSlope": -2.1031508445739746,
+        "weightedMode": 0,
+        "inWeight": 0.0428890585899353,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "10739"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6055"
+  },
+  "m_Name": "",
+  "_rankText": {
+    "m_FileID": 0,
+    "m_PathID": "122901"
+  },
+  "_scoreText": {
+    "m_FileID": 0,
+    "m_PathID": "115818"
+  },
+  "_myPlayerBackground": {
+    "m_FileID": 0,
+    "m_PathID": "37435"
+  },
+  "_otherPlayerBackground": {
+    "m_FileID": 0,
+    "m_PathID": "29392"
+  },
+  "_myPlayerTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": "39213"
+  },
+  "_otherPlayerTextBackground": {
+    "m_FileID": 0,
+    "m_PathID": "37104"
+  },
+  "_rewardView": {
+    "m_FileID": 0,
+    "m_PathID": "110094"
+  },
+  "_rankImageSelector": {
+    "MyRankImage": {
+      "m_FileID": 0,
+      "m_PathID": "6983"
+    },
+    "OtherPlayerRankImage": {
+      "m_FileID": 0,
+      "m_PathID": "18882"
+    },
+    "FirstPlayerRankImage": {
+      "m_FileID": 0,
+      "m_PathID": "15590"
+    },
+    "SecondPlayerRankImage": {
+      "m_FileID": 0,
+      "m_PathID": "29255"
+    },
+    "ThirdPlayerRankImage": {
+      "m_FileID": 0,
+      "m_PathID": "15404"
+    }
+  },
+  "_profileImageView": {
+    "m_FileID": 0,
+    "m_PathID": "115426"
+  },
+  "_userProfileView": {
+    "m_FileID": 0,
+    "m_PathID": "121824"
+  }
+}

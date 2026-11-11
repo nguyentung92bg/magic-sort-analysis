@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "15373"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "6817"
+  },
+  "m_Name": "",
+  "_shineRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": "96146"
+    }
+  ],
+  "_currencyShineAnimationConfig": {
+    "m_FileID": 0,
+    "m_PathID": "109299"
+  },
+  "_idleShinePosition": 0.0
+}

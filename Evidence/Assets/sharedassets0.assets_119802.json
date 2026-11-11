@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": "12131"
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": "686"
+  },
+  "m_Name": "",
+  "_oneReward": {
+    "m_FileID": 0,
+    "m_PathID": "13663"
+  },
+  "_twoRewards": {
+    "m_FileID": 0,
+    "m_PathID": "19352"
+  },
+  "_soloCoinText": {
+    "m_FileID": 0,
+    "m_PathID": "109937"
+  },
+  "_coinWithCauldronText": {
+    "m_FileID": 0,
+    "m_PathID": "118741"
+  }
+}
